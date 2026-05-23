@@ -1,0 +1,19 @@
+# CodeBuddy/Claw 项目依赖
+
+# HTTP 请求
+requests>=2.31.0
+
+# 数据处理
+dataclasses>=0.6
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 定时任务（可选）
+schedule>=1.2.0
+
+# 邮件发送（可选）
+yagmail>=0.15.0
+
+# Webhook 通知（可选）
+httpx>=0.25.0

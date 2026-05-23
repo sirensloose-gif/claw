@@ -1,0 +1,116 @@
+name: Daily Push Automation
+
+on:
+  schedule:
+    # 每天早上8点运行周易推送（UTC时间0点，北京时间8点）
+    - cron: '0 0 * * *'
+    # 每天早上9点运行古诗推送（UTC时间1点，北京时间9点）
+    - cron: '0 1 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+env:
+  MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+  MIMO_API_BASE: ${{ secrets.MIMO_API_BASE || 'https://api.mimo.com/v1' }}
+  PUSH_METHOD: ${{ secrets.PUSH_METHOD || 'console' }}
+  WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+  EMAIL_TO: ${{ secrets.EMAIL_TO }}
+
+jobs:
+  push-zhouyi:
+    name: 周易推送
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run Zhouyi push
+      run: |
+        python -c "
+        from automation import automation_manager
+        result = automation_manager.run_task('每日周易推送')
+        if result:
+            print('周易推送完成')
+        else:
+            print('周易推送失败')
+            exit(1)
+        "
+    
+    - name: Upload data artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: zhouyi-data
+        path: data/zhouyi_progress.json
+        retention-days: 30
+
+  push-poetry:
+    name: 古诗推送
+    runs-on: ubuntu-latest
+    if: github.event.schedule == '0 1 * * *' || github.event_name == 'workflow_dispatch'
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run Poetry push
+      run: |
+        python -c "
+        from automation import automation_manager
+        result = automation_manager.run_task('每日古诗谚语推送')
+        if result:
+            print('古诗推送完成')
+        else:
+            print('古诗推送失败')
+            exit(1)
+        "
+    
+    - name: Upload data artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: poetry-data
+        path: data/poetry_progress.json
+        retention-days: 30
+
+  notify:
+    name: 发送通知
+    runs-on: ubuntu-latest
+    needs: [push-zhouyi, push-poetry]
+    if: always()
+    
+    steps:
+    - name: Send notification
+      if: env.WEBHOOK_URL != ''
+      run: |
+        curl -X POST "${{ env.WEBHOOK_URL }}" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "text": "每日推送任务完成\n周易推送: ${{ needs.push-zhouyi.result }}\n古诗推送: ${{ needs.poetry.result }}"
+          }'
+      
+    - name: Console notification
+      run: |
+        echo "=== 每日推送任务完成 ==="
+        echo "周易推送: ${{ needs.push-zhouyi.result }}"
+        echo "古诗推送: ${{ needs.poetry.result }}"
+        echo "========================"
