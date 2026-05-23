@@ -5,13 +5,17 @@
 import os
 from dataclasses import dataclass
 from typing import Optional
+from dotenv import load_dotenv
+
+# 加载 .env 文件
+load_dotenv()
 
 @dataclass
 class Config:
     """应用配置"""
     
-    # MiMo API 配置
-    mimo_api_base: str = os.getenv("MIMO_API_BASE", "https://api.mimo.com/v1")
+    # MiMo API 配置 (Token Plan)
+    mimo_api_base: str = os.getenv("MIMO_API_BASE", "https://token-plan-cn.xiaomimimo.com/v1")
     mimo_api_key: str = os.getenv("MIMO_API_KEY", "")
     
     # 自动化任务配置

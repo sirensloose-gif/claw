@@ -91,9 +91,9 @@ class ZhouyiPushTask(AutomationTask):
         try:
             response = self.client.chat(
                 messages=[{"role": "user", "content": prompt}],
-                model="mimo-v1",
+                model="mimo-v2.5-pro",
                 temperature=0.7,
-                max_tokens=2000
+                max_completion_tokens=2000
             )
             
             if "error" in response:
@@ -169,9 +169,9 @@ class PoetryPushTask(AutomationTask):
         try:
             response = self.client.chat(
                 messages=[{"role": "user", "content": prompt}],
-                model="mimo-v1",
+                model="mimo-v2.5-pro",
                 temperature=0.7,
-                max_tokens=2000
+                max_completion_tokens=2000
             )
             
             if "error" in response:

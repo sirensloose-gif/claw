@@ -10,7 +10,7 @@ on:
 
 env:
   MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
-  MIMO_API_BASE: ${{ secrets.MIMO_API_BASE || 'https://api.mimo.com/v1' }}
+  MIMO_API_BASE: ${{ secrets.MIMO_API_BASE || 'https://token-plan-cn.xiaomimimo.com/v1' }}
   PUSH_METHOD: ${{ secrets.PUSH_METHOD || 'console' }}
   WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
   EMAIL_TO: ${{ secrets.EMAIL_TO }}

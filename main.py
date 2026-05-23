@@ -11,7 +11,7 @@ from datetime import datetime
 from typing import Dict, List, Optional
 
 # 配置
-MIMO_API_BASE = os.getenv("MIMO_API_BASE", "https://api.mimo.com/v1")
+MIMO_API_BASE = os.getenv("MIMO_API_BASE", "https://token-plan-cn.xiaomimimo.com/v1")
 MIMO_API_KEY = os.getenv("MIMO_API_KEY", "")
 
 class MiMoClient:
@@ -21,11 +21,11 @@ class MiMoClient:
         self.api_key = api_key
         self.base_url = MIMO_API_BASE
         self.headers = {
-            "Authorization": f"Bearer {api_key}",
+            "api-key": api_key,
             "Content-Type": "application/json"
         }
     
-    def chat(self, messages: List[Dict], model: str = "mimo-v1", **kwargs) -> Dict:
+    def chat(self, messages: List[Dict], model: str = "mimo-v2.5-pro", **kwargs) -> Dict:
         """发送聊天请求"""
         endpoint = f"{self.base_url}/chat/completions"
         payload = {
@@ -60,9 +60,9 @@ class ClawAgent:
         # 调用 API
         response = self.client.chat(
             messages=self.conversation_history,
-            model="mimo-v1",
+            model="mimo-v2.5-pro",
             temperature=0.7,
-            max_tokens=1000
+            max_completion_tokens=1000
         )
         
         if "error" in response:
