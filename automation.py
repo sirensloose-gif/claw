@@ -229,6 +229,99 @@ class PoetryPushTask(AutomationTask):
         except Exception as e:
             return f"运行失败: {e}"
 
+class CET6VocabularyTask(AutomationTask):
+    """六级词汇推送任务"""
+    
+    def __init__(self):
+        super().__init__(
+            name="每日六级词汇推送",
+            description="每天推送10-15个六级词汇，包含音标和释义",
+            schedule="每天 7:30"
+        )
+        self.client = MiMoClient()
+        self.data_file = os.path.join(config.data_dir, "cet6_vocab_progress.json")
+        self.load_progress()
+    
+    def load_progress(self):
+        """加载进度"""
+        try:
+            if os.path.exists(self.data_file):
+                with open(self.data_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    self.current_day = data.get("current_day", 1)
+            else:
+                self.current_day = 1
+        except Exception:
+            self.current_day = 1
+    
+    def save_progress(self):
+        """保存进度"""
+        os.makedirs(os.path.dirname(self.data_file), exist_ok=True)
+        with open(self.data_file, 'w', encoding='utf-8') as f:
+            json.dump({"current_day": self.current_day}, f)
+    
+    def run(self):
+        """运行六级词汇推送"""
+        if not config.validate():
+            return "配置验证失败"
+        
+        prompt = f"""
+请生成今天的六级词汇学习内容（第{self.current_day}天），包含10-15个六级高频词汇。
+
+要求：
+1. 每个词汇包含：
+   - 单词
+   - 音标（美式发音）
+   - 词性
+   - 中文释义
+   - 例句（英文+中文翻译）
+   - 记忆技巧（词根词缀或联想记忆）
+
+2. 格式要求：
+   - 使用 Markdown 格式
+   - 每个词汇清晰分隔
+   - 音标使用国际音标
+
+3. 内容要求：
+   - 选择六级考试高频词汇
+   - 涵盖不同词性（名词、动词、形容词、副词）
+   - 难度适中，适合六级备考
+
+请生成今天的词汇内容。
+"""
+        
+        try:
+            response = self.client.chat(
+                messages=[{"role": "user", "content": prompt}],
+                model="mimo-v2.5-pro",
+                temperature=0.7,
+                max_completion_tokens=3000
+            )
+            
+            if "error" in response:
+                return f"生成内容失败: {response['error']}"
+            
+            content = response.get("choices", [{}])[0].get("message", {}).get("content", "")
+            
+            # 更新进度
+            self.current_day += 1
+            self.save_progress()
+            
+            # 根据推送方式处理
+            title = f"每日六级词汇 - 第{self.current_day - 1}天"
+            
+            if config.push_method == "console":
+                print(f"\n=== {title} ===")
+                print(content)
+                print("=" * 30)
+            elif config.push_method == "pushplus":
+                push_to_pushplus(title, content)
+            
+            return content
+            
+        except Exception as e:
+            return f"运行失败: {e}"
+
 class AutomationManager:
     """自动化任务管理器"""
     
@@ -240,6 +333,7 @@ class AutomationManager:
         """注册默认任务"""
         self.register_task(ZhouyiPushTask())
         self.register_task(PoetryPushTask())
+        self.register_task(CET6VocabularyTask())
     
     def register_task(self, task: AutomationTask):
         """注册任务"""

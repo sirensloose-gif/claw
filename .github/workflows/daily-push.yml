@@ -66,6 +66,21 @@ jobs:
             exit(1)
         "
     
+    - name: Run CET6 Vocabulary push
+      id: cet6vocab
+      run: |
+        python -c "
+        from automation import automation_manager
+        result = automation_manager.run_task('每日六级词汇推送')
+        if result:
+            print('六级词汇推送完成')
+            with open('data/cet6_vocab_latest.txt', 'w', encoding='utf-8') as f:
+                f.write(result)
+        else:
+            print('六级词汇推送失败')
+            exit(1)
+        "
+    
     - name: Commit and push data
       run: |
         git config --local user.email "action@github.com"
@@ -87,7 +102,7 @@ jobs:
         curl -X POST "${{ env.WEBHOOK_URL }}" \
           -H "Content-Type: application/json" \
           -d '{
-            "text": "每日推送任务完成\n周易推送: ${{ steps.zhouyi.outcome }}\n古诗推送: ${{ steps.poetry.outcome }}"
+            "text": "每日推送任务完成\n周易推送: ${{ steps.zhouyi.outcome }}\n古诗推送: ${{ steps.poetry.outcome }}\n六级词汇: ${{ steps.cet6vocab.outcome }}"
           }'
       
     - name: Console notification
@@ -95,4 +110,5 @@ jobs:
         echo "=== 每日推送任务完成 ==="
         echo "周易推送: ${{ steps.zhouyi.outcome }}"
         echo "古诗推送: ${{ steps.poetry.outcome }}"
+        echo "六级词汇: ${{ steps.cet6vocab.outcome }}"
         echo "========================"
