@@ -5,11 +5,39 @@
 
 import json
 import os
+import requests
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 from dataclasses import dataclass
 from config import config
 from main import MiMoClient
+
+def push_to_pushplus(title: str, content: str) -> bool:
+    """推送内容到微信（通过 PushPlus）"""
+    if not config.pushplus_token:
+        print("警告: PUSHPLUS_TOKEN 未设置")
+        return False
+    
+    url = "http://www.pushplus.plus/send"
+    data = {
+        "token": config.pushplus_token,
+        "title": title,
+        "content": content,
+        "template": "markdown"
+    }
+    
+    try:
+        response = requests.post(url, json=data, timeout=30)
+        result = response.json()
+        if result.get("code") == 200:
+            print(f"PushPlus 推送成功: {title}")
+            return True
+        else:
+            print(f"PushPlus 推送失败: {result.get('msg', '未知错误')}")
+            return False
+    except Exception as e:
+        print(f"PushPlus 推送异常: {e}")
+        return False
 
 @dataclass
 class AutomationTask:
@@ -106,11 +134,14 @@ class ZhouyiPushTask(AutomationTask):
             self.save_progress()
             
             # 根据推送方式处理
+            title = f"每日周易推送 - 第{self.current_hexagram - 1}卦 · {hexagram_name}卦"
+            
             if config.push_method == "console":
-                print(f"\n=== 每日周易推送 ===")
-                print(f"第{self.current_hexagram - 1}卦 · {hexagram_name}卦")
+                print(f"\n=== {title} ===")
                 print(content)
                 print("=" * 30)
+            elif config.push_method == "pushplus":
+                push_to_pushplus(title, content)
             
             return content
             
@@ -184,11 +215,14 @@ class PoetryPushTask(AutomationTask):
             self.save_progress()
             
             # 根据推送方式处理
+            title = f"每日古诗谚语推送 - 第{self.current_poem - 1}首"
+            
             if config.push_method == "console":
-                print(f"\n=== 每日古诗谚语推送 ===")
-                print(f"第{self.current_poem - 1}首")
+                print(f"\n=== {title} ===")
                 print(content)
                 print("=" * 30)
+            elif config.push_method == "pushplus":
+                push_to_pushplus(title, content)
             
             return content
             

@@ -29,7 +29,8 @@ class Config:
     poetry_push_minute: int = int(os.getenv("POETRY_PUSH_MINUTE", "0"))
     
     # 消息推送配置
-    push_method: str = os.getenv("PUSH_METHOD", "console")  # console, email, webhook
+    push_method: str = os.getenv("PUSH_METHOD", "console")  # console, pushplus, email, webhook
+    pushplus_token: Optional[str] = os.getenv("PUSHPLUS_TOKEN")
     webhook_url: Optional[str] = os.getenv("WEBHOOK_URL")
     email_to: Optional[str] = os.getenv("EMAIL_TO")
     
@@ -40,6 +41,10 @@ class Config:
         """验证配置"""
         if not self.mimo_api_key:
             print("警告: MIMO_API_KEY 未设置")
+            return False
+        
+        if self.push_method == "pushplus" and not self.pushplus_token:
+            print("警告: PUSHPLUS_TOKEN 未设置")
             return False
         
         if self.push_method == "webhook" and not self.webhook_url:
