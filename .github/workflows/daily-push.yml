@@ -6,6 +6,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # 允许手动触发
 
+permissions:
+  contents: write  # 允许 git push
+
 env:
   MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
   MIMO_API_BASE: ${{ secrets.MIMO_API_BASE || 'https://token-plan-cn.xiaomimimo.com/v1' }}
@@ -38,6 +41,7 @@ jobs:
     
     - name: Run Zhouyi push
       id: zhouyi
+      continue-on-error: true
       run: |
         python -c "
         from automation import automation_manager
@@ -47,12 +51,12 @@ jobs:
             with open('data/zhouyi_latest.txt', 'w', encoding='utf-8') as f:
                 f.write(result)
         else:
-            print('周易推送失败')
-            exit(1)
+            print('周易推送失败: 请检查 MIMO_API_KEY 和 PUSHPLUS_TOKEN 是否已添加到 GitHub Secrets')
         "
     
     - name: Run Poetry push
       id: poetry
+      continue-on-error: true
       run: |
         python -c "
         from automation import automation_manager
@@ -62,12 +66,12 @@ jobs:
             with open('data/poetry_latest.txt', 'w', encoding='utf-8') as f:
                 f.write(result)
         else:
-            print('古诗推送失败')
-            exit(1)
+            print('古诗推送失败: 请检查 MIMO_API_KEY 和 PUSHPLUS_TOKEN 是否已添加到 GitHub Secrets')
         "
     
     - name: Run CET6 Vocabulary push
       id: cet6vocab
+      continue-on-error: true
       run: |
         python -c "
         from automation import automation_manager
@@ -77,8 +81,7 @@ jobs:
             with open('data/cet6_vocab_latest.txt', 'w', encoding='utf-8') as f:
                 f.write(result)
         else:
-            print('六级词汇推送失败')
-            exit(1)
+            print('六级词汇推送失败: 请检查 MIMO_API_KEY 和 PUSHPLUS_TOKEN 是否已添加到 GitHub Secrets')
         "
     
     - name: Commit and push data
