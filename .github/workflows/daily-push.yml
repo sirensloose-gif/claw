@@ -25,6 +25,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取完整历史，避免 push 冲突
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -90,6 +92,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add data/
         git diff --staged --quiet || git commit -m "更新每日推送内容 [$(date +'%Y-%m-%d')]"
+        git pull --rebase origin main || true
         git push
     
     - name: Upload data artifacts
