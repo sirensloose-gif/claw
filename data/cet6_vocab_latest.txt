@@ -1,90 +1,174 @@
-# 六级词汇学习 Day 2
-
-以下为你精心挑选的10个六级高频词汇，包含详细的释义、例句和记忆技巧。坚持每日积累，六级高分不是梦！
+# 📘 六级词汇学习（第3天）
 
 ---
 
-### 1. manipulate /məˈnɪpjəleɪt/
-- **词性**: 动词 (vt.)
-- **中文释义**: 操纵，控制；巧妙地处理
-- **例句**: The media can sometimes **manipulate** public opinion by selectively reporting facts.
-    *媒体有时可以通过选择性报道事实来操纵舆论。*
-- **记忆技巧**: **词根记忆**。词根 `mani-` 表示“手”（如 manual 手册），`pul-` 与 `pol-` 同源，表示“推动”。整个词字面意思是“用手推动”，引申为“操控、摆布”。
-
-### 2. authentic /ɔːˈθentɪk/
-- **词性**: 形容词 (adj.)
-- **中文释义**: 真实的，真正的；可信的
-- **例句**: The restaurant is famous for its **authentic** Sichuan cuisine.
-    *这家餐厅以其地道的四川菜而闻名。*
-- **记忆技巧**: **词根记忆**。词根 `auth-` 来自希腊语，意为“自己、权威”（如 author 作者）。`-entic` 为形容词后缀。拥有自身权威性的，即“真实的、可靠的”。
-
-### 3. bureaucracy /bjʊˈrɑːkrəsi/
-- **词性**: 名词 (n.)
-- **中文释义**: 官僚主义，官僚作风；官僚机构
-- **例句**: The project was delayed due to excessive **bureaucracy** within the department.
-    *该项目因部门内过分的官僚作风而延误。*
-- **记忆技巧**: **词源记忆**。源自法语，`bureau` 意为“办公室、书桌”，`-cracy` 是“统治、管理”的意思（如 democracy 民主）。在办公室里进行统治，即“官僚体系”。
-
-### 4. presumably /prɪˈzuːməbli/
-- **词性**: 副词 (adv.)
-- **中文释义**: 据推测，大概，可能
-- **例句**: He didn’t show up, **presumably** because he was stuck in traffic.
-    *他没有出现，大概是因为堵车了。*
-- **记忆技巧**: **单词派生**。由动词 `presume`（假定）派生出形容词 `presumable`（可能的），再加上副词后缀 `-ly`。表示“可假定地、很可能地”。
-
-### 5. vulnerable /ˈvʌlnərəbl/
-- **词性**: 形容词 (adj.)
-- **中文释义**: 易受伤的，脆弱的；易受攻击的
-- **例句**: Children and the elderly are particularly **vulnerable** to the effects of air pollution.
-    *儿童和老人特别容易受到空气污染的影响。*
-- **记忆技巧**: **联想记忆**。发音有点像“挖了肉包”，想象“挖了一块肉，这个伤口很容易被感染”，从而记住“易受伤的、脆弱的”。
-
-### 6. discourse /ˈdɪskɔːrs/; /dɪsˈkɔːrs/
-- **词性**: 名词 (n.); 动词 (v.)
-- **中文释义**: (n.) 论述，话语；演讲 (v.) 论述，演讲
-- **例句**: The paper analyzes the political **discourse** in contemporary media.
-    *这篇论文分析了当代媒体中的政治话语。*
-- **记忆技巧**: **词根记忆**。前缀 `dis-` 表示“分开”，词根 `cours` 表示“跑、流动”（如 course 课程、路线）。思想“分门别类地跑出来”，即“论述、演讲”。
-
-### 7. scrutiny /ˈskruːtəni/
-- **词性**: 名词 (n.)
-- **中文释义**: 仔细检查，详细审查；监视
-- **例句**: The financial records of the company are under close **scrutiny** by the authorities.
-    *该公司的财务记录正受到当局的严密审查。*
-- **记忆技巧**: **联想记忆**。`scru-` 联想成 `screw`（螺丝钉），`tiny` 是“微小的”。像检查螺丝钉一样检查微小的细节，即“仔细审查”。
-
-### 8. stimulate /ˈstɪmjuleɪt/
-- **词性**: 动词 (vt.)
-- **中文释义**: 刺激，激发；促进
-- **例句**: Government spending is intended to **stimulate** the economy during a recession.
-    *政府支出旨在经济衰退期间刺激经济。*
-- **记忆技巧**: **词根记忆**。词根 `stim-` 表示“刺、刺激”（如 stimulus 刺激物）。`-ulate` 是动词后缀。使受到刺激，即“刺激、激发”。
-
-### 9. authentic /ɔːˈθentɪk/ (与第2词重复，请替换)
-*为避免重复，我们替换为另一个高频词：*
-**reconcile /ˈrekənsaɪl/**
-- **词性**: 动词 (vt.)
-- **中文释义**: 调和，使和解；使一致
-- **例句**: It’s hard to **reconcile** his statement with the facts we know.
-    *很难将他的陈述与我们所知的事实调和一致。*
-- **记忆技巧**: **词根记忆**。前缀 `re-` 表示“再、重新”，词根 `concil` 来自拉丁语 `conciliare`（召集、使结合）。再次召集到一起，即“调和、使和解”。
-
-### 10. unprecedented /ʌnˈpresɪdentɪd/
-- **词性**: 形容词 (adj.)
-- **中文释义**: 史无前例的，空前的
-- **例句**: The discovery represented an **unprecedented** breakthrough in medical science.
-    *这一发现代表了医学上史无前例的突破。*
-- **记忆技巧**: **构词法**。`un-`（不） + `precedent`（先例） + `-ed`（形容词后缀） = 没有先例的。直接理解字面意思即可。
+### 1. eloquent /ˈel.ə.kwənt/  
+**词性**：形容词  
+**中文释义**：雄辩的，有说服力的；口才好的  
+**例句**：  
+She gave an eloquent speech about the importance of environmental protection.  
+（她发表了一场关于环境保护重要性的雄辩演讲。）  
+**记忆技巧**：  
+词根 "loqu" 意为 "说话"（如 dialogue 对话），"e-" 表强调 → 说话流利有力的 → 雄辩的。  
 
 ---
 
-**今日学习小结**：
-今天学习了10个核心词汇，重点关注了**动词**（manipulate, stimulate, reconcile）和**形容词**（authentic, vulnerable, unprecedented）的用法。`bureaucracy` 和 `scrutiny` 这两个名词在社会、经济类文章中非常常见。`presumably` 是一个非常好用的连接副词。
+### 2. bureaucracy /bjʊˈrɑː.krə.si/  
+**词性**：名词  
+**中文释义**：官僚体系；官僚作风  
+**例句**：  
+The new policy was delayed by bureaucracy and excessive paperwork.  
+（新政策因官僚作风和过多的文书工作而被延误。）  
+**记忆技巧**：  
+"bureau"（办公室）+ "-cracy"（统治）→ 办公室统治 → 官僚体系。  
 
-**建议学习步骤**：
-1. 通读列表，熟悉单词和基本释义。
-2. 重点关注每个词的**记忆技巧**，找到最适合自己的方法。
-3. 反复朗读**例句**，体会单词在语境中的用法。
-4. 尝试用今天学的2-3个单词，自己造一个句子。
+---
 
-坚持就是胜利，明天见！
+### 3. imperative /ɪmˈper.ə.t̬ɪv/  
+**词性**：形容词/名词  
+**中文释义**：必要的，紧急的；命令  
+**例句**：  
+It is imperative that we act quickly to prevent further damage.  
+（我们必须迅速行动以防止进一步损害，这是当务之急。）  
+**记忆技巧**：  
+词根 "imper" 意为 "命令"（如 emperor 皇帝）→ 像命令一样紧急 → 必要的。  
+
+---
+
+### 4. mitigate /ˈmɪt̬.ɪ.ɡeɪt/  
+**词性**：动词  
+**中文释义**：减轻，缓和  
+**例句**：  
+Planting trees helps mitigate the effects of climate change.  
+（植树有助于缓解气候变化的影响。）  
+**记忆技巧**：  
+"miti-"（柔和）+ "-gate"（动词后缀）→ 使变柔和 → 减轻。  
+
+---
+
+### 5. ambiguous /æmˈbɪɡ.ju.əs/  
+**词性**：形容词  
+**中文释义**：模棱两可的，含糊的  
+**例句**：  
+The instructions were ambiguous, so nobody knew what to do.  
+（说明含糊不清，所以没人知道该怎么做。）  
+**记忆技巧**：  
+前缀 "ambi-" 意为 "两个"（如 bilingual 双语的）→ 有两种可能解释 → 模棱两可的。  
+
+---
+
+### 6. commemorate /kəˈmem.ə.reɪt/  
+**词性**：动词  
+**中文释义**：纪念，庆祝  
+**例句**：  
+The monument was built to commemorate the soldiers who died in the war.  
+（这座纪念碑是为纪念战争中牺牲的士兵而建。）  
+**记忆技巧**：  
+"com-"（共同）+ "memor"（记忆）→ 共同记忆 → 纪念。  
+
+---
+
+### 7. pragmatic /præɡˈmæt̬.ɪk/  
+**词性**：形容词  
+**中文释义**：务实的，注重实际的  
+**例句**：  
+We need a pragmatic approach to solve this problem.  
+（我们需要一种务实的方法来解决这个问题。）  
+**记忆技巧**：  
+源自 "pragma"（行动）→ 注重行动而非理论 → 务实的。  
+
+---
+
+### 8. stringent /ˈstrɪn.dʒənt/  
+**词性**：形容词  
+**中文释义**：严格的，严厉的  
+**例句**：  
+The company has stringent rules against workplace harassment.  
+（公司有严格的规则禁止职场骚扰。）  
+**记忆技巧**：  
+联想 "strict"（严格的）+ "string"（细绳）→ 像被细绳紧紧束缚 → 严格的。  
+
+---
+
+### 9. alleviate /əˈliː.vi.eɪt/  
+**词性**：动词  
+**中文释义**：减轻，缓解（痛苦、问题等）  
+**例句**：  
+The medicine helped alleviate her headache.  
+（这种药帮助缓解了她的头痛。）  
+**记忆技巧**：  
+前缀 "al-"（=ad- 向）+ "levi"（轻的）→ 使变轻 → 减轻。  
+
+---
+
+### 10. scrutinize /ˈskruː.t̬ən.aɪz/  
+**词性**：动词  
+**中文释义**：仔细检查，审视  
+**例句**：  
+The auditors scrutinized the financial records for errors.  
+（审计员仔细检查了财务记录，寻找错误。）  
+**记忆技巧**：  
+"scrutin"（检查）+ "-ize"（动词后缀）→ 进行检查 → 审视。  
+
+---
+
+### 11. contingent /kənˈtɪn.dʒənt/  
+**词性**：形容词/名词  
+**中文释义**：取决于……的；代表团  
+**例句**：  
+The project's success is contingent on receiving enough funding.  
+（项目的成功取决于是否能获得足够的资金。）  
+**记忆技巧**：  
+"con-"（共同）+ "ting"（接触）→ 共同接触的条件 → 取决于……的。  
+
+---
+
+### 12. ubiquitous /juːˈbɪk.wɪ.t̬əs/  
+**词性**：形容词  
+**中文释义**：无处不在的  
+**例句**：  
+Smartphones have become ubiquitous in modern life.  
+（智能手机在现代生活中已无处不在。）  
+**记忆技巧**：  
+"ubi"（哪里）+ "quitous"（地方）→ 到处都有地方 → 无处不在的。  
+
+---
+
+### 13. paradigm /ˈper.ə.daɪm/  
+**词性**：名词  
+**中文释义**：范例，典范；模式  
+**例句**：  
+The discovery of DNA changed the paradigm of biological research.  
+（DNA的发现改变了生物学研究的范式。）  
+**记忆技巧**：  
+"para-"（旁边）+ "digm"（显示）→ 在旁边显示的例子 → 范例。  
+
+---
+
+### 14. resilient /rɪˈzɪl.i.ənt/  
+**词性**：形容词  
+**中文释义**：有韧性的，恢复力强的  
+**例句**：  
+Children are often more resilient than adults think.  
+（儿童通常比成年人认为的更有韧性。）  
+**记忆技巧**：  
+"re-"（再次）+ "sil"（跳）→ 能再次跳起来 → 有恢复力的。  
+
+---
+
+### 15. exacerbate /ɪɡˈzæs.ər.beɪt/  
+**词性**：动词  
+**中文释义**：使恶化，加剧  
+**例句**：  
+His careless comments exacerbated the conflict between the two groups.  
+（他草率的评论加剧了两个群体之间的冲突。）  
+**记忆技巧**：  
+"ex-"（出）+ "acerb"（尖锐）→ 使更尖锐 → 加剧恶化。  
+
+---
+
+✅ **今日学习小结**：  
+今天涵盖了 **动词、名词、形容词** 多种词性，重点词汇如 `mitigate`（减轻）、`eloquent`（雄辩的）、`ubiquitous`（无处不在的）均属六级高频词。  
+建议结合例句反复朗读，并用记忆技巧辅助长期记忆。  
+
+如果需要更多练习或词汇，可以随时告诉我！
