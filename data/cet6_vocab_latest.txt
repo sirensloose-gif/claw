@@ -1,1 +1,90 @@
-生成内容失败: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+# 📚 六级词汇学习 | 第四天
+
+今天我们继续积累六级高频核心词汇。坚持就是胜利，让我们一起进步吧！
+
+---
+
+### 1. **elaborate**
+- **音标**： /ɪˈlæbərət/ (adj.)；/ɪˈlæbəreɪt/ (v.)
+- **词性**： adj. 精心制作的；详尽的 | v. 详细阐述
+- **中文释义**： (adj.) 复杂的，精细的；(v.) 详细说明，详尽计划
+- **例句**：
+    - (adj.) The building is known for its **elaborate** carvings. (这座建筑以其精细的雕刻而闻名。)
+    - (v.) Could you **elaborate** on your proposal? (你能详细阐述一下你的提案吗？)
+- **记忆技巧**： 词根 **labor** 意为“工作，劳动”，**e-** (向外) + **labor** + **-ate** → 需要大量“劳动”才能做出来的 → 精心制作的。动词含义是将其“劳动成果”展现出来。
+
+### 2. **elicit**
+- **音标**： /ɪˈlɪsɪt/
+- **词性**： v.
+- **中文释义**： 引出，诱出（信息、反应等）
+- **例句**： The comedian’s jokes failed to **elicit** any laughter from the audience. (那个喜剧演员的笑话未能引起观众的任何笑声。)
+- **记忆技巧**： 联想 **e-** (向外) + **licit** (合法的)。但这里不是“合法”的意思，而是与 **evoke** (唤起) 和 **licere** (诱惑，引诱) 同源。可以记忆为“把隐藏的东西引诱出来”。
+
+### 3. **empirical**
+- **音标**： /ɪmˈpɪrɪkl/
+- **词性**： adj.
+- **中文释义**： 以经验（或观察）为依据的，经验主义的
+- **例句**： The theory is supported by **empirical** evidence. (这个理论有经验证据的支持。)
+- **记忆技巧**： 来自名词 **empiric** (经验主义者)，源自希腊语 *empeirikos* (有经验的)。**em-** (在…内) + **peir-** (尝试，经历) → 从经历中得来的。
+
+### 4. **preliminarily**
+- **音标**： /prɪˌlɪmɪˈnerəli/
+- **词性**： adv.
+- **中文释义**： 初步地，预备地
+- **例句**： **Prelinarily**, we have accepted their offer, but negotiations will continue. (初步地，我们已接受了他们的报价，但谈判将继续。)
+- **记忆技巧**： 形容词 **preliminary** (初步的) + **-ly**。**pre-** (在…之前) + **limin-** (门槛，界限) → 在跨入正题门槛之前的 → 预备的。
+
+### 5. **unprecedented**
+- **音标**： /ʌnˈpresɪdentɪd/
+- **词性**： adj.
+- **中文释义**： 空前的，史无前例的
+- **例句**： The world is facing an **unprecedented** public health challenge. (世界正面临一场空前的公共卫生挑战。)
+- **记忆技巧**： **un-** (不，无) + **precedent** (先例) + **-ed** (…的) → 没有先例的。
+
+### 6. **mitigate**
+- **音标**： /ˈmɪtɪɡeɪt/
+- **词性**： v.
+- **中文释义**： 减轻，缓和（严重性或伤害）
+- **例句**： Steps must be taken to **mitigate** the environmental damage. (必须采取措施来减轻对环境的破坏。)
+- **记忆技巧**： 词根 **mitig-** 来自拉丁语 *mitis* (温和的，软的)。与 **mild** (温和的) 有关。可以联想为“使…变温和” → 缓和。
+
+### 7. **backlash**
+- **音标**： /ˈbæklæʃ/
+- **词性**： n.
+- **中文释义**： （对社会变动等的）强烈抵制，反对
+- **例句**： The new policy provoked a fierce **backlash** from the public. (新政策激起了公众的强烈反对。)
+- **记忆技巧**： **back** (回，向后) + **lash** (猛烈冲击) → 猛烈的冲击反弹回来 → 强烈抵制。
+
+### 8. **anonymous**
+- **音标**： /əˈnɑːnɪməs/
+- **词性**： adj.
+- **中文释义**： 匿名的，不具名的
+- **例句**： The donation was made by an **anonymous** donor. (这笔捐款来自一位匿名捐赠者。)
+- **记忆技巧**： **an-** (无，没有) + **onym** (名字，来自希腊语 *onoma*) + **-ous** (…的) → 没有名字的。
+
+### 9. **indigenous**
+- **音标**： /ɪnˈdɪdʒənəs/
+- **词性**： adj.
+- **中文释义**： 本地的，土生土长的
+- **例句**： We should protect the rights of **indigenous** peoples. (我们应该保护土著居民的权利。)
+- **记忆技巧**： 联想 **in-** (内) + **di-** (从…起) + **gen-** (出生) + **-ous** → 从本地生长出来的 → 土生土长的。
+
+### 10. **epitome**
+- **音标**： /ɪˈpɪtəmi/
+- **词性**： n.
+- **中文释义**： 典范，典型；缩影
+- **例句**： She is the **epitome** of grace and elegance. (她是优雅的典范。)
+- **记忆技巧**： 来自希腊语，原意是“摘要”。可以联想 **epi-** (在…上) + **tome** (切，割) → 切下来的精华部分 → 典范。
+
+### 11. **evoke**
+- **音标**： /ɪˈvoʊk/
+- **词性**： v.
+- **中文释义**： 唤起，引起（情感、记忆等）
+- **例句**： The song **evoked** memories of my childhood. (这首歌唤起了我童年的记忆。)
+- **记忆技巧**： **e-** (向外) + **voke** (喊，呼唤，来自 *vocare*) → 把（情感、记忆）从内心呼唤出来。
+
+---
+
+💡 **学习小贴士**： 今天的一些词（如 `elicit`, `evoke`, `epitome`）都与“引出、说出”相关，但侧重点不同。`elicit` 侧重“引出信息”，`evoke` 侧重“唤起情感/记忆”，`epitome` 是“精华的引出”。通过对比记忆，效果更佳。
+
+坚持第四天，你已经很棒了！明天见！ 🚀
