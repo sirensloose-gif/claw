@@ -1,90 +1,166 @@
-# 📚 六级词汇学习 | 第四天
-
-今天我们继续积累六级高频核心词汇。坚持就是胜利，让我们一起进步吧！
+# 六级词汇学习（第5天）
 
 ---
 
-### 1. **elaborate**
-- **音标**： /ɪˈlæbərət/ (adj.)；/ɪˈlæbəreɪt/ (v.)
-- **词性**： adj. 精心制作的；详尽的 | v. 详细阐述
-- **中文释义**： (adj.) 复杂的，精细的；(v.) 详细说明，详尽计划
-- **例句**：
-    - (adj.) The building is known for its **elaborate** carvings. (这座建筑以其精细的雕刻而闻名。)
-    - (v.) Could you **elaborate** on your proposal? (你能详细阐述一下你的提案吗？)
-- **记忆技巧**： 词根 **labor** 意为“工作，劳动”，**e-** (向外) + **labor** + **-ate** → 需要大量“劳动”才能做出来的 → 精心制作的。动词含义是将其“劳动成果”展现出来。
-
-### 2. **elicit**
-- **音标**： /ɪˈlɪsɪt/
-- **词性**： v.
-- **中文释义**： 引出，诱出（信息、反应等）
-- **例句**： The comedian’s jokes failed to **elicit** any laughter from the audience. (那个喜剧演员的笑话未能引起观众的任何笑声。)
-- **记忆技巧**： 联想 **e-** (向外) + **licit** (合法的)。但这里不是“合法”的意思，而是与 **evoke** (唤起) 和 **licere** (诱惑，引诱) 同源。可以记忆为“把隐藏的东西引诱出来”。
-
-### 3. **empirical**
-- **音标**： /ɪmˈpɪrɪkl/
-- **词性**： adj.
-- **中文释义**： 以经验（或观察）为依据的，经验主义的
-- **例句**： The theory is supported by **empirical** evidence. (这个理论有经验证据的支持。)
-- **记忆技巧**： 来自名词 **empiric** (经验主义者)，源自希腊语 *empeirikos* (有经验的)。**em-** (在…内) + **peir-** (尝试，经历) → 从经历中得来的。
-
-### 4. **preliminarily**
-- **音标**： /prɪˌlɪmɪˈnerəli/
-- **词性**： adv.
-- **中文释义**： 初步地，预备地
-- **例句**： **Prelinarily**, we have accepted their offer, but negotiations will continue. (初步地，我们已接受了他们的报价，但谈判将继续。)
-- **记忆技巧**： 形容词 **preliminary** (初步的) + **-ly**。**pre-** (在…之前) + **limin-** (门槛，界限) → 在跨入正题门槛之前的 → 预备的。
-
-### 5. **unprecedented**
-- **音标**： /ʌnˈpresɪdentɪd/
-- **词性**： adj.
-- **中文释义**： 空前的，史无前例的
-- **例句**： The world is facing an **unprecedented** public health challenge. (世界正面临一场空前的公共卫生挑战。)
-- **记忆技巧**： **un-** (不，无) + **precedent** (先例) + **-ed** (…的) → 没有先例的。
-
-### 6. **mitigate**
-- **音标**： /ˈmɪtɪɡeɪt/
-- **词性**： v.
-- **中文释义**： 减轻，缓和（严重性或伤害）
-- **例句**： Steps must be taken to **mitigate** the environmental damage. (必须采取措施来减轻对环境的破坏。)
-- **记忆技巧**： 词根 **mitig-** 来自拉丁语 *mitis* (温和的，软的)。与 **mild** (温和的) 有关。可以联想为“使…变温和” → 缓和。
-
-### 7. **backlash**
-- **音标**： /ˈbæklæʃ/
-- **词性**： n.
-- **中文释义**： （对社会变动等的）强烈抵制，反对
-- **例句**： The new policy provoked a fierce **backlash** from the public. (新政策激起了公众的强烈反对。)
-- **记忆技巧**： **back** (回，向后) + **lash** (猛烈冲击) → 猛烈的冲击反弹回来 → 强烈抵制。
-
-### 8. **anonymous**
-- **音标**： /əˈnɑːnɪməs/
-- **词性**： adj.
-- **中文释义**： 匿名的，不具名的
-- **例句**： The donation was made by an **anonymous** donor. (这笔捐款来自一位匿名捐赠者。)
-- **记忆技巧**： **an-** (无，没有) + **onym** (名字，来自希腊语 *onoma*) + **-ous** (…的) → 没有名字的。
-
-### 9. **indigenous**
-- **音标**： /ɪnˈdɪdʒənəs/
-- **词性**： adj.
-- **中文释义**： 本地的，土生土长的
-- **例句**： We should protect the rights of **indigenous** peoples. (我们应该保护土著居民的权利。)
-- **记忆技巧**： 联想 **in-** (内) + **di-** (从…起) + **gen-** (出生) + **-ous** → 从本地生长出来的 → 土生土长的。
-
-### 10. **epitome**
-- **音标**： /ɪˈpɪtəmi/
-- **词性**： n.
-- **中文释义**： 典范，典型；缩影
-- **例句**： She is the **epitome** of grace and elegance. (她是优雅的典范。)
-- **记忆技巧**： 来自希腊语，原意是“摘要”。可以联想 **epi-** (在…上) + **tome** (切，割) → 切下来的精华部分 → 典范。
-
-### 11. **evoke**
-- **音标**： /ɪˈvoʊk/
-- **词性**： v.
-- **中文释义**： 唤起，引起（情感、记忆等）
-- **例句**： The song **evoked** memories of my childhood. (这首歌唤起了我童年的记忆。)
-- **记忆技巧**： **e-** (向外) + **voke** (喊，呼唤，来自 *vocare*) → 把（情感、记忆）从内心呼唤出来。
+## 1. **dilemma**  
+   - **音标**：/dɪˈlemə/  
+   - **词性**：n.  
+   - **中文释义**：困境；进退两难  
+   - **例句**：  
+     She faced the **dilemma** of choosing between her career and family.  
+     （她面临事业与家庭之间的两难抉择。）  
+   - **记忆技巧**：  
+     谐音“地雷嘛”，想象踩到地雷时进退两难的处境。词根“lemma”意为“前提”，di-（二）→ 两个前提都难以接受，形成困境。
 
 ---
 
-💡 **学习小贴士**： 今天的一些词（如 `elicit`, `evoke`, `epitome`）都与“引出、说出”相关，但侧重点不同。`elicit` 侧重“引出信息”，`evoke` 侧重“唤起情感/记忆”，`epitome` 是“精华的引出”。通过对比记忆，效果更佳。
+## 2. **substantiate**  
+   - **音标**：/səbˈstænʃieɪt/  
+   - **词性**：v.  
+   - **中文释义**：证实；使实体化  
+   - **例句**：  
+     The researcher failed to **substantiate** the hypothesis with sufficient data.  
+     （研究者未能用充分数据证实该假设。）  
+   - **记忆技巧**：  
+     词根“substance”（物质/实质）+ -ate（动词后缀）→ 使具备实质内容，引申为“证实”。
 
-坚持第四天，你已经很棒了！明天见！ 🚀
+---
+
+## 3. **perpetual**  
+   - **音标**：/pərˈpetʃuəl/  
+   - **词性**：adj.  
+   - **中文释义**：永久的；持续的  
+   - **例句**：  
+     The **perpetual** noise from the construction site disturbed the residents.  
+     （工地持续的噪音打扰了居民。）  
+   - **记忆技巧**：  
+     词根“pet-”（追求），per-（始终）→ 始终追求的状态，即“永久持续”。
+
+---
+
+## 4. **scrutiny**  
+   - **音标**：/ˈskruːtəni/  
+   - **词性**：n.  
+   - **中文释义**：详细审查；监视  
+   - **例句**：  
+     The politician’s actions came under intense public **scrutiny**.  
+     （该政治家的行为受到公众的严密审视。）  
+   - **记忆技巧**：  
+     拆分“scrut-”（检查，如inspect）+ -iny（名词后缀），联想“scrutiny”是对细节的反复检查。
+
+---
+
+## 5. **relinquish**  
+   - **音标**：/rɪˈlɪŋkwɪʃ/  
+   - **词性**：v.  
+   - **中文释义**：放弃；放手  
+   - **例句**：  
+     He reluctantly **relinquished** control of the company to his successor.  
+     （他不情愿地将公司控制权移交给继任者。）  
+   - **记忆技巧**：  
+     词根“linqu-”（离开），re-（再）→ 再次离开 → 彻底放弃。
+
+---
+
+## 6. **inherent**  
+   - **音标**：/ɪnˈhɪrənt/  
+   - **词性**：adj.  
+   - **中文释义**：固有的；内在的  
+   - **例句**：  
+     There are **inherent** risks in any investment strategy.  
+     （任何投资策略都存在固有风险。）  
+   - **记忆技巧**：  
+     词根“here-”（粘附），in-（内部）→ 内部粘附的 → 天生具备的。
+
+---
+
+## 7. **deteriorate**  
+   - **音标**：/dɪˈtɪriəreɪt/  
+   - **词性**：v.  
+   - **中文释义**：恶化；退化  
+   - **例句**：  
+     His health began to **deteriorate** due to chronic stress.  
+     （由于长期压力，他的健康开始恶化。）  
+   - **记忆技巧**：  
+     词根“terior”（更坏的），de-（向下）→ 向更坏的方向发展。
+
+---
+
+## 8. **subtle**  
+   - **音标**：/ˈsʌtl/  
+   - **词性**：adj.  
+   - **中文释义**：微妙的；敏锐的  
+   - **例句**：  
+     There is a **subtle** difference between the two words.  
+     （这两个词有微妙的差异。）  
+   - **记忆技巧**：  
+     联想“sub-”（下）+ “tle”（小）→ 隐藏在表面下的细微之处。
+
+---
+
+## 9. **coincide**  
+   - **音标**：/ˌkoʊɪnˈsaɪd/  
+   - **词性**：v.  
+   - **中文释义**：巧合；同时发生  
+   - **例句**：  
+     The festival **coincides** with the national holiday this year.  
+     （今年的节日与国庆节重合。）  
+   - **记忆技巧**：  
+     词根“co-”（共同）+ “incide”（落下）→ 同时落下 → 时间上巧合。
+
+---
+
+## 10. **ambiguous**  
+   - **音标**：/æmˈbɪɡjuəs/  
+   - **词性**：adj.  
+   - **中文释义**：模棱两可的；含糊的  
+   - **例句**：  
+     The contract’s wording was deliberately **ambiguous**.  
+     （合同的措辞故意模棱两可。）  
+   - **记忆技巧**：  
+     词根“ambi-”（两边），-ous（形容词后缀）→ 两边都可能 → 意义不明确。
+
+---
+
+## 11. **advocate**  
+   - **音标**：/ˈædvəkeɪt/ (v.)；/ˈædvəkət/ (n.)  
+   - **词性**：v./n.  
+   - **中文释义**：提倡；倡导者  
+   - **例句**：  
+     She **advocates** for equal rights in education.  
+     （她倡导教育中的平等权利。）  
+   - **记忆技巧**：  
+     词根“voc-”（声音），ad-（朝向）→ 朝向某人发声支持 → 提倡。
+
+---
+
+## 12. **consistently**  
+   - **音标**：/kənˈsɪstəntli/  
+   - **词性**：adv.  
+   - **中文释义**：一贯地；一致地  
+   - **例句**：  
+     He has **consistently** performed well in academic tests.  
+     （他在学术测试中一贯表现优异。）  
+   - **记忆技巧**：  
+     “consistent”（一致的）+ -ly（副词后缀），强调行为或状态的稳定性。
+
+---
+
+## 13. **hypothesis**  
+   - **音标**：/haɪˈpɑːθəsɪs/  
+   - **词性**：n.  
+   - **中文释义**：假设；假说  
+   - **例句**：  
+     The scientist tested the **hypothesis** through experiments.  
+     （科学家通过实验检验该假设。）  
+   - **记忆技巧**：  
+     词根“hypo-”（下）+ “thesis”（论点）→ 在正式结论前的初步论点。
+
+---
+
+### 📌 学习建议：
+1. **每日复习**：结合例句朗读，强化语境记忆。  
+2. **词根串联**：将同词根词汇（如“substantiate/substance”）归类记忆。  
+3. **造句练习**：用每个单词自拟一个与生活相关的句子。
+
+如果需要**音频朗读**或**扩展练习题**，可以告诉我哦！祝你学习顺利 🌟
