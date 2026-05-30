@@ -1,166 +1,168 @@
-# 六级词汇学习（第5天）
+# 六级词汇学习（第6天）
+
+## 今日高频词汇精选（共12个）
 
 ---
 
-## 1. **dilemma**  
-   - **音标**：/dɪˈlemə/  
-   - **词性**：n.  
-   - **中文释义**：困境；进退两难  
-   - **例句**：  
-     She faced the **dilemma** of choosing between her career and family.  
-     （她面临事业与家庭之间的两难抉择。）  
-   - **记忆技巧**：  
-     谐音“地雷嘛”，想象踩到地雷时进退两难的处境。词根“lemma”意为“前提”，di-（二）→ 两个前提都难以接受，形成困境。
+### 1. **contemplate**
+- **音标**：/ˈkɑːntəmpleɪt/
+- **词性**：v.
+- **中文释义**：沉思，深思；注视；打算
+- **例句**：
+  - He sat quietly, contemplating the meaning of life.
+    （他静静地坐着，思考生命的意义。）
+- **记忆技巧**：
+  - 词根：con-（共同） + templ（temple 庙宇，原指在庙宇中静思） + -ate（动词后缀）
+  - 联想：在神圣的庙宇中共同静心思考
 
 ---
 
-## 2. **substantiate**  
-   - **音标**：/səbˈstænʃieɪt/  
-   - **词性**：v.  
-   - **中文释义**：证实；使实体化  
-   - **例句**：  
-     The researcher failed to **substantiate** the hypothesis with sufficient data.  
-     （研究者未能用充分数据证实该假设。）  
-   - **记忆技巧**：  
-     词根“substance”（物质/实质）+ -ate（动词后缀）→ 使具备实质内容，引申为“证实”。
+### 2. **unprecedented**
+- **音标**：/ʌnˈpresɪdentɪd/
+- **词性**：adj.
+- **中文释义**：空前的，史无前例的
+- **例句**：
+  - The country faced an unprecedented economic crisis.
+    （该国面临了一场空前的经济危机。）
+- **记忆技巧**：
+  - 词缀：un-（否定） + precedent（先例） + -ed（形容词后缀）
+  - 联想：没有先例的 → 空前的
 
 ---
 
-## 3. **perpetual**  
-   - **音标**：/pərˈpetʃuəl/  
-   - **词性**：adj.  
-   - **中文释义**：永久的；持续的  
-   - **例句**：  
-     The **perpetual** noise from the construction site disturbed the residents.  
-     （工地持续的噪音打扰了居民。）  
-   - **记忆技巧**：  
-     词根“pet-”（追求），per-（始终）→ 始终追求的状态，即“永久持续”。
+### 3. **eloquent**
+- **音标**：/ˈeləkwənt/
+- **词性**：adj.
+- **中文释义**：雄辩的，口才流利的；有说服力的
+- **例句**：
+  - She gave an eloquent speech that moved the audience.
+    （她发表了雄辩的演讲，感动了听众。）
+- **记忆技巧**：
+  - 词根：e-（出） + loqu（说） + -ent（形容词后缀）
+  - 联想：能够说出很多话的 → 雄辩的
 
 ---
 
-## 4. **scrutiny**  
-   - **音标**：/ˈskruːtəni/  
-   - **词性**：n.  
-   - **中文释义**：详细审查；监视  
-   - **例句**：  
-     The politician’s actions came under intense public **scrutiny**.  
-     （该政治家的行为受到公众的严密审视。）  
-   - **记忆技巧**：  
-     拆分“scrut-”（检查，如inspect）+ -iny（名词后缀），联想“scrutiny”是对细节的反复检查。
+### 4. **deviate**
+- **音标**：/ˈdiːvieɪt/
+- **词性**：v.
+- **中文释义**：偏离，背离（常与 from 连用）
+- **例句**：
+  - His actions deviated from the original plan.
+    （他的行为偏离了原计划。）
+- **记忆技巧**：
+  - 词根：de-（离开） + vi（路） + -ate（动词后缀）
+  - 联想：离开原来的路 → 偏离
 
 ---
 
-## 5. **relinquish**  
-   - **音标**：/rɪˈlɪŋkwɪʃ/  
-   - **词性**：v.  
-   - **中文释义**：放弃；放手  
-   - **例句**：  
-     He reluctantly **relinquished** control of the company to his successor.  
-     （他不情愿地将公司控制权移交给继任者。）  
-   - **记忆技巧**：  
-     词根“linqu-”（离开），re-（再）→ 再次离开 → 彻底放弃。
+### 5. **perpetuate**
+- **音标**：/pərˈpetʃueɪt/
+- **词性**：v.
+- **中文释义**：使永存，使持续
+- **例句**：
+  - The museum aims to perpetuate the history of the region.
+    （博物馆旨在保存该地区的历史。）
+- **记忆技巧**：
+  - 词根：per-（贯穿） + pet（追求） + -uate（动词后缀）
+  - 联想：一直追求使某事物延续 → 使永存
 
 ---
 
-## 6. **inherent**  
-   - **音标**：/ɪnˈhɪrənt/  
-   - **词性**：adj.  
-   - **中文释义**：固有的；内在的  
-   - **例句**：  
-     There are **inherent** risks in any investment strategy.  
-     （任何投资策略都存在固有风险。）  
-   - **记忆技巧**：  
-     词根“here-”（粘附），in-（内部）→ 内部粘附的 → 天生具备的。
+### 6. **skeptical**
+- **音标**：/ˈskeptɪkl/
+- **词性**：adj.
+- **中文释义**：怀疑的，多疑的
+- **例句**：
+  - Many people are skeptical about the new policy.
+    （许多人对新政策持怀疑态度。）
+- **记忆技巧**：
+  - 词根：skept（思考） + -ical（形容词后缀）
+  - 联想：反复思考不相信 → 怀疑的
 
 ---
 
-## 7. **deteriorate**  
-   - **音标**：/dɪˈtɪriəreɪt/  
-   - **词性**：v.  
-   - **中文释义**：恶化；退化  
-   - **例句**：  
-     His health began to **deteriorate** due to chronic stress.  
-     （由于长期压力，他的健康开始恶化。）  
-   - **记忆技巧**：  
-     词根“terior”（更坏的），de-（向下）→ 向更坏的方向发展。
+### 7. **coherent**
+- **音标**：/koʊˈhɪrənt/
+- **词性**：adj.
+- **中文释义**：连贯的，一致的；条理清楚的
+- **例句**：
+  - He gave a coherent explanation of the complex theory.
+    （他对复杂的理论给出了条理清晰的解释。）
+- **记忆技巧**：
+  - 词根：co-（共同） + her（粘附） + -ent（形容词后缀）
+  - 联想：粘在一起 → 连贯的
 
 ---
 
-## 8. **subtle**  
-   - **音标**：/ˈsʌtl/  
-   - **词性**：adj.  
-   - **中文释义**：微妙的；敏锐的  
-   - **例句**：  
-     There is a **subtle** difference between the two words.  
-     （这两个词有微妙的差异。）  
-   - **记忆技巧**：  
-     联想“sub-”（下）+ “tle”（小）→ 隐藏在表面下的细微之处。
+### 8. **substantiate**
+- **音标**：/səbˈstænʃieɪt/
+- **词性**：v.
+- **中文释义**：证实，证明…有根据
+- **例句**：
+  - She needed more evidence to substantiate her claim.
+    （她需要更多证据来证实她的主张。）
+- **记忆技巧**：
+  - 词根：sub-（在下面） + stant（站立） + -iate（动词后缀）
+  - 联想：站在下面支撑 → 证明有根据
 
 ---
 
-## 9. **coincide**  
-   - **音标**：/ˌkoʊɪnˈsaɪd/  
-   - **词性**：v.  
-   - **中文释义**：巧合；同时发生  
-   - **例句**：  
-     The festival **coincides** with the national holiday this year.  
-     （今年的节日与国庆节重合。）  
-   - **记忆技巧**：  
-     词根“co-”（共同）+ “incide”（落下）→ 同时落下 → 时间上巧合。
+### 9. **discrepancy**
+- **音标**：/dɪˈskrepənsi/
+- **词性**：n.
+- **中文释义**：差异，不符合，矛盾
+- **例句**：
+  - There is a discrepancy between what he said and what he did.
+    （他的言行不一。）
+- **记忆技巧**：
+  - 词根：dis-（分开） + crep（破裂） + -ancy（名词后缀）
+  - 联想：裂开分离 → 差异
 
 ---
 
-## 10. **ambiguous**  
-   - **音标**：/æmˈbɪɡjuəs/  
-   - **词性**：adj.  
-   - **中文释义**：模棱两可的；含糊的  
-   - **例句**：  
-     The contract’s wording was deliberately **ambiguous**.  
-     （合同的措辞故意模棱两可。）  
-   - **记忆技巧**：  
-     词根“ambi-”（两边），-ous（形容词后缀）→ 两边都可能 → 意义不明确。
+### 10. **ubiquitous**
+- **音标**：/juːˈbɪkwɪtəs/
+- **词性**：adj.
+- **中文释义**：无处不在的，普遍存在的
+- **例句**：
+  - Smartphones have become ubiquitous in modern society.
+    （智能手机在现代社会已无处不在。）
+- **记忆技巧**：
+  - 词根：ubi（哪里） + quit（自由） + -ous（形容词后缀）
+  - 联想：哪里都能自由出现 → 无处不在的
 
 ---
 
-## 11. **advocate**  
-   - **音标**：/ˈædvəkeɪt/ (v.)；/ˈædvəkət/ (n.)  
-   - **词性**：v./n.  
-   - **中文释义**：提倡；倡导者  
-   - **例句**：  
-     She **advocates** for equal rights in education.  
-     （她倡导教育中的平等权利。）  
-   - **记忆技巧**：  
-     词根“voc-”（声音），ad-（朝向）→ 朝向某人发声支持 → 提倡。
+### 11. **pragmatic**
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的，实用主义的
+- **例句**：
+  - We need a pragmatic approach to solve this problem.
+    （我们需要务实的方法来解决这个问题。）
+- **记忆技巧**：
+  - 词根：pragma（行为，实践） + -tic（形容词后缀）
+  - 联想：注重实践的 → 务实的
 
 ---
 
-## 12. **consistently**  
-   - **音标**：/kənˈsɪstəntli/  
-   - **词性**：adv.  
-   - **中文释义**：一贯地；一致地  
-   - **例句**：  
-     He has **consistently** performed well in academic tests.  
-     （他在学术测试中一贯表现优异。）  
-   - **记忆技巧**：  
-     “consistent”（一致的）+ -ly（副词后缀），强调行为或状态的稳定性。
+### 12. **exacerbate**
+- **音标**：/ɪɡˈzæsərbeɪt/
+- **词性**：v.
+- **中文释义**：使恶化，使加剧
+- **例句**：
+  - The drought exacerbated the food shortage.
+    （干旱加剧了粮食短缺。）
+- **记忆技巧**：
+  - 词根：ex-（出） + acerb（苦涩） + -ate（动词后缀）
+  - 联想：使更苦涩 → 使恶化
 
 ---
 
-## 13. **hypothesis**  
-   - **音标**：/haɪˈpɑːθəsɪs/  
-   - **词性**：n.  
-   - **中文释义**：假设；假说  
-   - **例句**：  
-     The scientist tested the **hypothesis** through experiments.  
-     （科学家通过实验检验该假设。）  
-   - **记忆技巧**：  
-     词根“hypo-”（下）+ “thesis”（论点）→ 在正式结论前的初步论点。
+### 📌 今日学习小结
+1. **词性覆盖**：动词4个（contemplate, deviate, perpetuate, substantiate）、形容词5个（unprecedented, eloquent, skeptical, coherent, pragmatic）、名词1个（discrepancy）、形容词兼动词1个（exacerbate）
+2. **记忆要点**：注意区分形近词（如 skeptical/sceptical 为英美拼写差异），掌握常见词根（loqu-说, vi-路, her-粘附等）
+3. **考试重点**：这些词在六级阅读和写作中高频出现，尤其是 **unprecedented, skeptical, coherent, pragmatic** 等描述社会现象和论证观点的词汇
 
----
-
-### 📌 学习建议：
-1. **每日复习**：结合例句朗读，强化语境记忆。  
-2. **词根串联**：将同词根词汇（如“substantiate/substance”）归类记忆。  
-3. **造句练习**：用每个单词自拟一个与生活相关的句子。
-
-如果需要**音频朗读**或**扩展练习题**，可以告诉我哦！祝你学习顺利 🌟
+建议通过造句巩固记忆，明天将继续学习六级高频词汇！
