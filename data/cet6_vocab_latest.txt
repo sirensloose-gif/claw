@@ -1,168 +1,131 @@
-# 六级词汇学习（第6天）
+# 📖 六级词汇学习计划（第7天）
 
-## 今日高频词汇精选（共12个）
-
----
-
-### 1. **contemplate**
-- **音标**：/ˈkɑːntəmpleɪt/
-- **词性**：v.
-- **中文释义**：沉思，深思；注视；打算
-- **例句**：
-  - He sat quietly, contemplating the meaning of life.
-    （他静静地坐着，思考生命的意义。）
-- **记忆技巧**：
-  - 词根：con-（共同） + templ（temple 庙宇，原指在庙宇中静思） + -ate（动词后缀）
-  - 联想：在神圣的庙宇中共同静心思考
+> 今日精选12个六级高频词汇，涵盖动词、名词、形容词等不同词性，适合阶段性复习与拓展。
 
 ---
 
-### 2. **unprecedented**
-- **音标**：/ʌnˈpresɪdentɪd/
-- **词性**：adj.
-- **中文释义**：空前的，史无前例的
-- **例句**：
-  - The country faced an unprecedented economic crisis.
-    （该国面临了一场空前的经济危机。）
-- **记忆技巧**：
-  - 词缀：un-（否定） + precedent（先例） + -ed（形容词后缀）
-  - 联想：没有先例的 → 空前的
+## 1. ambiguous  
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：形容词  
+**中文释义**：模棱两可的；含糊不清的  
+**例句**：The instructions were so **ambiguous** that nobody understood how to operate the machine.  
+（说明书含糊不清，没人知道如何操作这台机器。）  
+**记忆技巧**：词根“ambi-”表示“两者”，而“-uous”是形容词后缀 → 同时有两种可能 → 模棱两可的。
 
 ---
 
-### 3. **eloquent**
-- **音标**：/ˈeləkwənt/
-- **词性**：adj.
-- **中文释义**：雄辩的，口才流利的；有说服力的
-- **例句**：
-  - She gave an eloquent speech that moved the audience.
-    （她发表了雄辩的演讲，感动了听众。）
-- **记忆技巧**：
-  - 词根：e-（出） + loqu（说） + -ent（形容词后缀）
-  - 联想：能够说出很多话的 → 雄辩的
+## 2. deteriorate  
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：动词  
+**中文释义**：恶化；变质  
+**例句**：His health began to **deteriorate** rapidly after he stopped exercising.  
+（停止锻炼后，他的健康状况迅速恶化。）  
+**记忆技巧**：词根“deterior”来自拉丁语，意为“更坏的”，加上动词后缀“-ate” → 变得更坏 → 恶化。
 
 ---
 
-### 4. **deviate**
-- **音标**：/ˈdiːvieɪt/
-- **词性**：v.
-- **中文释义**：偏离，背离（常与 from 连用）
-- **例句**：
-  - His actions deviated from the original plan.
-    （他的行为偏离了原计划。）
-- **记忆技巧**：
-  - 词根：de-（离开） + vi（路） + -ate（动词后缀）
-  - 联想：离开原来的路 → 偏离
+## 3. elaborate  
+**音标**：/ɪˈlæbərət/  
+**词性**：动词 / 形容词  
+**中文释义**：（动词）详细说明；精心制作 / （形容词）复杂的；详尽的  
+**例句**：Could you **elaborate** on your proposal a bit more?  
+（你能详细说明一下你的提案吗？）  
+**记忆技巧**：前缀“e-”（出） + 词根“labor”（劳动） + “-ate” → 通过劳动做出 → 精心制作 → 引申为详细说明。
 
 ---
 
-### 5. **perpetuate**
-- **音标**：/pərˈpetʃueɪt/
-- **词性**：v.
-- **中文释义**：使永存，使持续
-- **例句**：
-  - The museum aims to perpetuate the history of the region.
-    （博物馆旨在保存该地区的历史。）
-- **记忆技巧**：
-  - 词根：per-（贯穿） + pet（追求） + -uate（动词后缀）
-  - 联想：一直追求使某事物延续 → 使永存
+## 4. explicit  
+**音标**：/ɪkˈsplɪsɪt/  
+**词性**：形容词  
+**中文释义**：明确的；直言的  
+**例句**：The contract contains **explicit** terms about payment deadlines.  
+（合同中明确规定了付款截止日期。）  
+**记忆技巧**：词根“plic”表示“折叠”，前缀“ex-”表示“出” → 把折叠的内容展开 → 明确表达。
 
 ---
 
-### 6. **skeptical**
-- **音标**：/ˈskeptɪkl/
-- **词性**：adj.
-- **中文释义**：怀疑的，多疑的
-- **例句**：
-  - Many people are skeptical about the new policy.
-    （许多人对新政策持怀疑态度。）
-- **记忆技巧**：
-  - 词根：skept（思考） + -ical（形容词后缀）
-  - 联想：反复思考不相信 → 怀疑的
+## 5. implement  
+**音标**：/ˈɪmplɪment/  
+**词性**：动词 / 名词  
+**中文释义**：（动词）实施；执行 / （名词）工具；器具  
+**例句**：The government plans to **implement** new environmental policies next year.  
+（政府计划明年实施新的环境政策。）  
+**记忆技巧**：前缀“im-”（使） + 词根“ple”（填满） + “-ment” → 使填满、完成 → 实施。
 
 ---
 
-### 7. **coherent**
-- **音标**：/koʊˈhɪrənt/
-- **词性**：adj.
-- **中文释义**：连贯的，一致的；条理清楚的
-- **例句**：
-  - He gave a coherent explanation of the complex theory.
-    （他对复杂的理论给出了条理清晰的解释。）
-- **记忆技巧**：
-  - 词根：co-（共同） + her（粘附） + -ent（形容词后缀）
-  - 联想：粘在一起 → 连贯的
+## 6. inclination  
+**音标**：/ˌɪnklɪˈneɪʃn/  
+**词性**：名词  
+**中文释义**：倾向；意愿；倾斜  
+**例句**：She has a strong **inclination** toward art and music.  
+（她对艺术和音乐有强烈的倾向。）  
+**记忆技巧**：词根“clin”表示“倾斜”，前缀“in-”加强意义 + 名词后缀“-tion” → 倾斜的状态 → 倾向。
 
 ---
 
-### 8. **substantiate**
-- **音标**：/səbˈstænʃieɪt/
-- **词性**：v.
-- **中文释义**：证实，证明…有根据
-- **例句**：
-  - She needed more evidence to substantiate her claim.
-    （她需要更多证据来证实她的主张。）
-- **记忆技巧**：
-  - 词根：sub-（在下面） + stant（站立） + -iate（动词后缀）
-  - 联想：站在下面支撑 → 证明有根据
+## 7. integrity  
+**音标**：/ɪnˈteɡrəti/  
+**词性**：名词  
+**中文释义**：正直；完整；完善  
+**例句**：A leader should always act with **integrity** and honesty.  
+（领导者应始终以正直和诚实行事。）  
+**记忆技巧**：词根“integr”表示“整体”，名词后缀“-ity” → 完整的状态 → 引申为品格完整 → 正直。
 
 ---
 
-### 9. **discrepancy**
-- **音标**：/dɪˈskrepənsi/
-- **词性**：n.
-- **中文释义**：差异，不符合，矛盾
-- **例句**：
-  - There is a discrepancy between what he said and what he did.
-    （他的言行不一。）
-- **记忆技巧**：
-  - 词根：dis-（分开） + crep（破裂） + -ancy（名词后缀）
-  - 联想：裂开分离 → 差异
+## 8. jeopardize  
+**音标**：/ˈdʒepərdaɪz/  
+**词性**：动词  
+**中文释义**：危害；使受危险  
+**例句**：His careless remarks could **jeopardize** the entire negotiation.  
+（他轻率的言论可能危及整个谈判。）  
+**记忆技巧**：词源与“jeopardy”（危险）相关，联想：玩“Jeopardy!”知识竞赛答错会失分 → 危害。
 
 ---
 
-### 10. **ubiquitous**
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：adj.
-- **中文释义**：无处不在的，普遍存在的
-- **例句**：
-  - Smartphones have become ubiquitous in modern society.
-    （智能手机在现代社会已无处不在。）
-- **记忆技巧**：
-  - 词根：ubi（哪里） + quit（自由） + -ous（形容词后缀）
-  - 联想：哪里都能自由出现 → 无处不在的
+## 9. legitimate  
+**音标**：/lɪˈdʒɪtɪmət/  
+**词性**：形容词  
+**中文释义**：合法的；正当的  
+**例句**：The court ruled that his claim was **legitimate**.  
+（法院裁定他的要求是合法的。）  
+**记忆技巧**：词根“leg”表示“法律”，后缀“-itimate” → 符合法律的 → 合法的。
 
 ---
 
-### 11. **pragmatic**
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.
-- **中文释义**：务实的，实用主义的
-- **例句**：
-  - We need a pragmatic approach to solve this problem.
-    （我们需要务实的方法来解决这个问题。）
-- **记忆技巧**：
-  - 词根：pragma（行为，实践） + -tic（形容词后缀）
-  - 联想：注重实践的 → 务实的
+## 10. manipulate  
+**音标**：/məˈnɪpjuleɪt/  
+**词性**：动词  
+**中文释义**：操纵；巧妙处理  
+**例句**：He tried to **manipulate** the data to support his theory.  
+（他试图操纵数据以支持他的理论。）  
+**记忆技巧**：词根“man”表示“手”（如manual），后缀“-pulate” → 用手操作 → 操纵。
 
 ---
 
-### 12. **exacerbate**
-- **音标**：/ɪɡˈzæsərbeɪt/
-- **词性**：v.
-- **中文释义**：使恶化，使加剧
-- **例句**：
-  - The drought exacerbated the food shortage.
-    （干旱加剧了粮食短缺。）
-- **记忆技巧**：
-  - 词根：ex-（出） + acerb（苦涩） + -ate（动词后缀）
-  - 联想：使更苦涩 → 使恶化
+## 11. paradox  
+**音标**：/ˈpærədɑːks/  
+**词性**：名词  
+**中文释义**：悖论；矛盾的人或事物  
+**例句**：It’s a **paradox** that she loves children but never wants any of her own.  
+（她喜爱孩子却从不想有自己的孩子，真是个矛盾。）  
+**记忆技巧**：词根“para-”表示“相反”，“dox”表示“观点” → 相反的观点 → 悖论。
 
 ---
 
-### 📌 今日学习小结
-1. **词性覆盖**：动词4个（contemplate, deviate, perpetuate, substantiate）、形容词5个（unprecedented, eloquent, skeptical, coherent, pragmatic）、名词1个（discrepancy）、形容词兼动词1个（exacerbate）
-2. **记忆要点**：注意区分形近词（如 skeptical/sceptical 为英美拼写差异），掌握常见词根（loqu-说, vi-路, her-粘附等）
-3. **考试重点**：这些词在六级阅读和写作中高频出现，尤其是 **unprecedented, skeptical, coherent, pragmatic** 等描述社会现象和论证观点的词汇
+## 12. suppress  
+**音标**：/səˈpres/  
+**词性**：动词  
+**中文释义**：压制；抑制；禁止  
+**例句**：The government attempted to **suppress** the protest.  
+（政府试图压制抗议活动。）  
+**记忆技巧**：前缀“sup-”（向下） + 词根“press”（按压） → 压下去 → 压制。
 
-建议通过造句巩固记忆，明天将继续学习六级高频词汇！
+---
+
+## 💡 今日小结  
+建议结合例句理解词汇用法，并尝试用当天所学词汇造句，巩固记忆。可定期回顾，加深印象！  
+> 学习是一个积累的过程，每天进步一点点，终将达成目标。🌟
+
+如果需要更多词汇或复习建议，可以随时告诉我！
