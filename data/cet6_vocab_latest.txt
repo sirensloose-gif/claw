@@ -1,131 +1,115 @@
-# 📖 六级词汇学习计划（第7天）
-
-> 今日精选12个六级高频词汇，涵盖动词、名词、形容词等不同词性，适合阶段性复习与拓展。
+好的！今天是六级词汇学习的第8天，为你准备了12个高频核心词汇，涵盖名词、动词、形容词和副词，助你稳步推进复习计划。今天的内容侧重学术、社会和经济话题，是六级阅读和翻译的常见主题。
 
 ---
 
-## 1. ambiguous  
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：形容词  
-**中文释义**：模棱两可的；含糊不清的  
-**例句**：The instructions were so **ambiguous** that nobody understood how to operate the machine.  
-（说明书含糊不清，没人知道如何操作这台机器。）  
-**记忆技巧**：词根“ambi-”表示“两者”，而“-uous”是形容词后缀 → 同时有两种可能 → 模棱两可的。
+## 六级高频词汇 · Day 8
+
+### 1. **subsidy**
+*   **音标**: /ˈsʌbsɪdi/
+*   **词性**: n.
+*   **释义**: 补贴，津贴，补助金（通常由政府或组织提供以降低价格或成本）。
+*   **例句**: The government provides a **subsidy** to farmers to encourage the production of organic crops.
+    *   政府向农民提供补贴，以鼓励有机作物的生产。
+*   **记忆技巧**: **词根联想**。`sub-`（在下面）+ `sid`（坐，源自拉丁语 *sedere*）+ `-y`（名词后缀）。可以联想为“坐在下面提供资金支持”，即“补助金”。
+
+### 2. **frugal**
+*   **音标**: /ˈfruːɡl/
+*   **词性**: adj.
+*   **释义**: 节俭的，朴素的；花费少的。
+*   **例句**: She lives a **frugal** life, carefully budgeting her expenses and avoiding unnecessary purchases.
+    *   她生活节俭，仔细做预算，避免不必要的开支。
+*   **记忆技巧**: **谐音联想**。谐音“腐乳够”。有“腐乳吃就足够了”，引申为生活简单、节俭。注意与 `fragile`（易碎的）区分。
+
+### 3. **delegate**
+*   **音标**: /ˈdelɪɡət/ (n.)；/ˈdelɪɡeɪt/ (v.)
+*   **词性**: n. 代表；v. 委派，授权（某人）。
+*   **例句**: As a manager, he learned to **delegate** tasks effectively to his team members.
+    *   作为经理，他学会了有效地向团队成员委派任务。
+*   **记忆技巧**: **词根拆分**。`de-`（离开）+ `leg`（派遣，如 `legal` 中有“法律派定”之意）+ `-ate`。把任务“派出去”给别人，即“委派”。
+
+### 4. **scrutiny**
+*   **音标**: /ˈskruːtəni/
+*   **词性**: n.
+*   **释义**: 仔细检查，详细审查，监视。
+*   **例句**: The government’s handling of the crisis came under intense public **scrutiny**.
+    *   政府对危机的处理受到了公众的严格审查。
+*   **记忆技巧**: **词根联想**。源自拉丁语 *scruta*（垃圾，零碎之物）。审查就像在“翻捡零碎之物”一样仔细。常与 `under` 搭配，表示“受到……审查”。
+
+### 5. **hinder**
+*   **音标**: /ˈhɪndər/
+*   **词性**: v.
+*   **释义**: 阻碍，妨碍，阻止。
+*   **例句**: Lack of funding could **hinder** the progress of scientific research.
+    *   缺乏资金可能会阻碍科学研究的进展。
+*   **记忆技巧**: **形象联想**。想象后面（`hind-er`，联想到 `behind`）有人拽着你，阻碍你前进。
+
+### 6. **obsolete**
+*   **音标**: /ˌɑːbsəˈliːt/
+*   **词性**: adj.
+*   **释义**: 淘汰的，过时的，废弃的。
+*   **例句**: Floppy disks have become almost completely **obsolete** in the age of cloud storage.
+    *   在云存储时代，软盘几乎已完全被淘汰。
+*   **记忆技巧**: **词根拆分**。`ob-`（反，对着）+ `solete`（生长，习惯）。不合时宜的“生长”或“习惯”，自然就“过时”了。
+
+### 7. **aggregate**
+*   **音标**: /ˈæɡrɪɡət/ (n./adj.)；/ˈæɡrɪɡeɪt/ (v.)
+*   **词性**: n./adj. 总数，合计；聚合的 v. 合计，聚集。
+*   **例句**: The **aggregate** score of both matches determines the winner.
+    *   两场比赛的总比分决定了获胜者。
+*   **记忆技巧**: **词根拆分**。`ag-`（=ad-，去）+ `greg`（群体，如 `congregation` 集会）+ `-ate`。走到“群体”中去，即“聚集”、“合计”。
+
+### 8. **detrimental**
+*   **音标**: /ˌdetrɪˈmentl/
+*   **词性**: adj.
+*   **释义**: 有害的，不利的。
+*   **例句**: Smoking is **detrimental** to health and increases the risk of lung cancer.
+    *   吸烟有害健康，并增加患肺癌的风险。
+*   **记忆技巧**: **词根关联**。与 `detriment`（损害）同根。`de-`（向下）+ `tri`（摩擦）+ `ment`（结果）+ `-al`。被“摩擦”掉了，造成“损害”的，就是“有害的”。
+
+### 9. **plausible**
+*   **音标**: /ˈplɔːzəbl/
+*   **词性**: adj.
+*   **释义**: （解释或说法）似乎合理的，貌似可信的。
+*   **例句**: His excuse for being late sounded **plausible**, but I’m not sure if it’s true.
+    *   他迟到的借口听起来似乎合理，但我不确定是否属实。
+*   **记忆技巧**: **词根联想**。`plaus-`（鼓掌，如 `applaud`）+ `-ible`（能……的）。能让人“鼓掌”赞同的，说明是“貌似可信的”。
+
+### 10. **elicit**
+*   **音标**: /ɪˈlɪsɪt/
+*   **词性**: v.
+*   **释义**: 引出，诱出（信息、反应等）。
+*   **例句**: The comedian’s jokes **elicited** loud laughter from the audience.
+    *   喜剧演员的笑话引得观众大笑。
+*   **记忆技巧**: **易混词辨析**。注意不要与 `illicit`（非法的）混淆。`e-`（出）+ `lic`（引诱）+ `-it`。把东西“引诱出来”。
+
+### 11. **prerequisite**
+*   **音标**: /priːˈrekwɪzɪt/
+*   **词性**: n./adj.
+*   **释义**: 先决条件，前提；必备的。
+*   **例句**: A bachelor’s degree is a basic **prerequisite** for applying to this graduate program.
+    *   学士学位是申请该研究生项目的基本先决条件。
+*   **记忆技巧**: **词根拆分**。`pre-`（之前）+ `requisite`（必需的）。在“之前”就必须“具备的”东西，即“先决条件”。
+
+### 12. **tangibly**
+*   **音标**: /ˈtændʒəbli/
+*   **词性**: adv.
+*   **释义**: 可触摸地，有形地；明确地，真实地。
+*   **例句**: The new policy has **tangibly** improved the working conditions in the factory.
+    *   新政策已切实改善了工厂的工作条件。
+*   **记忆技巧**: **词根延伸**。来自形容词 `tangible`（有形的）。`tang-`（接触，如 `contact`）+ `-ible`（能……的）+ `-ly`（副词后缀）。能够被“接触”到的，引申为“真实地、明确地”。
 
 ---
 
-## 2. deteriorate  
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：动词  
-**中文释义**：恶化；变质  
-**例句**：His health began to **deteriorate** rapidly after he stopped exercising.  
-（停止锻炼后，他的健康状况迅速恶化。）  
-**记忆技巧**：词根“deterior”来自拉丁语，意为“更坏的”，加上动词后缀“-ate” → 变得更坏 → 恶化。
+**今日小结**：
+今天我们学习了12个涵盖社会、经济、学术等多个领域的六级核心词汇。其中：
+*   **名词 (5个)**： subsidy, delegate, scrutiny, aggregate, prerequisite
+*   **动词 (3个)**： delegate, hinder, elicit
+*   **形容词 (5个)**： frugal, obsolete, aggregate, detrimental, plausible, prerequisite
+*   **副词 (1个)**： tangibly
 
----
+**学习建议**：
+1.  **例句语境**：务必通过例句理解词汇的用法和搭配（如 `under scrutiny`, `detrimental to`）。
+2.  **主动回忆**：盖住中文释义，看着英文单词回忆意思，反之亦然。
+3.  **造句练习**：尝试用每个新词造一个与自己生活或兴趣相关的句子。
 
-## 3. elaborate  
-**音标**：/ɪˈlæbərət/  
-**词性**：动词 / 形容词  
-**中文释义**：（动词）详细说明；精心制作 / （形容词）复杂的；详尽的  
-**例句**：Could you **elaborate** on your proposal a bit more?  
-（你能详细说明一下你的提案吗？）  
-**记忆技巧**：前缀“e-”（出） + 词根“labor”（劳动） + “-ate” → 通过劳动做出 → 精心制作 → 引申为详细说明。
-
----
-
-## 4. explicit  
-**音标**：/ɪkˈsplɪsɪt/  
-**词性**：形容词  
-**中文释义**：明确的；直言的  
-**例句**：The contract contains **explicit** terms about payment deadlines.  
-（合同中明确规定了付款截止日期。）  
-**记忆技巧**：词根“plic”表示“折叠”，前缀“ex-”表示“出” → 把折叠的内容展开 → 明确表达。
-
----
-
-## 5. implement  
-**音标**：/ˈɪmplɪment/  
-**词性**：动词 / 名词  
-**中文释义**：（动词）实施；执行 / （名词）工具；器具  
-**例句**：The government plans to **implement** new environmental policies next year.  
-（政府计划明年实施新的环境政策。）  
-**记忆技巧**：前缀“im-”（使） + 词根“ple”（填满） + “-ment” → 使填满、完成 → 实施。
-
----
-
-## 6. inclination  
-**音标**：/ˌɪnklɪˈneɪʃn/  
-**词性**：名词  
-**中文释义**：倾向；意愿；倾斜  
-**例句**：She has a strong **inclination** toward art and music.  
-（她对艺术和音乐有强烈的倾向。）  
-**记忆技巧**：词根“clin”表示“倾斜”，前缀“in-”加强意义 + 名词后缀“-tion” → 倾斜的状态 → 倾向。
-
----
-
-## 7. integrity  
-**音标**：/ɪnˈteɡrəti/  
-**词性**：名词  
-**中文释义**：正直；完整；完善  
-**例句**：A leader should always act with **integrity** and honesty.  
-（领导者应始终以正直和诚实行事。）  
-**记忆技巧**：词根“integr”表示“整体”，名词后缀“-ity” → 完整的状态 → 引申为品格完整 → 正直。
-
----
-
-## 8. jeopardize  
-**音标**：/ˈdʒepərdaɪz/  
-**词性**：动词  
-**中文释义**：危害；使受危险  
-**例句**：His careless remarks could **jeopardize** the entire negotiation.  
-（他轻率的言论可能危及整个谈判。）  
-**记忆技巧**：词源与“jeopardy”（危险）相关，联想：玩“Jeopardy!”知识竞赛答错会失分 → 危害。
-
----
-
-## 9. legitimate  
-**音标**：/lɪˈdʒɪtɪmət/  
-**词性**：形容词  
-**中文释义**：合法的；正当的  
-**例句**：The court ruled that his claim was **legitimate**.  
-（法院裁定他的要求是合法的。）  
-**记忆技巧**：词根“leg”表示“法律”，后缀“-itimate” → 符合法律的 → 合法的。
-
----
-
-## 10. manipulate  
-**音标**：/məˈnɪpjuleɪt/  
-**词性**：动词  
-**中文释义**：操纵；巧妙处理  
-**例句**：He tried to **manipulate** the data to support his theory.  
-（他试图操纵数据以支持他的理论。）  
-**记忆技巧**：词根“man”表示“手”（如manual），后缀“-pulate” → 用手操作 → 操纵。
-
----
-
-## 11. paradox  
-**音标**：/ˈpærədɑːks/  
-**词性**：名词  
-**中文释义**：悖论；矛盾的人或事物  
-**例句**：It’s a **paradox** that she loves children but never wants any of her own.  
-（她喜爱孩子却从不想有自己的孩子，真是个矛盾。）  
-**记忆技巧**：词根“para-”表示“相反”，“dox”表示“观点” → 相反的观点 → 悖论。
-
----
-
-## 12. suppress  
-**音标**：/səˈpres/  
-**词性**：动词  
-**中文释义**：压制；抑制；禁止  
-**例句**：The government attempted to **suppress** the protest.  
-（政府试图压制抗议活动。）  
-**记忆技巧**：前缀“sup-”（向下） + 词根“press”（按压） → 压下去 → 压制。
-
----
-
-## 💡 今日小结  
-建议结合例句理解词汇用法，并尝试用当天所学词汇造句，巩固记忆。可定期回顾，加深印象！  
-> 学习是一个积累的过程，每天进步一点点，终将达成目标。🌟
-
-如果需要更多词汇或复习建议，可以随时告诉我！
+坚持就是胜利，明天继续加油！
