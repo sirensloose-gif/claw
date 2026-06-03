@@ -15,7 +15,9 @@ from main import MiMoClient
 def push_to_pushplus(title: str, content: str) -> bool:
     """推送内容到微信（通过 PushPlus）"""
     if not config.pushplus_token:
-        print("警告: PUSHPLUS_TOKEN 未设置")
+        print("❌ 错误: PUSHPLUS_TOKEN 未设置，请检查 GitHub Secrets 配置")
+        print(f"   当前 PUSH_METHOD: {config.push_method}")
+        print(f"   当前 PUSHPLUS_TOKEN: {'已设置' if config.pushplus_token else '未设置'}")
         return False
     
     url = "http://www.pushplus.plus/send"
@@ -26,17 +28,23 @@ def push_to_pushplus(title: str, content: str) -> bool:
         "template": "markdown"
     }
     
+    print(f"📤 正在推送 PushPlus 消息: {title}")
+    print(f"   Token: {config.pushplus_token[:8]}...")
+    
     try:
         response = requests.post(url, json=data, timeout=30)
         result = response.json()
         if result.get("code") == 200:
-            print(f"PushPlus 推送成功: {title}")
+            print(f"✅ PushPlus 推送成功: {title}")
+            print(f"   消息ID: {result.get('data', 'N/A')}")
             return True
         else:
-            print(f"PushPlus 推送失败: {result.get('msg', '未知错误')}")
+            print(f"❌ PushPlus 推送失败: {result.get('msg', '未知错误')}")
+            print(f"   错误代码: {result.get('code', 'N/A')}")
+            print(f"   完整响应: {result}")
             return False
     except Exception as e:
-        print(f"PushPlus 推送异常: {e}")
+        print(f"❌ PushPlus 推送异常: {e}")
         return False
 
 @dataclass
@@ -119,7 +127,7 @@ class ZhouyiPushTask(AutomationTask):
         try:
             response = self.client.chat(
                 messages=[{"role": "user", "content": prompt}],
-                model="mimo-v2.5-pro",
+                model="mimo-v2.5",
                 temperature=0.7,
                 max_completion_tokens=2000
             )
@@ -136,12 +144,26 @@ class ZhouyiPushTask(AutomationTask):
             # 根据推送方式处理
             title = f"每日周易推送 - 第{self.current_hexagram - 1}卦 · {hexagram_name}卦"
             
+            print(f"\n📝 生成内容完成: {title}")
+            print(f"   内容长度: {len(content)} 字符")
+            
+            push_success = False
             if config.push_method == "console":
                 print(f"\n=== {title} ===")
                 print(content)
                 print("=" * 30)
+                push_success = True
             elif config.push_method == "pushplus":
-                push_to_pushplus(title, content)
+                push_success = push_to_pushplus(title, content)
+                if not push_success:
+                    print("⚠️  警告: PushPlus 推送失败，但内容已生成")
+            
+            # 保存内容到文件
+            output_file = os.path.join(config.data_dir, "zhouyi_latest.txt")
+            os.makedirs(config.data_dir, exist_ok=True)
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write(f"# {title}\n\n{content}")
+            print(f"💾 内容已保存到: {output_file}")
             
             return content
             
@@ -200,7 +222,7 @@ class PoetryPushTask(AutomationTask):
         try:
             response = self.client.chat(
                 messages=[{"role": "user", "content": prompt}],
-                model="mimo-v2.5-pro",
+                model="mimo-v2.5",
                 temperature=0.7,
                 max_completion_tokens=2000
             )
@@ -217,12 +239,26 @@ class PoetryPushTask(AutomationTask):
             # 根据推送方式处理
             title = f"每日古诗谚语推送 - 第{self.current_poem - 1}首"
             
+            print(f"\n📝 生成内容完成: {title}")
+            print(f"   内容长度: {len(content)} 字符")
+            
+            push_success = False
             if config.push_method == "console":
                 print(f"\n=== {title} ===")
                 print(content)
                 print("=" * 30)
+                push_success = True
             elif config.push_method == "pushplus":
-                push_to_pushplus(title, content)
+                push_success = push_to_pushplus(title, content)
+                if not push_success:
+                    print("⚠️  警告: PushPlus 推送失败，但内容已生成")
+            
+            # 保存内容到文件
+            output_file = os.path.join(config.data_dir, "poetry_latest.txt")
+            os.makedirs(config.data_dir, exist_ok=True)
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write(f"# {title}\n\n{content}")
+            print(f"💾 内容已保存到: {output_file}")
             
             return content
             
@@ -293,7 +329,7 @@ class CET6VocabularyTask(AutomationTask):
         try:
             response = self.client.chat(
                 messages=[{"role": "user", "content": prompt}],
-                model="mimo-v2.5-pro",
+                model="mimo-v2.5",
                 temperature=0.7,
                 max_completion_tokens=3000
             )
@@ -310,12 +346,26 @@ class CET6VocabularyTask(AutomationTask):
             # 根据推送方式处理
             title = f"每日六级词汇 - 第{self.current_day - 1}天"
             
+            print(f"\n📝 生成内容完成: {title}")
+            print(f"   内容长度: {len(content)} 字符")
+            
+            push_success = False
             if config.push_method == "console":
                 print(f"\n=== {title} ===")
                 print(content)
                 print("=" * 30)
+                push_success = True
             elif config.push_method == "pushplus":
-                push_to_pushplus(title, content)
+                push_success = push_to_pushplus(title, content)
+                if not push_success:
+                    print("⚠️  警告: PushPlus 推送失败，但内容已生成")
+            
+            # 保存内容到文件
+            output_file = os.path.join(config.data_dir, "cet6_vocab_latest.txt")
+            os.makedirs(config.data_dir, exist_ok=True)
+            with open(output_file, 'w', encoding='utf-8') as f:
+                f.write(f"# {title}\n\n{content}")
+            print(f"💾 内容已保存到: {output_file}")
             
             return content
             

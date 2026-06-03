@@ -25,7 +25,7 @@ class MiMoClient:
             "Content-Type": "application/json"
         }
     
-    def chat(self, messages: List[Dict], model: str = "mimo-v2.5-pro", **kwargs) -> Dict:
+    def chat(self, messages: List[Dict], model: str = "mimo-v2.5", **kwargs) -> Dict:
         """发送聊天请求"""
         endpoint = f"{self.base_url}/chat/completions"
         payload = {
@@ -60,7 +60,7 @@ class ClawAgent:
         # 调用 API
         response = self.client.chat(
             messages=self.conversation_history,
-            model="mimo-v2.5-pro",
+            model="mimo-v2.5",
             temperature=0.7,
             max_completion_tokens=1000
         )
