@@ -1,162 +1,113 @@
-# 📘 六级词汇学习（第9天）
-
-今天继续分享15个六级高频词汇，涵盖社会、科技、心理等常见主题，助力备考冲刺！
+好的，这是为您准备的六级词汇学习第10天内容。今天精选了12个高频且实用的词汇，涵盖了名词、动词、形容词和副词，并配有详细解析和记忆技巧，希望能助您备考一臂之力！
 
 ---
 
-## 1. implement
-- **音标**：/ˈɪmplɪment/  
-- **词性**：v. 实施，执行  
-- **释义**：to make something start to happen or be used  
-- **例句**：The government decided to **implement** new environmental policies to reduce pollution.  
-  （政府决定实施新的环保政策以减少污染。）  
-- **记忆技巧**：词根“ple-”表示“充满”，前缀“im-”表“进入”→“进入充满状态”→“实施”。联想：工具（implement）用来实施计划。
+# 六级词汇学习计划 | Day 10
 
----
+## 1. **indispensable**
+- **音标**： /ˌɪndɪˈspensəbl/
+- **词性**： **adj.**
+- **中文释义**： 不可或缺的，必需的
+- **例句**：
+    - Clean water is **indispensable** for sustaining human life.
+    - （洁净的水对于维持人类生命是**不可或缺的**。）
+- **记忆技巧**： **in-** (不) + **dis-** (分开) + **pens** (花费，引申为“分配”) + **-able** (可…的)。字面意思是“不可被分配出去的”，即“必需的”。
 
-## 2. prevalent
-- **音标**：/ˈprevələnt/  
-- **词性**：adj. 普遍的，流行的  
-- **释义**：widespread in a particular area or at a particular time  
-- **例句**：Smartphones have become **prevalent** in modern society, changing how people communicate.  
-  （智能手机在现代社会已非常普遍，改变了人们的交流方式。）  
-- **记忆技巧**：词根“val-”表示“力量”，“pre-”表“前”→“力量领先”→“盛行的”。联想：流行的东西总是走在前头（pre-）。
+## 2. **autonomous**
+- **音标**： /ɔːˈtɑːnəməs/
+- **词性**： **adj.**
+- **中文释义**： 自治的，自主的
+- **例句**：
+    - The region was granted the right to be **autonomous** in its internal affairs.
+    - （该地区被授予处理内部事务的**自治**权。）
+- **记忆技巧**： **auto-** (自己) + **nom** (法律，管理) + **-ous** (形容词后缀)。自己管理自己的 → 自治的。
 
----
+## 3. **paradox**
+- **音标**： /ˈpærədɑːks/
+- **词性**： **n.**
+- **中文释义**： 悖论，矛盾的人或事物
+- **例句**：
+    - It’s a **paradox** that the richest country has so many poor people.
+    - （一个**悖论**是，最富有的国家却有如此多的穷人。）
+- **记忆技巧**： **para-** (旁边，偏离) + **dox** (观点)。偏离常理的观点 → 悖论。联想： “怕了多克斯” → 让人头疼的矛盾说法。
 
-## 3. deceptive
-- **音标**：/dɪˈseptɪv/  
-- **词性**：adj. 欺骗性的，误导的  
-- **释义**：likely to make you believe something that is not true  
-- **例句**：The advertisement was **deceptive**, as the product did not match the description.  
-  （这则广告具有误导性，因为产品与描述不符。）  
-- **记忆技巧**：词根“cept-”表示“抓”，前缀“de-”表“离开”→“抓住错误方向”→“欺骗”。联想：deception（欺骗）的形容词形式。
+## 4. **conspicuous**
+- **音标**： /kənˈspɪkjuəs/
+- **词性**： **adj.**
+- **中文释义**： 显眼的，引人注目的
+- **例句**：
+    - She tried to make herself **conspicuous** by wearing a bright red hat.
+    - （她戴了顶鲜红色的帽子，试图让自己**引人注目**。）
+- **记忆技巧**： **con-** (加强) + **spic** (看) + **-uous** (形容词后缀)。加强去看 → 显眼的。联想： **spect** (看) → spectator (观众)。
 
----
+## 5. **elicit**
+- **音标**： /ɪˈlɪsɪt/
+- **词性**： **v.**
+- **中文释义**： 引出，诱出（信息、反应等）
+- **例句**：
+    - The lawyer’s clever questioning managed to **elicit** the truth from the witness.
+    - （律师巧妙的提问成功地从证人那里**套出了**真相。）
+- **记忆技巧**： **e-** (出) + **licit** (吸引，诱导)。把…诱导出来 → 引出。注意区分： **illicit** (非法的)。
 
-## 4. substantive
-- **音标**：/ˈsʌbstəntɪv/  
-- **词性**：adj. 实质性的，重要的  
-- **释义**：important, serious, or related to real facts  
-- **例句**：The meeting produced no **substantive** progress on the trade agreement.  
-  （会议在贸易协议上没有取得实质性进展。）  
-- **记忆技巧**：词根“st-”表示“站立”，“sub-”表“下面”→“站在下面支撑”→“实质的”。联想：substance（物质）是实质的基础。
+## 6. **aggregate**
+- **音标**： /ˈæɡrɪɡət/ (n./adj.); /ˈæɡrɪɡeɪt/ (v.)
+- **词性**： **n./adj./v.**
+- **中文释义**： **n./adj.** 总数，总计；总的 **v.** 聚集，合计
+- **例句**：
+    - The **aggregate** score of the two matches was 5-3.
+    - （两场比赛的**总比分**是5比3。）
+- **记忆技巧**： **ag-** (向) + **greg** (群体) + **-ate**。向群体靠拢 → 聚集。联想： **congregation** (集会)。
 
----
+## 7. **discreet**
+- **音标**： /dɪˈskriːt/
+- **词性**： **adj.**
+- **中文释义**： 谨慎的，考虑周到的
+- **例句**：
+    - He made a few **discreet** inquiries about her health.
+    - （他**谨慎地**询问了一下她的健康状况。）
+- **记忆技巧**： **dis-** (分开) + **creet** (观察)。仔细观察并分开处理 → 谨慎的。注意区分： **discrete** (离散的，不连续的)。
 
-## 5. contemptuous
-- **音标**：/kənˈtemptʃuəs/  
-- **词性**：adj. 轻蔑的，傲慢的  
-- **释义**：showing that you have no respect for somebody/something  
-- **例句**：He gave a **contemptuous** laugh when hearing the absurd proposal.  
-  （听到荒谬的提议时，他发出轻蔑的笑声。）  
-- **记忆技巧**：词根“tempt-”表示“尝试”，前缀“con-”表“完全”→“完全鄙视尝试”→“蔑视”。联想：contempt（蔑视）+ -ous（形容词后缀）。
+## 8. **hypocrisy**
+- **音标**： /hɪˈpɑːkrəsi/
+- **词性**： **n.**
+- **中文释义**： 虚伪，伪善
+- **例句**：
+    - His public support for charity is sheer **hypocrisy**; he never donates a penny.
+    - （他对慈善的公开支持完全是**虚伪**，他一分钱都没捐过。）
+- **记忆技巧**： **hypo-** (下面) + **crisy** (判断)。在台面下判断（和台面上说的不一致） → 虚伪。源自希腊语“演员”。
 
----
+## 9. **threshold**
+- **音标**： /ˈθreʃhoʊld/
+- **词性**： **n.**
+- **中文释义**： 门槛；起点，开端
+- **例句**：
+    - He stood **on the threshold** of a brilliant career.
+    - （他正站在辉煌事业的**起点上**。）
+- **记忆技巧**： **thresh** (踩，踏) + **old**。被踩踏的旧东西 → 门槛。联想： 踏过门槛（threshold）进入一个新阶段。
 
-## 6. contradiction
-- **音标**：/ˌkɑːntrəˈdɪkʃn/  
-- **词性**：n. 矛盾，反驳  
-- **释义**：a lack of agreement between facts, opinions, or actions  
-- **例句**：There is a **contradiction** between his words and his actions.  
-  （他的言行存在矛盾。）  
-- **记忆技巧**：词根“dict-”表示“说”，前缀“contra-”表“反对”→“反对说”→“反驳”。联想：contra（相反）+ diction（措辞）。
+## 10. **mitigate**
+- **音标**： /ˈmɪtɪɡeɪt/
+- **词性**： **v.**
+- **中文释义**： 缓和，减轻（严重性）
+- **例句**：
+    - The government took steps to **mitigate** the effects of the economic crisis.
+    - （政府采取措施**缓和**经济危机的影响。）
+- **记忆技巧**： **mit** (柔和，放松) + **-igate** (动词后缀)。使柔和 → 缓和。联想： **mild** (温和的)。
 
----
+## 11. **speculate**
+- **音标**： /ˈspekjuleɪt/
+- **词性**： **v.**
+- **中文释义**： 推测，猜测；投机
+- **例句**：
+    - Scientists **speculate** about the possibility of life on other planets.
+    - （科学家**推测**其他行星上存在生命的可能性。）
+- **记忆技巧**： **spec** (看) + **-ulate**。用心看 → 思考 → 推测。联想： **spectacle** (景象，眼镜)。
 
-## 7. render
-- **音标**：/ˈrendər/  
-- **词性**：v. 使成为；提供；表达  
-- **释义**：to cause somebody/something to be in a particular state  
-- **例句**：The accident **rendered** him unable to work for months.  
-  （事故使他几个月无法工作。）  
-- **记忆技巧**：词根“rend-”表示“给予”，同“give”。联想：render（提供）服务或状态。
-
----
-
-## 8. complementary
-- **音标**：/ˌkɑːmplɪˈmentri/  
-- **词性**：adj. 互补的  
-- **释义**：two things that are complementary are different but together form a useful or attractive combination  
-- **例句**：The two companies have **complementary** strengths, so their merger is beneficial.  
-  （两家公司优势互补，因此合并是有益的。）  
-- **记忆技巧**：词根“ple-”表示“填满”，前缀“com-”表“一起”→“一起填满”→“互补”。联想：complement（补足物）。
-
----
-
-## 9. compulsory
-- **音标**：/kəmˈpʌlsəri/  
-- **词性**：adj. 强制的，义务的  
-- **释义**：that must be done because of a law or a rule  
-- **例句**：Education is **compulsory** for children aged 6 to 15 in China.  
-  （在中国，6至15岁儿童必须接受义务教育。）  
-- **记忆技巧**：词根“puls-”表示“推动”，前缀“com-”表“一起”→“一起推动”→“强制”。联想：compulsion（强迫）。
-
----
-
-## 10. detrimental
-- **音标**：/ˌdetrɪˈmentl/  
-- **词性**：adj. 有害的，不利的  
-- **释义**：harmful or damaging  
-- **例句**：Excessive screen time is **detrimental** to children’s eyesight.  
-  （过度使用屏幕对儿童视力有害。）  
-- **记忆技巧**：词根“trim-”表示“摩擦”，前缀“de-”表“离开”→“摩擦掉”→“损害”。联想：detriment（损害）+ -al（形容词后缀）。
-
----
-
-## 11. detain
-- **音标**：/dɪˈteɪn/  
-- **词性**：v. 拘留，扣留  
-- **释义**：to keep somebody in an official place, especially a police station, and prevent them from leaving  
-- **例句**：The police **detained** the suspect for further questioning.  
-  （警方拘留嫌疑人进行进一步审问。）  
-- **记忆技巧**：词根“tain-”表示“握”，前缀“de-”表“向下”→“向下握住”→“扣留”。联想：detainee（被拘留者）。
-
----
-
-## 12. scrutiny
-- **音标**：/ˈskruːtəni/  
-- **词性**：n. 仔细检查，监视  
-- **释义**：careful and thorough examination  
-- **例句**：The government’s actions are under intense public **scrutiny**.  
-  （政府行为受到公众的严密监督。）  
-- **记忆技巧**：词根“scrut-”表示“检查”，同“search”。联想：scrutinize（仔细审查）的名词形式。
-
----
-
-## 13. unprecedented
-- **音标**：/ʌnˈpresɪdentɪd/  
-- **词性**：adj. 前所未有的  
-- **释义**：that has never happened, been done, or been known before  
-- **例句**：The pandemic brought **unprecedented** challenges to the global economy.  
-  （疫情给全球经济带来了前所未有的挑战。）  
-- **记忆技巧**：前缀“un-”表“不”，“precede”表示“先例”→“没有先例的”。联想：pre-（之前）+ ced（走）+ -ent + -ed。
-
----
-
-## 14. cope
-- **音标**：/koʊp/  
-- **词性**：v. 应对，处理  
-- **释义**：to deal successfully with something difficult  
-- **例句**：She has learned to **cope** with stress through meditation and exercise.  
-  （她通过冥想和运动学会了应对压力。）  
-- **记忆技巧**：联想“cope”音似“靠”，依靠自己应对困难。常见搭配：cope with。
-
----
-
-## 15. alleviate
-- **音标**：/əˈliːvieɪt/  
-- **词性**：v. 减轻，缓和  
-- **释义**：to make something less severe  
-- **例句**：The new medicine helped **alleviate** the patient’s pain.  
-  （新药有助于减轻患者的疼痛。）  
-- **记忆技巧**：词根“lev-”表示“轻”，前缀“al-”表“朝向”→“使变轻”→“减轻”。联想：elevate（提升）中的“lev-”也与“轻”相关。
-
----
-
-💡 **学习建议**：
-1. 每天记5-8个词汇，分早晚两次复习
-2. 结合例句理解词汇用法，注意词性搭配
-3. 利用词根词缀扩展词汇网络（如：lev-相关词：alleviate, elevate, lever）
-
-坚持积累，六级高分在望！如果需要更多练习或某词汇的深入解析，请随时告诉我 🌟
+## 12. **adjacent**
+- **音标**： /əˈdʒeɪsnt/
+- **词性**： **adj.**
+- **中文释义**： 邻近的，毗连的
+- **例句**：
+    - Our office is **adjacent** to the train station.
+    - （我们的办公室**紧邻**火车站。）
+- **记忆技巧**： **ad-** (向) + **jac** (躺) + **-ent**。躺在…旁边 → 邻近的。联想： **inject** (注入，射入)。
