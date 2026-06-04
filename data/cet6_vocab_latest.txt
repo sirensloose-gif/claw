@@ -1,113 +1,121 @@
-好的，这是为您准备的六级词汇学习第10天内容。今天精选了12个高频且实用的词汇，涵盖了名词、动词、形容词和副词，并配有详细解析和记忆技巧，希望能助您备考一臂之力！
+# 📚 六级高频词汇学习 - 第6天
+
+以下是为你精心挑选的12个六级高频词汇，涵盖不同词性，并附有详细解析和记忆技巧，助你高效备考！
 
 ---
 
-# 六级词汇学习计划 | Day 10
+### 1. abandon
+*   **音标：** /əˈbændən/
+*   **词性：** v. / n.
+*   **中文释义：**
+    *   (v.) 放弃；遗弃；沉溺于
+    *   (n.) 放纵；无拘无束
+*   **例句：**
+    *   **(v.)** The crew had to **abandon** the sinking ship. (船员们不得不弃船。)
+    *   **(n.)** He danced with wild **abandon**. (他尽情狂舞。)
+*   **记忆技巧：**
+    *   **谐音联想：** “一帮蛋”。想象“一帮蛋”被“抛弃”了。放弃他们（abandon them）。
 
-## 1. **indispensable**
-- **音标**： /ˌɪndɪˈspensəbl/
-- **词性**： **adj.**
-- **中文释义**： 不可或缺的，必需的
-- **例句**：
-    - Clean water is **indispensable** for sustaining human life.
-    - （洁净的水对于维持人类生命是**不可或缺的**。）
-- **记忆技巧**： **in-** (不) + **dis-** (分开) + **pens** (花费，引申为“分配”) + **-able** (可…的)。字面意思是“不可被分配出去的”，即“必需的”。
+### 2. elaborate
+*   **音标：** /ɪˈlæbəreɪt/ (v.) / ɪˈlæbərət/ (adj.)
+*   **词性：** v. / adj.
+*   **中文释义：**
+    *   (v.) 详细阐述；精心制作
+    *   (adj.) 精心制作的；复杂的
+*   **例句：**
+    *   **(v.)** Could you **elaborate** on your proposal? (你能详细说明一下你的提议吗？)
+    *   **(adj.)** The plan is too **elaborate** to be practical. (这个计划太复杂而不切实际。)
+*   **记忆技巧：**
+    *   **词根词缀：** `e-`（出）+ `labor`（劳动）+ `-ate`（动词后缀）→ 把“劳动成果拿出来”→ 需要“详细阐述”和“精心制作”。
 
-## 2. **autonomous**
-- **音标**： /ɔːˈtɑːnəməs/
-- **词性**： **adj.**
-- **中文释义**： 自治的，自主的
-- **例句**：
-    - The region was granted the right to be **autonomous** in its internal affairs.
-    - （该地区被授予处理内部事务的**自治**权。）
-- **记忆技巧**： **auto-** (自己) + **nom** (法律，管理) + **-ous** (形容词后缀)。自己管理自己的 → 自治的。
+### 3. profound
+*   **音标：** /prəˈfaʊnd/
+*   **词性：** adj.
+*   **中文释义：** 深刻的；深远的；知识渊博的
+*   **例句：** The book made a **profound** impact on my understanding of history. (这本书对我理解历史产生了深远的影响。)
+*   **记忆技巧：**
+    *   **词根词缀：** `pro-`（向前）+ `found`（基础）→ 向前找到基础→ 意义“深刻的”。
 
-## 3. **paradox**
-- **音标**： /ˈpærədɑːks/
-- **词性**： **n.**
-- **中文释义**： 悖论，矛盾的人或事物
-- **例句**：
-    - It’s a **paradox** that the richest country has so many poor people.
-    - （一个**悖论**是，最富有的国家却有如此多的穷人。）
-- **记忆技巧**： **para-** (旁边，偏离) + **dox** (观点)。偏离常理的观点 → 悖论。联想： “怕了多克斯” → 让人头疼的矛盾说法。
+### 4. dilemma
+*   **音标：** /dɪˈlemə/
+*   **词性：** n.
+*   **中文释义：** 进退两难的困境
+*   **例句：** He faced a moral **dilemma**: tell the truth and hurt his friend, or lie and betray his principles. (他面临着一个道德困境：说实话会伤害朋友，说谎则会背叛自己的原则。)
+*   **记忆技巧：**
+    *   **词源联想：** 源自希腊语，意为“两难选择”。可以联想到“di-”（两个）+ “lemma”（假设/命题）→ 面对两个都不想选的选择。
 
-## 4. **conspicuous**
-- **音标**： /kənˈspɪkjuəs/
-- **词性**： **adj.**
-- **中文释义**： 显眼的，引人注目的
-- **例句**：
-    - She tried to make herself **conspicuous** by wearing a bright red hat.
-    - （她戴了顶鲜红色的帽子，试图让自己**引人注目**。）
-- **记忆技巧**： **con-** (加强) + **spic** (看) + **-uous** (形容词后缀)。加强去看 → 显眼的。联想： **spect** (看) → spectator (观众)。
+### 5. compatible
+*   **音标：** /kəmˈpætəbl/
+*   **词性：** adj.
+*   **中文释义：** 兼容的；可共存的；相处融洽的
+*   **例句：** The new software is **compatible** with older operating systems. (这个新软件与旧的操作系统兼容。)
+*   **记忆技巧：**
+    *   **词根词缀：** `com-`（共同）+ `pat`（感受）+ `-ible`（能…的）→ 能共同感受的 → “兼容的”、“融洽的”。
 
-## 5. **elicit**
-- **音标**： /ɪˈlɪsɪt/
-- **词性**： **v.**
-- **中文释义**： 引出，诱出（信息、反应等）
-- **例句**：
-    - The lawyer’s clever questioning managed to **elicit** the truth from the witness.
-    - （律师巧妙的提问成功地从证人那里**套出了**真相。）
-- **记忆技巧**： **e-** (出) + **licit** (吸引，诱导)。把…诱导出来 → 引出。注意区分： **illicit** (非法的)。
+### 6. contemplate
+*   **音标：** /ˈkɑːntəmpleɪt/
+*   **词性：** v.
+*   **中文释义：** 深思；沉思；考虑；注视
+*   **例句：** She sat by the window, **contemplating** her future. (她坐在窗边，沉思着自己的未来。)
+*   **记忆技巧：**
+    *   **拆分联想：** `con`（一起）+ `template`（模板）。把想法“放在一起”反复“对照模板”思考，就是“深思”。
 
-## 6. **aggregate**
-- **音标**： /ˈæɡrɪɡət/ (n./adj.); /ˈæɡrɪɡeɪt/ (v.)
-- **词性**： **n./adj./v.**
-- **中文释义**： **n./adj.** 总数，总计；总的 **v.** 聚集，合计
-- **例句**：
-    - The **aggregate** score of the two matches was 5-3.
-    - （两场比赛的**总比分**是5比3。）
-- **记忆技巧**： **ag-** (向) + **greg** (群体) + **-ate**。向群体靠拢 → 聚集。联想： **congregation** (集会)。
+### 7. deteriorate
+*   **音标：** /dɪˈtɪriəreɪt/
+*   **词性：** v.
+*   **中文释义：** 恶化；变坏
+*   **例句：** His health began to **deteriorate** rapidly after the diagnosis. (诊断之后，他的健康状况开始迅速恶化。)
+*   **记忆技巧：**
+    *   **词根词缀：** `de-`（向下）+ `terior`（更坏的）+ `-ate`（动词）→ 向更坏的方向发展 → “恶化”。
 
-## 7. **discreet**
-- **音标**： /dɪˈskriːt/
-- **词性**： **adj.**
-- **中文释义**： 谨慎的，考虑周到的
-- **例句**：
-    - He made a few **discreet** inquiries about her health.
-    - （他**谨慎地**询问了一下她的健康状况。）
-- **记忆技巧**： **dis-** (分开) + **creet** (观察)。仔细观察并分开处理 → 谨慎的。注意区分： **discrete** (离散的，不连续的)。
+### 8. ambiguous
+*   **音标：** /æmˈbɪɡjuəs/
+*   **词性：** adj.
+*   **中文释义：** 模棱两可的；含糊不清的
+*   **例句：** The instructions were so **ambiguous** that no one understood them. (这些说明含糊不清，没人能看懂。)
+*   **记忆技巧：**
+    *   **词根词缀：** `ambi-`（两个）+ `guous`（状态）→ 处于两种状态之间 → 模棱两可。
 
-## 8. **hypocrisy**
-- **音标**： /hɪˈpɑːkrəsi/
-- **词性**： **n.**
-- **中文释义**： 虚伪，伪善
-- **例句**：
-    - His public support for charity is sheer **hypocrisy**; he never donates a penny.
-    - （他对慈善的公开支持完全是**虚伪**，他一分钱都没捐过。）
-- **记忆技巧**： **hypo-** (下面) + **crisy** (判断)。在台面下判断（和台面上说的不一致） → 虚伪。源自希腊语“演员”。
+### 9. flourish
+*   **音标：** /ˈflɜːrɪʃ/
+*   **词性：** v. / n.
+*   **中文释义：**
+    *   (v.) 繁荣；兴旺；挥舞
+    *   (n.) 夸张的动作；华美的辞藻
+*   **例句：**
+    *   **(v.)** The arts **flourish** under government support. (在政府支持下，艺术蓬勃发展。)
+    *   **(n.)** He signed the document with a **flourish**. (他大笔一挥签了文件。)
+*   **记忆技巧：**
+    *   **形象联想：** `flour`（面粉）→ 像面粉一样“撒开”→ 植物“茂盛”生长，事业“繁荣”兴旺。
 
-## 9. **threshold**
-- **音标**： /ˈθreʃhoʊld/
-- **词性**： **n.**
-- **中文释义**： 门槛；起点，开端
-- **例句**：
-    - He stood **on the threshold** of a brilliant career.
-    - （他正站在辉煌事业的**起点上**。）
-- **记忆技巧**： **thresh** (踩，踏) + **old**。被踩踏的旧东西 → 门槛。联想： 踏过门槛（threshold）进入一个新阶段。
+### 10. rigid
+*   **音标：** /ˈrɪdʒɪd/
+*   **词性：** adj.
+*   **中文释义：** 严格的；僵化的；刚硬的
+*   **例句：** The company has a very **rigid** set of rules. (公司有一套非常僵化的规章制度。)
+*   **记忆技巧：**
+    *   **谐音联想：** “锐直的”。又“锋锐”又“笔直”的东西，通常是“刚硬”且“僵化”的。
 
-## 10. **mitigate**
-- **音标**： /ˈmɪtɪɡeɪt/
-- **词性**： **v.**
-- **中文释义**： 缓和，减轻（严重性）
-- **例句**：
-    - The government took steps to **mitigate** the effects of the economic crisis.
-    - （政府采取措施**缓和**经济危机的影响。）
-- **记忆技巧**： **mit** (柔和，放松) + **-igate** (动词后缀)。使柔和 → 缓和。联想： **mild** (温和的)。
+### 11. abundant
+*   **音标：** /əˈbʌndənt/
+*   **词性：** adj.
+*   **中文释义：** 丰富的；大量的
+*   **例句：** The country is **abundant** in natural resources. (这个国家自然资源丰富。)
+*   **记忆技巧：**
+    *   **词根词缀：** `ab-`（加强）+ `und`（波浪）+ `-ant`（形容词）→ 像波浪一样“涌出”→ “丰富的”。
 
-## 11. **speculate**
-- **音标**： /ˈspekjuleɪt/
-- **词性**： **v.**
-- **中文释义**： 推测，猜测；投机
-- **例句**：
-    - Scientists **speculate** about the possibility of life on other planets.
-    - （科学家**推测**其他行星上存在生命的可能性。）
-- **记忆技巧**： **spec** (看) + **-ulate**。用心看 → 思考 → 推测。联想： **spectacle** (景象，眼镜)。
+### 12. subordinate
+*   **音标：** /səˈbɔːrdɪnət/
+*   **词性：** adj. / n. / v.
+*   **中文释义：**
+    *   (adj.) 次要的；从属的；下级的
+    *   (n.) 下属
+    *   (v.) 使服从；使居次要地位
+*   **例句：**
+    *   **(n.)** A good leader listens to the opinions of their **subordinates**. (好的领导会倾听下属的意见。)
+    *   **(v.)** We must **subordinate** personal interests to the collective goal. (我们必须使个人利益服从集体目标。)
+*   **记忆技巧：**
+    *   **词根词缀：** `sub-`（下面）+ `ordin`（顺序）+ `-ate`（形容词）→ 排在“下面”顺序的 → “下级的”、“从属的”。
 
-## 12. **adjacent**
-- **音标**： /əˈdʒeɪsnt/
-- **词性**： **adj.**
-- **中文释义**： 邻近的，毗连的
-- **例句**：
-    - Our office is **adjacent** to the train station.
-    - （我们的办公室**紧邻**火车站。）
-- **记忆技巧**： **ad-** (向) + **jac** (躺) + **-ent**。躺在…旁边 → 邻近的。联想： **inject** (注入，射入)。
+---
+**学习小贴士：** 建议将这些单词放入句子或语境中记忆，并尝试使用它们。可以遮住中文释义，进行自我测试。祝你学习愉快，六级加油！ 💪
