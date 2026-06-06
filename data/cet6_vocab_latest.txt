@@ -1,121 +1,145 @@
-# 📅 六级高频词汇学习 · 第7天
-**主题：科技与社会影响类词汇** | 今日目标：掌握10个核心词汇
+# 📚 六级高频词汇学习 - 第8天
+
+今天为你精选12个六级高频词汇，涵盖动词、名词、形容词、副词，每个词汇都配有详细解析和记忆技巧。坚持积累，每天进步一点点！
 
 ---
 
-### 1. **scarcity**
-*   **音标**：/ˈskersəti/
-*   **词性**：n. (名词)
-*   **中文释义**：稀缺；缺乏；不足
-*   **例句**：
-    *   The **scarcity** of clean water resources in the region has become a pressing issue.
-    *   该地区清洁水资源的**稀缺**已成为一个紧迫问题。
-*   **记忆技巧**：联想记忆：“scarce”(缺乏的) + “-ity”(名词后缀) → 稀缺的状态。想象沙漠里“scarce”（稀少的）水。
+### 1. ambiguous
+**音标**: /æmˈbɪɡjuəs/  
+**词性**: 形容词  
+**中文释义**: 模棱两可的；含糊不清的  
+**例句**:  
+- The instructions were so **ambiguous** that no one could follow them.  
+  （这些说明太**模棱两可**，没人能照着做。）  
+**记忆技巧**: 词根“ambi-”（两边） + “guous”（走）→ 在两边走，立场不明确 → **模糊的**
 
 ---
 
-### 2. **prevalence**
-*   **音标**：/ˈprevələns/
-*   **词性**：n. (名词)
-*   **中文释义**：流行；盛行；普遍性
-*   **例句**：
-    *   The **prevalence** of smartphones has fundamentally changed how we communicate.
-    *   智能手机的**普及**从根本上改变了我们的交流方式。
-*   **记忆技巧**：词根词缀： “pre-”(在前) + “val-”(强壮的) + “-ence”(名词后缀) → 强壮地存在于前 → 盛行。
+### 2. scrutinize
+**音标**: /ˈskruːtənaɪz/  
+**词性**: 动词  
+**中文释义**: 仔细检查；细察  
+**例句**:  
+- The tax authorities will **scrutinize** every detail of your financial report.  
+  （税务部门会**仔细审查**你财务报告的每个细节。）  
+**记忆技巧**: 联想 “screen”（屏幕） + “-ize” → 像用放大镜在屏幕上检查 → **细察**
 
 ---
 
-### 3. **facilitate**
-*   **音标**：/fəˈsɪlɪteɪt/
-*   **词性**：v. (动词)
-*   **中文释义**：促进；使便利；推动
-*   **例句**：
-    *   The new software is designed to **facilitate** collaboration among remote team members.
-    *   这款新软件旨在**促进**远程团队成员之间的协作。
-*   **记忆技巧**：词根词缀：来自“facility”(便利；设施)。把事情变得更容易（facility），就是在“促进”它。
+### 3. tangible
+**音标**: /ˈtændʒəbl/  
+**词性**: 形容词  
+**中文释义**: 有形的；可触摸的；切实的  
+**例句**:  
+- We need **tangible** evidence to support our hypothesis.  
+  （我们需要**切实的**证据来支持我们的假设。）  
+**记忆技巧**: 词根 “tang”（触摸） → 可触摸到的 → **有形的**
 
 ---
 
-### 4. **integrity**
-*   **音标**：/ɪnˈteɡrəti/
-*   **词性**：n. (名词)
-*   **中文释义**：1. 正直；诚实 2. 完整；完好
-*   **例句**：
-    *   A researcher must uphold the highest standards of professional **integrity**.
-    *   研究人员必须恪守最高的职业操守（**正直**）。
-*   **记忆技巧**：词根词缀：“in-”(不) + “teg-”(接触) + “-rity” → 未被触碰 → 保持完整、纯洁的状态。
+### 4. eloquent
+**音标**: /ˈeləkwənt/  
+**词性**: 形容词  
+**中文释义**: 雄辩的；有说服力的  
+**例句**:  
+- She gave an **eloquent** speech that moved the audience to tears.  
+  （她发表了**雄辩的**演讲，感动得观众落泪。）  
+**记忆技巧**: 词根 “e-”（出） + “loqu”（说） + “-ent” → 能说出来的 → **雄辩的**
 
 ---
 
-### 5. **comprehensive**
-*   **音标**：/ˌkɑːmprɪˈhensɪv/
-*   **词性**：adj. (形容词)
-*   **中文释义**：综合的；全面的；广泛的
-*   **例句**：
-    *   We need a **comprehensive** plan that addresses both economic and environmental concerns.
-    *   我们需要一个**全面的**计划，以解决经济和环境两方面的问题。
-*   **记忆技巧**：词根词缀：“com-”(一起) + “prehend”(抓住) + “-ive”(形容词后缀) → 一起抓住所有部分的 → 全面的。
+### 5. subordinate
+**音标**: /səˈbɔːrdɪnət/  
+**词性**: 名词/形容词  
+**中文释义**: 下级；次要的；从属的  
+**例句**:  
+- A good leader knows how to delegate tasks to **subordinates**.  
+  （优秀的领导者懂得如何向下级委派任务。）  
+**记忆技巧**: 前缀 “sub-”（下） + “ordin”（顺序） → 顺序在下面 → **从属的**
 
 ---
 
-### 6. **elaborate**
-*   **音标**：/ɪˈlæbəreɪt/ (v.) / ɪˈlæbərət/ (adj.)
-*   **词性**：v./adj. (动词/形容词)
-*   **中文释义**：v. 详细阐述；精心制作 adj. 精心的；复杂的
-*   **例句**：
-    *   Could you **elaborate** on your proposal so we can better understand its feasibility?
-    *   你能**详细阐述**一下你的提案吗？这样我们能更好地理解其可行性。
-*   **记忆技巧**：词根词缀：“e-”(出) + “labor”(劳动) + “-ate” → 投入大量劳动做出来 → 引申为详细阐述、精心制作。
+### 6. resilient
+**音标**: /rɪˈzɪliənt/  
+**词性**: 形容词  
+**中文释义**: 有韧性的；恢复力强的  
+**例句**:  
+- Children are often more **resilient** than adults in adapting to change.  
+  （孩子在适应变化时往往比成人更有**韧性**。）  
+**记忆技巧**: 联想 “re-”（再次） + “sili”（跳） → 能再次跳起来 → **有恢复力的**
 
 ---
 
-### 7. **conversely**
-*   **音标**：/ˈkɑːnvɜːrsli/
-*   **词性**：adv. (副词)
-*   **中文释义**：相反地；反过来说
-*   **例句**：
-    *   High unemployment often leads to social unrest; **conversely**, low unemployment can boost economic confidence.
-    *   高失业率常导致社会动荡；**反过来**，低失业率能提振经济信心。
-*   **记忆技巧**：词根词缀：来自“converse”(相反的) + “-ly”(副词后缀)。记住“reverse”(相反)，意思相近。
+### 7. ubiquitous
+**音标**: /juːˈbɪkwɪtəs/  
+**词性**: 形容词  
+**中文释义**: 无所不在的；普遍存在的  
+**例句**:  
+- Smartphones have become **ubiquitous** in modern society.  
+  （智能手机在当今社会已**无处不在**。）  
+**记忆技巧**: 联想 “u-biqui-tous” → “U”（你） + “biqui”（必去） → 你必去的地方都存在 → **普遍的**
 
 ---
 
-### 8. **resilience**
-*   **音标**：/rɪˈzɪliəns/
-*   **词性**：n. (名词)
-*   **中文释义**：韧性；恢复力；适应力
-*   **例句**：
-    *   The **resilience** of the local community was evident in how quickly they rebuilt after the disaster.
-    *   当地社区的**韧性**在他们灾后迅速重建中得到了充分体现。
-*   **记忆技巧**：联想记忆：来自“resilient”(有弹性的；能恢复的)。想象橡胶的“弹性”，就是一种“韧性”。
+### 8. deteriorate
+**音标**: /dɪˈtɪriəreɪt/  
+**词性**: 动词  
+**中文释义**: 恶化；变坏  
+**例句**:  
+- His health began to **deteriorate** rapidly after the diagnosis.  
+  （确诊后他的健康开始迅速**恶化**。）  
+**记忆技巧**: 词根 “de-”（向下） + “terior”（更坏） → 变得更坏 → **恶化**
 
 ---
 
-### 9. **scrutiny**
-*   **音标**：/ˈskruːtəni/
-*   **词性**：n. (名词)
-*   **中文释义**：仔细检查；详细审查；监督
-*   **例句**：
-    *   The new policy will be subject to public **scrutiny** before it is implemented.
-    *   新政策在实施前将接受公众的**审视**。
-*   **记忆技巧**：联想记忆：发音像“screw”(螺丝) + “tiny”(微小的)。像用螺丝刀检查每个微小部分 → 仔细审查。
+### 9. pragmatic
+**音标**: /præɡˈmætɪk/  
+**词性**: 形容词  
+**中文释义**: 务实的；注重实效的  
+**例句**:  
+- We need a more **pragmatic** approach to solve this problem.  
+  （我们需要更**务实的**方法来解决这个问题。）  
+**记忆技巧**: 联想 “prag-”（实践） + “matic” → 注重实践的 → **务实的**
 
 ---
 
-### 10. **accordingly**
-*   **音标**：/əˈkɔːrdɪŋli/
-*   **词性**：adv. (副词)
-*   **中文释义**：因此；相应地；照着（做）
-*   **例句**：
-    *   The budget has been significantly reduced, and our project plans must be adjusted **accordingly**.
-    *   预算已被大幅削减，我们的项目计划也必须**相应地**做出调整。
-*   **记忆技巧**：词根词缀：来自“according”(根据…) + “-ly”(副词后缀) → 根据情况地 → 相应地。
+### 10. inadvertently
+**音标**: /ˌɪnədˈvɜːrtəntli/  
+**词性**: 副词  
+**中文释义**: 不经意地；无意中  
+**例句**:  
+- He **inadvertently** deleted the important file from his computer.  
+  （他**无意中**从电脑里删除了重要文件。）  
+**记忆技巧**: 前缀 “in-”（不） + “ad-”（向） + “vert”（转） → 注意没有转向 → **无意中**
 
 ---
 
-### 📝 今日学习小贴士
-1.  **词性搭配**：注意动词**elaborate**作及物动词时常与 `on` 连用 (elaborate on sth)。
-2.  **一词多义**：**integrity** 和 **elaborate** 都有多个词性，根据上下文判断意思。
-3.  **语境记忆**：大声朗读例句，感受单词在句子中的实际用法。
+### 11. paradigm
+**音标**: /ˈpærədaɪm/  
+**词性**: 名词  
+**中文释义**: 范式；典范；模式  
+**例句**:  
+- The discovery of DNA created a new **paradigm** in biology.  
+  （DNA的发现创造了生物学的新**范式**。）  
+**记忆技巧**: 联想 “para-”（旁边） + “digm”（显示） → 显示在旁边作为参考 → **典范**
 
-坚持就是胜利！明天见！🚀
+---
+
+### 12. accordingly
+**音标**: /əˈkɔːrdɪŋli/  
+**词性**: 副词  
+**中文释义**: 因此；相应地  
+**例句**:  
+- The weather was terrible; **accordingly**, we cancelled the picnic.  
+  （天气很糟，**因此**我们取消了野餐。）  
+**记忆技巧**: 来自 “according to”（根据） → 根据情况 → **相应地**
+
+---
+
+## 💡 今日学习小贴士
+1. **反复朗读**：跟着音标读3遍，培养语感  
+2. **造句练习**：每个词造一个自己的句子  
+3. **联想记忆**：用记忆技巧中的联想建立词汇网络  
+4. **复习检测**：明天复习今天的词汇，加深印象
+
+坚持每天积累，你会发现自己对六级词汇越来越熟悉！加油！💪
