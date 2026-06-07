@@ -1,145 +1,211 @@
-# 📚 六级高频词汇学习 - 第8天
+# 📚 六级高频词汇 · 第9天
 
-今天为你精选12个六级高频词汇，涵盖动词、名词、形容词、副词，每个词汇都配有详细解析和记忆技巧。坚持积累，每天进步一点点！
-
----
-
-### 1. ambiguous
-**音标**: /æmˈbɪɡjuəs/  
-**词性**: 形容词  
-**中文释义**: 模棱两可的；含糊不清的  
-**例句**:  
-- The instructions were so **ambiguous** that no one could follow them.  
-  （这些说明太**模棱两可**，没人能照着做。）  
-**记忆技巧**: 词根“ambi-”（两边） + “guous”（走）→ 在两边走，立场不明确 → **模糊的**
+> **今日寄语**：词汇是语言的砖石，每日积累，终将筑成通达的桥梁。坚持就是胜利！
 
 ---
 
-### 2. scrutinize
-**音标**: /ˈskruːtənaɪz/  
-**词性**: 动词  
-**中文释义**: 仔细检查；细察  
-**例句**:  
-- The tax authorities will **scrutinize** every detail of your financial report.  
-  （税务部门会**仔细审查**你财务报告的每个细节。）  
-**记忆技巧**: 联想 “screen”（屏幕） + “-ize” → 像用放大镜在屏幕上检查 → **细察**
+### 1. prevalent
+**音标**： /ˈprevələnt/
+**词性**： 形容词 (adj.)
+**释义**： 盛行的；普遍的；流行的
+**例句**：
+> *The use of smartphones has become prevalent among teenagers.*
+> 智能手机的使用在青少年中已变得十分普遍。
+**记忆技巧**：
+  词根 `preval-`（意为“有力量的”）+ `-ent`（形容词后缀）→ 有力量地存在的 → 盛行的。
+  联想：`prevalent` 发音类似“扑来文特”，想象一种流行趋势“扑面而来”。
 
 ---
 
-### 3. tangible
-**音标**: /ˈtændʒəbl/  
-**词性**: 形容词  
-**中文释义**: 有形的；可触摸的；切实的  
-**例句**:  
-- We need **tangible** evidence to support our hypothesis.  
-  （我们需要**切实的**证据来支持我们的假设。）  
-**记忆技巧**: 词根 “tang”（触摸） → 可触摸到的 → **有形的**
+### 2. deteriorate
+**音标**： /dɪˈtɪriəreɪt/
+**词性**： 动词 (v.)
+**释义**： 恶化；变坏；退化
+**例句**：
+> *His health began to deteriorate rapidly after the diagnosis.*
+> 确诊后，他的健康状况开始迅速恶化。
+**记忆技巧**：
+  词根 `terior`（更坏的，比较级）+ `-ate`（动词后缀）→ 使变得更坏 → 恶化。
+  联想：`de-`（向下）+ `terior`（差的）+ `ate` → 一路向下变得更差。
 
 ---
 
-### 4. eloquent
-**音标**: /ˈeləkwənt/  
-**词性**: 形容词  
-**中文释义**: 雄辩的；有说服力的  
-**例句**:  
-- She gave an **eloquent** speech that moved the audience to tears.  
-  （她发表了**雄辩的**演讲，感动得观众落泪。）  
-**记忆技巧**: 词根 “e-”（出） + “loqu”（说） + “-ent” → 能说出来的 → **雄辩的**
+### 3. controversy
+**音标**： /ˈkɑːntrəvɜːrsi/
+**词性**： 名词 (n.)
+**释义**： 争论；争议；论战
+**例句**：
+> *The new policy has sparked considerable controversy among the public.*
+> 新政策在公众中引发了相当大的争议。
+**记忆技巧**：
+  词根 `contra-`（相反）+ `vers`（转向）+ `-y`（名词后缀）→ 转向相反方向 → 引发争论。
+  联想：`contra` 想成“反”，`versy` 想成“verse 诗句”→ 反着念的诗句引发争议。
 
 ---
 
-### 5. subordinate
-**音标**: /səˈbɔːrdɪnət/  
-**词性**: 名词/形容词  
-**中文释义**: 下级；次要的；从属的  
-**例句**:  
-- A good leader knows how to delegate tasks to **subordinates**.  
-  （优秀的领导者懂得如何向下级委派任务。）  
-**记忆技巧**: 前缀 “sub-”（下） + “ordin”（顺序） → 顺序在下面 → **从属的**
+### 4. subsequent
+**音标**： /ˈsʌbsɪkwənt/
+**词性**： 形容词 (adj.)
+**释义**： 随后的；后来的；接着的
+**例句**：
+> *The initial meeting was successful, and subsequent discussions were productive.*
+> 初次会议很成功，随后的讨论也富有成效。
+**记忆技巧**：
+  词根 `sub-`（在下面，引申为“继……之后”）+ `sequ`（跟随）+ `-ent` → 跟随其后的 → 随后的。
+  联想：`sub`（在下）+ `sequent`（序列的）→ 序列中在下的 → 之后的。
 
 ---
 
-### 6. resilient
-**音标**: /rɪˈzɪliənt/  
-**词性**: 形容词  
-**中文释义**: 有韧性的；恢复力强的  
-**例句**:  
-- Children are often more **resilient** than adults in adapting to change.  
-  （孩子在适应变化时往往比成人更有**韧性**。）  
-**记忆技巧**: 联想 “re-”（再次） + “sili”（跳） → 能再次跳起来 → **有恢复力的**
+### 5. skeptical
+**音标**： /ˈskeptɪkl/
+**词性**： 形容词 (adj.)
+**释义**： 怀疑的；多疑的
+**例句**：
+> *Many scientists remain skeptical about the long-term effects of the treatment.*
+> 许多科学家仍对这种疗法的长期效果持怀疑态度。
+**记忆技巧**：
+  词根 `sceptic-`（怀疑者）+ `-al`（形容词后缀）→ 像怀疑者一样的 → 怀疑的。
+  联想：`skeptic` 发音像“死开谱”，有人给你一个“谱”，你说“死开，我怀疑！”
 
 ---
 
-### 7. ubiquitous
-**音标**: /juːˈbɪkwɪtəs/  
-**词性**: 形容词  
-**中文释义**: 无所不在的；普遍存在的  
-**例句**:  
-- Smartphones have become **ubiquitous** in modern society.  
-  （智能手机在当今社会已**无处不在**。）  
-**记忆技巧**: 联想 “u-biqui-tous” → “U”（你） + “biqui”（必去） → 你必去的地方都存在 → **普遍的**
+### 6. scrutinize
+**音标**： /ˈskruːtənaɪz/
+**词性**： 动词 (v.)
+**释义**： 仔细检查；细读；审查
+**例句**：
+> *The committee will scrutinize every detail of the proposal.*
+> 委员会将仔细审查提案的每一个细节。
+**记忆技巧**：
+  词根 `scrutin-`（检查、搜寻）+ `-ize`（动词后缀）→ 进行检查 → 仔细检查。
+  联想：`scrutiny`（审查）的动词形式，想象用放大镜“仔细查看”每一处。
 
 ---
 
-### 8. deteriorate
-**音标**: /dɪˈtɪriəreɪt/  
-**词性**: 动词  
-**中文释义**: 恶化；变坏  
-**例句**:  
-- His health began to **deteriorate** rapidly after the diagnosis.  
-  （确诊后他的健康开始迅速**恶化**。）  
-**记忆技巧**: 词根 “de-”（向下） + “terior”（更坏） → 变得更坏 → **恶化**
+### 7. remedy
+**音标**： /ˈremədi/
+**词性**： 名词 (n.) / 动词 (v.)
+**释义**： 
+  (n.) 补救措施；治疗法；赔偿
+  (v.) 补救；纠正；治疗
+**例句**：
+> *There is no simple remedy for this complex social issue.*
+> 对于这个复杂的社会问题，没有简单的解决办法。
+> *We must take immediate action to remedy the situation.*
+> 我们必须立即采取行动来补救这种情况。
+**记忆技巧**：
+  词根 `re-`（再）+ `med`（治疗）→ 再次治疗 → 补救、治疗。
+  联想：`remedy` 包含 `remedy`（我），想到“我需要一种治疗方法”。
 
 ---
 
-### 9. pragmatic
-**音标**: /præɡˈmætɪk/  
-**词性**: 形容词  
-**中文释义**: 务实的；注重实效的  
-**例句**:  
-- We need a more **pragmatic** approach to solve this problem.  
-  （我们需要更**务实的**方法来解决这个问题。）  
-**记忆技巧**: 联想 “prag-”（实践） + “matic” → 注重实践的 → **务实的**
+### 8. reluctantly
+**音标**： /rɪˈlʌktəntli/
+**词性**： 副词 (adv.)
+**释义**： 不情愿地；勉强地
+**例句**：
+> *He reluctantly agreed to postpone the meeting.*
+> 他不情愿地同意推迟会议。
+**记忆技巧**：
+  词根 `re-`（反）+ `luct`（挣扎）+ `-ant`（形容词）+ `-ly`（副词）→ 反抗挣扎地 → 不情愿地。
+  联想：`luct` 类似“lock”，被锁住（locked）→ 不情愿。
 
 ---
 
-### 10. inadvertently
-**音标**: /ˌɪnədˈvɜːrtəntli/  
-**词性**: 副词  
-**中文释义**: 不经意地；无意中  
-**例句**:  
-- He **inadvertently** deleted the important file from his computer.  
-  （他**无意中**从电脑里删除了重要文件。）  
-**记忆技巧**: 前缀 “in-”（不） + “ad-”（向） + “vert”（转） → 注意没有转向 → **无意中**
+### 9. vulnerable
+**音标**： /ˈvʌlnərəbl/
+**词性**： 形容词 (adj.)
+**释义**： 脆弱的；易受伤的；易受攻击的
+**例句**：
+> *Children and the elderly are particularly vulnerable to the disease.*
+> 儿童和老年人尤其容易感染这种疾病。
+**记忆技巧**：
+  词根 `vulner-`（伤害）+ `-able`（能够的）→ 能够被伤害的 → 脆弱的。
+  联想：`vuln` 类似 `vulture`（秃鹫），`able`（能）→ 秃鹫能够伤害的 → 脆弱的。
 
 ---
 
-### 11. paradigm
-**音标**: /ˈpærədaɪm/  
-**词性**: 名词  
-**中文释义**: 范式；典范；模式  
-**例句**:  
-- The discovery of DNA created a new **paradigm** in biology.  
-  （DNA的发现创造了生物学的新**范式**。）  
-**记忆技巧**: 联想 “para-”（旁边） + “digm”（显示） → 显示在旁边作为参考 → **典范**
+### 10. hypothesis
+**音标**： /haɪˈpɑːθəsɪs/
+**词性**： 名词 (n.)
+**释义**： 假设；假说；前提
+**例句**：
+> *The experiment was designed to test her hypothesis.*
+> 该实验旨在验证她的假设。
+**记忆技巧**：
+  词根 `hypo-`（在下面）+ `thesis`（论点）→ 放在下面的基础论点 → 假设。
+  联想：`hypo`（低的）+ `thesis`（论文）→ 比正式论文低一级的是假设。
 
 ---
 
-### 12. accordingly
-**音标**: /əˈkɔːrdɪŋli/  
-**词性**: 副词  
-**中文释义**: 因此；相应地  
-**例句**:  
-- The weather was terrible; **accordingly**, we cancelled the picnic.  
-  （天气很糟，**因此**我们取消了野餐。）  
-**记忆技巧**: 来自 “according to”（根据） → 根据情况 → **相应地**
+### 11. diminish
+**音标**： /dɪˈmɪnɪʃ/
+**词性**： 动词 (v.)
+**释义**： 减少；缩小；贬低
+**例句**：
+> *Nothing could diminish her enthusiasm for the project.*
+> 没有什么能减弱她对这个项目的热情。
+**记忆技巧**：
+  词根 `di-`（使...加强）+ `min`（小）+ `-ish`（动词后缀）→ 使变得更小 → 减少。
+  联想：`dim`（暗淡）+ `inish`（结束）→ 像灯光暗淡直至结束，逐渐减少。
 
 ---
 
-## 💡 今日学习小贴士
-1. **反复朗读**：跟着音标读3遍，培养语感  
-2. **造句练习**：每个词造一个自己的句子  
-3. **联想记忆**：用记忆技巧中的联想建立词汇网络  
-4. **复习检测**：明天复习今天的词汇，加深印象
+### 12. integrate
+**音标**： /ˈɪntɪɡreɪt/
+**词性**： 动词 (v.)
+**释义**： 整合；使融合；使一体化
+**例句**：
+> *It takes time to integrate new members into the team.*
+> 将新成员融入团队需要时间。
+**记忆技巧**：
+  词根 `integr-`（完整的）+ `-ate`（动词后缀）→ 使成为一个整体 → 整合。
+  联想：`in`（进入）+ `tegre`（想象“特哥”）+ `ate`（吃）→ 特哥把大家整合在一起吃饭。
 
-坚持每天积累，你会发现自己对六级词汇越来越熟悉！加油！💪
+---
+
+### 13. ambiguous
+**音标**： /æmˈbɪɡjuəs/
+**词性**： 形容词 (adj.)
+**释义**： 模棱两可的；含糊不清的；有歧义的
+**例句**：
+> *His ambiguous reply left everyone confused.*
+> 他模棱两可的回复让所有人都很困惑。
+**记忆技巧**：
+  词根 `ambi-`（两边）+ `gu`（引导）+ `-ous`（形容词后缀）→ 引向两边的 → 模棱两可的。
+  联想：`ambi`（两个）+ `gu`（谷歌）→ 谷歌一下有两结果，信息模糊不清。
+
+---
+
+### 14. profound
+**音标**： /prəˈfaʊnd/
+**词性**： 形容词 (adj.)
+**释义**： 深刻的；渊博的；极度的
+**例句**：
+> *The book had a profound impact on her outlook on life.*
+> 这本书对她的人生观产生了深刻的影响。
+**记忆技巧**：
+  词根 `pro-`（向前）+ `found`（基础）→ 向前触及基础 → 深刻的。
+  联想：`profound` 包含 `pro`（职业的）和 `found`（找到）→ 职业找到的深度 → 深刻的。
+
+---
+
+### 15. persist
+**音标**： /pərˈsɪst/
+**词性**： 动词 (v.)
+**释义**： 坚持；持续；固执己见
+**例句**：
+> *She persisted in her efforts despite numerous setbacks.*
+> 尽管屡遭挫折，她仍坚持不懈。
+**记忆技巧**：
+  词根 `per-`（贯穿）+ `sist`（站立）→ 自始至终站立 → 坚持。
+  联想：`per`（每次）+ `sist`（姐妹）→ 每次姐妹都“站”在一起，坚持到底。
+
+---
+
+> **✨ 今日学习小贴士**：
+> 1. 尝试用今天学习的词汇各造一个句子。
+> 2. 重点记忆那些对你来说比较陌生的词。
+> 3. 结合例句理解词汇的语境用法，比单纯记中文意思更有效。
+
+祝你学习愉快，每天进步一点点！💪
