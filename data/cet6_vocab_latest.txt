@@ -1,152 +1,168 @@
-# 🎯 六级高频词汇学习 | Day 10
-
-今天是六级备考的**第10天**，继续保持积累！本日学习12个核心词汇。
+# 📚 六级高频词汇学习（第11天）
 
 ---
 
-### 1. alleviate
-*   **音标**：/əˈliːvieɪt/
-*   **词性**：v. 减轻，缓和
-*   **中文释义**：使（痛苦、问题等）易于忍受，减轻
-*   **例句**：
-    *   The government implemented measures to **alleviate** poverty in rural areas.
-    *   政府实施了措施以**减轻**农村地区的贫困。
-*   **记忆技巧**：
-    *   **词根词缀**：前缀 **al-** (=ad-，表示“朝向”) + **levi** (轻的，来自拉丁语 levare) + **-ate** (动词后缀)。核心意思是“使之变轻”，即“减轻”。
+## 1. **elaborate**
+*   **音标**：/ɪˈlæbərət/
+*   **词性**：  
+    - 形容词 (adj.) 精心制作的；详尽的  
+    - 动词 (v.) 详细说明；精心制作
+*   **中文释义**：精心的；复杂的；详细阐述
+*   **例句**：  
+    **英文**：She had prepared an **elaborate** plan for the project, with every detail accounted for.  
+    **中文**：她为这个项目准备了一个**精心的**计划，考虑到了每个细节。
+*   **记忆技巧**：  
+    - **词根词缀**：e-（出）+ labor（劳动）+ -ate（形容词后缀）→ 花了大量劳动做出来的 → **精心制作的**。  
+    - **联想**：想象一个工匠在“劳动(labor)”下“出来(e-)”了一件“精密的(elaborate)”艺术品。
 
 ---
 
-### 2. ambiguous
-*   **音标**：/æmˈbɪɡjuəs/
-*   **词性**：adj. 模棱两可的，含糊不清的
-*   **中文释义**：有多种解释的，不明确的
-*   **例句**：
-    *   The politician gave an **ambiguous** answer to avoid the sensitive question.
-    *   这位政治家对敏感问题给出了一个**模棱两可的**回答。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语。**ambi-** (两者，周围) + **-guous** (形容词后缀，表示“…状态的”)。原指“在两者之间摇摆不定”，引申为“含义不明确的”。
-
----
-
-### 3. profound
+## 2. **profound**
 *   **音标**：/prəˈfaʊnd/
-*   **词性**：adj. 深刻的，意义深远的；深厚的
-*   **中文释义**：（思想、感情）深的，深切的；（知识）渊博的
-*   **例句**：
-    *   Reading great literature can have a **profound** impact on one’s worldview.
-    *   阅读伟大的文学作品能对一个人的世界观产生**深远的**影响。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语。**pro-** (向前) + **fundus** (底部)。原指“向深处挖掘”，引申为“深刻的”。
+*   **词性**：形容词 (adj.)
+*   **中文释义**：深奥的；意义深远的；深切的
+*   **例句**：  
+    **英文**：The book had a **profound** influence on his view of history.  
+    **中文**：这本书对他的历史观产生了**深远的**影响。
+*   **记忆技巧**：  
+    - **词根词缀**：pro-（向前，深入）+ found（底部）→ 深入到底部的 → **深刻的**。  
+    - **联想**：pro（职业的）+ found（发现）→ 职业人士的“发现”往往很“深刻”。
 
 ---
 
-### 4. deteriorate
-*   **音标**：/dɪˈtɪriəreɪt/
-*   **词性**：v. 恶化，变坏
-*   **中文释义**：（使）变坏，退化，恶化
-*   **例句**：
-    *   Without regular maintenance, the old building began to **deteriorate** rapidly.
-    *   没有定期维护，这座老建筑开始迅速**恶化**。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语。**de-** (向下) + **ter** (地，地球) + **-iorate** (动词后缀，比较级形式)。字面意思是“变得更差”，即“恶化”。
+## 3. **vulnerable**
+*   **音标**：/ˈvʌlnərəbl/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：脆弱的；易受伤的；易受攻击的
+*   **例句**：  
+    **英文**：Children are particularly **vulnerable** to the effects of pollution.  
+    **中文**：儿童特别容易受到污染的**影响**。
+*   **记忆技巧**：  
+    - **联想**：词根 vulner（伤口）+ -able（易…的）→ 容易留下伤口的 → **脆弱的**。可以联想“Vulner”看起来像“Vulner”（漏洞）。
 
 ---
 
-### 5. resilient
+## 4. **relinquish**
+*   **音标**：/rɪˈlɪŋkwɪʃ/
+*   **词性**：动词 (v.)
+*   **中文释义**：放弃；交出；让渡
+*   **例句**：  
+    **英文**：He reluctantly **relinquished** control of the company to his younger brother.  
+    **中文**：他不情愿地将公司的控制权**让渡**给了他的弟弟。
+*   **记忆技巧**：  
+    - **词根词缀**：re-（向后）+ linqu（离开，如 leave）+ -ish → 向后离开 → **放弃**。  
+    - **联想**：发音类似“日林快失” → 日本的森林快速失去了（被放弃了）。
+
+---
+
+## 5. **contemptuous**
+*   **音标**：/kənˈtemptʃuəs/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：轻蔑的；蔑视的
+*   **例句**：  
+    **英文**：She gave him a **contemptuous** look and walked away without a word.  
+    **中文**：她给了他一个**轻蔑的**眼神，一言不发地走开了。
+*   **记忆技巧**：  
+    - **词根词缀**：来自 contempt（轻视）+ -uous（形容词后缀）→ 表现出轻视的。  
+    - **联想**：contem（看作 con + tem “tempo”节奏）+ ptuous → 用“con（共同）”的“tempo（节奏）”去轻视别人 → **轻蔑的**。
+
+---
+
+## 6. **aggregate**
+*   **音标**：/ˈæɡrɪɡət/
+*   **词性**：  
+    - 名词 (n.) 总数；合计  
+    - 动词 (v.) 集合；合计  
+    - 形容词 (adj.) 总计的
+*   **中文释义**：总计；聚集；合计
+*   **例句**：  
+    **英文**：The **aggregate** of all the donations was over a million dollars.  
+    **中文**：所有捐款的**总额**超过了一百万美元。
+*   **记忆技巧**：  
+    - **词根词缀**：ag-（加强）+ greg（聚集，如 gregarious 群居的）+ -ate → 不断聚集 → **总计**。  
+    - **联想**：A同学和G同学“ag（去）”“gregate（一起）”了，所以总数增加了。
+
+---
+
+## 7. **coherent**
+*   **音标**：/koʊˈhɪrənt/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：连贯的；有条理的；黏合在一起的
+*   **例句**：  
+    **英文**：The teacher praised the student for presenting a clear and **coherent** argument.  
+    **中文**：老师称赞这位学生提出了一个清晰而**连贯的**论点。
+*   **记忆技巧**：  
+    - **词根词缀**：co-（共同）+ her（粘，如 adhere 粘附）+ -ent → 粘在一起的 → **连贯的**。  
+    - **联想**：Cohere（粘合）+ nt → 把想法“粘合”成一个整体 → **有条理的**。
+
+---
+
+## 8. **resilient**
 *   **音标**：/rɪˈzɪliənt/
-*   **词性**：adj. 有弹性的；适应力强的，能迅速恢复的
-*   **中文释义**：（材料）有弹性，回弹；（人）能很快从困境中恢复的
-*   **例句**：
-    *   Children are often more **resilient** than adults in coping with failure.
-    *   孩子们在应对失败时通常比成年人更具**韧性**。
-*   **记忆技巧**：
-    *   **联想记忆**：来自“resilience”（弹性，恢复力）。**Re-** (再次) + **sili** (跳，蹦)。像皮球一样“跳回来”，即“有弹性的、能恢复的”。
+*   **词性**：形容词 (adj.)
+*   **中文释义**：有弹性的；能恢复的；适应力强的
+*   **例句**：  
+    **英文**：Communities must be **resilient** to withstand natural disasters.  
+    **中文**：社区必须具有**适应力**以抵御自然灾害。
+*   **记忆技巧**：  
+    - **词根词缀**：re-（回）+ sil（跳，如 salute）+ -ient → 跳回原状 → **有弹性的，能恢复的**。  
+    - **联想**：Re（重新）+ silient（类似 silent 寂静）→ 在寂静后重新振作 → **适应力强的**。
 
 ---
 
-### 6. scrutinize
-*   **音标**：/ˈskruːtənaɪz/
-*   **词性**：v. 仔细检查，详审
-*   **中文释义**：彻底审查，仔细观察
-*   **例句**：
-    *   The auditors will **scrutinize** every financial record of the company.
-    *   审计员将**仔细审查**公司的每一份财务记录。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 **scrutinium** (搜查)。联想 **scrutin** 看起来像 **screen** (屏幕)，在屏幕上“仔细检查”细节。
+## 9. **substantiate**
+*   **音标**：/səbˈstænʃieɪt/
+*   **词性**：动词 (v.)
+*   **中文释义**：证实；证明；使实体化
+*   **例句**：  
+    **英文**：The police found evidence to **substantiate** the witness’s testimony.  
+    **中文**：警方找到了证据来**证实**证人的证词。
+*   **记忆技巧**：  
+    - **词根词缀**：sub-（下）+ stant（站立，如 stand）+ -iate → 站在下面支撑 → **证实，使坚实**。  
+    - **联想**：sub（下面）+ stance（立场）+ iate → 在你的“立场”下面提供支撑 → **证实**。
 
 ---
 
-### 7. subordinate
-*   **音标**：/səˈbɔːrdɪnət/
-*   **词性**：n. 下属；adj. 次要的，从属的
-*   **中文释义**：下级（人员）；部下。从属的，次要的。
-*   **例句**：
-    *   A good leader knows how to delegate tasks to **subordinates** effectively.
-    *   一个优秀的领导者懂得如何有效地将任务委派给**下属**。
-*   **记忆技巧**：
-    *   **词根词缀**：**sub-** (在...之下) + **ordin** (顺序，等级) + **-ate**。字面意思是“处于较低等级的”，即“下属的”。
+## 10. **ephemeral**
+*   **音标**：/ɪˈfemərəl/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：短暂的；瞬息的；朝生暮死的
+*   **例句**：  
+    **英文**：The beauty of cherry blossoms is **ephemeral**, lasting only a few days.  
+    **中文**：樱花的美丽是**短暂的**，只持续几天。
+*   **记忆技巧**：  
+    - **词根词缀**：epi-（在…上）+ hemer（日，如 hemisphere 半球）+ -al → 只在一天之上的 → **短暂的**。  
+    - **联想**：发音似“e-肥猫了” → 一只肥猫“了”（消失）了，生命很短暂。
 
 ---
 
-### 8. versatile
-*   **音标**：/ˈvɜːrsətl/
-*   **词性**：adj. 多才多艺的，多功能的
-*   **中文释义**：（人）有多种技能的；（物）有多种用途的
-*   **例句**：
-    *   She is a **versatile** actress who can perform both comedy and tragedy.
-    *   她是一位**多才多艺的**女演员，既能演喜剧也能演悲剧。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语。**vers** (转) + **-atile** (形容词后缀)。原指“能转向多个方向的”，引申为“多才多艺的”。
+## 11. **indigenous**
+*   **音标**：/ɪnˈdɪdʒɪnəs/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：本地的；土著的；固有的
+*   **例句**：  
+    **英文**：The festival celebrates the culture of the **indigenous** people of the region.  
+    **中文**：这个节日是为了庆祝该地区**土著**人民的文化。
+*   **记忆技巧**：  
+    - **词根词缀**：in-（内）+ digen（出生，如 generator）+ -ous → 在内部出生的 → **本地的，土著的**。  
+    - **联想**：in（里面）+ digen（像“地根”）→ 从地里生根出来的 → **本地的**。
 
 ---
 
-### 9. perpetual
-*   **音标**：/pərˈpetʃuəl/
-*   **词性**：adj. 永久的，不断的
-*   **中文释义**：没完没了的，无休止的；终身的，永久的
-*   **例句**：
-    *   He lives in a state of **perpetual** anxiety about his future.
-    *   他生活在对未来**无休止的**焦虑之中。
-*   **记忆技巧**：
-    *   **词根词缀**：**per-** (通过，始终) + **pet** (寻求，追求) + **-ual** (形容词后缀)。字面意思是“始终在寻求的”，即“持续不断的”。
+## 12. **pragmatic**
+*   **音标**：/præɡˈmætɪk/
+*   **词性**：形容词 (adj.)
+*   **中文释义**：务实的；实用主义的
+*   **例句**：  
+    **英文**：We need a **pragmatic** approach to solve this complex problem, not just idealistic theories.  
+    **中文**：解决这个复杂问题我们需要一个**务实的**方法，而不仅仅是理想化的理论。
+*   **记忆技巧**：  
+    - **词根词缀**：pragmat-（行动，实践，源自希腊语 pragma）+ -ic → 注重实践的 → **务实的**。  
+    - **联想**：Prag（像“practice”实践）+ matic → 喜欢“实践”的 → **实用的**。
 
 ---
 
-### 10. eloquent
-*   **音标**：/ˈeləkwənt/
-*   **词性**：adj. 雄辩的，有说服力的
-*   **中文释义**：（人）口才好的，雄辩的；（物）意味深长的，有说服力的
-*   **例句**：
-    *   The documentary is an **eloquent** plea for environmental protection.
-    *   这部纪录片是对环境保护**有力的**呼吁。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语。**e-** (出) + **loqu** (说话) + **-ent** (形容词后缀)。意思是“说出来”，且“说得很好”，即“雄辩的”。
+### 📝 今日学习小结：
+今天学习的词汇涵盖了**精心制作(elaborate)、深刻(profound)、脆弱(vulnerable)** 等多种词性，重点记忆了如 **relinquish（放弃）**、**substantiate（证实）** 等动词，以及 **coherent（连贯的）**、**pragmatic（务实的）** 等形容词。建议通过例句理解词义，并利用**词根词缀**（如 pro-“向前”，in-“内”）和**联想记忆**来巩固。
 
----
-
-### 11. prerequisite
-*   **音标**：/ˌpriːˈrekwɪzɪt/
-*   **词性**：n. 先决条件，前提
-*   **中文释义**：（某事发生或成功的）必要条件，先决条件
-*   **例句**：
-    *   A valid passport is a **prerequisite** for applying for a visa abroad.
-    *   一本有效的护照是申请海外签证的**前提**。
-*   **记忆技巧**：
-    *   **词根词缀**：**pre-** (预先) + **requisite** (必需品)。即“预先需要的东西”，也就是“先决条件”。
-
----
-
-### 12. intricate
-*   **音标**：/ˈɪntrɪkət/
-*   **词性**：adj. 错综复杂的
-*   **中文释义**：（图案、设计等）精细而复杂的，错综复杂的
-*   **例句**：
-    *   The novel explores the **intricate** relationships between the characters.
-    *   这部小说探讨了人物之间**错综复杂的**关系。
-*   **记忆技巧**：
-    *   **联想记忆**：**in-** (在...里) + **tric** (联想到 trick, 把戏)。里面有很多“把戏”，所以是“复杂的”。也可以联系 **intrigue** (阴谋，复杂的情节)。
-
----
-**📝 学习提示**：尝试用今天学到的每个单词，结合自己的生活或学习场景，口头造一个句子。这是巩固记忆最有效的方法之一！
-
-**加油，坚持就是胜利！** 💪
+> 💡 学习建议：尝试用今天的词汇各造一个句子，并思考它们在阅读中可能出现的语境。坚持积累，六级词汇量会稳步提升！祝学习愉快！ 📖✨
