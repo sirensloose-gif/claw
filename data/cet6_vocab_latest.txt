@@ -1,172 +1,131 @@
-# 六级高频词汇学习（第12天）
+# 🌟 六级高频词汇·第13天 🌟
 
-以下是今天的12个高频六级词汇，涵盖动词、名词、形容词和副词，帮助你系统提升词汇量。
-
----
-
-### 1. **contemplate**  
-   - **音标**： /ˈkɑːntəmpleɪt/  
-   - **词性**： v.  
-   - **释义**： 深思；注视；打算  
-   - **例句**：  
-     - He sat quietly, **contemplating** the meaning of life.  
-       （他静静地坐着，深思生命的意义。）  
-     - She is **contemplating** a career change.  
-       （她正打算转行。）  
-   - **记忆技巧**： 词根 *cont-*（共同）+ *templ*（寺庙，引申为“沉思场所”） → 在寺庙中共同沉思。
+今天为你准备了 **12个** 六级高频词汇，涵盖动词、名词、形容词、副词等。请坚持每日积累，祝你学习愉快！
 
 ---
 
-### 2. **ambiguous**  
-   - **音标**： /æmˈbɪɡjuəs/  
-   - **词性**： adj.  
-   - **释义**： 模棱两可的；含混不清的  
-   - **例句**：  
-     - The instructions were **ambiguous**, leading to confusion.  
-       （说明模棱两可，导致了混淆。）  
-     - His **ambiguous** reply left us guessing his true intentions.  
-       （他模棱两可的回复让我们猜不透他的真实意图。）  
-   - **记忆技巧**： 词根 *ambi-*（两者）+ *guous*（走） → 在两者之间徘徊，不确定。
+### 1. deteriorate
+*   **音标**: [dɪˈtɪriəreɪt]
+*   **词性**: v.
+*   **中文释义**: 恶化，变坏；退化
+*   **例句**:
+    *   英文: Without proper maintenance, the old building will quickly deteriorate.
+    *   中文: 没有适当的维护，这座老建筑会迅速恶化。
+*   **记忆技巧**:
+    *   词根词缀: `de-` (向下) + `terior` (更坏的，比较级) + `-ate` (动词后缀) → 使变得更坏 → **恶化**。
+
+### 2. chronic
+*   **音标**: [ˈkrɑːnɪk]
+*   **词性**: adj.
+*   **中文释义**: (疾病)慢性的；长期的；习惯性的
+*   **例句**:
+    *   英文: He suffers from chronic back pain that affects his daily life.
+    *   中文: 他患有影响日常生活的慢性背痛。
+*   **记忆技巧**:
+    *   词根词缀: 源自希腊词根 `chron-` (时间) → 与时间相关的、长期的 → **慢性的、长期的**。
+
+### 3. paradox
+*   **音标**: [ˈpærədɑːks]
+*   **词性**: n.
+*   **中文释义**: 矛盾的事物(或人、情况)；悖论
+*   **例句**:
+    *   英文: It’s a paradox that more information can sometimes lead to greater confusion.
+    *   中文: 更多的信息有时会导致更大的困惑，这是一个悖论。
+*   **记忆技巧**:
+    *   联想记忆: `para-` (旁边，超越) + `dox` (观点，意见) → 超越常规的观点 → **悖论，自相矛盾**。
+
+### 4. erode
+*   **音标**: [ɪˈroʊd]
+*   **词性**: v.
+*   **中文释义**: 侵蚀，腐蚀；逐渐削弱
+*   **例句**:
+    *   英文: Wind and rain erode the surface of the rock over thousands of years.
+    *   中文: 风雨在数千年的时间里侵蚀着岩石的表面。
+*   **记忆技巧**:
+    *   词根词缀: `e-` (出) + `rod` (咬) + `-e` → 一点一点地“咬”掉 → **侵蚀**。
+
+### 5. formidable
+*   **音标**: [ˈfɔːrmɪdəbl]
+*   **词性**: adj.
+*   **中文释义**: 强大的；令人敬畏的；难对付的
+*   **例句**:
+    *   英文: Our team faces a formidable challenge in the championship final.
+    *   中文: 我们队在锦标赛决赛中面临强大的挑战。
+*   **记忆技巧**:
+    *   联想记忆: `formid` (恐惧) + `-able` (能够…的) → 能够让人产生恐惧的 → **强大的、可怕的**。
+
+### 6. resilient
+*   **音标**: [rɪˈzɪliənt]
+*   **词性**: adj.
+*   **中文释义**: 有弹性的；适应力强的，能迅速恢复的
+*   **例句**:
+    *   英文: Children are often more resilient than adults after facing a setback.
+    *   中文: 面对挫折时，孩子们通常比成年人更有韧性。
+*   **记忆技巧**:
+    *   词根词缀: `re-` (再) + `sili` (跳，弹) + `-ent` (形容词后缀) → 能再次弹起来的 → **有弹性的、适应力强的**。
+
+### 7. perpetuate
+*   **音标**: [pərˈpetʃueɪt]
+*   **词性**: v.
+*   **中文释义**: 使永存，使持续
+*   **例句**:
+    *   英文: Social media can sometimes perpetuate harmful stereotypes.
+    *   中文: 社交媒体有时会延续有害的刻板印象。
+*   **记忆技巧**:
+    *   词根词缀: `per-` (贯穿) + `pet` (追求) + `-uate` → 一直追求下去 → **使永存**。
+
+### 8. prevalent
+*   **音标**: [ˈprevələnt]
+*   **词性**: adj.
+*   **中文释义**: 流行的，普遍存在的
+*   **例句**:
+    *   英文: Misinformation is prevalent on the internet.
+    *   中文: 虚假信息在网络上普遍存在。
+*   **记忆技巧**:
+    *   词根词缀: `pre-` (前) + `val` (强壮，价值) + `-ent` → 在前面显示其力量的 → **流行的、普遍的**。
+
+### 9. articulate
+*   **音标**: [ɑːrˈtɪkjuleɪt]
+*   **词性**: adj./v.
+*   **中文释义**: (adj.) 善于表达的；(v.) 清楚地说明
+*   **例句**:
+    *   英文: She is an articulate speaker who can explain complex ideas simply.
+    *   中文: 她是一位表达能力强的演讲者，能用简单的方式解释复杂的概念。
+*   **记忆技巧**:
+    *   词根词缀: `articul` (关节，连接) + `-ate` → 像关节一样把话语清晰地连接起来 → **善于表达的**。
+
+### 10. undermine
+*   **音标**: [ˌʌndərˈmaɪn]
+*   **词性**: v.
+*   **中文释义**: 逐渐削弱(权威、力量)；暗中破坏
+*   **例句**:
+    *   英文: Constant criticism will undermine a child’s self-confidence.
+    *   中文: 不断的批评会逐渐削弱孩子的自信心。
+*   **记忆技巧**:
+    *   联想记忆: `under` (在下面) + `mine` (矿井) → 在下面挖矿 → **从根基上破坏、削弱**。
+
+### 11. arbitrary
+*   **音标**: [ˈɑːrbɪtreri]
+*   **词性**: adj.
+*   **中文释义**: 任意的，随意的；武断的
+*   **例句**:
+    *   英文: The decision seemed arbitrary and lacked a logical basis.
+    *   中文: 这个决定看起来很武断，缺乏逻辑基础。
+*   **记忆技巧**:
+    *   词根词缀: `arbitr` (判断，裁决) + `-ary` → 凭个人判断的，而非依据规则的 → **武断的、任意的**。
+
+### 12. arguably
+*   **音标**: [ˈɑːrɡjuəbli]
+*   **词性**: adv.
+*   **中文释义**: 可论证地，可以说
+*   **例句**:
+    *   英文: This is arguably the most important discovery of the century.
+    *   中文: 这可以说是本世纪最重要的发现。
+*   **记忆技巧**:
+    *   词根词缀: `argue` (争论) + `-ably` (可…地) → 可以拿来争论/论证的 → **可以说、可论证地**。
 
 ---
 
-### 3. **resilient**  
-   - **音标**： /rɪˈzɪliənt/  
-   - **词性**： adj.  
-   - **释义**： 有韧性的；适应力强的  
-   - **例句**：  
-     - Children are often more **resilient** than adults think.  
-       （孩子们往往比成年人想象的更具韧性。）  
-     - The economy is **resilient** despite global challenges.  
-       （尽管面临全球挑战，经济依然坚韧。）  
-   - **记忆技巧**： 联想 *re-*（再）+ *sil*（跳）+ *ient* → 反复弹跳的能力 → 韧性。
+**📝 学习小贴士**: 今天这些词汇中，有描述状态的 (`chronic`, `resilient`)，有描述动作的 (`deteriorate`, `erode`, `perpetuate`, `undermine`)，也有评价性的 (`formidable`, `arbitrary`)。可以尝试用它们各造一个句子来加深记忆！
 
----
-
-### 4. **advocate**  
-   - **音标**： /ˈædvəkeɪt/  
-   - **词性**： v. / n.  
-   - **释义**：  
-     - v. 提倡；拥护  
-     - n. 提倡者  
-   - **例句**：  
-     - Many scientists **advocate** for climate action.  
-       （许多科学家提倡采取气候行动。）  
-     - She is a strong **advocate** of education reform.  
-       （她是教育改革的积极拥护者。）  
-   - **记忆技巧**： 词根 *ad-*（向）+ *voc*（声音）→ 向公众发声 → 提倡。
-
----
-
-### 5. **elaborate**  
-   - **音标**： /ɪˈlæbərət/  
-   - **词性**： adj. / v.  
-   - **释义**：  
-     - adj. 精心制作的；详细阐述的  
-     - v. 详细说明  
-   - **例句**：  
-     - Could you **elaborate** on your proposal?  
-       （你能详细说明一下你的提案吗？）  
-     - The design of the palace is extremely **elaborate**.  
-       （宫殿的设计极为精致。）  
-   - **记忆技巧**： 词根 *e-*（出）+ *labor*（劳动）→ 付出劳动做出的 → 精心制作的。
-
----
-
-### 6. **scrutiny**  
-   - **音标**： /ˈskruːtəni/  
-   - **词性**： n.  
-   - **释义**： 仔细检查；详细审查  
-   - **例句**：  
-     - The report has come under intense public **scrutiny**.  
-       （该报告受到了公众的密切关注。）  
-     - His financial records are open to **scrutiny**.  
-       （他的财务记录可供审查。）  
-   - **记忆技巧**： 联想 *scru-*（看）+ *tiny*（细小的） → 仔细看细节 → 审查。
-
----
-
-### 7. **paradigm**  
-   - **音标**： /ˈpærədaɪm/  
-   - **词性**： n.  
-   - **释义**： 范式；典范  
-   - **例句**：  
-     - This discovery represents a **paradigm** shift in physics.  
-       （这一发现代表了物理学的范式转变。）  
-     - He became a **paradigm** of success in business.  
-       （他成了商业成功的典范。）  
-   - **记忆技巧**： 词根 *para-*（旁边）+ *deigm*（例子）→ 作为参考的例子 → 范式。
-
----
-
-### 8. **ambiguous**  
-   - **音标**： /ɪɡˈzɪstənʃəl/  
-   - **词性**： adj.  
-   - **释义**： 存在主义的；与生存有关的  
-   - **例句**：  
-     - The novel explores **existential** themes of identity and purpose.  
-       （这部小说探讨了身份与目的等存在主义主题。）  
-     - She faced an **existential** crisis after losing her job.  
-       （失业后她面临了生存危机。）  
-   - **记忆技巧**： 词根 *exist-*（存在）+ *ential* → 关于存在的 → 存在主义的。
-
----
-
-### 9. **precarious**  
-   - **音标**： /prɪˈkeriəs/  
-   - **词性**： adj.  
-   - **释义**： 不稳定的；危险的  
-   - **例句**：  
-     - The company’s financial situation is **precarious**.  
-       （公司的财务状况岌岌可危。）  
-     - He balanced on the **precarious** ledge.  
-       （他在危险的岩架上保持平衡。）  
-   - **记忆技巧**： 词根 *pre-*（之前）+ *car*（关心）→ 提前担心的 → 不稳定的。
-
----
-
-### 10. **ubiquitous**  
-   - **音标**： /juːˈbɪkwɪtəs/  
-   - **词性**： adj.  
-   - **释义**： 无所不在的；普遍存在的  
-   - **例句**：  
-     - Smartphones have become **ubiquitous** in modern life.  
-       （智能手机在现代生活中无处不在。）  
-     - The **ubiquitous** plastic waste pollutes oceans worldwide.  
-       （无处不在的塑料垃圾污染着全球海洋。）  
-   - **记忆技巧**： 词根 *ubiqui-*（何处）+ *tous* → 出现在任何地方 → 无处不在的。
-
----
-
-### 11. **augment**  
-   - **音标**： /ɔːɡˈment/  
-   - **词性**： v.  
-   - **释义**： 增加；扩充  
-   - **例句**：  
-     - He **augments** his income by teaching part-time.  
-       （他通过兼职教书增加收入。）  
-     - The company plans to **augment** its workforce.  
-       （公司计划扩充员工队伍。）  
-   - **记忆技巧**： 词根 *aug-*（增加）+ *ment* → 增加。
-
----
-
-### 12. **nostalgia**  
-   - **音标**： /nɑːˈstældʒə/  
-   - **词性**： n.  
-   - **释义**： 怀旧；乡愁  
-   - **例句**：  
-     - The old photos filled him with **nostalgia**.  
-       （旧照片让他充满了怀旧之情。）  
-     - She felt a wave of **nostalgia** for her childhood.  
-       （她对童年涌起一阵乡愁。）  
-   - **记忆技巧**： 词根 *nost-*（家）+ *algia*（痛）→ 想家的痛 → 怀旧。
-
----
-
-### 学习建议：
-1. 每天重复朗读例句，强化语感。  
-2. 尝试用每个词造一个新句子，加深记忆。  
-3. 结合词根词缀分析，举一反三。  
-
-**明日预告**：第13天将继续学习侧重“社会”与“科技”主题的高频词汇。坚持积累，六级必胜！ 📚
+坚持就是胜利，明天见！💪
