@@ -1,131 +1,144 @@
-# 🌟 六级高频词汇·第13天 🌟
+# 📚 CET-6 高频词汇学习 | 第14天
 
-今天为你准备了 **12个** 六级高频词汇，涵盖动词、名词、形容词、副词等。请坚持每日积累，祝你学习愉快！
+以下是今日精心挑选的12个六级高频词汇，涵盖名词、动词、形容词和副词，并附上详细解析，助你高效记忆！
 
 ---
 
-### 1. deteriorate
-*   **音标**: [dɪˈtɪriəreɪt]
-*   **词性**: v.
-*   **中文释义**: 恶化，变坏；退化
-*   **例句**:
-    *   英文: Without proper maintenance, the old building will quickly deteriorate.
-    *   中文: 没有适当的维护，这座老建筑会迅速恶化。
-*   **记忆技巧**:
-    *   词根词缀: `de-` (向下) + `terior` (更坏的，比较级) + `-ate` (动词后缀) → 使变得更坏 → **恶化**。
+### 1. contemplate
+**音标**：/ˈkɑːntəmpleɪt/  
+**词性**：动词 (v.)  
+**中文释义**：沉思；考虑；注视  
+**例句**：  
+> He **contemplated** the problem for a long time before giving his answer.  
+> 他**沉思**了很久才给出答案。  
+**记忆技巧**：词根 `con-`（一起） + `temple`（寺庙） + 动词后缀 `-ate` → 在寺庙一起沉思。联想：面对问题，需要“共同沉思”。
 
-### 2. chronic
-*   **音标**: [ˈkrɑːnɪk]
-*   **词性**: adj.
-*   **中文释义**: (疾病)慢性的；长期的；习惯性的
-*   **例句**:
-    *   英文: He suffers from chronic back pain that affects his daily life.
-    *   中文: 他患有影响日常生活的慢性背痛。
-*   **记忆技巧**:
-    *   词根词缀: 源自希腊词根 `chron-` (时间) → 与时间相关的、长期的 → **慢性的、长期的**。
+---
 
-### 3. paradox
-*   **音标**: [ˈpærədɑːks]
-*   **词性**: n.
-*   **中文释义**: 矛盾的事物(或人、情况)；悖论
-*   **例句**:
-    *   英文: It’s a paradox that more information can sometimes lead to greater confusion.
-    *   中文: 更多的信息有时会导致更大的困惑，这是一个悖论。
-*   **记忆技巧**:
-    *   联想记忆: `para-` (旁边，超越) + `dox` (观点，意见) → 超越常规的观点 → **悖论，自相矛盾**。
+### 2. deteriorate
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：动词 (v.)  
+**中文释义**：恶化；变质；退化  
+**例句**：  
+> The weather conditions **deteriorated** rapidly, causing flight delays.  
+> 天气条件**迅速恶化**，导致航班延误。  
+**记忆技巧**：联想“弟弟惹了阿姨” → 情况变坏。词根 `deterior`（更坏） + `-ate` → 使变得更坏。
 
-### 4. erode
-*   **音标**: [ɪˈroʊd]
-*   **词性**: v.
-*   **中文释义**: 侵蚀，腐蚀；逐渐削弱
-*   **例句**:
-    *   英文: Wind and rain erode the surface of the rock over thousands of years.
-    *   中文: 风雨在数千年的时间里侵蚀着岩石的表面。
-*   **记忆技巧**:
-    *   词根词缀: `e-` (出) + `rod` (咬) + `-e` → 一点一点地“咬”掉 → **侵蚀**。
+---
 
-### 5. formidable
-*   **音标**: [ˈfɔːrmɪdəbl]
-*   **词性**: adj.
-*   **中文释义**: 强大的；令人敬畏的；难对付的
-*   **例句**:
-    *   英文: Our team faces a formidable challenge in the championship final.
-    *   中文: 我们队在锦标赛决赛中面临强大的挑战。
-*   **记忆技巧**:
-    *   联想记忆: `formid` (恐惧) + `-able` (能够…的) → 能够让人产生恐惧的 → **强大的、可怕的**。
+### 3. legitimate
+**音标**：/lɪˈdʒɪtɪmət/  
+**词性**：形容词 (adj.)  
+**中文释义**：合法的；正当的；合理的  
+**例句**：  
+> The company claimed its practices were **legitimate** and ethical.  
+> 该公司声称其做法是**合法且道德的**。  
+**记忆技巧**：词根 `legitim`（法律） + `-ate` → 符合法律的。联想：法律认可的 → 合法的。
 
-### 6. resilient
-*   **音标**: [rɪˈzɪliənt]
-*   **词性**: adj.
-*   **中文释义**: 有弹性的；适应力强的，能迅速恢复的
-*   **例句**:
-    *   英文: Children are often more resilient than adults after facing a setback.
-    *   中文: 面对挫折时，孩子们通常比成年人更有韧性。
-*   **记忆技巧**:
-    *   词根词缀: `re-` (再) + `sili` (跳，弹) + `-ent` (形容词后缀) → 能再次弹起来的 → **有弹性的、适应力强的**。
+---
 
-### 7. perpetuate
-*   **音标**: [pərˈpetʃueɪt]
-*   **词性**: v.
-*   **中文释义**: 使永存，使持续
-*   **例句**:
-    *   英文: Social media can sometimes perpetuate harmful stereotypes.
-    *   中文: 社交媒体有时会延续有害的刻板印象。
-*   **记忆技巧**:
-    *   词根词缀: `per-` (贯穿) + `pet` (追求) + `-uate` → 一直追求下去 → **使永存**。
+### 4. arbitrary
+**音标**：/ˈɑːrbɪtreri/  
+**词性**：形容词 (adj.)  
+**中文释义**：任意的；武断的；专横的  
+**例句**：  
+> The manager made an **arbitrary** decision without consulting the team.  
+> 经理未经团队商量就做出了**武断的**决定。  
+**记忆技巧**：联想“阿伯骑车” → 阿伯随心所欲地骑车，很“任意”。词根 `arbitr-`（判断） → 随意判断。
+
+---
+
+### 5. consolidate
+**音标**：/kənˈsɑːlɪdeɪt/  
+**词性**：动词 (v.)  
+**中文释义**：巩固；合并；加强  
+**例句**：  
+> The company plans to **consolidate** its resources to improve efficiency.  
+> 公司计划**整合**资源以提高效率。  
+**记忆技巧**：词根 `con-`（共同） + `solid`（固体） + `-ate` → 使共同变得坚固 → 巩固。
+
+---
+
+### 6. meticulous
+**音标**：/məˈtɪkjələs/  
+**词性**：形容词 (adj.)  
+**中文释义**：一丝不苟的；细致的；挑剔的  
+**例句**：  
+> She is **meticulous** about checking every detail in the report.  
+> 她对报告中的每个细节都**一丝不苟**。  
+**记忆技巧**：联想“每天提裤子” → 每天整理得很细致。词根 `meticul-`（恐惧） → 因害怕出错而格外小心。
+
+---
+
+### 7. redundant
+**音标**：/rɪˈdʌndənt/  
+**词性**：形容词 (adj.)  
+**中文释义**：多余的；冗余的；被裁减的  
+**例句**：  
+> Several employees were made **redundant** due to the company's restructuring.  
+> 因公司重组，几名员工被**裁员**。  
+**记忆技巧**：词根 `redund-`（溢出） + `-ant` → 多到溢出来 → 多余的。
+
+---
 
 ### 8. prevalent
-*   **音标**: [ˈprevələnt]
-*   **词性**: adj.
-*   **中文释义**: 流行的，普遍存在的
-*   **例句**:
-    *   英文: Misinformation is prevalent on the internet.
-    *   中文: 虚假信息在网络上普遍存在。
-*   **记忆技巧**:
-    *   词根词缀: `pre-` (前) + `val` (强壮，价值) + `-ent` → 在前面显示其力量的 → **流行的、普遍的**。
-
-### 9. articulate
-*   **音标**: [ɑːrˈtɪkjuleɪt]
-*   **词性**: adj./v.
-*   **中文释义**: (adj.) 善于表达的；(v.) 清楚地说明
-*   **例句**:
-    *   英文: She is an articulate speaker who can explain complex ideas simply.
-    *   中文: 她是一位表达能力强的演讲者，能用简单的方式解释复杂的概念。
-*   **记忆技巧**:
-    *   词根词缀: `articul` (关节，连接) + `-ate` → 像关节一样把话语清晰地连接起来 → **善于表达的**。
-
-### 10. undermine
-*   **音标**: [ˌʌndərˈmaɪn]
-*   **词性**: v.
-*   **中文释义**: 逐渐削弱(权威、力量)；暗中破坏
-*   **例句**:
-    *   英文: Constant criticism will undermine a child’s self-confidence.
-    *   中文: 不断的批评会逐渐削弱孩子的自信心。
-*   **记忆技巧**:
-    *   联想记忆: `under` (在下面) + `mine` (矿井) → 在下面挖矿 → **从根基上破坏、削弱**。
-
-### 11. arbitrary
-*   **音标**: [ˈɑːrbɪtreri]
-*   **词性**: adj.
-*   **中文释义**: 任意的，随意的；武断的
-*   **例句**:
-    *   英文: The decision seemed arbitrary and lacked a logical basis.
-    *   中文: 这个决定看起来很武断，缺乏逻辑基础。
-*   **记忆技巧**:
-    *   词根词缀: `arbitr` (判断，裁决) + `-ary` → 凭个人判断的，而非依据规则的 → **武断的、任意的**。
-
-### 12. arguably
-*   **音标**: [ˈɑːrɡjuəbli]
-*   **词性**: adv.
-*   **中文释义**: 可论证地，可以说
-*   **例句**:
-    *   英文: This is arguably the most important discovery of the century.
-    *   中文: 这可以说是本世纪最重要的发现。
-*   **记忆技巧**:
-    *   词根词缀: `argue` (争论) + `-ably` (可…地) → 可以拿来争论/论证的 → **可以说、可论证地**。
+**音标**：/ˈprevələnt/  
+**词性**：形容词 (adj.)  
+**中文释义**：流行的；普遍的；盛行的  
+**例句**：  
+> Misinformation on social media is becoming increasingly **prevalent**.  
+> 社交媒体上的错误信息正变得越来越**普遍**。  
+**记忆技巧**：词根 `preval-`（占优势） + `-ent` → 占优势的 → 普遍的。联想：提前（pre）占优势 → 流行。
 
 ---
 
-**📝 学习小贴士**: 今天这些词汇中，有描述状态的 (`chronic`, `resilient`)，有描述动作的 (`deteriorate`, `erode`, `perpetuate`, `undermine`)，也有评价性的 (`formidable`, `arbitrary`)。可以尝试用它们各造一个句子来加深记忆！
+### 9. profound
+**音标**：/prəˈfaʊnd/  
+**词性**：形容词 (adj.)  
+**中文释义**：深刻的；深远的；渊博的  
+**例句**：  
+> The book had a **profound** impact on my understanding of history.  
+> 这本书对我理解历史有**深远的**影响。  
+**记忆技巧**：词根 `pro-`（向前） + `found`（基础） → 向深处探索基础 → 深刻的。
 
-坚持就是胜利，明天见！💪
+---
+
+### 10. subordinate
+**音标**：/səˈbɔːrdɪnət/  
+**词性**：名词 (n.) / 形容词 (adj.)  
+**中文释义**：下属；次要的；从属的  
+**例句**：  
+> He treats his **subordinates** with respect and fairness.  
+> 他尊重并公平地对待他的**下属**。  
+**记忆技巧**：词根 `sub-`（下面） + `ordin-`（顺序） + `-ate` → 顺序在下面 → 下属；次要的。
+
+---
+
+### 11. articulate
+**音标**：/ɑːrˈtɪkjələt/  
+**词性**：形容词 (adj.) / 动词 (v.)  
+**中文释义**：清晰表达的；善于表达的；明确表达  
+**例句**：  
+> She is very **articulate** when explaining complex ideas.  
+> 她在解释复杂概念时**表达清晰**。  
+**记忆技巧**：词根 `articul-`（关节） + `-ate` → 像关节一样连接流畅 → 善于表达。联想：讲话像关节一样灵活。
+
+---
+
+### 12. simultaneously
+**音标**：/ˌsaɪmlˈteɪniəsli/  
+**词性**：副词 (adv.)  
+**中文释义**：同时地；同步地  
+**例句**：  
+> The two events occurred **simultaneously**, causing confusion.  
+> 两个事件**同时**发生，引起了混乱。  
+**记忆技巧**：词根 `simul-`（相同） + `taneous`（时间） + `-ly` → 在相同时间 → 同时地。
+
+---
+
+**✨ 今日学习小贴士**  
+- 每天坚持记忆 10-12 个词汇，并定期复习。  
+- 尝试用每个词汇造一个与自己生活相关的句子，加深印象。  
+- 结合听力、阅读真题，在语境中巩固词汇用法。
+
+祝你备考顺利，每天进步一点点！🎯
