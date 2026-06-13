@@ -1,144 +1,112 @@
-# 📚 CET-6 高频词汇学习 | 第14天
+# 六级词汇学习 · 第15天
 
-以下是今日精心挑选的12个六级高频词汇，涵盖名词、动词、形容词和副词，并附上详细解析，助你高效记忆！
+## 1. ambiguity
+* **音标**: /ˌæmbɪˈɡjuːəti/
+* **词性**: n.
+* **中文释义**: 模糊性；歧义；含糊不清
+* **例句**:
+  * 英文: The ambiguity in the contract terms led to a serious dispute between the two companies.
+  * 中文: 合同条款中的模糊性导致两家公司之间产生了严重纠纷。
+* **记忆技巧**: 词根记忆。ambi- (两边) + guous (想成ague模糊的) + -ity (名词后缀) → 在两边都模糊的状态 → 歧义。
 
----
+## 2. perpetuate
+* **音标**: /pərˈpetʃueɪt/
+* **词性**: v.
+* **中文释义**: 使永存；使持久化；延续（常指不好的事物）
+* **例句**:
+  * 英文: Social media can perpetuate unrealistic standards of beauty and success.
+  * 中文: 社交媒体可能会延续不切实际的美丽和成功标准。
+* **记忆技巧**: 词根记忆。per- (贯穿) + pet (追求，寻求) + -uate (动词后缀) → 一直追求下去 → 使持久。
 
-### 1. contemplate
-**音标**：/ˈkɑːntəmpleɪt/  
-**词性**：动词 (v.)  
-**中文释义**：沉思；考虑；注视  
-**例句**：  
-> He **contemplated** the problem for a long time before giving his answer.  
-> 他**沉思**了很久才给出答案。  
-**记忆技巧**：词根 `con-`（一起） + `temple`（寺庙） + 动词后缀 `-ate` → 在寺庙一起沉思。联想：面对问题，需要“共同沉思”。
+## 3. indispensable
+* **音标**: /ˌɪndɪˈspensəbl/
+* **词性**: adj.
+* **中文释义**: 不可缺少的；必需的
+* **例句**:
+  * 英文: Critical thinking is an indispensable skill for any successful professional.
+  * 中文: 批判性思维是任何成功专业人士不可或缺的技能。
+* **记忆技巧**: 词根记忆。in- (不) + dis- (分开) + pens (花费) + -able (能够…的) → 不能花费出去的 → 不可或缺的。
 
----
+## 4. merely
+* **音标**: /ˈmɪrli/
+* **词性**: adv.
+* **中文释义**: 仅仅；只不过
+* **例句**:
+  * 英文: He is not merely a talented athlete; he is also a dedicated coach.
+  * 中文: 他不仅仅是一名有天赋的运动员；他还是一位敬业的教练。
+* **记忆技巧**: 来自单词 "mere" (仅仅的) + -ly (副词后缀)。
 
-### 2. deteriorate
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：动词 (v.)  
-**中文释义**：恶化；变质；退化  
-**例句**：  
-> The weather conditions **deteriorated** rapidly, causing flight delays.  
-> 天气条件**迅速恶化**，导致航班延误。  
-**记忆技巧**：联想“弟弟惹了阿姨” → 情况变坏。词根 `deterior`（更坏） + `-ate` → 使变得更坏。
+## 5. prevalent
+* **音标**: /ˈprevələnt/
+* **词性**: adj.
+* **中文释义**: 流行的；盛行的；普遍的
+* **例句**:
+  * 英文: Misinformation is prevalent on many online platforms.
+  * 中文: 错误信息在许多网络平台上都很普遍。
+* **记忆技巧**: 词根记忆。pre- (在前) + val (强大的) + -ent (形容词后缀) → 在前面占据强大优势的 → 流行的。
 
----
+## 6. deteriorate
+* **音标**: /dɪˈtɪriəreɪt/
+* **词性**: v.
+* **中文释义**: 恶化；变坏；退化
+* **例句**:
+  * 英文: Without proper maintenance, the building's condition will quickly deteriorate.
+  * 中文: 没有适当的维护，这栋建筑的状况会迅速恶化。
+* **记忆技巧**: 词根记忆。de- (向下) + terior (比较级后缀，更差的) + -ate (动词后缀) → 变得更差 → 恶化。
 
-### 3. legitimate
-**音标**：/lɪˈdʒɪtɪmət/  
-**词性**：形容词 (adj.)  
-**中文释义**：合法的；正当的；合理的  
-**例句**：  
-> The company claimed its practices were **legitimate** and ethical.  
-> 该公司声称其做法是**合法且道德的**。  
-**记忆技巧**：词根 `legitim`（法律） + `-ate` → 符合法律的。联想：法律认可的 → 合法的。
+## 7. pragmatic
+* **音标**: /præɡˈmætɪk/
+* **词性**: adj.
+* **中文释义**: 务实的；注重实效的
+* **例句**:
+  * 英文: We need a pragmatic approach to solve this complex problem, not just theoretical ideas.
+  * 中文: 我们需要一种务实的方法来解决这个复杂问题，而不仅仅是理论上的想法。
+* **记忆技巧**: 词根记忆。pragma- (实践，行动) + -tic (形容词后缀) → 注重行动的 → 务实的。
 
----
+## 8. resilient
+* **音标**: /rɪˈzɪliənt/
+* **词性**: adj.
+* **中文释义**: 有弹性的；能迅速恢复的；适应力强的
+* **例句**:
+  * 英文: Children are often more resilient than adults when facing unexpected changes.
+  * 中文: 面对意外变化时，孩子们通常比成年人更有韧性。
+* **记忆技巧**: 词根记忆。re- (回来) + sil (跳) + -ient (形容词后缀) → 能跳回来的 → 有韧性的。
 
-### 4. arbitrary
-**音标**：/ˈɑːrbɪtreri/  
-**词性**：形容词 (adj.)  
-**中文释义**：任意的；武断的；专横的  
-**例句**：  
-> The manager made an **arbitrary** decision without consulting the team.  
-> 经理未经团队商量就做出了**武断的**决定。  
-**记忆技巧**：联想“阿伯骑车” → 阿伯随心所欲地骑车，很“任意”。词根 `arbitr-`（判断） → 随意判断。
+## 9. consensus
+* **音标**: /kənˈsensəs/
+* **词性**: n.
+* **中文释义**: 共识；一致意见
+* **例句**:
+  * 英文: After hours of debate, the committee finally reached a consensus on the new policy.
+  * 中文: 经过数小时的辩论，委员会最终就新政策达成了共识。
+* **记忆技巧**: 词根记忆。con- (共同) + sensus (感觉) → 共同的感觉 → 共识。
 
----
+## 10. mitigate
+* **音标**: /ˈmɪtɪɡeɪt/
+* **词性**: v.
+* **中文释义**: 缓和；减轻；使缓解
+* **例句**:
+  * 英文: Planting more trees can help mitigate the effects of urban heat islands.
+  * 中文: 种植更多的树木有助于缓解城市热岛效应。
+* **记忆技巧**: 词根记忆。mit- (轻，柔和) + igate (动词后缀) → 使变轻柔 → 缓和。
 
-### 5. consolidate
-**音标**：/kənˈsɑːlɪdeɪt/  
-**词性**：动词 (v.)  
-**中文释义**：巩固；合并；加强  
-**例句**：  
-> The company plans to **consolidate** its resources to improve efficiency.  
-> 公司计划**整合**资源以提高效率。  
-**记忆技巧**：词根 `con-`（共同） + `solid`（固体） + `-ate` → 使共同变得坚固 → 巩固。
+## 11. scrutinize
+* **音标**: /ˈskruːtənaɪz/
+* **词性**: v.
+* **中文释义**: 仔细检查；详细审查
+* **例句**:
+  * 英文: The detective scrutinized every piece of evidence at the crime scene.
+  * 中文: 侦探仔细检查了犯罪现场的每一件证据。
+* **记忆技巧**: 来自词根 "scrutiny" (细察) + -ize (动词后缀)。联想：像用“放大镜”(screw)一样仔细检查。
 
----
-
-### 6. meticulous
-**音标**：/məˈtɪkjələs/  
-**词性**：形容词 (adj.)  
-**中文释义**：一丝不苟的；细致的；挑剔的  
-**例句**：  
-> She is **meticulous** about checking every detail in the report.  
-> 她对报告中的每个细节都**一丝不苟**。  
-**记忆技巧**：联想“每天提裤子” → 每天整理得很细致。词根 `meticul-`（恐惧） → 因害怕出错而格外小心。
-
----
-
-### 7. redundant
-**音标**：/rɪˈdʌndənt/  
-**词性**：形容词 (adj.)  
-**中文释义**：多余的；冗余的；被裁减的  
-**例句**：  
-> Several employees were made **redundant** due to the company's restructuring.  
-> 因公司重组，几名员工被**裁员**。  
-**记忆技巧**：词根 `redund-`（溢出） + `-ant` → 多到溢出来 → 多余的。
-
----
-
-### 8. prevalent
-**音标**：/ˈprevələnt/  
-**词性**：形容词 (adj.)  
-**中文释义**：流行的；普遍的；盛行的  
-**例句**：  
-> Misinformation on social media is becoming increasingly **prevalent**.  
-> 社交媒体上的错误信息正变得越来越**普遍**。  
-**记忆技巧**：词根 `preval-`（占优势） + `-ent` → 占优势的 → 普遍的。联想：提前（pre）占优势 → 流行。
-
----
-
-### 9. profound
-**音标**：/prəˈfaʊnd/  
-**词性**：形容词 (adj.)  
-**中文释义**：深刻的；深远的；渊博的  
-**例句**：  
-> The book had a **profound** impact on my understanding of history.  
-> 这本书对我理解历史有**深远的**影响。  
-**记忆技巧**：词根 `pro-`（向前） + `found`（基础） → 向深处探索基础 → 深刻的。
-
----
-
-### 10. subordinate
-**音标**：/səˈbɔːrdɪnət/  
-**词性**：名词 (n.) / 形容词 (adj.)  
-**中文释义**：下属；次要的；从属的  
-**例句**：  
-> He treats his **subordinates** with respect and fairness.  
-> 他尊重并公平地对待他的**下属**。  
-**记忆技巧**：词根 `sub-`（下面） + `ordin-`（顺序） + `-ate` → 顺序在下面 → 下属；次要的。
+## 12. eloquent
+* **音标**: /ˈeləkwənt/
+* **词性**: adj.
+* **中文释义**: 雄辩的；有口才的；意味深长的
+* **例句**:
+  * 英文: Her eloquent speech moved the audience to tears.
+  * 中文: 她那雄辩的演讲感动得观众流下了眼泪。
+* **记忆技巧**: 词根记忆。e- (出) + loqu (说话) + -ent (形容词后缀) → 说出来的 → 雄辩的。
 
 ---
-
-### 11. articulate
-**音标**：/ɑːrˈtɪkjələt/  
-**词性**：形容词 (adj.) / 动词 (v.)  
-**中文释义**：清晰表达的；善于表达的；明确表达  
-**例句**：  
-> She is very **articulate** when explaining complex ideas.  
-> 她在解释复杂概念时**表达清晰**。  
-**记忆技巧**：词根 `articul-`（关节） + `-ate` → 像关节一样连接流畅 → 善于表达。联想：讲话像关节一样灵活。
-
----
-
-### 12. simultaneously
-**音标**：/ˌsaɪmlˈteɪniəsli/  
-**词性**：副词 (adv.)  
-**中文释义**：同时地；同步地  
-**例句**：  
-> The two events occurred **simultaneously**, causing confusion.  
-> 两个事件**同时**发生，引起了混乱。  
-**记忆技巧**：词根 `simul-`（相同） + `taneous`（时间） + `-ly` → 在相同时间 → 同时地。
-
----
-
-**✨ 今日学习小贴士**  
-- 每天坚持记忆 10-12 个词汇，并定期复习。  
-- 尝试用每个词汇造一个与自己生活相关的句子，加深印象。  
-- 结合听力、阅读真题，在语境中巩固词汇用法。
-
-祝你备考顺利，每天进步一点点！🎯
+**今日学习小结**: 这些词汇涵盖了学术、社会、个人能力等多个方面。请尝试用每个单词造句，并在语境中复习它们。坚持就是胜利，明天见！
