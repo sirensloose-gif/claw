@@ -1,112 +1,128 @@
-# 六级词汇学习 · 第15天
+# 六级高频词汇学习 - 第16天
 
-## 1. ambiguity
-* **音标**: /ˌæmbɪˈɡjuːəti/
-* **词性**: n.
-* **中文释义**: 模糊性；歧义；含糊不清
-* **例句**:
-  * 英文: The ambiguity in the contract terms led to a serious dispute between the two companies.
-  * 中文: 合同条款中的模糊性导致两家公司之间产生了严重纠纷。
-* **记忆技巧**: 词根记忆。ambi- (两边) + guous (想成ague模糊的) + -ity (名词后缀) → 在两边都模糊的状态 → 歧义。
-
-## 2. perpetuate
-* **音标**: /pərˈpetʃueɪt/
-* **词性**: v.
-* **中文释义**: 使永存；使持久化；延续（常指不好的事物）
-* **例句**:
-  * 英文: Social media can perpetuate unrealistic standards of beauty and success.
-  * 中文: 社交媒体可能会延续不切实际的美丽和成功标准。
-* **记忆技巧**: 词根记忆。per- (贯穿) + pet (追求，寻求) + -uate (动词后缀) → 一直追求下去 → 使持久。
-
-## 3. indispensable
-* **音标**: /ˌɪndɪˈspensəbl/
-* **词性**: adj.
-* **中文释义**: 不可缺少的；必需的
-* **例句**:
-  * 英文: Critical thinking is an indispensable skill for any successful professional.
-  * 中文: 批判性思维是任何成功专业人士不可或缺的技能。
-* **记忆技巧**: 词根记忆。in- (不) + dis- (分开) + pens (花费) + -able (能够…的) → 不能花费出去的 → 不可或缺的。
-
-## 4. merely
-* **音标**: /ˈmɪrli/
-* **词性**: adv.
-* **中文释义**: 仅仅；只不过
-* **例句**:
-  * 英文: He is not merely a talented athlete; he is also a dedicated coach.
-  * 中文: 他不仅仅是一名有天赋的运动员；他还是一位敬业的教练。
-* **记忆技巧**: 来自单词 "mere" (仅仅的) + -ly (副词后缀)。
-
-## 5. prevalent
-* **音标**: /ˈprevələnt/
-* **词性**: adj.
-* **中文释义**: 流行的；盛行的；普遍的
-* **例句**:
-  * 英文: Misinformation is prevalent on many online platforms.
-  * 中文: 错误信息在许多网络平台上都很普遍。
-* **记忆技巧**: 词根记忆。pre- (在前) + val (强大的) + -ent (形容词后缀) → 在前面占据强大优势的 → 流行的。
-
-## 6. deteriorate
-* **音标**: /dɪˈtɪriəreɪt/
-* **词性**: v.
-* **中文释义**: 恶化；变坏；退化
-* **例句**:
-  * 英文: Without proper maintenance, the building's condition will quickly deteriorate.
-  * 中文: 没有适当的维护，这栋建筑的状况会迅速恶化。
-* **记忆技巧**: 词根记忆。de- (向下) + terior (比较级后缀，更差的) + -ate (动词后缀) → 变得更差 → 恶化。
-
-## 7. pragmatic
-* **音标**: /præɡˈmætɪk/
-* **词性**: adj.
-* **中文释义**: 务实的；注重实效的
-* **例句**:
-  * 英文: We need a pragmatic approach to solve this complex problem, not just theoretical ideas.
-  * 中文: 我们需要一种务实的方法来解决这个复杂问题，而不仅仅是理论上的想法。
-* **记忆技巧**: 词根记忆。pragma- (实践，行动) + -tic (形容词后缀) → 注重行动的 → 务实的。
-
-## 8. resilient
-* **音标**: /rɪˈzɪliənt/
-* **词性**: adj.
-* **中文释义**: 有弹性的；能迅速恢复的；适应力强的
-* **例句**:
-  * 英文: Children are often more resilient than adults when facing unexpected changes.
-  * 中文: 面对意外变化时，孩子们通常比成年人更有韧性。
-* **记忆技巧**: 词根记忆。re- (回来) + sil (跳) + -ient (形容词后缀) → 能跳回来的 → 有韧性的。
-
-## 9. consensus
-* **音标**: /kənˈsensəs/
-* **词性**: n.
-* **中文释义**: 共识；一致意见
-* **例句**:
-  * 英文: After hours of debate, the committee finally reached a consensus on the new policy.
-  * 中文: 经过数小时的辩论，委员会最终就新政策达成了共识。
-* **记忆技巧**: 词根记忆。con- (共同) + sensus (感觉) → 共同的感觉 → 共识。
-
-## 10. mitigate
-* **音标**: /ˈmɪtɪɡeɪt/
-* **词性**: v.
-* **中文释义**: 缓和；减轻；使缓解
-* **例句**:
-  * 英文: Planting more trees can help mitigate the effects of urban heat islands.
-  * 中文: 种植更多的树木有助于缓解城市热岛效应。
-* **记忆技巧**: 词根记忆。mit- (轻，柔和) + igate (动词后缀) → 使变轻柔 → 缓和。
-
-## 11. scrutinize
-* **音标**: /ˈskruːtənaɪz/
-* **词性**: v.
-* **中文释义**: 仔细检查；详细审查
-* **例句**:
-  * 英文: The detective scrutinized every piece of evidence at the crime scene.
-  * 中文: 侦探仔细检查了犯罪现场的每一件证据。
-* **记忆技巧**: 来自词根 "scrutiny" (细察) + -ize (动词后缀)。联想：像用“放大镜”(screw)一样仔细检查。
-
-## 12. eloquent
-* **音标**: /ˈeləkwənt/
-* **词性**: adj.
-* **中文释义**: 雄辩的；有口才的；意味深长的
-* **例句**:
-  * 英文: Her eloquent speech moved the audience to tears.
-  * 中文: 她那雄辩的演讲感动得观众流下了眼泪。
-* **记忆技巧**: 词根记忆。e- (出) + loqu (说话) + -ent (形容词后缀) → 说出来的 → 雄辩的。
+今天为您准备了12个六级高频核心词汇，涵盖动词、名词、形容词和副词。坚持每日积累，祝您学习愉快！
 
 ---
-**今日学习小结**: 这些词汇涵盖了学术、社会、个人能力等多个方面。请尝试用每个单词造句，并在语境中复习它们。坚持就是胜利，明天见！
+
+### 1. profound
+*   **音标**： [prəˈfaʊnd]
+*   **词性**： adj.
+*   **中文释义**： 深远的；深切的；渊博的
+*   **例句**：
+    *   The book had a **profound** impact on my understanding of history.
+    *   这本书对我理解历史产生了**深远的影响**。
+*   **记忆技巧**：
+    *   **词根词缀**：`pro-`（向前）+ `found`（基础）。意为“深入到基础层面”，引申为“深刻的、深奥的”。
+
+### 2. accumulate
+*   **音标**： [əˈkjuːmjəleɪt]
+*   **词性**： v.
+*   **中文释义**： 积累，积聚，堆积
+*   **例句**：
+    *   Over the years, he **accumulated** a vast amount of knowledge in the field.
+    *   多年来，他在该领域**积累了**大量的知识。
+*   **记忆技巧**：
+    *   **联想记忆**：想象“一个 Q (Q音似‘去’) 在移动 (`-mulate`)”，目标是不断聚集（`-ulate`词缀常表“做”）东西。
+
+### 3. simultaneous
+*   **音标**： [ˌsaɪmlˈteɪniəs]
+*   **词性**： adj.
+*   **中文释义**： 同时发生的；同步的
+*   **例句**：
+    *   The event features **simultaneous** interpretation in three languages.
+    *   该活动提供三种语言的**同声传译**。
+*   **记忆技巧**：
+    *   **词根词缀**：`simul-`（相同）+ `taneous`（形容词后缀）。即“相同的-时间的”，表示“同时的”。
+
+### 4. legislation
+*   **音标**： [ˌledʒɪsˈleɪʃn]
+*   **词性**： n.
+*   **中文释义**： 立法；法律；法规
+*   **例句**：
+    *   New environmental **legislation** aims to reduce carbon emissions.
+    *   新的环境**法规**旨在减少碳排放。
+*   **记忆技巧**：
+    *   **词根词缀**：`legis-`（法律，如 legal）+ `-lation`（名词后缀）。与法律相关的名词就是“立法”。
+
+### 5. restrain
+*   **音标**： [rɪˈstreɪn]
+*   **词性**： v.
+*   **中文释义**： 抑制，克制；约束
+*   **例句**：
+    *   She couldn't **restrain** her excitement when she heard the good news.
+    *   听到这个好消息时，她无法**抑制**自己的兴奋。
+*   **记忆技巧**：
+    *   **词根词缀**：`re-`（回，向后）+ `strain`（拉紧）。意为“向后拉紧”，即“约束、抑制”。
+
+### 6. controversy
+*   **音标**： [ˈkɑːntrəvɜːrsi]
+*   **词性**： n.
+*   **中文释义**： 争论，争议，论战
+*   **例句**：
+    *   The decision sparked a huge public **controversy**.
+    *   该决定引发了巨大的公众**争议**。
+*   **记忆技巧**：
+    *   **词根词缀**：`contra-`（反对）+ `vers`（转）+ `-y`（名词后缀）。意为“相互反对、转向对立面”，引申为“争论”。
+
+### 7. phenomenon
+*   **音标**： [fəˈnɑːmɪnɑːn]
+*   **词性**： n.
+*   **中文释义**： 现象；杰出的人或事物
+*   **例句**：
+    *   The Northern Lights is a natural **phenomenon** of great beauty.
+    *   北极光是一种极其美丽的自然**现象**。
+*   **记忆技巧**：
+    *   **词源**：源自希腊语，意为“被看见的东西”、“显现的事物”。复数形式是 **phenomena**。
+
+### 8. consensus
+*   **音标**： [kənˈsensəs]
+*   **词性**： n.
+*   **中文释义**： 一致意见；共识
+*   **例句**：
+    *   The committee finally reached a **consensus** on the proposal.
+    *   委员会最终就该提案达成了**共识**。
+*   **记忆技巧**：
+    *   **词根词缀**：`con-`（共同）+ `sens-`（感觉）+ `-us`。大家“共同的感觉”，即“一致、共识”。
+
+### 9. controversial
+*   **音标**： [ˌkɑːntrəˈvɜːrʃl]
+*   **词性**： adj.
+*   **中文释义**： 有争议的，引发争论的
+*   **例句**：
+    *   The politician made several **controversial** remarks during the interview.
+    *   这位政治家在采访中发表了几个**有争议的**言论。
+*   **记忆技巧**：
+    *   **词根词缀**：直接来自名词 `controversy`（争议）。`-ious` 是常见的形容词后缀，表示“有…特性的”。
+
+### 10. legitimate
+*   **音标**： [lɪˈdʒɪtɪmət]
+*   **词性**： adj.
+*   **中文释义**： 合法的；正当的；合理的
+*   **例句**：
+    *   He has a **legitimate** reason for being absent from the meeting.
+    *   他缺席会议有一个**正当的**理由。
+*   **记忆技巧**：
+    *   **联想记忆**：`legi-` 联想到 `legal`（法律的），`-timate`。合乎法律（`legal`）的，就是“合法的”。
+
+### 11. vulnerable
+*   **音标**： [ˈvʌlnərəbl]
+*   **词性**： adj.
+*   **中文释义**： 脆弱的；易受攻击的；易受影响的
+*   **例句**：
+    *   Children and the elderly are **vulnerable** to extreme weather conditions.
+    *   儿童和老人容易受到极端天气条件的**影响**。
+*   **记忆技巧**：
+    *   **词根词缀**：`vulner-`（伤害，如 wound 的古词）+ `-able`（能够…的）。字面意思是“能够被伤害的”，即“脆弱的”。
+
+### 12. simultaneously
+*   **音标**： [ˌsaɪmlˈteɪniəsli]
+*   **词性**： adv.
+*   **中文释义**： 同时地；同步地
+*   **例句**：
+    *   The system can process multiple tasks **simultaneously**.
+    *   该系统可以**同时**处理多项任务。
+*   **记忆技巧**：
+    *   **词根词缀**：形容词 `simultaneous`（同时的） + `-ly`（副词后缀）。注意其副词形式与形容词拼写仅差后缀。
+
+---
+**学习小贴士**：建议在学习完每个单词后，尝试用其造句，并思考在何种语境下使用会更地道。祝您备考顺利！
