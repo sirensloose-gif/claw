@@ -1,160 +1,201 @@
-# 六级高频词汇学习 | 第17天
+# 六级高频词汇学习 · 第18天
 
 ---
 
-## 1. convention
-**音标**：/kənˈvenʃn/  
-**词性**：n.  
-**中文释义**：大会；惯例；公约  
-**例句**：The international convention on climate change was signed by 195 countries.  
-**中文翻译**：气候变化国际公约已由195个国家签署。  
-**记忆技巧**：词根 **ven-**（来）+ **con-**（一起）→ 大家一起来参加的“大会”或“惯例”。
+## 1. **profound**
+- **音标**：/prəˈfaʊnd/
+- **词性**：形容词
+- **释义**：深刻的；意义深远的；极度的
+- **例句**：
+  - The book had a **profound** effect on my worldview.  
+    （这本书对我的世界观产生了**深远**的影响。）
+  - She felt a **profound** sense of relief after finishing the exam.  
+    （考试结束后，她感到一种**极大的**解脱。）
+- **记忆技巧**：词根 **pro-**（向前）+ **found**（基础）→ 向深处挖掘基础 → 引申为“深刻的”。
 
 ---
 
-## 2. feasible
-**音标**：/ˈfiːzəbl/  
-**词性**：adj.  
-**中文释义**：可行的；可能的  
-**例句**：The engineer proposed a feasible plan to reduce production costs.  
-**中文翻译**：工程师提出了一个可行的方案来降低生产成本。  
-**记忆技巧**：词根 **feas-**（做，do）+ **-ible**（能…的）→ 能够做成的→“可行的”。
+## 2. **resilient**
+- **音标**：/rɪˈzɪliənt/
+- **词性**：形容词
+- **释义**：有弹性的；能迅速恢复的；适应力强的
+- **例句**：
+  - Children are often more **resilient** than adults in facing changes.  
+    （面对变化时，孩子们往往比成年人更具**适应力**。）
+  - The company showed **resilient** growth despite economic challenges.  
+    （尽管经济形势严峻，该公司仍表现出**强劲的**增长。）
+- **记忆技巧**：词根 **re-**（回）+ **sili**（跳跃）+ **ent** → 能跳回来的 → 有恢复力的。
 
 ---
 
-## 3. authentic
-**音标**：/ɔːˈθentɪk/  
-**词性**：adj.  
-**中文释义**：真正的；可靠的；原汁原味的  
-**例句**：The museum displays only authentic artifacts from the ancient civilization.  
-**中文翻译**：博物馆只展出来自古代文明的真品文物。  
-**记忆技巧**：源自希腊语 **authentikos**（原创的），联想 **author**（作者）→ 原作者的就是“真正的”。
+## 3. **skeptical**
+- **音标**：/ˈskeptɪkəl/
+- **词性**：形容词
+- **释义**：怀疑的；多疑的
+- **例句**：
+  - Many scientists remain **skeptical** about the new theory.  
+    （许多科学家对这一新理论仍持**怀疑**态度。）
+  - He was **skeptical** of her promises.  
+    （他对她的承诺**表示怀疑**。）
+- **记忆技巧**：来自希腊语 **skeptikos**（思考的），联想“怀疑者总是在思考是否可信”。
 
 ---
 
-## 4. elaborate
-**音标**：/ɪˈlæbərət/  
-**词性**：adj./v.  
-**中文释义**：精心制作的；详尽的；详细阐述  
-**例句**：Could you elaborate on your proposal? It sounds promising.  
-**中文翻译**：你能详细阐述一下你的提案吗？听起来很有前景。  
-**记忆技巧**：词根 **e-**（出）+ **labor**（劳动）+ **-ate** → 花费大量劳动做出来的→“精心制作的”。
+## 4. **mitigate**
+- **音标**：/ˈmɪtɪɡeɪt/
+- **词性**：动词
+- **释义**：减轻；缓和；使缓解
+- **例句**：
+  - Trees help **mitigate** the effects of air pollution.  
+    （树木有助于**减轻**空气污染的影响。）
+  - The new policy aims to **mitigate** the risks of climate change.  
+    （新政策旨在**缓解**气候变化的风险。）
+- **记忆技巧**：词根 **mit**（小）+ **igate** → 使变小 → 减轻。
 
 ---
 
-## 5. dilemma
-**音标**：/dɪˈlemə/  
-**词性**：n.  
-**中文释义**：困境；进退两难  
-**例句**：She faced a moral dilemma between her career and family responsibilities.  
-**中文翻译**：她在事业和家庭责任之间面临着道德困境。  
-**记忆技巧**：联想 **di-**（两个）+ **lemma**（命题）→ 两个相互冲突的命题→“进退两难”。
+## 5. **pragmatic**
+- **音标**：/præɡˈmætɪk/
+- **词性**：形容词
+- **释义**：务实的；实用的；注重实效的
+- **例句**：
+  - We need a **pragmatic** approach to solve this problem.  
+    （我们需要用**务实的**方法来解决这个问题。）
+  - She is known for her **pragmatic** leadership style.  
+    （她以**务实的**领导风格著称。）
+- **记忆技巧**：来自希腊语 **pragmatikos**（注重实践的），联想“pragmatic的人喜欢做实事”。
 
 ---
 
-## 6. scrutinize
-**音标**：/ˈskruːtənaɪz/  
-**词性**：v.  
-**中文释义**：仔细检查；审视  
-**例句**：The auditors scrutinized every financial record of the company.  
-**中文翻译**：审计员仔细检查了公司的每一笔财务记录。  
-**记忆技巧**：源自拉丁语 **scruta**（破布），引申为“翻箱倒柜地查”→“仔细检查”。
+## 6. **coherent**
+- **音标**：/koʊˈhɪrənt/
+- **词性**：形容词
+- **释义**：连贯的；有条理的；一致的
+- **例句**：
+  - Present your ideas in a **coherent** manner.  
+    （以**有条理的**方式表达你的观点。）
+  - The essay lacks a **coherent** structure.  
+    （这篇文章缺乏**连贯的**结构。）
+- **记忆技巧**：词根 **co-**（一起）+ **here**（粘附）+ **ent** → 粘在一起 → 连贯的。
 
 ---
 
-## 7. paradox
-**音标**：/ˈpærədɑːks/  
-**词性**：n.  
-**中文释义**：悖论；矛盾的人或事  
-**例句**：It's a paradox that more choice often leads to less satisfaction.  
-**中文翻译**：选择越多反而满意度越低，这是一个悖论。  
-**记忆技巧**：词根 **para-**（超越）+ **dox**（观点）→ 超越常规观点的→“悖论”。
+## 7. **undermine**
+- **音标**：/ˌʌndərˈmaɪn/
+- **词性**：动词
+- **释义**：暗中破坏；逐渐削弱；损害
+- **例句**：
+  - Spreading rumors can **undermine** trust in a team.  
+    （散布谣言会**破坏**团队中的信任。）
+  - Constant criticism may **undermine** a child's confidence.  
+    （不断的批评可能会**削弱**孩子的自信心。）
+- **记忆技巧**：under（下面）+ mine（采矿）→ 在下面挖矿 → 暗中破坏地基。
 
 ---
 
-## 8. redundant
-**音标**：/rɪˈdʌndənt/  
-**词性**：adj.  
-**中文释义**：多余的；被裁减的；冗余的  
-**例句**：The editor removed redundant phrases to make the article concise.  
-**中文翻译**：编辑删掉了多余的短语，使文章更简洁。  
-**记忆技巧**：词根 **re-**（加强）+ **und**（波浪）+ **-ant** → 波浪叠加般的“多余的”。
+## 8. **empirical**
+- **音标**：/ɪmˈpɪrɪkəl/
+- **词性**：形容词
+- **释义**：以经验为依据的；经验主义的
+- **例句**：
+  - The theory lacks **empirical** evidence.  
+    （该理论缺乏**经验性的**证据。）
+  - Scientists rely on **empirical** data to support their hypotheses.  
+    （科学家依靠**经验数据**来支持他们的假设。）
+- **记忆技巧**：来自希腊语 **empeiria**（经验），联想“empirical是通过实验（experiment）得到的”。
 
 ---
 
-## 9. enhance
-**音标**：/ɪnˈhæns/  
-**词性**：v.  
-**中文释义**：提高；增强；改善  
-**例句**：The new software will enhance our efficiency in data processing.  
-**中文翻译**：新软件将提高我们处理数据的效率。  
-**记忆技巧**：联想 **en-**（使…）+ **hance**（高）→ 使更高→“提高、增强”。
+## 9. **vulnerable**
+- **音标**：/ˈvʌlnərəbəl/
+- **词性**：形容词
+- **释义**：脆弱的；易受伤的；易受攻击的
+- **例句**：
+  - Children are particularly **vulnerable** to online scams.  
+    （儿童尤其容易成为网络诈骗的**受害者**。）
+  - The elderly are more **vulnerable** to severe illnesses.  
+    （老年人更容易**受到**严重疾病的**影响**。）
+- **记忆技巧**：词根 **vuln**（伤）+ **erable** → 易受伤的。
 
 ---
 
-## 10. legitimate
-**音标**：/lɪˈdʒɪtɪmət/  
-**词性**：adj./v.  
-**中文释义**：合法的；正当的；使合法化  
-**例句**：The court recognized the legitimate rights of the minority group.  
-**中文翻译**：法院承认了少数群体的合法权利。  
-**记忆技巧**：词根 **legitim-**（法律）+ **-ate** → 符合法律的→“合法的”。
+## 10. **prosperity**
+- **音标**：/prɑːˈsperəti/
+- **词性**：名词
+- **释义**：繁荣；成功；兴旺
+- **例句**：
+  - The nation enjoyed a period of economic **prosperity**.  
+    （国家经历了一段经济**繁荣**时期。）
+  - Education is the key to long-term **prosperity**.  
+    （教育是长期**繁荣**的关键。）
+- **记忆技巧**：来自拉丁语 **prosperare**（使成功），联想“prosper（繁荣）的名词形式”。
 
 ---
 
-## 11. volatile
-**音标**：/ˈvɑːlətl/  
-**词性**：adj.  
-**中文释义**：不稳定的；易变的；易挥发的  
-**例句**：The stock market has been highly volatile during the economic crisis.  
-**中文翻译**：在经济危机期间，股市极不稳定。  
-**记忆技巧**：源自拉丁语 **volare**（飞）→ 像鸟一样飞来飞去→“不稳定的”。
+## 11. **contempt**
+- **音标**：/kənˈtempt/
+- **词性**：名词
+- **释义**：轻视；蔑视；耻辱
+- **例句**：
+  - He showed **contempt** for those who cheated.  
+    （他对作弊者表现出**蔑视**。）
+  - She was held in **contempt** by her peers for her dishonesty.  
+    （她因不诚实而被同伴**鄙视**。）
+- **记忆技巧**：词根 **con-**（加强）+ **tempt**（尝试）→ 不屑于尝试 → 轻视。
 
 ---
 
-## 12. exacerbate
-**音标**：/ɪɡˈzæsərbeɪt/  
-**词性**：v.  
-**中文释义**：使恶化；加剧  
-**例句**：The drought exacerbated the food shortage in the region.  
-**中文翻译**：干旱加剧了该地区的粮食短缺。  
-**记忆技巧**：词根 **ex-**（出）+ **acerb-**（苦，尖锐）→ 变得更苦更尖锐→“使恶化”。
+## 12. **augment**
+- **音标**：/ɔːɡˈment/
+- **词性**：动词
+- **释义**：增加；扩大；增强
+- **例句**：
+  - She took a part-time job to **augment** her income.  
+    （她做了一份兼职来**增加**收入。）
+  - The company plans to **augment** its workforce next year.  
+    （公司计划明年**扩大**员工规模。）
+- **记忆技巧**：词根 **aug**（增长）+ **ment** → 使增长 → 增加。
 
 ---
 
-## 13. inherent
-**音标**：/ɪnˈhɪrənt/  
-**词性**：adj.  
-**中文释义**：内在的；固有的；天生的  
-**例句**：There are inherent risks in any investment strategy.  
-**中文翻译**：任何投资策略都有内在风险。  
-**记忆技巧**：词根 **in-**（在内）+ **her-**（粘附）→ 粘在里面的→“固有的”。
+## 13. **spontaneous**
+- **音标**：/spɑːnˈteɪniəs/
+- **词性**：形容词
+- **释义**：自发的；自然的；无意识的
+- **例句**：
+  - The audience burst into **spontaneous** applause.  
+    （观众爆发出**自发的**掌声。）
+  - He is known for his **spontaneous** sense of humor.  
+    （他以其**自然的**幽默感著称。）
+- **记忆技巧**：来自拉丁语 **spontaneus**（自愿的），联想“spontaneous是内心自然流露的”。
 
 ---
 
-## 14. pragmatic
-**音标**：/præɡˈmætɪk/  
-**词性**：adj.  
-**中文释义**：务实的；实用的  
-**例句**：She took a pragmatic approach to solving the complex problem.  
-**中文翻译**：她采取务实的方法来解决这个复杂问题。  
-**记忆技巧**：源自希腊语 **pragmatikos**（实践的），联想 **practice**（实践）→ “务实的”。
+## 14. **alleviate**
+- **音标**：/əˈliːvieɪt/
+- **词性**：动词
+- **释义**：减轻；缓解；缓和
+- **例句**：
+  - The medicine helped **alleviate** her pain.  
+    （这种药帮助**减轻**了她的疼痛。）
+  - The government introduced measures to **alleviate** poverty.  
+    （政府推出了**缓解**贫困的措施。）
+- **记忆技巧**：词根 **al-**（向）+ **lev**（轻）+ **iate** → 使变轻 → 减轻。
 
 ---
 
-## 15. coherent
-**音标**：/kəʊˈhɪrənt/  
-**词性**：adj.  
-**中文释义**：连贯的；有条理的；粘在一起的  
-**例句**：The student presented a coherent argument in the debate.  
-**中文翻译**：学生在辩论中提出了一个连贯的论点。  
-**记忆技巧**：词根 **co-**（一起）+ **her-**（粘附）→ 粘在一起→“连贯的”。
+## 15. **paradigm**
+- **音标**：/ˈpærədaɪm/
+- **词性**：名词
+- **释义**：典范；范例；模式
+- **例句**：
+  - The discovery led to a new **paradigm** in physics.  
+    （这一发现开启了物理学的新**范式**。）
+  - This company serves as a **paradigm** of successful innovation.  
+    （这家公司是成功创新的**典范**。）
+- **记忆技巧**：来自希腊语 **paradeigma**（模式），联想“paradigm是思考或行动的模板”。
 
 ---
 
-💡 **学习建议**：  
-1. 尝试用每个词汇造一个与自己生活相关的句子  
-2. 重点关注 **convention, feasible, elaborate, dilemma** 等六级阅读高频词  
-3. **exacerbate, scrutinize, pragmatic** 是六级写作和翻译中的高级表达词汇  
-
-坚持积累，词汇量会像滚雪球一样越来越大！📚
+**今日学习小贴士**：  
+建议将每个词汇造句并朗读，尝试在语境中加深记忆。可以制作单词卡片，正面写英文，背面写中文释义和例句，利用碎片时间复习。坚持就是胜利！
