@@ -1,201 +1,109 @@
-# 六级高频词汇学习 · 第18天
+# 六级高频词汇学习 (第19天)
+
+以下是精心为您准备的12个六级高频词汇，涵盖了名词、动词、形容词和副词，旨在帮助您高效备考。
 
 ---
 
-## 1. **profound**
-- **音标**：/prəˈfaʊnd/
-- **词性**：形容词
-- **释义**：深刻的；意义深远的；极度的
-- **例句**：
-  - The book had a **profound** effect on my worldview.  
-    （这本书对我的世界观产生了**深远**的影响。）
-  - She felt a **profound** sense of relief after finishing the exam.  
-    （考试结束后，她感到一种**极大的**解脱。）
-- **记忆技巧**：词根 **pro-**（向前）+ **found**（基础）→ 向深处挖掘基础 → 引申为“深刻的”。
+### 1. ambiguous /æmˈbɪɡjʊəs/
+*   **词性**：形容词
+*   **中文释义**：模棱两可的；含混不清的
+*   **例句**：
+    *   **英文**：The instructions were so **ambiguous** that we couldn't understand what to do next.
+    *   **中文**：指示如此**模棱两可**，以至于我们不明白下一步该做什么。
+*   **记忆技巧**：词根 `ambi-` 表示“两边、两者”，`-guous` 与“驱动”相关。联想“被两边驱使”，引申为“两边都有理，所以不明确”。
+
+### 2. alleviate /əˈliːvieɪt/
+*   **词性**：动词
+*   **中文释义**：减轻；缓解（痛苦或困难）
+*   **例句**：
+    *   **英文**：The medicine helped to **alleviate** her headache.
+    *   **中文**：这种药帮助**缓解**了她的头痛。
+*   **记忆技巧**：词根 `lev-` 表示“轻、举起”（如 levitate 漂浮）。`al-` (加强) + `lev` + `-iate` → 使（痛苦）变轻 → 减轻。
+
+### 3. hypothetical /ˌhaɪpəˈθetɪkl/
+*   **词性**：形容词
+*   **中文释义**：假设的；有前提的
+*   **例句**：
+    *   **英文**：Let's consider a **hypothetical** situation where everyone has access to free education.
+    *   **中文**：让我们考虑一个**假设的**情形：每个人都能获得免费教育。
+*   **记忆技巧**：词根 `hypo-` 表示“在…之下”（如 hypothermia 低温症），`-thetical` 源自 `thesis`（论点）。即“基于一个在下的论点”，也就是“假设有前提”。
+
+### 4. phenomenon /fəˈnɑːmɪnən/
+*   **词性**：名词
+*   **中文释义**：现象；非凡的人或事
+*   **例句**：
+    *   **英文**：The northern lights are a spectacular natural **phenomenon**.
+    *   **中文**：北极光是一种壮观的自然**现象**。
+*   **记忆技巧**：复数形式为 **phenomena**（非常重要）。联想“phenomenon”发音类似“肥脑妹弄”，一个“肥脑妹”在“弄”出一种“现象”。
+
+### 5. predominantly /prɪˈdɑːmɪnəntli/
+*   **词性**：副词
+*   **中文释义**：主要地；显著地
+*   **例句**：
+    *   **英文**：The audience was **predominantly** made up of young adults.
+    *   **中文**：观众**主要**由年轻人组成。
+*   **记忆技巧**：来自形容词 `predominant`（占主导的）。词根 `domin-` 表示“统治”（如 dominate），`pre-` 表示“在前”，所以是“在前统治的” → 占主导的 → 主要地。
+
+### 6. encompass /ɪnˈkʌmpəs/
+*   **词性**：动词
+*   **中文释义**：包含；涵盖；围绕
+*   **例句**：
+    *   **英文**：The exhibition **encompasses** works from various artistic periods.
+    *   **中文**：这次展览**涵盖**了多个艺术时期的作品。
+*   **记忆技巧**：`en-`（进入）+ `compass`（罗盘、范围）。联想“进入罗盘的范围之内” → 包含、涵盖。
+
+### 7. scrutinize /ˈskruːtənaɪz/
+*   **词性**：动词
+*   **中文释义**：仔细检查；详尽审查
+*   **例句**：
+    *   **英文**：The lawyer **scrutinized** every detail of the contract.
+    *   **中文**：律师**仔细审查**了合同的每一个细节。
+*   **记忆技巧**：来自名词 `scrutiny`（审查）。可以联想“screen”（屏幕），我们盯着屏幕“仔细检查”每一个像素。
+
+### 8. tangible /ˈtændʒəbl/
+*   **词性**：形容词
+*   **中文释义**：有形的；可触摸的；确实的
+*   **例句**：
+    *   **英文**：The project has produced some **tangible** results.
+    *   **中文**：该项目已经产生了一些**切实的**成果。
+*   **记忆技巧**：词根 `tang-` 表示“触摸”（如 contact 接触）。`-ible` 表示“能够…的”。所以是“能够被触摸到的” → 有形的。
+
+### 9. pragmatic /præɡˈmætɪk/
+*   **词性**：形容词
+*   **中文释义**：务实的；注重实效的
+*   **例句**：
+    *   **英文**：We need a more **pragmatic** approach to solve this problem.
+    *   **中文**：我们需要一种更**务实的**方法来解决这个问题。
+*   **记忆技巧**：词源与“实践”（practice）有关。联想“拍给妈踢克”，一个务实的妈妈踢开幻想，强调实际行动。
+
+### 10. dweller /ˈdwelər/
+*   **词性**：名词
+*   **中文释义**：居民；居住者
+*   **例句**：
+    *   **英文**：City **dwellers** often have less access to green spaces.
+    *   **中文**：城市**居民**往往更少接触到绿色空间。
+*   **记忆技巧**：来自动词 `dwell`（居住，详述）。`-er` 表示“…的人”。注意 `dwell` 有“详述”的意思，所以“dweller”不仅是居民，也可指“详述者”（在古语中）。
+
+### 11. plausible /ˈplɔːzəbl/
+*   **词性**：形容词
+*   **中文释义**：似乎合理的；貌似可信的
+*   **例句**：
+    *   **英文**：His excuse sounded **plausible**, but it was actually a lie.
+    *   **中文**：他的借口听起来**似乎有理**，但那实际上是个谎言。
+*   **记忆技巧**：词根 `plaus-` 表示“鼓掌”（如 applause 掌声）。`-ible` 表示“能够…的”。能够赢得掌声的 → 听起来有道理的 → 似乎合理的。
+
+### 12. presumably /prɪˈzuːməbli/
+*   **词性**：副词
+*   **中文释义**：大概；想必；据推测
+*   **例句**：
+    *   **英文**：He missed the train and will **presumably** be late for the meeting.
+    *   **中文**：他错过了火车，**想必**开会要迟到了。
+*   **记忆技巧**：来自动词 `presume`（假定、假设）。`-able`（能够）+ `-ly`（副词后缀）。即“能够被假定的” → 据推测地。
 
 ---
+**今日学习小贴士**：
+1.  **重点记忆**：`phenomenon` 的复数 **phenomena** 是高频考点。
+2.  **词根串联**：`alleviate` 和 `tangible` 都与“感觉”相关（减轻感觉、触摸感觉），可以对比记忆。
+3.  **造句练习**：尝试用今天学到的 **hypothetical** 和 **pragmatic** 造一个句子，例如：“面对这个**假想的**危机，我们需要采取**务实的**策略。” (Facing this **hypothetical** crisis, we need to adopt a **pragmatic** strategy.)
 
-## 2. **resilient**
-- **音标**：/rɪˈzɪliənt/
-- **词性**：形容词
-- **释义**：有弹性的；能迅速恢复的；适应力强的
-- **例句**：
-  - Children are often more **resilient** than adults in facing changes.  
-    （面对变化时，孩子们往往比成年人更具**适应力**。）
-  - The company showed **resilient** growth despite economic challenges.  
-    （尽管经济形势严峻，该公司仍表现出**强劲的**增长。）
-- **记忆技巧**：词根 **re-**（回）+ **sili**（跳跃）+ **ent** → 能跳回来的 → 有恢复力的。
-
----
-
-## 3. **skeptical**
-- **音标**：/ˈskeptɪkəl/
-- **词性**：形容词
-- **释义**：怀疑的；多疑的
-- **例句**：
-  - Many scientists remain **skeptical** about the new theory.  
-    （许多科学家对这一新理论仍持**怀疑**态度。）
-  - He was **skeptical** of her promises.  
-    （他对她的承诺**表示怀疑**。）
-- **记忆技巧**：来自希腊语 **skeptikos**（思考的），联想“怀疑者总是在思考是否可信”。
-
----
-
-## 4. **mitigate**
-- **音标**：/ˈmɪtɪɡeɪt/
-- **词性**：动词
-- **释义**：减轻；缓和；使缓解
-- **例句**：
-  - Trees help **mitigate** the effects of air pollution.  
-    （树木有助于**减轻**空气污染的影响。）
-  - The new policy aims to **mitigate** the risks of climate change.  
-    （新政策旨在**缓解**气候变化的风险。）
-- **记忆技巧**：词根 **mit**（小）+ **igate** → 使变小 → 减轻。
-
----
-
-## 5. **pragmatic**
-- **音标**：/præɡˈmætɪk/
-- **词性**：形容词
-- **释义**：务实的；实用的；注重实效的
-- **例句**：
-  - We need a **pragmatic** approach to solve this problem.  
-    （我们需要用**务实的**方法来解决这个问题。）
-  - She is known for her **pragmatic** leadership style.  
-    （她以**务实的**领导风格著称。）
-- **记忆技巧**：来自希腊语 **pragmatikos**（注重实践的），联想“pragmatic的人喜欢做实事”。
-
----
-
-## 6. **coherent**
-- **音标**：/koʊˈhɪrənt/
-- **词性**：形容词
-- **释义**：连贯的；有条理的；一致的
-- **例句**：
-  - Present your ideas in a **coherent** manner.  
-    （以**有条理的**方式表达你的观点。）
-  - The essay lacks a **coherent** structure.  
-    （这篇文章缺乏**连贯的**结构。）
-- **记忆技巧**：词根 **co-**（一起）+ **here**（粘附）+ **ent** → 粘在一起 → 连贯的。
-
----
-
-## 7. **undermine**
-- **音标**：/ˌʌndərˈmaɪn/
-- **词性**：动词
-- **释义**：暗中破坏；逐渐削弱；损害
-- **例句**：
-  - Spreading rumors can **undermine** trust in a team.  
-    （散布谣言会**破坏**团队中的信任。）
-  - Constant criticism may **undermine** a child's confidence.  
-    （不断的批评可能会**削弱**孩子的自信心。）
-- **记忆技巧**：under（下面）+ mine（采矿）→ 在下面挖矿 → 暗中破坏地基。
-
----
-
-## 8. **empirical**
-- **音标**：/ɪmˈpɪrɪkəl/
-- **词性**：形容词
-- **释义**：以经验为依据的；经验主义的
-- **例句**：
-  - The theory lacks **empirical** evidence.  
-    （该理论缺乏**经验性的**证据。）
-  - Scientists rely on **empirical** data to support their hypotheses.  
-    （科学家依靠**经验数据**来支持他们的假设。）
-- **记忆技巧**：来自希腊语 **empeiria**（经验），联想“empirical是通过实验（experiment）得到的”。
-
----
-
-## 9. **vulnerable**
-- **音标**：/ˈvʌlnərəbəl/
-- **词性**：形容词
-- **释义**：脆弱的；易受伤的；易受攻击的
-- **例句**：
-  - Children are particularly **vulnerable** to online scams.  
-    （儿童尤其容易成为网络诈骗的**受害者**。）
-  - The elderly are more **vulnerable** to severe illnesses.  
-    （老年人更容易**受到**严重疾病的**影响**。）
-- **记忆技巧**：词根 **vuln**（伤）+ **erable** → 易受伤的。
-
----
-
-## 10. **prosperity**
-- **音标**：/prɑːˈsperəti/
-- **词性**：名词
-- **释义**：繁荣；成功；兴旺
-- **例句**：
-  - The nation enjoyed a period of economic **prosperity**.  
-    （国家经历了一段经济**繁荣**时期。）
-  - Education is the key to long-term **prosperity**.  
-    （教育是长期**繁荣**的关键。）
-- **记忆技巧**：来自拉丁语 **prosperare**（使成功），联想“prosper（繁荣）的名词形式”。
-
----
-
-## 11. **contempt**
-- **音标**：/kənˈtempt/
-- **词性**：名词
-- **释义**：轻视；蔑视；耻辱
-- **例句**：
-  - He showed **contempt** for those who cheated.  
-    （他对作弊者表现出**蔑视**。）
-  - She was held in **contempt** by her peers for her dishonesty.  
-    （她因不诚实而被同伴**鄙视**。）
-- **记忆技巧**：词根 **con-**（加强）+ **tempt**（尝试）→ 不屑于尝试 → 轻视。
-
----
-
-## 12. **augment**
-- **音标**：/ɔːɡˈment/
-- **词性**：动词
-- **释义**：增加；扩大；增强
-- **例句**：
-  - She took a part-time job to **augment** her income.  
-    （她做了一份兼职来**增加**收入。）
-  - The company plans to **augment** its workforce next year.  
-    （公司计划明年**扩大**员工规模。）
-- **记忆技巧**：词根 **aug**（增长）+ **ment** → 使增长 → 增加。
-
----
-
-## 13. **spontaneous**
-- **音标**：/spɑːnˈteɪniəs/
-- **词性**：形容词
-- **释义**：自发的；自然的；无意识的
-- **例句**：
-  - The audience burst into **spontaneous** applause.  
-    （观众爆发出**自发的**掌声。）
-  - He is known for his **spontaneous** sense of humor.  
-    （他以其**自然的**幽默感著称。）
-- **记忆技巧**：来自拉丁语 **spontaneus**（自愿的），联想“spontaneous是内心自然流露的”。
-
----
-
-## 14. **alleviate**
-- **音标**：/əˈliːvieɪt/
-- **词性**：动词
-- **释义**：减轻；缓解；缓和
-- **例句**：
-  - The medicine helped **alleviate** her pain.  
-    （这种药帮助**减轻**了她的疼痛。）
-  - The government introduced measures to **alleviate** poverty.  
-    （政府推出了**缓解**贫困的措施。）
-- **记忆技巧**：词根 **al-**（向）+ **lev**（轻）+ **iate** → 使变轻 → 减轻。
-
----
-
-## 15. **paradigm**
-- **音标**：/ˈpærədaɪm/
-- **词性**：名词
-- **释义**：典范；范例；模式
-- **例句**：
-  - The discovery led to a new **paradigm** in physics.  
-    （这一发现开启了物理学的新**范式**。）
-  - This company serves as a **paradigm** of successful innovation.  
-    （这家公司是成功创新的**典范**。）
-- **记忆技巧**：来自希腊语 **paradeigma**（模式），联想“paradigm是思考或行动的模板”。
-
----
-
-**今日学习小贴士**：  
-建议将每个词汇造句并朗读，尝试在语境中加深记忆。可以制作单词卡片，正面写英文，背面写中文释义和例句，利用碎片时间复习。坚持就是胜利！
+祝您学习愉快，坚持就是胜利！
