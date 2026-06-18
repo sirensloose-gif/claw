@@ -1,109 +1,160 @@
-# 六级高频词汇学习 (第19天)
+# 📚 六级高频词汇学习（第20天）
 
-以下是精心为您准备的12个六级高频词汇，涵盖了名词、动词、形容词和副词，旨在帮助您高效备考。
+**学习目标**：今日掌握12个核心词汇，提升阅读与写作能力。
+
+---
+
+## 1. **elaborate**
+- **音标**：/ɪˈlæbərət/  
+- **词性**：形容词 / 动词  
+- **释义**：  
+  - adj. 精心制作的；详尽的；复杂的  
+  - v. 详细阐述；精心制作  
+- **例句**：  
+  - She gave an **elaborate** explanation of the theory, complete with diagrams.  
+    她对理论进行了**详尽的**解释，并附有图表。  
+  - Could you **elaborate** on your proposal?  
+    你能**详细阐述**一下你的提案吗？  
+- **记忆技巧**：  
+  词根 “labor” 意为“劳动”→ 需要投入大量劳动去做 → 引申为“精心制作、详尽的”。
 
 ---
 
-### 1. ambiguous /æmˈbɪɡjʊəs/
-*   **词性**：形容词
-*   **中文释义**：模棱两可的；含混不清的
-*   **例句**：
-    *   **英文**：The instructions were so **ambiguous** that we couldn't understand what to do next.
-    *   **中文**：指示如此**模棱两可**，以至于我们不明白下一步该做什么。
-*   **记忆技巧**：词根 `ambi-` 表示“两边、两者”，`-guous` 与“驱动”相关。联想“被两边驱使”，引申为“两边都有理，所以不明确”。
-
-### 2. alleviate /əˈliːvieɪt/
-*   **词性**：动词
-*   **中文释义**：减轻；缓解（痛苦或困难）
-*   **例句**：
-    *   **英文**：The medicine helped to **alleviate** her headache.
-    *   **中文**：这种药帮助**缓解**了她的头痛。
-*   **记忆技巧**：词根 `lev-` 表示“轻、举起”（如 levitate 漂浮）。`al-` (加强) + `lev` + `-iate` → 使（痛苦）变轻 → 减轻。
-
-### 3. hypothetical /ˌhaɪpəˈθetɪkl/
-*   **词性**：形容词
-*   **中文释义**：假设的；有前提的
-*   **例句**：
-    *   **英文**：Let's consider a **hypothetical** situation where everyone has access to free education.
-    *   **中文**：让我们考虑一个**假设的**情形：每个人都能获得免费教育。
-*   **记忆技巧**：词根 `hypo-` 表示“在…之下”（如 hypothermia 低温症），`-thetical` 源自 `thesis`（论点）。即“基于一个在下的论点”，也就是“假设有前提”。
-
-### 4. phenomenon /fəˈnɑːmɪnən/
-*   **词性**：名词
-*   **中文释义**：现象；非凡的人或事
-*   **例句**：
-    *   **英文**：The northern lights are a spectacular natural **phenomenon**.
-    *   **中文**：北极光是一种壮观的自然**现象**。
-*   **记忆技巧**：复数形式为 **phenomena**（非常重要）。联想“phenomenon”发音类似“肥脑妹弄”，一个“肥脑妹”在“弄”出一种“现象”。
-
-### 5. predominantly /prɪˈdɑːmɪnəntli/
-*   **词性**：副词
-*   **中文释义**：主要地；显著地
-*   **例句**：
-    *   **英文**：The audience was **predominantly** made up of young adults.
-    *   **中文**：观众**主要**由年轻人组成。
-*   **记忆技巧**：来自形容词 `predominant`（占主导的）。词根 `domin-` 表示“统治”（如 dominate），`pre-` 表示“在前”，所以是“在前统治的” → 占主导的 → 主要地。
-
-### 6. encompass /ɪnˈkʌmpəs/
-*   **词性**：动词
-*   **中文释义**：包含；涵盖；围绕
-*   **例句**：
-    *   **英文**：The exhibition **encompasses** works from various artistic periods.
-    *   **中文**：这次展览**涵盖**了多个艺术时期的作品。
-*   **记忆技巧**：`en-`（进入）+ `compass`（罗盘、范围）。联想“进入罗盘的范围之内” → 包含、涵盖。
-
-### 7. scrutinize /ˈskruːtənaɪz/
-*   **词性**：动词
-*   **中文释义**：仔细检查；详尽审查
-*   **例句**：
-    *   **英文**：The lawyer **scrutinized** every detail of the contract.
-    *   **中文**：律师**仔细审查**了合同的每一个细节。
-*   **记忆技巧**：来自名词 `scrutiny`（审查）。可以联想“screen”（屏幕），我们盯着屏幕“仔细检查”每一个像素。
-
-### 8. tangible /ˈtændʒəbl/
-*   **词性**：形容词
-*   **中文释义**：有形的；可触摸的；确实的
-*   **例句**：
-    *   **英文**：The project has produced some **tangible** results.
-    *   **中文**：该项目已经产生了一些**切实的**成果。
-*   **记忆技巧**：词根 `tang-` 表示“触摸”（如 contact 接触）。`-ible` 表示“能够…的”。所以是“能够被触摸到的” → 有形的。
-
-### 9. pragmatic /præɡˈmætɪk/
-*   **词性**：形容词
-*   **中文释义**：务实的；注重实效的
-*   **例句**：
-    *   **英文**：We need a more **pragmatic** approach to solve this problem.
-    *   **中文**：我们需要一种更**务实的**方法来解决这个问题。
-*   **记忆技巧**：词源与“实践”（practice）有关。联想“拍给妈踢克”，一个务实的妈妈踢开幻想，强调实际行动。
-
-### 10. dweller /ˈdwelər/
-*   **词性**：名词
-*   **中文释义**：居民；居住者
-*   **例句**：
-    *   **英文**：City **dwellers** often have less access to green spaces.
-    *   **中文**：城市**居民**往往更少接触到绿色空间。
-*   **记忆技巧**：来自动词 `dwell`（居住，详述）。`-er` 表示“…的人”。注意 `dwell` 有“详述”的意思，所以“dweller”不仅是居民，也可指“详述者”（在古语中）。
-
-### 11. plausible /ˈplɔːzəbl/
-*   **词性**：形容词
-*   **中文释义**：似乎合理的；貌似可信的
-*   **例句**：
-    *   **英文**：His excuse sounded **plausible**, but it was actually a lie.
-    *   **中文**：他的借口听起来**似乎有理**，但那实际上是个谎言。
-*   **记忆技巧**：词根 `plaus-` 表示“鼓掌”（如 applause 掌声）。`-ible` 表示“能够…的”。能够赢得掌声的 → 听起来有道理的 → 似乎合理的。
-
-### 12. presumably /prɪˈzuːməbli/
-*   **词性**：副词
-*   **中文释义**：大概；想必；据推测
-*   **例句**：
-    *   **英文**：He missed the train and will **presumably** be late for the meeting.
-    *   **中文**：他错过了火车，**想必**开会要迟到了。
-*   **记忆技巧**：来自动词 `presume`（假定、假设）。`-able`（能够）+ `-ly`（副词后缀）。即“能够被假定的” → 据推测地。
+## 2. **resilient**
+- **音标**：/rɪˈzɪliənt/  
+- **词性**：形容词  
+- **释义**：有弹性的；能迅速恢复的；适应力强的  
+- **例句**：  
+  - The economy proved **resilient** despite the global crisis.  
+    尽管面临全球危机，经济仍表现出**韧性**。  
+- **记忆技巧**：  
+  词根 “-sil-” 意为“跳跃”（如 resile 弹回）→ 能够跳回原状 → 适应力强。
 
 ---
-**今日学习小贴士**：
-1.  **重点记忆**：`phenomenon` 的复数 **phenomena** 是高频考点。
-2.  **词根串联**：`alleviate` 和 `tangible` 都与“感觉”相关（减轻感觉、触摸感觉），可以对比记忆。
-3.  **造句练习**：尝试用今天学到的 **hypothetical** 和 **pragmatic** 造一个句子，例如：“面对这个**假想的**危机，我们需要采取**务实的**策略。” (Facing this **hypothetical** crisis, we need to adopt a **pragmatic** strategy.)
 
-祝您学习愉快，坚持就是胜利！
+## 3. **controversy**
+- **音标**：/ˈkɑːntrəvɜːrsi/  
+- **词性**：名词  
+- **释义**：争论，争议  
+- **例句**：  
+  - The decision sparked **controversy** among the public.  
+    该决定在公众中引发了**争议**。  
+- **记忆技巧**：  
+  前缀 “contra-” 表示“相反” + “vers” 表示“转” → 转向对立面 → 争议。
+
+---
+
+## 4. **substantiate**
+- **音标**：/səbˈstænʃieɪt/  
+- **词性**：动词  
+- **释义**：证明…有根据；证实  
+- **例句**：  
+  - Do you have evidence to **substantiate** your claim?  
+    你有证据来**证实**你的主张吗？  
+- **记忆技巧**：  
+  词根 “substant” 意为“实质、实体” → 使之成为实体 → 证实。
+
+---
+
+## 5. **ambiguous**
+- **音标**：/æmˈbɪɡjuəs/  
+- **词性**：形容词  
+- **释义**：模糊的；有歧义的  
+- **例句**：  
+  - The instructions were **ambiguous**, leading to confusion.  
+    指示**模棱两可**，造成了困惑。  
+- **记忆技巧**：  
+  前缀 “ambi-” 意为“两边” → 两边都说得通 → 模糊的。
+
+---
+
+## 6. **pragmatic**
+- **音标**：/præɡˈmætɪk/  
+- **词性**：形容词  
+- **释义**：务实的；实用主义的  
+- **例句**：  
+  - We need a **pragmatic** approach to solve this problem.  
+    我们需要用**务实的**方法来解决这个问题。  
+- **记忆技巧**：  
+  源自希腊语 “pragma” 意为“行动、实践” → 注重实践的。
+
+---
+
+## 7. **converge**
+- **音标**：/kənˈvɜːrdʒ/  
+- **词性**：动词  
+- **释义**：汇聚；集中；趋于一致  
+- **例句**：  
+  - Their opinions **converge** on the issue of climate change.  
+    在气候变化问题上，他们的观点**趋于一致**。  
+- **记忆技巧**：  
+  前缀 “con-” 意为“共同” + “verge” 意为“倾向” → 共同倾向一处 → 汇聚。
+
+---
+
+## 8. **deprive**
+- **音标**：/dɪˈpraɪv/  
+- **词性**：动词  
+- **释义**：剥夺；使丧失  
+- **例句**：  
+  - They were **deprived** of basic rights.  
+    他们被**剥夺**了基本权利。  
+- **记忆技巧**：  
+  前缀 “de-” 表示“去除” + “priv” 意为“私人的” → 去掉私有物 → 剥夺。
+
+---
+
+## 9. **volatile**
+- **音标**：/ˈvɑːlətl/  
+- **词性**：形容词  
+- **释义**：不稳定的；易变的；挥发性的  
+- **例句**：  
+  - The stock market has been **volatile** recently.  
+    股市近来**波动很大**。  
+- **记忆技巧**：  
+  词根 “volat-” 意为“飞”（如飞鸟）→ 容易飞走 → 不稳定的。
+
+---
+
+## 10. **prosperity**
+- **音标**：/prɑːˈsperəti/  
+- **词性**：名词  
+- **释义**：繁荣；兴旺  
+- **例句**：  
+  - The country enjoyed a period of **prosperity**.  
+    这个国家经历了一段**繁荣时期**。  
+- **记忆技巧**：  
+  前缀 “pro-” 表示“向前” + “sper” 意为“希望” → 充满希望向前 → 繁荣。
+
+---
+
+## 11. **impede**
+- **音标**：/ɪmˈpiːd/  
+- **词性**：动词  
+- **释义**：阻碍，妨碍  
+- **例句**：  
+  - The heavy rain **impeded** our progress.  
+    大雨**阻碍**了我们的进程。  
+- **记忆技巧**：  
+  前缀 “im-” 表示“进入” + “ped” 意为“脚”（如 pedestrian 行人）→ 脚陷入其中 → 阻碍。
+
+---
+
+## 12. **scrutiny**
+- **音标**：/ˈskruːtəni/  
+- **词性**：名词  
+- **释义**：仔细检查；详细审查  
+- **例句**：  
+  - The plan came under intense public **scrutiny**.  
+    该计划受到了公众的**严格审查**。  
+- **记忆技巧**：  
+  源自拉丁语 “scruta” 意为“碎片” → 翻找碎片 → 仔细检查。
+
+---
+
+## 📝 今日学习建议：
+1. **分组记忆**：将形容词（elaborate, resilient, ambiguous, pragmatic, volatile）一组记忆。
+2. **造句练习**：挑选3个词汇，每个造两个句子。
+3. **词根串联**：复习今日出现的词根：labor, -sil-, contra-, substan-, ambi-, pragmat-, converg-, priv-, volat-, prosper-, ped-, scrut-。
+
+**每日坚持，词汇量稳步提升！加油！** 💪
