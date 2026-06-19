@@ -1,160 +1,157 @@
-# 📚 六级高频词汇学习（第20天）
+# 六级高频词汇学习 - 第21天
 
-**学习目标**：今日掌握12个核心词汇，提升阅读与写作能力。
-
----
-
-## 1. **elaborate**
-- **音标**：/ɪˈlæbərət/  
-- **词性**：形容词 / 动词  
-- **释义**：  
-  - adj. 精心制作的；详尽的；复杂的  
-  - v. 详细阐述；精心制作  
-- **例句**：  
-  - She gave an **elaborate** explanation of the theory, complete with diagrams.  
-    她对理论进行了**详尽的**解释，并附有图表。  
-  - Could you **elaborate** on your proposal?  
-    你能**详细阐述**一下你的提案吗？  
-- **记忆技巧**：  
-  词根 “labor” 意为“劳动”→ 需要投入大量劳动去做 → 引申为“精心制作、详尽的”。
+以下是为您精选的12个六级高频词汇，涵盖不同词性，适合每日积累学习。
 
 ---
 
-## 2. **resilient**
-- **音标**：/rɪˈzɪliənt/  
-- **词性**：形容词  
-- **释义**：有弹性的；能迅速恢复的；适应力强的  
-- **例句**：  
-  - The economy proved **resilient** despite the global crisis.  
-    尽管面临全球危机，经济仍表现出**韧性**。  
-- **记忆技巧**：  
-  词根 “-sil-” 意为“跳跃”（如 resile 弹回）→ 能够跳回原状 → 适应力强。
+### 1. ambiguous
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：adj.
+- **中文释义**：模棱两可的；含糊不清的
+- **例句**：
+  - *The instructions were so ambiguous that we didn't know what to do.*  
+    （说明如此模棱两可，我们都不知道该做什么。）
+- **记忆技巧**：
+  - 词根 **ambi-**（两边） + **-guous**（形容词后缀） → 可往两边理解 → 模棱两可的。
 
 ---
 
-## 3. **controversy**
-- **音标**：/ˈkɑːntrəvɜːrsi/  
-- **词性**：名词  
-- **释义**：争论，争议  
-- **例句**：  
-  - The decision sparked **controversy** among the public.  
-    该决定在公众中引发了**争议**。  
-- **记忆技巧**：  
-  前缀 “contra-” 表示“相反” + “vers” 表示“转” → 转向对立面 → 争议。
+### 2. consensus
+- **音标**：/kənˈsensəs/
+- **词性**：n.
+- **中文释义**：共识；一致意见
+- **例句**：
+  - *The committee finally reached a consensus on the new policy.*  
+    （委员会最终就新政策达成了共识。）
+- **记忆技巧**：
+  - 联想 **con-**（共同） + **sensus**（感觉） → 共同的感觉 → 共识。
 
 ---
 
-## 4. **substantiate**
-- **音标**：/səbˈstænʃieɪt/  
-- **词性**：动词  
-- **释义**：证明…有根据；证实  
-- **例句**：  
-  - Do you have evidence to **substantiate** your claim?  
-    你有证据来**证实**你的主张吗？  
-- **记忆技巧**：  
-  词根 “substant” 意为“实质、实体” → 使之成为实体 → 证实。
+### 3. deteriorate
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：v.
+- **中文释义**：恶化；变坏；退化
+- **例句**：
+  - *Her health began to deteriorate rapidly after the operation.*  
+    （手术后她的健康状况迅速恶化。）
+- **记忆技巧**：
+  - 词根 **deterior**（更坏的） + **-ate**（动词后缀） → 使变得更坏 → 恶化。
 
 ---
 
-## 5. **ambiguous**
-- **音标**：/æmˈbɪɡjuəs/  
-- **词性**：形容词  
-- **释义**：模糊的；有歧义的  
-- **例句**：  
-  - The instructions were **ambiguous**, leading to confusion.  
-    指示**模棱两可**，造成了困惑。  
-- **记忆技巧**：  
-  前缀 “ambi-” 意为“两边” → 两边都说得通 → 模糊的。
+### 4. eloquent
+- **音标**：/ˈeləkwənt/
+- **词性**：adj.
+- **中文释义**：雄辩的；有说服力的；口才好的
+- **例句**：
+  - *She gave an eloquent speech that moved the entire audience.*  
+    （她发表了一场感人肺腑的雄辩演讲。）
+- **记忆技巧**：
+  - 词根 **e-**（出） + **loqu**（说） + **-ent**（形容词后缀） → 能说出来的 → 雄辩的。
 
 ---
 
-## 6. **pragmatic**
-- **音标**：/præɡˈmætɪk/  
-- **词性**：形容词  
-- **释义**：务实的；实用主义的  
-- **例句**：  
-  - We need a **pragmatic** approach to solve this problem.  
-    我们需要用**务实的**方法来解决这个问题。  
-- **记忆技巧**：  
-  源自希腊语 “pragma” 意为“行动、实践” → 注重实践的。
+### 5. inherent
+- **音标**：/ɪnˈhɪrənt/
+- **词性**：adj.
+- **中文释义**：内在的；固有的；天生的
+- **例句**：
+  - *There are inherent risks in any type of investment.*  
+    （任何类型的投资都有内在风险。）
+- **记忆技巧**：
+  - 词根 **in-**（在…里面） + **her**（粘附） + **-ent** → 粘附在内部的 → 固有的。
 
 ---
 
-## 7. **converge**
-- **音标**：/kənˈvɜːrdʒ/  
-- **词性**：动词  
-- **释义**：汇聚；集中；趋于一致  
-- **例句**：  
-  - Their opinions **converge** on the issue of climate change.  
-    在气候变化问题上，他们的观点**趋于一致**。  
-- **记忆技巧**：  
-  前缀 “con-” 意为“共同” + “verge” 意为“倾向” → 共同倾向一处 → 汇聚。
+### 6. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的；实用主义的
+- **例句**：
+  - *We need a pragmatic approach to solve this problem.*  
+    （我们需要用务实的方法来解决这个问题。）
+- **记忆技巧**：
+  - 词根 **pragmat-**（实践） + **-ic**（形容词后缀） → 注重实践的 → 务实的。
 
 ---
 
-## 8. **deprive**
-- **音标**：/dɪˈpraɪv/  
-- **词性**：动词  
-- **释义**：剥夺；使丧失  
-- **例句**：  
-  - They were **deprived** of basic rights.  
-    他们被**剥夺**了基本权利。  
-- **记忆技巧**：  
-  前缀 “de-” 表示“去除” + “priv” 意为“私人的” → 去掉私有物 → 剥夺。
+### 7. resilient
+- **音标**：/rɪˈzɪliənt/
+- **词性**：adj.
+- **中文释义**：有弹性的；能恢复的；适应力强的
+- **例句**：
+  - *Children are often more resilient than adults think.*  
+    （孩子们往往比大人想象的更有韧性。）
+- **记忆技巧**：
+  - 词根 **re-**（回） + **sili**（跳） + **-ent** → 能跳回来的 → 有弹性的，能恢复的。
 
 ---
 
-## 9. **volatile**
-- **音标**：/ˈvɑːlətl/  
-- **词性**：形容词  
-- **释义**：不稳定的；易变的；挥发性的  
-- **例句**：  
-  - The stock market has been **volatile** recently.  
-    股市近来**波动很大**。  
-- **记忆技巧**：  
-  词根 “volat-” 意为“飞”（如飞鸟）→ 容易飞走 → 不稳定的。
+### 8. supplement
+- **音标**：/ˈsʌplɪmənt/
+- **词性**：n./v.
+- **中文释义**：n. 补充物；增刊；v. 补充；增补
+- **例句**：
+  - *He supplements his income by working part-time.*  
+    （他通过兼职工作来补充收入。）
+- **记忆技巧**：
+  - 词根 **sup-**（在下面） + **ple**（填满） + **-ment** → 从下面填满 → 补充。
 
 ---
 
-## 10. **prosperity**
-- **音标**：/prɑːˈsperəti/  
-- **词性**：名词  
-- **释义**：繁荣；兴旺  
-- **例句**：  
-  - The country enjoyed a period of **prosperity**.  
-    这个国家经历了一段**繁荣时期**。  
-- **记忆技巧**：  
-  前缀 “pro-” 表示“向前” + “sper” 意为“希望” → 充满希望向前 → 繁荣。
+### 9. trivial
+- **音标**：/ˈtrɪviəl/
+- **词性**：adj.
+- **中文释义**：琐碎的；不重要的；微不足道的
+- **例句**：
+  - *Don't waste time on trivial matters.*  
+    （不要把时间浪费在琐事上。）
+- **记忆技巧**：
+  - 联想 **tri-**（三） + **via**（路） → 三条路交叉的地方 → 小镇，琐碎的地方 → 琐碎的。
 
 ---
 
-## 11. **impede**
-- **音标**：/ɪmˈpiːd/  
-- **词性**：动词  
-- **释义**：阻碍，妨碍  
-- **例句**：  
-  - The heavy rain **impeded** our progress.  
-    大雨**阻碍**了我们的进程。  
-- **记忆技巧**：  
-  前缀 “im-” 表示“进入” + “ped” 意为“脚”（如 pedestrian 行人）→ 脚陷入其中 → 阻碍。
+### 10. ubiquitous
+- **音标**：/juːˈbɪkwɪtəs/
+- **词性**：adj.
+- **中文释义**：无处不在的；普遍存在的
+- **例句**：
+  - *Smartphones have become ubiquitous in modern society.*  
+    （智能手机在现代社会已经无处不在。）
+- **记忆技巧**：
+  - 词根 **ubique**（到处） + **-ous**（形容词后缀） → 到处都有的 → 无处不在的。
 
 ---
 
-## 12. **scrutiny**
-- **音标**：/ˈskruːtəni/  
-- **词性**：名词  
-- **释义**：仔细检查；详细审查  
-- **例句**：  
-  - The plan came under intense public **scrutiny**.  
-    该计划受到了公众的**严格审查**。  
-- **记忆技巧**：  
-  源自拉丁语 “scruta” 意为“碎片” → 翻找碎片 → 仔细检查。
+### 11. vulnerable
+- **音标**：/ˈvʌlnərəbl/
+- **词性**：adj.
+- **中文释义**：脆弱的；易受攻击的；易受伤的
+- **例句**：
+  - *The system is vulnerable to cyber-attacks.*  
+    （这个系统容易受到网络攻击。）
+- **记忆技巧**：
+  - 词根 **vuln**（伤） + **-er** + **-able**（能…的） → 能被伤害的 → 脆弱的。
 
 ---
 
-## 📝 今日学习建议：
-1. **分组记忆**：将形容词（elaborate, resilient, ambiguous, pragmatic, volatile）一组记忆。
-2. **造句练习**：挑选3个词汇，每个造两个句子。
-3. **词根串联**：复习今日出现的词根：labor, -sil-, contra-, substan-, ambi-, pragmat-, converg-, priv-, volat-, prosper-, ped-, scrut-。
+### 12. autonomous
+- **音标**：/ɔːˈtɑːnəməs/
+- **词性**：adj.
+- **中文释义**：自主的；自治的；独立的
+- **例句**：
+  - *The region declared itself an autonomous republic.*  
+    （该地区宣布自己为自治共和国。）
+- **记忆技巧**：
+  - 词根 **auto-**（自己） + **nom**（管理） + **-ous**（形容词后缀） → 自我管理的 → 自主的。
 
-**每日坚持，词汇量稳步提升！加油！** 💪
+---
+
+**学习建议**：
+1. 每天记忆10-15个词汇，配合例句理解用法。
+2. 尝试用每个新词造句，加深印象。
+3. 定期复习之前学过的词汇，强化记忆。
+4. 关注词汇的搭配和使用场景，提升实际运用能力。
+
+祝您学习顺利！📚
