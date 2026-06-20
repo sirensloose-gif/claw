@@ -1,157 +1,98 @@
-# 六级高频词汇学习 - 第21天
+# 六级词汇每日打卡 Day 22
 
-以下是为您精选的12个六级高频词汇，涵盖不同词性，适合每日积累学习。
+## 今日词汇
 
----
+1. **profound**  
+   /prəˈfaʊnd/  
+   *adj.* 深刻的，深远的；深奥的  
+   **例句**：The book had a profound influence on his career.  
+   **翻译**：这本书对他的职业生涯产生了深远影响。  
+   **记忆技巧**：pro-（向前）+ found（底部）→ 深入到底部的 → 深刻的
 
-### 1. ambiguous
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：adj.
-- **中文释义**：模棱两可的；含糊不清的
-- **例句**：
-  - *The instructions were so ambiguous that we didn't know what to do.*  
-    （说明如此模棱两可，我们都不知道该做什么。）
-- **记忆技巧**：
-  - 词根 **ambi-**（两边） + **-guous**（形容词后缀） → 可往两边理解 → 模棱两可的。
+2. **substantial**  
+   /səbˈstænʃəl/  
+   *adj.* 大量的，实质的；坚固的  
+   **例句**：They made substantial progress in the negotiations.  
+   **翻译**：他们在谈判中取得了实质性进展。  
+   **记忆技巧**：sub-（下）+ stance（站立）+ -ial → 基础稳固的 → 大量的、实质的
 
----
+3. **controversial**  
+   /ˌkɒntrəˈvɜːrʃəl/  
+   *adj.* 引起争议的，有争议的  
+   **例句**：The decision proved highly controversial among scholars.  
+   **翻译**：这一决定在学者中引起了极大争议。  
+   **记忆技巧**：contra-（相反）+ vers（转）+ -ial → 众人转向对立面 → 引起争议的
 
-### 2. consensus
-- **音标**：/kənˈsensəs/
-- **词性**：n.
-- **中文释义**：共识；一致意见
-- **例句**：
-  - *The committee finally reached a consensus on the new policy.*  
-    （委员会最终就新政策达成了共识。）
-- **记忆技巧**：
-  - 联想 **con-**（共同） + **sensus**（感觉） → 共同的感觉 → 共识。
+4. **mitigate**  
+   /ˈmɪtɪɡeɪt/  
+   *v.* 缓解，减轻（严重性）  
+   **例句**：Measures were taken to mitigate the effects of the flood.  
+   **翻译**：采取措施减轻洪水的影响。  
+   **记忆技巧**：mit-（轻柔）+ ig（做）→ 做得轻柔 → 缓解
 
----
+5. **perceive**  
+   /pərˈsiːv/  
+   *v.* 察觉，感知；理解为  
+   **例句**：She perceived a slight change in his attitude.  
+   **翻译**：她察觉到他态度上的细微变化。  
+   **记忆技巧**：per-（完全）+ ceive（拿取）→ 完全抓住 → 感知、理解
 
-### 3. deteriorate
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：v.
-- **中文释义**：恶化；变坏；退化
-- **例句**：
-  - *Her health began to deteriorate rapidly after the operation.*  
-    （手术后她的健康状况迅速恶化。）
-- **记忆技巧**：
-  - 词根 **deterior**（更坏的） + **-ate**（动词后缀） → 使变得更坏 → 恶化。
+6. **phenomenon**  
+   /fəˈnɒmɪnɒn/  
+   *n.* 现象；非凡的人/事  
+   **例句**：Climate change is a global phenomenon.  
+   **翻译**：气候变化是一个全球性现象。  
+   **记忆技巧**：pheno-（显现）+ menon（结果）→ 显现出来的结果 → 现象
 
----
+7. **revenue**  
+   /ˈrevənjuː/  
+   *n.* 收入，税收收入  
+   **例句**：The company reported a significant increase in annual revenue.  
+   **翻译**：公司报告年度收入大幅增长。  
+   **记忆技巧**：re-（回）+ venue（来）→ 回来的东西 → 收入
 
-### 4. eloquent
-- **音标**：/ˈeləkwənt/
-- **词性**：adj.
-- **中文释义**：雄辩的；有说服力的；口才好的
-- **例句**：
-  - *She gave an eloquent speech that moved the entire audience.*  
-    （她发表了一场感人肺腑的雄辩演讲。）
-- **记忆技巧**：
-  - 词根 **e-**（出） + **loqu**（说） + **-ent**（形容词后缀） → 能说出来的 → 雄辩的。
+8. **coherent**  
+   /koʊˈhɪrənt/  
+   *adj.* 连贯的，一致的；条理清楚的  
+   **例句**：The essay needs a more coherent argument.  
+   **翻译**：这篇文章需要一个更连贯的论点。  
+   **记忆技巧**：co-（共同）+ here（粘）+ -ent → 粘在一起的 → 连贯的
 
----
+9. **deteriorate**  
+   /dɪˈtɪriəreɪt/  
+   *v.* 恶化，变坏  
+   **例句**：His health began to deteriorate rapidly.  
+   **翻译**：他的健康状况开始迅速恶化。  
+   **记忆技巧**：de-（向下）+ terior（更坏）+ -ate → 变得更坏 → 恶化
 
-### 5. inherent
-- **音标**：/ɪnˈhɪrənt/
-- **词性**：adj.
-- **中文释义**：内在的；固有的；天生的
-- **例句**：
-  - *There are inherent risks in any type of investment.*  
-    （任何类型的投资都有内在风险。）
-- **记忆技巧**：
-  - 词根 **in-**（在…里面） + **her**（粘附） + **-ent** → 粘附在内部的 → 固有的。
+10. **scrutiny**  
+    /ˈskruːtəni/  
+    *n.* 仔细审查，监督  
+    **例句**：The proposal came under close scrutiny from the committee.  
+    **翻译**：这项提案受到委员会的严格审查。  
+    **记忆技巧**：scru-（仔细）+ tiny（微小）→ 关注微小细节 → 仔细审查
 
----
+11. **elaborate**  
+    /ɪˈlæbərət/  
+    *adj.* 精心制作的，详尽的  
+    *v.* 详细说明  
+    **例句**：Could you elaborate on your proposal?  
+    **翻译**：你能详细说明一下你的提案吗？  
+    **记忆技巧**：e-（出）+ labor（工作）+ -ate → 花费大量工作做出来的 → 精心制作的
 
-### 6. pragmatic
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.
-- **中文释义**：务实的；实用主义的
-- **例句**：
-  - *We need a pragmatic approach to solve this problem.*  
-    （我们需要用务实的方法来解决这个问题。）
-- **记忆技巧**：
-  - 词根 **pragmat-**（实践） + **-ic**（形容词后缀） → 注重实践的 → 务实的。
-
----
-
-### 7. resilient
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.
-- **中文释义**：有弹性的；能恢复的；适应力强的
-- **例句**：
-  - *Children are often more resilient than adults think.*  
-    （孩子们往往比大人想象的更有韧性。）
-- **记忆技巧**：
-  - 词根 **re-**（回） + **sili**（跳） + **-ent** → 能跳回来的 → 有弹性的，能恢复的。
-
----
-
-### 8. supplement
-- **音标**：/ˈsʌplɪmənt/
-- **词性**：n./v.
-- **中文释义**：n. 补充物；增刊；v. 补充；增补
-- **例句**：
-  - *He supplements his income by working part-time.*  
-    （他通过兼职工作来补充收入。）
-- **记忆技巧**：
-  - 词根 **sup-**（在下面） + **ple**（填满） + **-ment** → 从下面填满 → 补充。
+12. **sustainable**  
+    /səˈsteɪnəbəl/  
+    *adj.* 可持续的，可维持的  
+    **例句**：We need to find more sustainable sources of energy.  
+    **翻译**：我们需要寻找更可持续的能源来源。  
+    **记忆技巧**：sus-（下）+ tain（保持）+ -able → 能保持下去的 → 可持续的
 
 ---
 
-### 9. trivial
-- **音标**：/ˈtrɪviəl/
-- **词性**：adj.
-- **中文释义**：琐碎的；不重要的；微不足道的
-- **例句**：
-  - *Don't waste time on trivial matters.*  
-    （不要把时间浪费在琐事上。）
-- **记忆技巧**：
-  - 联想 **tri-**（三） + **via**（路） → 三条路交叉的地方 → 小镇，琐碎的地方 → 琐碎的。
+📝 **学习小贴士**：
+- 建议每天花20-30分钟记忆这些词汇
+- 重点掌握例句中的实际用法
+- 可将记忆技巧与单词一起写在卡片上
+- 试着用每个单词造一个新句子
 
----
-
-### 10. ubiquitous
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：adj.
-- **中文释义**：无处不在的；普遍存在的
-- **例句**：
-  - *Smartphones have become ubiquitous in modern society.*  
-    （智能手机在现代社会已经无处不在。）
-- **记忆技巧**：
-  - 词根 **ubique**（到处） + **-ous**（形容词后缀） → 到处都有的 → 无处不在的。
-
----
-
-### 11. vulnerable
-- **音标**：/ˈvʌlnərəbl/
-- **词性**：adj.
-- **中文释义**：脆弱的；易受攻击的；易受伤的
-- **例句**：
-  - *The system is vulnerable to cyber-attacks.*  
-    （这个系统容易受到网络攻击。）
-- **记忆技巧**：
-  - 词根 **vuln**（伤） + **-er** + **-able**（能…的） → 能被伤害的 → 脆弱的。
-
----
-
-### 12. autonomous
-- **音标**：/ɔːˈtɑːnəməs/
-- **词性**：adj.
-- **中文释义**：自主的；自治的；独立的
-- **例句**：
-  - *The region declared itself an autonomous republic.*  
-    （该地区宣布自己为自治共和国。）
-- **记忆技巧**：
-  - 词根 **auto-**（自己） + **nom**（管理） + **-ous**（形容词后缀） → 自我管理的 → 自主的。
-
----
-
-**学习建议**：
-1. 每天记忆10-15个词汇，配合例句理解用法。
-2. 尝试用每个新词造句，加深印象。
-3. 定期复习之前学过的词汇，强化记忆。
-4. 关注词汇的搭配和使用场景，提升实际运用能力。
-
-祝您学习顺利！📚
+祝你学习愉快！坚持就是胜利！💪
