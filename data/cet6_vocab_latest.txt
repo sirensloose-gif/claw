@@ -1,98 +1,156 @@
-# 六级词汇每日打卡 Day 22
+# 📚 六级高频词汇学习 - 第23天
 
-## 今日词汇
-
-1. **profound**  
-   /prəˈfaʊnd/  
-   *adj.* 深刻的，深远的；深奥的  
-   **例句**：The book had a profound influence on his career.  
-   **翻译**：这本书对他的职业生涯产生了深远影响。  
-   **记忆技巧**：pro-（向前）+ found（底部）→ 深入到底部的 → 深刻的
-
-2. **substantial**  
-   /səbˈstænʃəl/  
-   *adj.* 大量的，实质的；坚固的  
-   **例句**：They made substantial progress in the negotiations.  
-   **翻译**：他们在谈判中取得了实质性进展。  
-   **记忆技巧**：sub-（下）+ stance（站立）+ -ial → 基础稳固的 → 大量的、实质的
-
-3. **controversial**  
-   /ˌkɒntrəˈvɜːrʃəl/  
-   *adj.* 引起争议的，有争议的  
-   **例句**：The decision proved highly controversial among scholars.  
-   **翻译**：这一决定在学者中引起了极大争议。  
-   **记忆技巧**：contra-（相反）+ vers（转）+ -ial → 众人转向对立面 → 引起争议的
-
-4. **mitigate**  
-   /ˈmɪtɪɡeɪt/  
-   *v.* 缓解，减轻（严重性）  
-   **例句**：Measures were taken to mitigate the effects of the flood.  
-   **翻译**：采取措施减轻洪水的影响。  
-   **记忆技巧**：mit-（轻柔）+ ig（做）→ 做得轻柔 → 缓解
-
-5. **perceive**  
-   /pərˈsiːv/  
-   *v.* 察觉，感知；理解为  
-   **例句**：She perceived a slight change in his attitude.  
-   **翻译**：她察觉到他态度上的细微变化。  
-   **记忆技巧**：per-（完全）+ ceive（拿取）→ 完全抓住 → 感知、理解
-
-6. **phenomenon**  
-   /fəˈnɒmɪnɒn/  
-   *n.* 现象；非凡的人/事  
-   **例句**：Climate change is a global phenomenon.  
-   **翻译**：气候变化是一个全球性现象。  
-   **记忆技巧**：pheno-（显现）+ menon（结果）→ 显现出来的结果 → 现象
-
-7. **revenue**  
-   /ˈrevənjuː/  
-   *n.* 收入，税收收入  
-   **例句**：The company reported a significant increase in annual revenue.  
-   **翻译**：公司报告年度收入大幅增长。  
-   **记忆技巧**：re-（回）+ venue（来）→ 回来的东西 → 收入
-
-8. **coherent**  
-   /koʊˈhɪrənt/  
-   *adj.* 连贯的，一致的；条理清楚的  
-   **例句**：The essay needs a more coherent argument.  
-   **翻译**：这篇文章需要一个更连贯的论点。  
-   **记忆技巧**：co-（共同）+ here（粘）+ -ent → 粘在一起的 → 连贯的
-
-9. **deteriorate**  
-   /dɪˈtɪriəreɪt/  
-   *v.* 恶化，变坏  
-   **例句**：His health began to deteriorate rapidly.  
-   **翻译**：他的健康状况开始迅速恶化。  
-   **记忆技巧**：de-（向下）+ terior（更坏）+ -ate → 变得更坏 → 恶化
-
-10. **scrutiny**  
-    /ˈskruːtəni/  
-    *n.* 仔细审查，监督  
-    **例句**：The proposal came under close scrutiny from the committee.  
-    **翻译**：这项提案受到委员会的严格审查。  
-    **记忆技巧**：scru-（仔细）+ tiny（微小）→ 关注微小细节 → 仔细审查
-
-11. **elaborate**  
-    /ɪˈlæbərət/  
-    *adj.* 精心制作的，详尽的  
-    *v.* 详细说明  
-    **例句**：Could you elaborate on your proposal?  
-    **翻译**：你能详细说明一下你的提案吗？  
-    **记忆技巧**：e-（出）+ labor（工作）+ -ate → 花费大量工作做出来的 → 精心制作的
-
-12. **sustainable**  
-    /səˈsteɪnəbəl/  
-    *adj.* 可持续的，可维持的  
-    **例句**：We need to find more sustainable sources of energy.  
-    **翻译**：我们需要寻找更可持续的能源来源。  
-    **记忆技巧**：sus-（下）+ tain（保持）+ -able → 能保持下去的 → 可持续的
+今天为你精选12个六级核心高频词汇，涵盖多种词性，助力高效备考！
 
 ---
 
-📝 **学习小贴士**：
-- 建议每天花20-30分钟记忆这些词汇
-- 重点掌握例句中的实际用法
-- 可将记忆技巧与单词一起写在卡片上
-- 试着用每个单词造一个新句子
+## 1. exacerbate
+**音标**：/ɪɡˈzæsərbeɪt/  
+**词性**：及物动词 (v.)  
+**释义**：使加剧；使恶化  
+**例句**：  
+> The new policy will **exacerbate** existing social inequalities.  
+> 新政策将**加剧**现有的社会不平等。  
+**记忆技巧**：  
+词根 *ex-*（向外）+ *acerbate*（尖锐的，来自拉丁语 *acer* 酸），可联想“让事情变得更尖锐/酸涩”，即“使恶化”。
 
-祝你学习愉快！坚持就是胜利！💪
+---
+
+## 2. paradigm
+**音标**：/ˈpærədaɪm/  
+**词性**：名词 (n.)  
+**释义**：范式；典范；模式  
+**例句**：  
+> The discovery caused a **paradigm** shift in scientific research.  
+> 这一发现引发了科学研究的**范式**转变。  
+**记忆技巧**：  
+*para-*（旁边）+ *deigma*（例子），即“放在旁边作为标准的例子”→ 范式。常与 **shift**（转变）搭配使用。
+
+---
+
+## 3. pragmatic
+**音标**：/præɡˈmætɪk/  
+**词性**：形容词 (adj.)  
+**释义**：务实的；实用主义的  
+**例句**：  
+> We need a more **pragmatic** approach to solve this problem.  
+> 我们需要一个更**务实的**方法来解决这个问题。  
+**记忆技巧**：  
+来自 *pragma*（事务，实践），与 *practical*（实际的）近义，可联想“关注实际事务的”。
+
+---
+
+## 4. volatile
+**音标**：/ˈvɑːlətl/  
+**词性**：形容词 (adj.)  
+**释义**：易变的；不稳定的；挥发性的  
+**例句**：  
+> The stock market has been extremely **volatile** recently.  
+> 股市最近极其**动荡**。  
+**记忆技巧**：  
+词根 *vol*（飞）+ *atile*（易...的），像“容易飞走的东西”，即“易变、不稳定”。也指化学中的“挥发性”。
+
+---
+
+## 5. scrutinize
+**音标**：/ˈskruːtənaɪz/  
+**词性**：及物动词 (v.)  
+**释义**：仔细检查；细读  
+**例句**：  
+> The committee will **scrutinize** every detail of the proposal.  
+> 委员会将**仔细审查**提案的每一个细节。  
+**记忆技巧**：  
+与 *screen*（筛选）近形，可联想“像用筛子一样仔细检查”。也常与 *carefully* 或 *closely* 搭配。
+
+---
+
+## 6. consensus
+**音标**：/kənˈsensəs/  
+**词性**：名词 (n.)  
+**释义**：共识；一致意见  
+**例句**：  
+> A **consensus** was finally reached after a long debate.  
+> 经过长时间的辩论，终于达成了**共识**。  
+**记忆技巧**：  
+*con-*（共同）+ *sensus*（感觉），即“共同的感觉”→ 共识。注意单复数同形。
+
+---
+
+## 7. plausible
+**音标**：/ˈplɔːzəbl/  
+**词性**：形容词 (adj.)  
+**释义**：似乎合理的；貌似可信的  
+**例句**：  
+> His excuse sounded **plausible**, but I didn’t fully believe it.  
+> 他的借口听起来**似乎合理**，但我没有完全相信。  
+**记忆技巧**：  
+词根 *plaus-*（鼓掌，来自拉丁语），即“值得鼓掌的（理由）”，引申为“看似有理的”。
+
+---
+
+## 8. eradicate
+**音标**：/ɪˈrædɪkeɪt/  
+**词性**：及物动词 (v.)  
+**释义**：根除；消灭  
+**例句**：  
+> The government aims to **eradicate** poverty in the region.  
+> 政府旨在**根除**该地区的贫困。  
+**记忆技巧**：  
+*e-*（出）+ *radic-*（根，同 radical 根本的）+ *-ate*，即“连根拔起”→ 根除。
+
+---
+
+## 9. ephemeral
+**音标**：/ɪˈfemərəl/  
+**词性**：形容词 (adj.)  
+**释义**：短暂的；瞬息的  
+**例句**：  
+> Fame in the modern world is often **ephemeral**.  
+> 现代世界的名声往往是**短暂的**。  
+**记忆技巧**：  
+源自希腊语 *ephemeros*（仅一天的），*epi-*（在...之上）+ *hemera*（日）→ “只活一天的”→ 短暂的。
+
+---
+
+## 10. redundant
+**音标**：/rɪˈdʌndənt/  
+**词性**：形容词 (adj.)  
+**释义**：多余的；累赘的；被裁减的  
+**例句**：  
+> The new design made several features **redundant**.  
+> 新设计使几个功能变得**多余**。  
+**记忆技巧**：  
+*re-*（再次）+ *und-*（溢出，同 abundant 充裕的）+ *-ant*，即“再次溢出的”→ 过剩的、多余的。
+
+---
+
+## 11. benevolent
+**音标**：/bəˈnevələnt/  
+**词性**：形容词 (adj.)  
+**释义**：仁慈的；慈善的  
+**例句**：  
+> The **benevolent** organization provides free education for children.  
+> 这个**慈善**组织为儿童提供免费教育。  
+**记忆技巧**：  
+*bene-*（好的，同 benefit 利益）+ *vol*（意愿）+ *-ent*，即“有善意的”→ 仁慈的。
+
+---
+
+## 12. inertia
+**音标**：/ɪˈnɜːrʃə/  
+**词性**：名词 (n.)  
+**释义**：惰性；惯性；迟钝  
+**例句**：  
+> The company struggled to overcome its bureaucratic **inertia**.  
+> 公司难以克服其官僚主义的**惰性**。  
+**记忆技巧**：  
+来自拉丁语 *iners*（不活动的），*in-*（不）+ *ars*（技巧、艺术），即“没有技巧/不活跃”→ 惰性。物理学中的“惯性”也是此词。
+
+---
+
+## 📝 今日小贴士
+- **词汇搭配**：注意 *exacerbate problems*、*reach a consensus*、*scrutinize details* 等高频搭配。
+- **一词多义**：如 *volatile* 既可指“情绪不稳定”，也可指“市场波动”。
+- **拼写注意**：*paradigm* 的 /g/ 不发音，*redundant* 中有 *du* 不是 *do*。
+
+坚持就是胜利，明天见！ 🌟
