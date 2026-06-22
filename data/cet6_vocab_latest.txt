@@ -1,156 +1,129 @@
-# 📚 六级高频词汇学习 - 第23天
+# 📚 六级高频词汇学习 - 第24天
 
-今天为你精选12个六级核心高频词汇，涵盖多种词性，助力高效备考！
-
----
-
-## 1. exacerbate
-**音标**：/ɪɡˈzæsərbeɪt/  
-**词性**：及物动词 (v.)  
-**释义**：使加剧；使恶化  
-**例句**：  
-> The new policy will **exacerbate** existing social inequalities.  
-> 新政策将**加剧**现有的社会不平等。  
-**记忆技巧**：  
-词根 *ex-*（向外）+ *acerbate*（尖锐的，来自拉丁语 *acer* 酸），可联想“让事情变得更尖锐/酸涩”，即“使恶化”。
+## 今日词汇列表
+今日精选 **10** 个高频核心词汇，涵盖形容词、名词、动词与副词，助力备考。
 
 ---
 
-## 2. paradigm
-**音标**：/ˈpærədaɪm/  
-**词性**：名词 (n.)  
-**释义**：范式；典范；模式  
-**例句**：  
-> The discovery caused a **paradigm** shift in scientific research.  
-> 这一发现引发了科学研究的**范式**转变。  
-**记忆技巧**：  
-*para-*（旁边）+ *deigma*（例子），即“放在旁边作为标准的例子”→ 范式。常与 **shift**（转变）搭配使用。
+### 1. compelling
+**音标**: [kəmˈpelɪŋ]
+**词性**: 形容词
+**释义**: 引人注目的；令人信服的；强制的
+**例句**:
+> The documentary presented a **compelling** argument for climate action, backed by irrefutable scientific data.
+> 这部纪录片提出了一个令人信服的论点来呼吁采取气候行动，并辅以无可辩驳的科学数据。
+**记忆技巧**:
+*   **词根词缀**: `com-` (一起) + `pel` (推、驱动) → 一起推动你，让你无法拒绝，即“令人信服的、强制的”。
+*   **联想**: 想象一个故事“**强迫**” (compel) 你听下去，因为它太“**引人入胜**” (compelling) 了。
 
 ---
 
-## 3. pragmatic
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词 (adj.)  
-**释义**：务实的；实用主义的  
-**例句**：  
-> We need a more **pragmatic** approach to solve this problem.  
-> 我们需要一个更**务实的**方法来解决这个问题。  
-**记忆技巧**：  
-来自 *pragma*（事务，实践），与 *practical*（实际的）近义，可联想“关注实际事务的”。
+### 2. profound
+**音标**: [prəˈfaʊnd]
+**词性**: 形容词
+**释义**: 深刻的，深切的；渊博的；深奥的
+**例句**:
+> Her research has had a **profound** impact on our understanding of neurodegenerative diseases.
+> 她的研究对我们的神经退行性疾病认知产生了深远的影响。
+**记忆技巧**:
+*   **词根词缀**: `pro-` (向前) + `found` (基础、底部) → 深入到底层，即“深刻的、深奥的”。
 
 ---
 
-## 4. volatile
-**音标**：/ˈvɑːlətl/  
-**词性**：形容词 (adj.)  
-**释义**：易变的；不稳定的；挥发性的  
-**例句**：  
-> The stock market has been extremely **volatile** recently.  
-> 股市最近极其**动荡**。  
-**记忆技巧**：  
-词根 *vol*（飞）+ *atile*（易...的），像“容易飞走的东西”，即“易变、不稳定”。也指化学中的“挥发性”。
+### 3. resilient
+**音标**: [rɪˈzɪliənt]
+**词性**: 形容词
+**释义**: 有弹性的；适应力强的；能迅速恢复的
+**例句**:
+> Children are often more emotionally **resilient** than adults, bouncing back from setbacks quickly.
+> 儿童通常比成年人在情感上更具韧性，能迅速从挫折中恢复过来。
+**记忆技巧**:
+*   **词根词缀**: `re-` (再次) + `sili` (跳跃，同 `salient` 的 `sali`) + `-ent` (…的) → 能再次跳起来的，即“有弹性的、恢复力强的”。
+*   **联想**: 联想 **Resilient** ≈ **Re** (再次) + **Silent** (沉默) → 沉默之后再次振作。
 
 ---
 
-## 5. scrutinize
-**音标**：/ˈskruːtənaɪz/  
-**词性**：及物动词 (v.)  
-**释义**：仔细检查；细读  
-**例句**：  
-> The committee will **scrutinize** every detail of the proposal.  
-> 委员会将**仔细审查**提案的每一个细节。  
-**记忆技巧**：  
-与 *screen*（筛选）近形，可联想“像用筛子一样仔细检查”。也常与 *carefully* 或 *closely* 搭配。
+### 4. advocate
+**音标**: [ˈædvəkeɪt] (动词) / [ˈædvəkət] (名词)
+**词性**: 动词/名词
+**释义**: v. 提倡，主张；n. 倡导者，拥护者
+**例句**:
+> She has long been a vocal **advocate** for educational reform and equal opportunities.
+> 她一直是教育改革和平等机会的积极倡导者。
+**记忆技巧**:
+*   **词根词缀**: `ad-` (向) + `voc` (声音，同 `voice`) + `-ate` → 向…发出声音，即“提倡、主张”。
 
 ---
 
-## 6. consensus
-**音标**：/kənˈsensəs/  
-**词性**：名词 (n.)  
-**释义**：共识；一致意见  
-**例句**：  
-> A **consensus** was finally reached after a long debate.  
-> 经过长时间的辩论，终于达成了**共识**。  
-**记忆技巧**：  
-*con-*（共同）+ *sensus*（感觉），即“共同的感觉”→ 共识。注意单复数同形。
+### 5. consensus
+**音标**: [kənˈsensəs]
+**词性**: 名词
+**释义**: 一致意见，共识
+**例句**:
+> After hours of negotiation, the committee finally reached a **consensus** on the new policy.
+> 经过数小时的谈判，委员会终于就新政策达成了共识。
+**记忆技巧**:
+*   **词根词缀**: `con-` (共同) + `sens` (感觉，同 `sense`) + `-us` → 共同的感觉，即“共识”。
 
 ---
 
-## 7. plausible
-**音标**：/ˈplɔːzəbl/  
-**词性**：形容词 (adj.)  
-**释义**：似乎合理的；貌似可信的  
-**例句**：  
-> His excuse sounded **plausible**, but I didn’t fully believe it.  
-> 他的借口听起来**似乎合理**，但我没有完全相信。  
-**记忆技巧**：  
-词根 *plaus-*（鼓掌，来自拉丁语），即“值得鼓掌的（理由）”，引申为“看似有理的”。
+### 6. implement
+**音标**: [ˈɪmplɪment]
+**词性**: 动词/名词
+**释义**: v. 实施，执行；n. 工具，器具
+**例句**:
+> The government plans to **implement** stricter regulations to reduce carbon emissions.
+> 政府计划实施更严格的法规来减少碳排放。
+**记忆技巧**:
+*   **词根词缀**: `im-` (进入) + `ple` (填充) + `-ment` → 将…填充进去，使其运转，即“实施”。
 
 ---
 
-## 8. eradicate
-**音标**：/ɪˈrædɪkeɪt/  
-**词性**：及物动词 (v.)  
-**释义**：根除；消灭  
-**例句**：  
-> The government aims to **eradicate** poverty in the region.  
-> 政府旨在**根除**该地区的贫困。  
-**记忆技巧**：  
-*e-*（出）+ *radic-*（根，同 radical 根本的）+ *-ate*，即“连根拔起”→ 根除。
+### 7. deteriorate
+**音标**: [dɪˈtɪriəreɪt]
+**词性**: 动词
+**释义**: 恶化，变坏；退化
+**例句**:
+> Without proper maintenance, the building's structural integrity will gradually **deteriorate**.
+> 如果没有适当的维护，这栋建筑的结构完整性会逐渐恶化。
+**记忆技巧**:
+*   **词根词缀**: `de-` (向下) + `terior` (更坏的，比较级，如 `interior`) + `-ate` → 变得更坏，即“恶化”。
 
 ---
 
-## 9. ephemeral
-**音标**：/ɪˈfemərəl/  
-**词性**：形容词 (adj.)  
-**释义**：短暂的；瞬息的  
-**例句**：  
-> Fame in the modern world is often **ephemeral**.  
-> 现代世界的名声往往是**短暂的**。  
-**记忆技巧**：  
-源自希腊语 *ephemeros*（仅一天的），*epi-*（在...之上）+ *hemera*（日）→ “只活一天的”→ 短暂的。
+### 8. sustainable
+**音标**: [səˈsteɪnəbl]
+**词性**: 形容词
+**释义**: 可持续的，可维持的
+**例句**:
+> Developing **sustainable** energy sources is crucial for the long-term survival of our planet.
+> 发展可持续能源对地球的长期生存至关重要。
+**记忆技巧**:
+*   **词根词缀**: `sus-` (从下往上) + `tain` (持握，同 `contain`) + `-able` (能…的) → 能从下面一直支撑住的，即“可持续的”。
 
 ---
 
-## 10. redundant
-**音标**：/rɪˈdʌndənt/  
-**词性**：形容词 (adj.)  
-**释义**：多余的；累赘的；被裁减的  
-**例句**：  
-> The new design made several features **redundant**.  
-> 新设计使几个功能变得**多余**。  
-**记忆技巧**：  
-*re-*（再次）+ *und-*（溢出，同 abundant 充裕的）+ *-ant*，即“再次溢出的”→ 过剩的、多余的。
+### 9. substantially
+**音标**: [səbˈstænʃəli]
+**词性**: 副词
+**释义**: 大体上；实质上；非常
+**例句**:
+> The new software update has **substantially** improved the processing speed and user experience.
+> 新的软件更新极大提升了处理速度和用户体验。
+**记忆技巧**:
+*   **词根词缀**: `sub-` (在下) + `stant` (站立，同 `stand`) + `-ial` + `-ly` → 站在坚实基础上地 → “实质上、非常”。
 
 ---
 
-## 11. benevolent
-**音标**：/bəˈnevələnt/  
-**词性**：形容词 (adj.)  
-**释义**：仁慈的；慈善的  
-**例句**：  
-> The **benevolent** organization provides free education for children.  
-> 这个**慈善**组织为儿童提供免费教育。  
-**记忆技巧**：  
-*bene-*（好的，同 benefit 利益）+ *vol*（意愿）+ *-ent*，即“有善意的”→ 仁慈的。
+### 10. autonomy
+**音标**: [ɔːˈtɑːnəmi]
+**词性**: 名词
+**释义**: 自治，自主权；自主性
+**例句**:
+> The university grants its departments a high degree of **autonomy** in designing their own curricula.
+> 该大学赋予其院系在设计自身课程方面高度的自主权。
+**记忆技巧**:
+*   **词根词缀**: `auto-` (自己) + `nom` (法律、管理，如 `economy`) + `-y` → 自己管理自己，即“自治、自主”。
 
 ---
-
-## 12. inertia
-**音标**：/ɪˈnɜːrʃə/  
-**词性**：名词 (n.)  
-**释义**：惰性；惯性；迟钝  
-**例句**：  
-> The company struggled to overcome its bureaucratic **inertia**.  
-> 公司难以克服其官僚主义的**惰性**。  
-**记忆技巧**：  
-来自拉丁语 *iners*（不活动的），*in-*（不）+ *ars*（技巧、艺术），即“没有技巧/不活跃”→ 惰性。物理学中的“惯性”也是此词。
-
----
-
-## 📝 今日小贴士
-- **词汇搭配**：注意 *exacerbate problems*、*reach a consensus*、*scrutinize details* 等高频搭配。
-- **一词多义**：如 *volatile* 既可指“情绪不稳定”，也可指“市场波动”。
-- **拼写注意**：*paradigm* 的 /g/ 不发音，*redundant* 中有 *du* 不是 *do*。
-
-坚持就是胜利，明天见！ 🌟
+> **学习小贴士** 💡: 建议将例句朗读数次，并尝试用每个单词各造一个新句，加深印象与理解。坚持就是胜利！祝你学习愉快，第24天打卡成功！
