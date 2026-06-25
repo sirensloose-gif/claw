@@ -1,136 +1,143 @@
-# 六级高频词汇学习 - 第26天
+# 📅 六级词汇每日打卡（第27天）
+
+今天是坚持学习的第27天，为你精选了15个六级高频核心词汇。请放慢速度，注重每个词汇的理解与运用。加油！
 
 ---
 
-### 1. **sustain** 
-- **音标**: /səˈsteɪn/
-- **词性**: v.
-- **中文释义**: 维持，支持；承受，经受
-- **例句**: 
-  - *It was difficult to **sustain** our interest in the project after the initial excitement faded.* (在最初的兴奋消退后，很难维持我们对该项目的兴趣。)
-- **记忆技巧**: 
-  - **词根词缀**: `sus-` (在下) + `tain` (保持) = 在下面保持 → 维持，支撑。
+### **1. elaborate** /ɪˈlæbərət/ (adj.) /ɪˈlæbəreɪt/ (v.)
+*   **词性**: 形容词 (adj.) / 动词 (v.)
+*   **中文释义**:
+    *   **adj.** 复杂的；精心制作的
+    *   **v.** 详细说明；精心制作
+*   **例句**:
+    *   The scientist **elaborated** on his theory during the conference. (这位科学家在会议上**详细阐述**了他的理论。)
+*   **记忆技巧**:
+    *   **词根词缀**: `e-`(出) + `labor`(劳动) + `-ate`(使…) → 花费大量劳动做出来的 → **精心制作的**；**详细阐述**。
+
+### **2. feasible** /ˈfiːzəbl/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 可行的；可能的
+*   **例句**:
+    *   The committee will assess whether the proposal is **feasible**. (委员会将评估该提案是否**可行**。)
+*   **记忆技巧**:
+    *   **联想记忆**: 词根 `feas-`(= do, make) + `-ible`(能…的) → 能做成的 → **可行的**。可以联想 `feasible plan`（可行的计划）。
+
+### **3. legitimate** /lɪˈdʒɪtɪmət/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 合法的；正当的；合理的
+*   **例句**:
+    *   He had a **legitimate** reason for being absent from work. (他有**正当的**理由缺席工作。)
+*   **记忆技巧**:
+    *   **词根词缀**: `legitim-`(法律) + `-ate`(形容词后缀) → 符合法律的 → **合法的**。
+
+### **4. vicinity** /vɪˈsɪnəti/ (n.)
+*   **词性**: 名词 (n.)
+*   **中文释义**: 邻近地区，附近
+*   **例句**:
+    *   There are several convenience stores in the **vicinity** of our community. (我们社区**附近**有几家便利店。)
+*   **记忆技巧**:
+    *   **联想记忆**: `vicin-`(接近) + `-ity`(状态) → 接近的状态 → **邻近地区**。固定搭配：`in the vicinity of`（在…附近）。
+
+### **5. detrimental** /ˌdetrɪˈmentl/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 有害的，不利的
+*   **例句**:
+    *   Smoking is **detrimental** to one's health. (吸烟对健康**有害**。)
+*   **记忆技巧**:
+    *   **词根词缀**: `detriment`(损害) + `-al`(形容词后缀) → 造成损害的 → **有害的**。
+
+### **6. scrutinize** /ˈskruːtənaɪz/ (v.)
+*   **词性**: 动词 (v.)
+*   **中文释义**: 仔细检查，详审
+*   **例句**:
+    *   The accountant will **scrutinize** all the financial records. (会计师将**仔细审查**所有财务记录。)
+*   **记忆技巧**:
+    *   **联想记忆**: `scrutin-`(检查) + `-ize`(使…) → 使进入检查状态 → **仔细检查**。注意与 `screen`（筛选）拼写区别。
+
+### **7. resilient** /rɪˈzɪliənt/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 有弹性的；能恢复的；适应力强的
+*   **例句**:
+    *   Children are often more **resilient** than adults when facing setbacks. (面对挫折时，孩子们往往比成年人**更具韧性**。)
+*   **记忆技巧**:
+    *   **词根词缀**: `resil-`(弹回) + `-ient`(…的) → 能弹回来的 → **有弹性的**；**能恢复的**。
+
+### **8. pragmatic** /præɡˈmætɪk/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 务实的，注重实效的
+*   **例句**:
+    *   We need a more **pragmatic** approach to solve this problem. (我们需要一种更**务实的**方法来解决这个问题。)
+*   **记忆技巧**:
+    *   **词根词缀**: `pragmat-`(行动，实践) + `-ic`(形容词后缀) → 注重实践的 → **务实的**。
+
+### **9. deteriorate** /dɪˈtɪəriəreɪt/ (v.)
+*   **词性**: 动词 (v.)
+*   **中文释义**: 恶化，变坏
+*   **例句**:
+    *   His health continued to **deteriorate** after the surgery. (手术后，他的健康状况持续**恶化**。)
+*   **记忆技巧**:
+    *   **词根词缀**: `de-`(向下) + `terior`(比较级，更坏的) + `-ate`(使…) → 使变得更坏 → **恶化**。
+
+### **10. compatible** /kəmˈpætəbl/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 兼容的；合得来的
+*   **例句**:
+    *   Is your new computer **compatible** with this software? (你新电脑的系统和这个软件**兼容**吗？)
+*   **记忆技巧**:
+    *   **词根词缀**: `com-`(共同) + `pat-`(感觉，忍受) + `-ible`(能…的) → 能共同忍受的 → **合得来的**；**兼容的**。
+
+### **11. inadvertently** /ˌɪnədˈvɜːrtəntli/ (adv.)
+*   **词性**: 副词 (adv.)
+*   **中文释义**: 不经意地，无意地
+*   **例句**:
+    *   She **inadvertently** deleted an important file. (她**不小心**删除了一个重要文件。)
+*   **记忆技巧**:
+    *   **词根词缀**: `in-`(不) + `ad-`(向) + `vert-`(转) + `-ent`(…的) + `-ly`(副词) → 没有将注意力转向 → **无意地**。
+
+### **12. consensus** /kənˈsensəs/ (n.)
+*   **词性**: 名词 (n.)
+*   **中文释义**: 共识，一致意见
+*   **例句**:
+    *   The committee finally reached a **consensus** on the budget plan. (委员会最终就预算计划达成了**共识**。)
+*   **记忆技巧**:
+    *   **词根词缀**: `con-`(共同) + `sens-`(感觉) + `-us`(名词后缀) → 共同的感觉 → **共识**。
+
+### **13. daunting** /ˈdɔːntɪŋ/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 令人畏惧的，令人气馁的
+*   **例句**:
+    *   Climbing Mount Everest is a **daunting** challenge for most people. (对大多数人来说，攀登珠穆朗玛峰是一个**令人生畏的**挑战。)
+*   **记忆技巧**:
+    *   **联想记忆**: 来自 `daunt`(使气馁) + `-ing`(令人…的) → 让人气馁的 → **令人气馁的**。
+
+### **14. tangible** /ˈtændʒəbl/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 有形的，可触摸的；切实的
+*   **例句**:
+    *   We need to see some **tangible** results from our efforts. (我们需要看到努力带来一些**切实的**成果。)
+*   **记忆技巧**:
+    *   **词根词缀**: `tang-`(接触，触摸) + `-ible`(能…的) → 能触摸到的 → **有形的**。
+
+### **15. scrutinize** (见词汇6) 替换为：
+### **15. paramount** /ˈpærəmaʊnt/ (adj.)
+*   **词性**: 形容词 (adj.)
+*   **中文释义**: 至高无上的，最重要的
+*   **例句**:
+    *   Safety is of **paramount** importance in this laboratory. (在这个实验室里，安全**至为重要**。)
+*   **记忆技巧**:
+    *   **词根词缀**: `para-`(超越) + `mount`(攀登) → 超越山峰的 → **至高无上的**。固定搭配：`of paramount importance`（至关重要）。
 
 ---
 
-### 2. **profound**
-- **音标**: /prəˈfaʊnd/
-- **词性**: adj.
-- **中文释义**: 深刻的，深远的；深奥的
-- **例句**: 
-  - *The documentary had a **profound** impact on viewers' understanding of climate change.* (这部纪录片对观众理解气候变化产生了深远的影响。)
-- **记忆技巧**: 
-  - **联想记忆**: 可以联想 `professor` (教授)，教授的洞见通常是 **profound** (深刻的)。
+### ✍️ 今日学习小结
+*   **重点动词**: elaborate, scrutinize, deteriorate
+*   **核心形容词**: feasible, legitimate, detrimental, resilient, pragmatic, compatible, daunting, tangible, paramount
+*   **关键副词**: inadvertently
+*   **必备名词**: vicinity, consensus
 
----
+**学习建议**：
+1.  **遮盖释义**，看着单词尝试回忆意思。
+2.  **大声朗读**例句，体会词汇在语境中的用法。
+3.  **用当天的词汇尝试造句**，哪怕只是一个简单的句子，这是将被动词汇转化为主动词汇的关键一步。
 
-### 3. **resilient**
-- **音标**: /rɪˈzɪliənt/
-- **词性**: adj.
-- **中文释义**: 有弹性的；能迅速恢复的，适应力强的
-- **例句**: 
-  - *Communities must become more **resilient** to natural disasters like floods and earthquakes.* (社区必须对洪水和地震等自然灾害变得更具恢复力。)
-- **记忆技巧**: 
-  - **词根词缀**: `re-` (回) + `sili` (跳跃) + `-ent` (形容词后缀) = 能跳回来的 → 能恢复的。
-
----
-
-### 4. **manifest**
-- **音标**: /ˈmænɪfest/
-- **词性**: v. / adj.
-- **中文释义**: v. 表明，显示；adj. 显然的
-- **例句**: 
-  - *Her talent for leadership began to **manifest** itself in her senior year.* (她的领导才能在大四时开始显现出来。)
-- **记忆技巧**: 
-  - **词根词缀**: `mani-` (手) + `fest` (打击) = 用手触碰/展示 → 表明，显现。
-
----
-
-### 5. **paradigm**
-- **音标**: /ˈpærədaɪm/
-- **词性**: n.
-- **中文释义**: 范例，典范；模式，范式
-- **例句**: 
-  - *The internet has created a new **paradigm** for how businesses operate.* (互联网为企业运作创造了新的范式。)
-- **记忆技巧**: 
-  - **联想记忆**: `para-` (旁边) + `dig` (挖掘，如 `digm` 类似 `diagram`) = 从旁边挖掘出一个标准的模型 → 范式。
-
----
-
-### 6. **conjunction**
-- **音标**: /kənˈdʒʌŋkʃən/
-- **词性**: n.
-- **中文释义**: 连词；联合，结合
-- **例句**: 
-  - *In **conjunction** with new policies, the technology can greatly reduce pollution.* (与新政策相结合，该技术可以大大减少污染。)
-- **记忆技巧**: 
-  - **词根词缀**: `con-` (共同) + `junct` (连接) + `-ion` (名词后缀) = 共同连接 → 结合。
-
----
-
-### 7. **disparity**
-- **音标**: /dɪˈspærəti/
-- **词性**: n.
-- **中文释义**: 差距，不一致
-- **例句**: 
-  - *There is a growing **disparity** between the rich and the poor in many urban areas.* (在许多城市地区，贫富差距正在日益扩大。)
-- **记忆技巧**: 
-  - **词根词缀**: `dis-` (分离) + `par` (相等) + `-ity` (名词后缀) = 不相等 → 差距。
-
----
-
-### 8. **coherent**
-- **音标**: /koʊˈhɪrənt/
-- **词性**: adj.
-- **中文释义**: 连贯的，一致的
-- **例句**: 
-  - *Please organize your thoughts into a **coherent** argument before presenting.* (在陈述之前，请将你的想法组织成一个连贯的论点。)
-- **记忆技巧**: 
-  - **词根词缀**: `co-` (共同) + `her` (粘附) + `-ent` (形容词后缀) = 粘附在一起 → 连贯的。
-
----
-
-### 9. **substantiate**
-- **音标**: /səbˈstænʃieɪt/
-- **词性**: v.
-- **中文释义**: 证实，证明
-- **例句**: 
-  - *The lawyer struggled to **substantiate** her client's alibi with solid evidence.* (律师很难用确凿的证据来证实她当事人的不在场证明。)
-- **记忆技巧**: 
-  - **词根词缀**: `sub-` (下) + `stant` (站立) + `-iate` (动词后缀) = 使其站在下面（作为基础） → 证实，使有根据。
-
----
-
-### 10. **augment**
-- **音标**: /ɔːɡˈment/
-- **词性**: v.
-- **中文释义**: 增加，增大
-- **例句**: 
-  - *She took a part-time job to **augment** her income.* (她做了一份兼职工作来增加收入。)
-- **记忆技巧**: 
-  - **词根词缀**: `aug` (增加) + `-ment` (动词后缀) → 增加。
-
----
-
-### 11. **paradox**
-- **音标**: /ˈpærədɑːks/
-- **词性**: n.
-- **中文释义**: 悖论，矛盾的说法或事物
-- **例句**: 
-  - *It's a **paradox** that more convenience often leads to more stress.* (更多的便利往往导致更多的压力，这是一个悖论。)
-- **记忆技巧**: 
-  - **词根词缀**: `para-` (超越/违背) + `dox` (观点) = 违背常理的观点 → 悖论。
-
----
-
-### 12. **pragmatic**
-- **音标**: /præɡˈmætɪk/
-- **词性**: adj.
-- **中文释义**: 务实的，注重实效的
-- **例句**: 
-  - *We need a more **pragmatic** approach to solving this long-term problem.* (我们需要一种更务实的方法来解决这个长期问题。)
-- **记忆技巧**: 
-  - **联想记忆**: 可以联想 `pragmatism` (实用主义)，核心就是 **pragmatic** (务实的)。
-
----
-**学习小贴士**：建议将每个单词的例句大声朗读，并尝试在自己的写作中运用2-3个新词。记忆技巧是辅助，理解并在语境中应用才是关键！坚持就是胜利，祝您学习愉快！
+坚持就是胜利，明天见！ 🌱
