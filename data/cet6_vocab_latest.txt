@@ -1,104 +1,133 @@
-# 六级高频词汇学习 - 第28天
+# 📚 六级高频词汇 · 第29天
 
-> 今天的词汇侧重于学术讨论、社会现象和抽象概念的表达，注意区分易混词，并尝试在例句语境中体会其精确含义。
-
----
-
-### 1. ambiguous
-*   **音标 (美式)**: /æmˈbɪɡjuəs/
-*   **词性**: adj.
-*   **中文释义**: 模棱两可的，含糊不清的；不明确的
-*   **例句**:
-    *   The contract language was deliberately ambiguous, leaving room for multiple interpretations. (合同语言刻意模棱两可，留下了多种解释的空间。)
-*   **记忆技巧**: 词根 `ambi-` (意为“两个，两边”) + `guous` (来自 `agere`，意为“驱动”) → 驱向两边 → 不明确的。
-
-### 2. scrutinize
-*   **音标 (美式)**: /ˈskruːtənaɪz/
-*   **词性**: v.
-*   **中文释义**: 仔细审查，细察，详阅
-*   **例句**:
-    *   The committee will scrutinize every detail of the proposal before making a decision. (委员会在做出决定前会仔细审查提案的每一个细节。)
-*   **记忆技巧**: 联想 `screen` (屏幕，检查) + `-ize` (动词后缀) → 像在屏幕上逐像素检查一样仔细。
-
-### 3. paradigm
-*   **音标 (美式)**: /ˈpærədaɪm/
-*   **词性**: n.
-*   **中文释义**: 范式，典范；模式，范例
-*   **例句**:
-    *   The scientific discovery led to a paradigm shift in our understanding of the universe. (这一科学发现引发了我们对宇宙认识的范式转变。)
-*   **记忆技巧**: 词根 `para-` (旁边) + `deik-` (显示，展示) → 在旁边展示作为标准的东西 → 典范，模式。
-
-### 4. proliferate
-*   **音标 (美式)**: /prəˈlɪfəreɪt/
-*   **词性**: v.
-*   **中文释义**: 激增，繁殖，扩散；使大量增加
-*   **例句**:
-    *   Misinformation has proliferated on social media during the election campaign. (选举期间，社交媒体上的错误信息激增。)
-*   **记忆技巧**: 词根 `proliferous` (繁殖的) + `-ate` (动词后缀) → 像生物繁殖一样快速增加。
-
-### 5. volatile
-*   **音标 (美式)**: /ˈvɑːlətl/
-*   **词性**: adj.
-*   **中文释义**: (物质)易挥发的；(情况)不稳定的，易变的；(人)情绪多变的
-*   **例句**:
-    *   The stock market has been highly volatile in response to the geopolitical tensions. (股市因地缘政治紧张而变得高度不稳定。)
-*   **记忆技巧**: 词根 `volare` (意为“飞”) → 像气体一样容易飞走 → 不稳定的，易变的。
-
-### 6. mitigate
-*   **音标 (美式)**: /ˈmɪtɪɡeɪt/
-*   **词性**: v.
-*   **中文释义**: 减轻，缓和 (痛苦、损害等)
-*   **例句**:
-    *   The new policy aims to mitigate the impact of inflation on low-income families. (新政策旨在减轻通货膨胀对低收入家庭的影响。)
-*   **记忆技巧**: 词根 `mit-` (柔和) + `-igate` (动词后缀) → 使变柔和 → 减轻。
-
-### 7. pragmatic
-*   **音标 (美式)**: /præɡˈmætɪk/
-*   **词性**: adj.
-*   **中文释义**: 务实的，注重实效的；实用主义的
-*   **例句**:
-    *   We need a more pragmatic approach to solving this complex problem, rather than just theoretical discussion. (我们需要用更务实的方法来解决这个复杂问题，而不仅仅是理论讨论。)
-*   **记忆技巧**: 来源于 `pragmatism` (实用主义)。可联想 `practice` (实践) → 注重实践的 → 务实的。
-
-### 8. encompass
-*   **音标 (美式)**: /ɪnˈkʌmpəs/
-*   **词性**: v.
-*   **中文释义**: 围绕，包围；包含，涉及；实现
-*   **例句**:
-    *   The curriculum encompasses a wide range of subjects, from classical literature to modern science. (该课程涵盖广泛的学科，从古典文学到现代科学。)
-*   **记忆技巧**: 前缀 `en-` (使...) + `compass` (包围，范围) → 使进入范围之内 → 包含，涉及。
-
-### 9. conundrum
-*   **音标 (美式)**: /kəˈnʌndrəm/
-*   **词性**: n.
-*   **中文释义**: 难题，复杂的问题；令人困惑的处境
-*   **例句**:
-    *   Balancing economic growth with environmental protection is a persistent conundrum for policymakers. (在经济增长与环境保护之间取得平衡是政策制定者面临的一个持续难题。)
-*   **记忆技巧**: 联想发音类似“可难的惹么(事)” → 确实是个难题。
-
-### 10. substantiate
-*   **音标 (美式)**: /səbˈstænʃieɪt/
-*   **词性**: v.
-*   **中文释义**: 证实，证明；使具体化
-*   **例句**:
-    *   The lawyer failed to substantiate his claims with any concrete evidence. (律师未能用任何具体证据证实他的主张。)
-*   **记忆技巧**: 词根 `substance` (实质，实体) + `-ate` (动词后缀) → 给予实质 → 证实，使具体化。
-
-### 11. detrimental
-*   **音标 (美式)**: /ˌdetrəˈmentl/
-*   **词性**: adj.
-*   **中文释义**: 有害的，不利的
-*   **例句**:
-    *   Lack of sleep can be detrimental to both physical and mental health. (缺乏睡眠可能对身心健康都有害。)
-*   **记忆技巧**: 词根 `deter` (阻止) + `-ment` (名词后缀) + `-al` (形容词后缀) → 起到阻止/损害作用的。
-
-### 12. inadvertently
-*   **音标 (美式)**: /ˌɪnədˈvɜːrtəntli/
-*   **词性**: adv.
-*   **中文释义**: 不经意地，无意地；疏忽地
-*   **例句**:
-    *   She inadvertently deleted the important file while cleaning up her computer. (她在清理电脑时无意中删除了那个重要文件。)
-*   **记忆技巧**: 前缀 `in-` (不) + `ad-` (向) + `vert` (转) + `-ent` + `-ly` → 没有把注意力转向某事 → 不经意地。
+今天为你精选了 **12个** 核心高频词汇，涵盖动词、名词、形容词和副词。坚持积累，胜利在望！
 
 ---
-**今日学习建议**: 尝试用其中 **5个** 词汇各造一个与你专业或兴趣相关的新句子，这能极大加深记忆！继续加油，你的词汇库正在不断壮大！
+
+### 1. assert
+*   **音标**：/əˈsɜːrt/
+*   **词性**：v.
+*   **释义**：断言，声称；维护，坚持（权利等）
+*   **例句**：
+    *   He **asserted** his innocence by pleading not guilty. (他以无罪申辩来**断言**自己的清白。)
+    *   The report **asserts** that the economy will recover next year. (这份报告**声称**经济明年将会复苏。)
+*   **记忆技巧**：
+    *   **词根**：`as-`（加强）+ `sert`（加入，连接）。强行加入自己的观点，即“断言、坚持”。
+    *   **联想**：Assert发音像“呃，涩特”。他**呃**了一声，很**涩**地**特**别**坚持**自己的看法。
+
+### 2. elaborate
+*   **音标**：/ɪˈlæbəreɪt/ (v.) / ɪˈlæbərət/ (adj.)
+*   **词性**：v. & adj.
+*   **释义**：(v.) 详细阐述，精心制作；(adj.) 精心制作的，详尽的
+*   **例句**：
+    *   Could you **elaborate** on your proposal? I need more details. (你能**详细阐述**一下你的提案吗？我需要更多细节。)
+    *   She wore an **elaborate** costume to the masquerade ball. (她为化装舞会穿了一件**精心制作的**服装。)
+*   **记忆技巧**：
+    *   **词根**：`e-`（出）+ `labor`（劳动）+ `-ate`。投入大量劳动做出来的东西，自然是“精心制作的、详尽的”。
+
+### 3. dilemma
+*   **音标**：/dɪˈlemə/
+*   **词性**：n.
+*   **释义**：（进退两难的）困境，窘境
+*   **例句**：
+    *   He faced a **dilemma**: take the well-paying but boring job, or pursue his passion with uncertain income. (他面临一个**困境**：是接受薪水高但无聊的工作，还是追随热情但收入不稳定。)
+    *   It's a classic moral **dilemma**. (这是一个典型的道德**困境**。)
+*   **记忆技巧**：
+    *   **联想**：Di-（两个）+ lemma（命题）。面前有两个都很难选的命题，即“进退两难”。
+
+### 4. profound
+*   **音标**：/prəˈfaʊnd/
+*   **词性**：adj.
+*   **释义**：深刻的，意义深远的；渊博的；（感情）深切的
+*   **例句**：
+    *   The book had a **profound** impact on my understanding of history. (这本书对我理解历史产生了**深刻**的影响。)
+    *   He is a man of **profound** learning. (他是一位学识**渊博**的人。)
+*   **记忆技巧**：
+    *   **拆分**：Pro-（向前）+ found（建立）。向内心深处建立起来的，即“深刻的”。
+    *   **谐音**：扑劳芬的。**扑**到书里，**劳**心劳力研究，才能获得**芬**芳的**的**知识，很**深刻**。
+
+### 5. restraint
+*   **音标**：/rɪˈstreɪnt/
+*   **词性**：n.
+*   **释义**：克制，抑制；限制，约束；约束力
+*   **例句**：
+    *   He showed remarkable **restraint** in not responding to the insult. (在面对侮辱时，他表现出了惊人的**克制**。)
+    *   The government imposed **restraints** on trade. (政府对贸易施加了**限制**。)
+*   **记忆技巧**：
+    *   **词根**：来自 `restrain`（v. 抑制，约束）。名词形式，表示被抑制的状态或事物。
+
+### 6. explicit
+*   **音标**：/ɪkˈsplɪsɪt/
+*   **词性**：adj.
+*   **释义**：明确的，清楚的；直言的，毫不隐讳的
+*   **例句**：
+    *   The instructions are very **explicit** and easy to follow. (说明非常**明确**，易于遵循。)
+    *   He was **explicit** about his reasons for resigning. (他毫不隐讳地说明了自己辞职的原因。)
+*   **记忆技巧**：
+    *   **词根**：`ex-`（出）+ `plic`（折叠）+ `-it`。把折叠的东西展开，意思就“清楚、明确”了。
+    *   **对比记忆**：与 `implicit`（含蓄的，暗示的）意思相反。
+
+### 7. subsequently
+*   **音标**：/ˈsʌbsɪkwəntli/
+*   **词性**：adv.
+*   **释义**：随后，之后
+*   **例句**：
+    *   He injured his knee during training and was **subsequently** unable to play in the final. (他在训练中膝盖受伤，**随后**无法参加决赛。)
+*   **记忆技巧**：
+    *   **词根**：来自 `subsequent`（adj. 随后的）。`sub-`（在下面）+ `sequ`（跟随）。跟在下面的，即“随后的”。
+
+### 8. constraint
+*   **音标**：/kənˈstreɪnt/
+*   **词性**：n.
+*   **释义**：约束，限制；克制，拘束
+*   **例句**：
+    *   The project is facing severe financial **constraints**. (这个项目面临着严重的财政**限制**。)
+    *   She spoke without **constraint** in front of the familiar audience. (在熟悉的听众面前，她毫不**拘束**地发言。)
+*   **记忆技巧**：
+    *   **词根**：来自 `constrain`（v. 约束）。`con-`（共同）+ `strain`（拉紧）。共同拉紧，即“约束”。
+
+### 9. eligible
+*   **音标**：/ˈelɪdʒəbl/
+*   **词性**：adj.
+*   **释义**：有资格的，合格的；（婚姻）合适的
+*   **例句**：
+    *   All members are **eligible** to vote in the association's election. (所有成员都有**资格**在协会选举中投票。)
+    *   She is one of the most **eligible** bachelorettes in the city. (她是这座城市里最**合适的**单身女性之一。)
+*   **记忆技巧**：
+    *   **词根**：`e-`（出）+ `lig`（选择）+ `-ible`（能...的）。能被选出来的，即“有资格的”。
+    *   **联想**：Elect（选举）的兄弟词。被选出来的人，就是“合格的”。
+
+### 10. consensus
+*   **音标**：/kənˈsensəs/
+*   **词性**：n.
+*   **释义**：（意见等的）一致，共识
+*   **例句**：
+    *   The committee finally reached a **consensus** on the new policy. (委员会最终就新政策达成了**共识**。)
+    *   There is a growing **consensus** that climate change is a serious threat. (越来越多的人**一致认为**气候变化是一个严重威胁。)
+*   **记忆技巧**：
+    *   **词根**：`con-`（共同）+ `sens`（感觉）+ `-us`。大家共同的感觉，即“共识”。
+    *   **谐音**：肯森萨斯。**肯**定能跟**森**林里的动物达成**萨**满教似的**共识**。
+
+### 11. prevalent
+*   **音标**：/ˈprevələnt/
+*   **词性**：adj.
+*   **释义**：流行的，盛行的；普遍的
+*   **例句**：
+    *   The use of smartphones is now **prevalent** in all age groups. (智能手机的使用现在在所有年龄段都很**普遍**。)
+    *   A **prevalent** misconception is that organic food is always healthier. (一个**普遍**的误解是有机食品总是更健康。)
+*   **记忆技巧**：
+    *   **词根**：`pre-`（前）+ `val`（强壮）+ `-ent`。在前面占主导地位的，即“盛行的、普遍的”。
+
+### 12. arbitrary
+*   **音标**：/ˈɑːrbɪtreri/
+*   **词性**：adj.
+*   **释义**：任意的，随意的；专制的，武断的
+*   **例句**：
+    *   The decision seemed completely **arbitrary** and unfair. (这个决定看起来完全是**随意的**且不公平的。)
+    *   The manager's **arbitrary** style of leadership frustrated the team. (经理**武断的**领导方式让团队感到沮丧。)
+*   **记忆技巧**：
+    *   **词根**：`arbitr-`（判断，裁决）+ `-ary`。由个人随意判断的，即“任意的、武断的”。
+    *   **联想**：Arbitrary像“啊，别吹了”。他**啊**了一声说“**别吹了**”，决定很**随意**，让人感觉很**武断**。
+
+---
+**今日学习小结**：今天重点区分了几个表示“限制”的词（`restraint`, `constraint`），以及一对反义词（`explicit` vs `implicit`）和表示“普遍”的词（`prevalent`）。可以尝试用今天学的词造几个句子，加强记忆！祝你学习愉快！💪
