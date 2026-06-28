@@ -1,133 +1,201 @@
-# 📚 六级高频词汇 · 第29天
-
-今天为你精选了 **12个** 核心高频词汇，涵盖动词、名词、形容词和副词。坚持积累，胜利在望！
+# 📚 六级高频词汇 · 第30天
 
 ---
 
-### 1. assert
-*   **音标**：/əˈsɜːrt/
-*   **词性**：v.
-*   **释义**：断言，声称；维护，坚持（权利等）
-*   **例句**：
-    *   He **asserted** his innocence by pleading not guilty. (他以无罪申辩来**断言**自己的清白。)
-    *   The report **asserts** that the economy will recover next year. (这份报告**声称**经济明年将会复苏。)
-*   **记忆技巧**：
-    *   **词根**：`as-`（加强）+ `sert`（加入，连接）。强行加入自己的观点，即“断言、坚持”。
-    *   **联想**：Assert发音像“呃，涩特”。他**呃**了一声，很**涩**地**特**别**坚持**自己的看法。
-
-### 2. elaborate
-*   **音标**：/ɪˈlæbəreɪt/ (v.) / ɪˈlæbərət/ (adj.)
-*   **词性**：v. & adj.
-*   **释义**：(v.) 详细阐述，精心制作；(adj.) 精心制作的，详尽的
-*   **例句**：
-    *   Could you **elaborate** on your proposal? I need more details. (你能**详细阐述**一下你的提案吗？我需要更多细节。)
-    *   She wore an **elaborate** costume to the masquerade ball. (她为化装舞会穿了一件**精心制作的**服装。)
-*   **记忆技巧**：
-    *   **词根**：`e-`（出）+ `labor`（劳动）+ `-ate`。投入大量劳动做出来的东西，自然是“精心制作的、详尽的”。
-
-### 3. dilemma
-*   **音标**：/dɪˈlemə/
-*   **词性**：n.
-*   **释义**：（进退两难的）困境，窘境
-*   **例句**：
-    *   He faced a **dilemma**: take the well-paying but boring job, or pursue his passion with uncertain income. (他面临一个**困境**：是接受薪水高但无聊的工作，还是追随热情但收入不稳定。)
-    *   It's a classic moral **dilemma**. (这是一个典型的道德**困境**。)
-*   **记忆技巧**：
-    *   **联想**：Di-（两个）+ lemma（命题）。面前有两个都很难选的命题，即“进退两难”。
-
-### 4. profound
-*   **音标**：/prəˈfaʊnd/
-*   **词性**：adj.
-*   **释义**：深刻的，意义深远的；渊博的；（感情）深切的
-*   **例句**：
-    *   The book had a **profound** impact on my understanding of history. (这本书对我理解历史产生了**深刻**的影响。)
-    *   He is a man of **profound** learning. (他是一位学识**渊博**的人。)
-*   **记忆技巧**：
-    *   **拆分**：Pro-（向前）+ found（建立）。向内心深处建立起来的，即“深刻的”。
-    *   **谐音**：扑劳芬的。**扑**到书里，**劳**心劳力研究，才能获得**芬**芳的**的**知识，很**深刻**。
-
-### 5. restraint
-*   **音标**：/rɪˈstreɪnt/
-*   **词性**：n.
-*   **释义**：克制，抑制；限制，约束；约束力
-*   **例句**：
-    *   He showed remarkable **restraint** in not responding to the insult. (在面对侮辱时，他表现出了惊人的**克制**。)
-    *   The government imposed **restraints** on trade. (政府对贸易施加了**限制**。)
-*   **记忆技巧**：
-    *   **词根**：来自 `restrain`（v. 抑制，约束）。名词形式，表示被抑制的状态或事物。
-
-### 6. explicit
-*   **音标**：/ɪkˈsplɪsɪt/
-*   **词性**：adj.
-*   **释义**：明确的，清楚的；直言的，毫不隐讳的
-*   **例句**：
-    *   The instructions are very **explicit** and easy to follow. (说明非常**明确**，易于遵循。)
-    *   He was **explicit** about his reasons for resigning. (他毫不隐讳地说明了自己辞职的原因。)
-*   **记忆技巧**：
-    *   **词根**：`ex-`（出）+ `plic`（折叠）+ `-it`。把折叠的东西展开，意思就“清楚、明确”了。
-    *   **对比记忆**：与 `implicit`（含蓄的，暗示的）意思相反。
-
-### 7. subsequently
-*   **音标**：/ˈsʌbsɪkwəntli/
-*   **词性**：adv.
-*   **释义**：随后，之后
-*   **例句**：
-    *   He injured his knee during training and was **subsequently** unable to play in the final. (他在训练中膝盖受伤，**随后**无法参加决赛。)
-*   **记忆技巧**：
-    *   **词根**：来自 `subsequent`（adj. 随后的）。`sub-`（在下面）+ `sequ`（跟随）。跟在下面的，即“随后的”。
-
-### 8. constraint
-*   **音标**：/kənˈstreɪnt/
-*   **词性**：n.
-*   **释义**：约束，限制；克制，拘束
-*   **例句**：
-    *   The project is facing severe financial **constraints**. (这个项目面临着严重的财政**限制**。)
-    *   She spoke without **constraint** in front of the familiar audience. (在熟悉的听众面前，她毫不**拘束**地发言。)
-*   **记忆技巧**：
-    *   **词根**：来自 `constrain`（v. 约束）。`con-`（共同）+ `strain`（拉紧）。共同拉紧，即“约束”。
-
-### 9. eligible
-*   **音标**：/ˈelɪdʒəbl/
-*   **词性**：adj.
-*   **释义**：有资格的，合格的；（婚姻）合适的
-*   **例句**：
-    *   All members are **eligible** to vote in the association's election. (所有成员都有**资格**在协会选举中投票。)
-    *   She is one of the most **eligible** bachelorettes in the city. (她是这座城市里最**合适的**单身女性之一。)
-*   **记忆技巧**：
-    *   **词根**：`e-`（出）+ `lig`（选择）+ `-ible`（能...的）。能被选出来的，即“有资格的”。
-    *   **联想**：Elect（选举）的兄弟词。被选出来的人，就是“合格的”。
-
-### 10. consensus
-*   **音标**：/kənˈsensəs/
-*   **词性**：n.
-*   **释义**：（意见等的）一致，共识
-*   **例句**：
-    *   The committee finally reached a **consensus** on the new policy. (委员会最终就新政策达成了**共识**。)
-    *   There is a growing **consensus** that climate change is a serious threat. (越来越多的人**一致认为**气候变化是一个严重威胁。)
-*   **记忆技巧**：
-    *   **词根**：`con-`（共同）+ `sens`（感觉）+ `-us`。大家共同的感觉，即“共识”。
-    *   **谐音**：肯森萨斯。**肯**定能跟**森**林里的动物达成**萨**满教似的**共识**。
-
-### 11. prevalent
-*   **音标**：/ˈprevələnt/
-*   **词性**：adj.
-*   **释义**：流行的，盛行的；普遍的
-*   **例句**：
-    *   The use of smartphones is now **prevalent** in all age groups. (智能手机的使用现在在所有年龄段都很**普遍**。)
-    *   A **prevalent** misconception is that organic food is always healthier. (一个**普遍**的误解是有机食品总是更健康。)
-*   **记忆技巧**：
-    *   **词根**：`pre-`（前）+ `val`（强壮）+ `-ent`。在前面占主导地位的，即“盛行的、普遍的”。
-
-### 12. arbitrary
-*   **音标**：/ˈɑːrbɪtreri/
-*   **词性**：adj.
-*   **释义**：任意的，随意的；专制的，武断的
-*   **例句**：
-    *   The decision seemed completely **arbitrary** and unfair. (这个决定看起来完全是**随意的**且不公平的。)
-    *   The manager's **arbitrary** style of leadership frustrated the team. (经理**武断的**领导方式让团队感到沮丧。)
-*   **记忆技巧**：
-    *   **词根**：`arbitr-`（判断，裁决）+ `-ary`。由个人随意判断的，即“任意的、武断的”。
-    *   **联想**：Arbitrary像“啊，别吹了”。他**啊**了一声说“**别吹了**”，决定很**随意**，让人感觉很**武断**。
+## 1. preliminary
+- **音标**：/prɪˈlɪmɪneri/  
+- **词性**：adj. 初步的；预备的；n. 准备工作  
+- **释义**：作为开头或准备阶段的；需要进一步发展的  
+- **例句**：  
+  - The **preliminary** results of the study suggest a new treatment may be effective.  
+    （这项研究的**初步**结果表明一种新疗法可能有效。）  
+  - We need to complete the **preliminaries** before starting the main project.  
+    （在开始主要项目之前，我们需要完成**准备工作**。）  
+- **记忆技巧**：词根“prim-”（第一）+ “-inary”（与…有关）→ 第一步的 → 初步的。联想：比赛前的“热身赛”（preliminary round）。
 
 ---
-**今日学习小结**：今天重点区分了几个表示“限制”的词（`restraint`, `constraint`），以及一对反义词（`explicit` vs `implicit`）和表示“普遍”的词（`prevalent`）。可以尝试用今天学的词造几个句子，加强记忆！祝你学习愉快！💪
+
+## 2. undermine
+- **音标**：/ˌʌndərˈmaɪn/  
+- **词性**：v. 暗中破坏；逐渐削弱  
+- **释义**：通过隐蔽手段损害或削弱某物的基础  
+- **例句**：  
+  - Constant criticism can **undermine** a child's confidence.  
+    （不断的批评会**削弱**孩子的自信。）  
+  - The scandal **undermined** public trust in the government.  
+    （这起丑闻**损害**了公众对政府的信任。）  
+- **记忆技巧**：under（在下面）+ mine（挖矿）→ 在下方挖洞 → 暗中破坏基础。联想：矿工从地下挖空建筑根基。
+
+---
+
+## 3. scrutiny
+- **音标**：/ˈskruːtəni/  
+- **词性**：n. 仔细检查；详细审查  
+- **释义**：对某事进行严格而细致的审视  
+- **例句**：  
+  - The plan came under intense **scrutiny** from the committee.  
+    （该计划受到了委员会的严格**审查**。）  
+  - He always avoids public **scrutiny**.  
+    （他总是避免公众的**审视**。）  
+- **记忆技巧**：词根“scrut-”（查看）+ “-iny”（状态）→ 仔细查看的状态。联想：“侦探用放大镜scrutiny线索”。
+
+---
+
+## 4. pragmatic
+- **音标**：/præɡˈmætɪk/  
+- **词性**：adj. 务实的；注重实效的  
+- **释义**：基于实际应用或效果，而非理论的  
+- **例句**：  
+  - We need a **pragmatic** approach to solve this problem.  
+    （我们需要一个**务实的**方法来解决这个问题。）  
+  - Her **pragmatic** attitude helped the team stay focused.  
+    （她**务实的**态度帮助团队保持专注。）  
+- **记忆技巧**：来自希腊语“pragma”（行动、事务）→ 注重行动的。联想：“pragmatic”发音类似“拍干抹净”，做事干脆利落、注重实效。
+
+---
+
+## 5. consensus
+- **音标**：/kənˈsensəs/  
+- **词性**：n. 共识；一致意见  
+- **释义**：群体中大多数人同意的观点或决定  
+- **例句**：  
+  - The committee finally reached a **consensus** on the budget.  
+    （委员会最终就预算达成了**共识**。）  
+  - There is a growing **consensus** that climate change is urgent.  
+    （越来越多的人**共识**气候变化问题迫在眉睫。）  
+- **记忆技巧**：con-（共同）+ sensus（感觉）→ 共同的感觉 → 共识。联想：“大家感觉一致”就是共识。
+
+---
+
+## 6. volatile
+- **音标**：/ˈvɑːlətl/  
+- **词性**：adj. 不稳定的；易变的；易挥发的  
+- **释义**：容易突然变化或难以预测的  
+- **例句**：  
+  - The stock market has been highly **volatile** recently.  
+    （股市最近**波动很大**。）  
+  - He has a **volatile** temper and can be easily angered.  
+    （他**脾气暴躁**，容易发火。）  
+- **记忆技巧**：词根“volat-”（飞）+ “-ile”（易于…的）→ 易飞走的 → 不稳定的。联想：“volatile”像蒸汽一样容易挥发飘走。
+
+---
+
+## 7. alleviate
+- **音标**：/əˈliːvieɪt/  
+- **词性**：v. 减轻；缓解（痛苦或问题）  
+- **释义**：使痛苦、问题或困难变得不那么严重  
+- **例句**：  
+  - The medicine helped **alleviate** her pain.  
+    （这种药帮助**减轻**了她的疼痛。）  
+  - Government measures are intended to **alleviate** poverty.  
+    （政府的措施旨在**缓解**贫困。）  
+- **记忆技巧**：al-（使）+ levi（轻的，来自“levitate”减轻）+ -ate → 使变轻。联想：“alleviate”发音似“啊，离慰他”→ 离开痛苦，得到安慰。
+
+---
+
+## 8. hierarchy
+- **音标**：/ˈhaɪərɑːrki/  
+- **词性**：n. 等级制度；层级体系  
+- **释义**：按权力、地位或重要性排序的系统  
+- **例句**：  
+  - In a **hierarchy**, decisions often come from the top.  
+    （在**等级制度**中，决策通常来自高层。）  
+  - The company has a strict **hierarchy** of command.  
+    （公司有严格的**指挥层级**。）  
+- **记忆技巧**：hier-（神圣）+ archy（统治）→ 神圣的统治体系 → 等级制度。联想：像金字塔一样层层分明的结构。
+
+---
+
+## 9. redundant
+- **音标**：/rɪˈdʌndənt/  
+- **词性**：adj. 多余的；被裁减的；冗余的  
+- **释义**：因不再需要而被解雇或多余的  
+- **例句**：  
+  - After the merger, many employees were made **redundant**.  
+    （合并后，许多员工被**裁减**。）  
+  - Please remove any **redundant** information from the report.  
+    （请从报告中删除任何**多余**的信息。）  
+- **记忆技巧**：redund-（溢出）+ -ant → 溢出的 → 多余的。联想：“冗余”就像水库水满了溢出来，需要排掉。
+
+---
+
+## 10. impeccable
+- **音标**：/ɪmˈpekəbl/  
+- **词性**：adj. 无可挑剔的；完美的  
+- **释义**：没有错误或缺点的  
+- **例句**：  
+  - She always wears **impeccable** suits to the office.  
+    （她总是穿着**无可挑剔的**西装上班。）  
+  - His manners are **impeccable** in formal settings.  
+    （他在正式场合的举止**无可挑剔**。）  
+- **记忆技巧**：im-（不）+ pecc（错误）+ -able → 不能有错误的 → 完美的。联想：法官说“im-pec”（没毛病），所以无可挑剔。
+
+---
+
+## 11. resilient
+- **音标**：/rɪˈzɪliənt/  
+- **词性**：adj. 有韧性的；恢复力强的  
+- **释义**：能够迅速从困难中恢复的  
+- **例句**：  
+  - Children are often more **resilient** than adults in handling stress.  
+    （孩子们在处理压力时通常比成年人更有**韧性**。）  
+  - The **resilient** material can withstand extreme temperatures.  
+    （这种**有韧性的**材料能承受极端温度。）  
+- **记忆技巧**：re-（回）+ sili（跳）+ -ent → 跳回来的 → 有恢复力的。联想：像弹簧一样“弹回来”。
+
+---
+
+## 12. perpetuate
+- **音标**：/pərˈpetʃueɪt/  
+- **词性**：v. 使永久化；延续  
+- **释义**：使某种情况、传统等持续存在  
+- **例句**：  
+  - Social media can **perpetuate** stereotypes.  
+    （社交媒体可能**固化**刻板印象。）  
+  - The family traditions have been **perpetuated** for generations.  
+    （这些家族传统已**延续**了好几代。）  
+- **记忆技巧**：per-（完全）+ petu（追求）+ -ate → 完全追求下去 → 使永恒。联想：“perpetual”（永久的）的动词形式。
+
+---
+
+## 13. detrimental
+- **音标**：/ˌdetrəˈmentl/  
+- **词性**：adj. 有害的；不利的  
+- **释义**：对人或事物造成损害或不良影响的  
+- **例句**：  
+  - Smoking is **detrimental** to your health.  
+    （吸烟对你的健康**有害**。）  
+  - Excessive screen time can have a **detrimental** effect on sleep.  
+    （过多的屏幕时间会对睡眠产生**不良**影响。）  
+- **记忆技巧**：deter（阻止）+ ment（行为）+ -al → 阻止良好结果的 → 有害的。联想：发音似“带它没用”→ 有害处。
+
+---
+
+## 14. alleviate vs. exacerbate（对比记忆）
+- **alleviate**：减轻  
+- **exacerbate**：/ɪɡˈzæsərbeɪt/ 加剧  
+  - **例句**：The policy **alleviated** some issues but **exacerbated** others.  
+    （这项政策**缓解**了一些问题，却**加剧**了其他问题。）  
+- **技巧**：反义词对比记忆。alleviate（轻）↔ exacerbate（重）。
+
+---
+
+## 15. paradigm
+- **音标**：/ˈpærədaɪm/  
+- **词性**：n. 范式；典范；模式  
+- **释义**：某一领域中被普遍接受的思维或行为模式  
+- **例句**：  
+  - The discovery led to a new **paradigm** in physics.  
+    （这一发现引领了物理学的新**范式**。）  
+  - We need to shift our **paradigm** to solve this problem.  
+    （我们需要改变我们的**思维模式**来解决这个问题。）  
+- **记忆技巧**：para-（旁边）+ digm（显示）→ 并列显示的模式 → 范式。联想：“para”像“平行”，平行比较多种模式。
+
+---
+
+### 📝 今日学习小贴士
+1. **分类记忆**：将词汇按词性（动词/形容词/名词）分组记忆。
+2. **语境造句**：尝试用每个新词造一个与自己生活相关的句子。
+3. **复习策略**：睡前快速回顾今天15个词，重点记忆例句中的用法。
+
+坚持就是胜利！明天继续第31天 💪
