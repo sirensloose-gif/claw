@@ -1,201 +1,133 @@
-# 📚 六级高频词汇 · 第30天
+# 六级词汇学习 · 第31天
+
+以下是今天为您精选的12个六级高频核心词汇，涵盖不同词性，助您高效备考。
 
 ---
 
-## 1. preliminary
-- **音标**：/prɪˈlɪmɪneri/  
-- **词性**：adj. 初步的；预备的；n. 准备工作  
-- **释义**：作为开头或准备阶段的；需要进一步发展的  
-- **例句**：  
-  - The **preliminary** results of the study suggest a new treatment may be effective.  
-    （这项研究的**初步**结果表明一种新疗法可能有效。）  
-  - We need to complete the **preliminaries** before starting the main project.  
-    （在开始主要项目之前，我们需要完成**准备工作**。）  
-- **记忆技巧**：词根“prim-”（第一）+ “-inary”（与…有关）→ 第一步的 → 初步的。联想：比赛前的“热身赛”（preliminary round）。
+### 1. predecessor
+*   **音标** (美式): /ˈpriːdəsesər/
+*   **词性**: n. (名词)
+*   **中文释义**: 前任；前辈；(被取代的)原有事物
+*   **例句**:
+    *   English: She far surpassed her **predecessors** in terms of leadership and vision.
+    *   中文: 无论在领导力还是远见方面，她都远胜于她的**前任**。
+*   **记忆技巧**:
+    *   **词根词缀**: `pre-` (在...之前) + `decess` (来自拉丁语 *decedere*, 离去) + `-or` (表示人)。意为“在前面离去的人”，即“前任”。
+
+### 2. subordinate
+*   **音标** (美式): /səˈbɔːrdɪnət/
+*   **词性**: adj. (形容词) / n. (名词) / v. (动词)
+*   **中文释义**: adj. 下级的；次要的；从属的; n. 下属；从属物; v. 使服从；把...放在次要地位
+*   **例句**:
+    *   English: A manager must learn to effectively delegate tasks to **subordinates**.
+    *   中文: 一位经理必须学会有效地将任务委派给**下属**。
+*   **记忆技巧**:
+    *   **词根词缀**: `sub-` (在下面) + `ordin` (顺序，如order) + `-ate`。即“处于下一级顺序的”，表示“下属、次要的”。
+
+### 3. precede
+*   **音标** (美式): /prɪˈsiːd/
+*   **词性**: v. (动词)
+*   **中文释义**: 在...之前；先于
+*   **例句**:
+    *   English: A period of relative calm **preceded** the outbreak of the revolution.
+    *   中文: 一场相对平静的时期**先于**革命的爆发。
+*   **记忆技巧**:
+    *   **词根词缀**: `pre-` (在...之前) + `cede` (走，来自拉丁语 *cedere*)。合起来就是“走在前面”，即“先于”。
+
+### 4. fluctuate
+*   **音标** (美式): /ˈflʌktʃueɪt/
+*   **词性**: v. (动词)
+*   **中文释义**: 波动；涨落；动摇
+*   **例句**:
+    *   English: Stock prices **fluctuated** wildly throughout the trading day.
+    *   中文: 整个交易日内，股票价格**剧烈波动**。
+*   **记忆技巧**:
+    *   **联想记忆**: 拼写中有“flu”（流感），联想流感时体温会“波动”。也可以拆分为 `fluct` (流动) + `uate`，像水流一样起伏不定。
+
+### 5. scrutiny
+*   **音标** (美式): /ˈskruːtəni/
+*   **词性**: n. (名词)
+*   **中文释义**: 仔细检查；详细审查；监视
+*   **例句**:
+    *   English: The politician's past record came under intense public **scrutiny**.
+    *   中文: 那位政客的过往记录受到了公众的严密**审查**。
+*   **记忆技巧**:
+    *   **词根词缀**: 源自拉丁语 `scrutinium` (检查)。可联想 `screen` (屏幕)，在“屏幕”上仔细“查看”细节。
+
+### 6. profound
+*   **音标** (美式): /prəˈfaʊnd/
+*   **词性**: adj. (形容词)
+*   **中文释义**: 深刻的；意义深远的；深奥的
+*   **例句**:
+    *   English: The discovery had a **profound** impact on the field of medicine.
+    *   中文: 这个发现对医学领域产生了**深远的**影响。
+*   **记忆技巧**:
+    *   **词根词缀**: `pro-` (向前) + `found` (基础，来自拉丁语 *fundus*)。意为“深入到基础的”，引申为“深刻的”。
+
+### 7. discreet
+*   **音标** (美式): /dɪˈskriːt/
+*   **词性**: adj. (形容词)
+*   **中文释义**: 谨慎的；言行审慎的；不引人注目的
+*   **例句**:
+    *   English: He was **discreet** about his plans to change jobs until he had signed the new contract.
+    *   中文: 在签署新合同之前，他对换工作的计划一直**守口如瓶**。
+*   **记忆技巧**:
+    *   **对比记忆**: 注意与 `discrete` (离散的，不连续的) 拼写相似但含义不同。可以联想 `dis-` (分开) + `cret` (分辨)，意为“小心分辨”，所以要“谨慎”。
+
+### 8. deliberate
+*   **音标** (美式): /dɪˈlɪbərət/
+*   **词性**: adj. (形容词) / v. (动词)
+*   **中文释义**: adj. 故意的；深思熟虑的; v. 仔细考虑；商议
+*   **例句**:
+    *   English: The committee will **deliberate** on the proposal for the next two hours.
+    *   中文: 委员会将在接下来的两小时内**商议**这项提案。
+*   **记忆技巧**:
+    *   **词根词缀**: `de-` (完全地) + `liber` (衡量，思考，如 library 的“书”需要衡量) + `-ate`。即“彻底地衡量”，就是“深思熟虑”。
+
+### 9. inherent
+*   **音标** (美式): /ɪnˈhɪrənt/
+*   **词性**: adj. (形容词)
+*   **中文释义**: 固有的；内在的；天生的
+*   **例句**:
+    *   English: There are certain risks **inherent** in any investment strategy.
+    *   中文: 任何投资策略都**固有**着某些风险。
+*   **记忆技巧**:
+    *   **词根词缀**: `in-` (在内) + `her` (粘附，来自拉丁语 *haerere*) + `-ent`。意为“粘附在内部的”，即“内在的”。
+
+### 10. bureaucracy
+*   **音标** (美式): /bjʊˈrɑːkrəsi/
+*   **词性**: n. (名词)
+*   **中文释义**: 官僚主义；官僚机构；政府官员
+*   **例句**:
+    *   English: Excessive **bureaucracy** can slow down decision-making and innovation.
+    *   中文: 过度的**官僚主义**会拖慢决策和创新的步伐。
+*   **记忆技巧**:
+    *   **词源联想**: 源自法语，`bureau` (办公桌，办公室) + `-cracy` (统治，如 democracy)。即“由办公室（官僚）统治”，指代整个官僚体系。
+
+### 11. plausible
+*   **音标** (美式): /ˈplɔːzəbl/
+*   **词性**: adj. (形容词)
+*   **中文释义**: 似乎合理的；言之成理的
+*   **例句**:
+    *   English: He offered a **plausible** explanation for the missing funds, but the police were skeptical.
+    *   中文: 他对失踪资金给出了一个**看似合理**的解释，但警方持怀疑态度。
+*   **记忆技巧**:
+    *   **词根词缀**: `plaus-` (鼓掌，称赞，如 applaud) + `-ible` (能够...的)。即“能够获得掌声的”，说明理由“似乎合理”。
+
+### 12. tangible
+*   **音标** (美式): /ˈtændʒəbl/
+*   **词性**: adj. (形容词)
+*   **中文释义**: 有形的；可触摸的；确实的
+*   **例句**:
+    *   English: We need to focus on achieving **tangible** results within this quarter.
+    *   中文: 我们需要专注于在本季度内取得**切实的**成果。
+*   **记忆技巧**:
+    *   **词根词缀**: `tang-` (触摸，来自拉丁语 *tangere*) + `-ible` (能够...的)。即“能够触摸到的”，引申为“有形的、实在的”。
 
 ---
+**今日学习小结**：
+*   **动词**：precede, fluctuate, deliberate
+*   **名词**：predecessor, subordinate, scrutiny, bureaucracy
+*   **形容词**：subordinate, profound, discreet, inherent, plausible, tangible
 
-## 2. undermine
-- **音标**：/ˌʌndərˈmaɪn/  
-- **词性**：v. 暗中破坏；逐渐削弱  
-- **释义**：通过隐蔽手段损害或削弱某物的基础  
-- **例句**：  
-  - Constant criticism can **undermine** a child's confidence.  
-    （不断的批评会**削弱**孩子的自信。）  
-  - The scandal **undermined** public trust in the government.  
-    （这起丑闻**损害**了公众对政府的信任。）  
-- **记忆技巧**：under（在下面）+ mine（挖矿）→ 在下方挖洞 → 暗中破坏基础。联想：矿工从地下挖空建筑根基。
-
----
-
-## 3. scrutiny
-- **音标**：/ˈskruːtəni/  
-- **词性**：n. 仔细检查；详细审查  
-- **释义**：对某事进行严格而细致的审视  
-- **例句**：  
-  - The plan came under intense **scrutiny** from the committee.  
-    （该计划受到了委员会的严格**审查**。）  
-  - He always avoids public **scrutiny**.  
-    （他总是避免公众的**审视**。）  
-- **记忆技巧**：词根“scrut-”（查看）+ “-iny”（状态）→ 仔细查看的状态。联想：“侦探用放大镜scrutiny线索”。
-
----
-
-## 4. pragmatic
-- **音标**：/præɡˈmætɪk/  
-- **词性**：adj. 务实的；注重实效的  
-- **释义**：基于实际应用或效果，而非理论的  
-- **例句**：  
-  - We need a **pragmatic** approach to solve this problem.  
-    （我们需要一个**务实的**方法来解决这个问题。）  
-  - Her **pragmatic** attitude helped the team stay focused.  
-    （她**务实的**态度帮助团队保持专注。）  
-- **记忆技巧**：来自希腊语“pragma”（行动、事务）→ 注重行动的。联想：“pragmatic”发音类似“拍干抹净”，做事干脆利落、注重实效。
-
----
-
-## 5. consensus
-- **音标**：/kənˈsensəs/  
-- **词性**：n. 共识；一致意见  
-- **释义**：群体中大多数人同意的观点或决定  
-- **例句**：  
-  - The committee finally reached a **consensus** on the budget.  
-    （委员会最终就预算达成了**共识**。）  
-  - There is a growing **consensus** that climate change is urgent.  
-    （越来越多的人**共识**气候变化问题迫在眉睫。）  
-- **记忆技巧**：con-（共同）+ sensus（感觉）→ 共同的感觉 → 共识。联想：“大家感觉一致”就是共识。
-
----
-
-## 6. volatile
-- **音标**：/ˈvɑːlətl/  
-- **词性**：adj. 不稳定的；易变的；易挥发的  
-- **释义**：容易突然变化或难以预测的  
-- **例句**：  
-  - The stock market has been highly **volatile** recently.  
-    （股市最近**波动很大**。）  
-  - He has a **volatile** temper and can be easily angered.  
-    （他**脾气暴躁**，容易发火。）  
-- **记忆技巧**：词根“volat-”（飞）+ “-ile”（易于…的）→ 易飞走的 → 不稳定的。联想：“volatile”像蒸汽一样容易挥发飘走。
-
----
-
-## 7. alleviate
-- **音标**：/əˈliːvieɪt/  
-- **词性**：v. 减轻；缓解（痛苦或问题）  
-- **释义**：使痛苦、问题或困难变得不那么严重  
-- **例句**：  
-  - The medicine helped **alleviate** her pain.  
-    （这种药帮助**减轻**了她的疼痛。）  
-  - Government measures are intended to **alleviate** poverty.  
-    （政府的措施旨在**缓解**贫困。）  
-- **记忆技巧**：al-（使）+ levi（轻的，来自“levitate”减轻）+ -ate → 使变轻。联想：“alleviate”发音似“啊，离慰他”→ 离开痛苦，得到安慰。
-
----
-
-## 8. hierarchy
-- **音标**：/ˈhaɪərɑːrki/  
-- **词性**：n. 等级制度；层级体系  
-- **释义**：按权力、地位或重要性排序的系统  
-- **例句**：  
-  - In a **hierarchy**, decisions often come from the top.  
-    （在**等级制度**中，决策通常来自高层。）  
-  - The company has a strict **hierarchy** of command.  
-    （公司有严格的**指挥层级**。）  
-- **记忆技巧**：hier-（神圣）+ archy（统治）→ 神圣的统治体系 → 等级制度。联想：像金字塔一样层层分明的结构。
-
----
-
-## 9. redundant
-- **音标**：/rɪˈdʌndənt/  
-- **词性**：adj. 多余的；被裁减的；冗余的  
-- **释义**：因不再需要而被解雇或多余的  
-- **例句**：  
-  - After the merger, many employees were made **redundant**.  
-    （合并后，许多员工被**裁减**。）  
-  - Please remove any **redundant** information from the report.  
-    （请从报告中删除任何**多余**的信息。）  
-- **记忆技巧**：redund-（溢出）+ -ant → 溢出的 → 多余的。联想：“冗余”就像水库水满了溢出来，需要排掉。
-
----
-
-## 10. impeccable
-- **音标**：/ɪmˈpekəbl/  
-- **词性**：adj. 无可挑剔的；完美的  
-- **释义**：没有错误或缺点的  
-- **例句**：  
-  - She always wears **impeccable** suits to the office.  
-    （她总是穿着**无可挑剔的**西装上班。）  
-  - His manners are **impeccable** in formal settings.  
-    （他在正式场合的举止**无可挑剔**。）  
-- **记忆技巧**：im-（不）+ pecc（错误）+ -able → 不能有错误的 → 完美的。联想：法官说“im-pec”（没毛病），所以无可挑剔。
-
----
-
-## 11. resilient
-- **音标**：/rɪˈzɪliənt/  
-- **词性**：adj. 有韧性的；恢复力强的  
-- **释义**：能够迅速从困难中恢复的  
-- **例句**：  
-  - Children are often more **resilient** than adults in handling stress.  
-    （孩子们在处理压力时通常比成年人更有**韧性**。）  
-  - The **resilient** material can withstand extreme temperatures.  
-    （这种**有韧性的**材料能承受极端温度。）  
-- **记忆技巧**：re-（回）+ sili（跳）+ -ent → 跳回来的 → 有恢复力的。联想：像弹簧一样“弹回来”。
-
----
-
-## 12. perpetuate
-- **音标**：/pərˈpetʃueɪt/  
-- **词性**：v. 使永久化；延续  
-- **释义**：使某种情况、传统等持续存在  
-- **例句**：  
-  - Social media can **perpetuate** stereotypes.  
-    （社交媒体可能**固化**刻板印象。）  
-  - The family traditions have been **perpetuated** for generations.  
-    （这些家族传统已**延续**了好几代。）  
-- **记忆技巧**：per-（完全）+ petu（追求）+ -ate → 完全追求下去 → 使永恒。联想：“perpetual”（永久的）的动词形式。
-
----
-
-## 13. detrimental
-- **音标**：/ˌdetrəˈmentl/  
-- **词性**：adj. 有害的；不利的  
-- **释义**：对人或事物造成损害或不良影响的  
-- **例句**：  
-  - Smoking is **detrimental** to your health.  
-    （吸烟对你的健康**有害**。）  
-  - Excessive screen time can have a **detrimental** effect on sleep.  
-    （过多的屏幕时间会对睡眠产生**不良**影响。）  
-- **记忆技巧**：deter（阻止）+ ment（行为）+ -al → 阻止良好结果的 → 有害的。联想：发音似“带它没用”→ 有害处。
-
----
-
-## 14. alleviate vs. exacerbate（对比记忆）
-- **alleviate**：减轻  
-- **exacerbate**：/ɪɡˈzæsərbeɪt/ 加剧  
-  - **例句**：The policy **alleviated** some issues but **exacerbated** others.  
-    （这项政策**缓解**了一些问题，却**加剧**了其他问题。）  
-- **技巧**：反义词对比记忆。alleviate（轻）↔ exacerbate（重）。
-
----
-
-## 15. paradigm
-- **音标**：/ˈpærədaɪm/  
-- **词性**：n. 范式；典范；模式  
-- **释义**：某一领域中被普遍接受的思维或行为模式  
-- **例句**：  
-  - The discovery led to a new **paradigm** in physics.  
-    （这一发现引领了物理学的新**范式**。）  
-  - We need to shift our **paradigm** to solve this problem.  
-    （我们需要改变我们的**思维模式**来解决这个问题。）  
-- **记忆技巧**：para-（旁边）+ digm（显示）→ 并列显示的模式 → 范式。联想：“para”像“平行”，平行比较多种模式。
-
----
-
-### 📝 今日学习小贴士
-1. **分类记忆**：将词汇按词性（动词/形容词/名词）分组记忆。
-2. **语境造句**：尝试用每个新词造一个与自己生活相关的句子。
-3. **复习策略**：睡前快速回顾今天15个词，重点记忆例句中的用法。
-
-坚持就是胜利！明天继续第31天 💪
+建议结合例句朗读数遍，并尝试用每个新词造一个自己的句子，以加深理解和记忆。祝您学习愉快，备考顺利！
