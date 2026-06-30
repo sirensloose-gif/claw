@@ -1,133 +1,143 @@
-# 六级词汇学习 · 第31天
+# 六级高频词汇学习 (第32天)
 
-以下是今天为您精选的12个六级高频核心词汇，涵盖不同词性，助您高效备考。
+今天为您准备了12个六级核心词汇，涵盖动词、名词、形容词等不同词性，每个词汇都配有详细解析和记忆技巧，助您高效备考。
+
+---
+
+### 1.  **scrutiny**
+    *   **音标**： /ˈskruːtəni/
+    *   **词性**： n.
+    *   **中文释义**： 仔细检查，详细审查；监视
+    *   **例句**：
+        *   The report was subject to intense **scrutiny** by the media. (这份报告受到了媒体的仔细审查。)
+        *   Her work has always been under the **scrutiny** of her colleagues. (她的工作一直受到同事的监视。)
+    *   **记忆技巧**： 词根 **scru-** (看，检查) + **-tiny** (后缀，表状态)。联想：像侦探用放大镜“仔细检查”每一个细节。
 
 ---
 
-### 1. predecessor
-*   **音标** (美式): /ˈpriːdəsesər/
-*   **词性**: n. (名词)
-*   **中文释义**: 前任；前辈；(被取代的)原有事物
-*   **例句**:
-    *   English: She far surpassed her **predecessors** in terms of leadership and vision.
-    *   中文: 无论在领导力还是远见方面，她都远胜于她的**前任**。
-*   **记忆技巧**:
-    *   **词根词缀**: `pre-` (在...之前) + `decess` (来自拉丁语 *decedere*, 离去) + `-or` (表示人)。意为“在前面离去的人”，即“前任”。
-
-### 2. subordinate
-*   **音标** (美式): /səˈbɔːrdɪnət/
-*   **词性**: adj. (形容词) / n. (名词) / v. (动词)
-*   **中文释义**: adj. 下级的；次要的；从属的; n. 下属；从属物; v. 使服从；把...放在次要地位
-*   **例句**:
-    *   English: A manager must learn to effectively delegate tasks to **subordinates**.
-    *   中文: 一位经理必须学会有效地将任务委派给**下属**。
-*   **记忆技巧**:
-    *   **词根词缀**: `sub-` (在下面) + `ordin` (顺序，如order) + `-ate`。即“处于下一级顺序的”，表示“下属、次要的”。
-
-### 3. precede
-*   **音标** (美式): /prɪˈsiːd/
-*   **词性**: v. (动词)
-*   **中文释义**: 在...之前；先于
-*   **例句**:
-    *   English: A period of relative calm **preceded** the outbreak of the revolution.
-    *   中文: 一场相对平静的时期**先于**革命的爆发。
-*   **记忆技巧**:
-    *   **词根词缀**: `pre-` (在...之前) + `cede` (走，来自拉丁语 *cedere*)。合起来就是“走在前面”，即“先于”。
-
-### 4. fluctuate
-*   **音标** (美式): /ˈflʌktʃueɪt/
-*   **词性**: v. (动词)
-*   **中文释义**: 波动；涨落；动摇
-*   **例句**:
-    *   English: Stock prices **fluctuated** wildly throughout the trading day.
-    *   中文: 整个交易日内，股票价格**剧烈波动**。
-*   **记忆技巧**:
-    *   **联想记忆**: 拼写中有“flu”（流感），联想流感时体温会“波动”。也可以拆分为 `fluct` (流动) + `uate`，像水流一样起伏不定。
-
-### 5. scrutiny
-*   **音标** (美式): /ˈskruːtəni/
-*   **词性**: n. (名词)
-*   **中文释义**: 仔细检查；详细审查；监视
-*   **例句**:
-    *   English: The politician's past record came under intense public **scrutiny**.
-    *   中文: 那位政客的过往记录受到了公众的严密**审查**。
-*   **记忆技巧**:
-    *   **词根词缀**: 源自拉丁语 `scrutinium` (检查)。可联想 `screen` (屏幕)，在“屏幕”上仔细“查看”细节。
-
-### 6. profound
-*   **音标** (美式): /prəˈfaʊnd/
-*   **词性**: adj. (形容词)
-*   **中文释义**: 深刻的；意义深远的；深奥的
-*   **例句**:
-    *   English: The discovery had a **profound** impact on the field of medicine.
-    *   中文: 这个发现对医学领域产生了**深远的**影响。
-*   **记忆技巧**:
-    *   **词根词缀**: `pro-` (向前) + `found` (基础，来自拉丁语 *fundus*)。意为“深入到基础的”，引申为“深刻的”。
-
-### 7. discreet
-*   **音标** (美式): /dɪˈskriːt/
-*   **词性**: adj. (形容词)
-*   **中文释义**: 谨慎的；言行审慎的；不引人注目的
-*   **例句**:
-    *   English: He was **discreet** about his plans to change jobs until he had signed the new contract.
-    *   中文: 在签署新合同之前，他对换工作的计划一直**守口如瓶**。
-*   **记忆技巧**:
-    *   **对比记忆**: 注意与 `discrete` (离散的，不连续的) 拼写相似但含义不同。可以联想 `dis-` (分开) + `cret` (分辨)，意为“小心分辨”，所以要“谨慎”。
-
-### 8. deliberate
-*   **音标** (美式): /dɪˈlɪbərət/
-*   **词性**: adj. (形容词) / v. (动词)
-*   **中文释义**: adj. 故意的；深思熟虑的; v. 仔细考虑；商议
-*   **例句**:
-    *   English: The committee will **deliberate** on the proposal for the next two hours.
-    *   中文: 委员会将在接下来的两小时内**商议**这项提案。
-*   **记忆技巧**:
-    *   **词根词缀**: `de-` (完全地) + `liber` (衡量，思考，如 library 的“书”需要衡量) + `-ate`。即“彻底地衡量”，就是“深思熟虑”。
-
-### 9. inherent
-*   **音标** (美式): /ɪnˈhɪrənt/
-*   **词性**: adj. (形容词)
-*   **中文释义**: 固有的；内在的；天生的
-*   **例句**:
-    *   English: There are certain risks **inherent** in any investment strategy.
-    *   中文: 任何投资策略都**固有**着某些风险。
-*   **记忆技巧**:
-    *   **词根词缀**: `in-` (在内) + `her` (粘附，来自拉丁语 *haerere*) + `-ent`。意为“粘附在内部的”，即“内在的”。
-
-### 10. bureaucracy
-*   **音标** (美式): /bjʊˈrɑːkrəsi/
-*   **词性**: n. (名词)
-*   **中文释义**: 官僚主义；官僚机构；政府官员
-*   **例句**:
-    *   English: Excessive **bureaucracy** can slow down decision-making and innovation.
-    *   中文: 过度的**官僚主义**会拖慢决策和创新的步伐。
-*   **记忆技巧**:
-    *   **词源联想**: 源自法语，`bureau` (办公桌，办公室) + `-cracy` (统治，如 democracy)。即“由办公室（官僚）统治”，指代整个官僚体系。
-
-### 11. plausible
-*   **音标** (美式): /ˈplɔːzəbl/
-*   **词性**: adj. (形容词)
-*   **中文释义**: 似乎合理的；言之成理的
-*   **例句**:
-    *   English: He offered a **plausible** explanation for the missing funds, but the police were skeptical.
-    *   中文: 他对失踪资金给出了一个**看似合理**的解释，但警方持怀疑态度。
-*   **记忆技巧**:
-    *   **词根词缀**: `plaus-` (鼓掌，称赞，如 applaud) + `-ible` (能够...的)。即“能够获得掌声的”，说明理由“似乎合理”。
-
-### 12. tangible
-*   **音标** (美式): /ˈtændʒəbl/
-*   **词性**: adj. (形容词)
-*   **中文释义**: 有形的；可触摸的；确实的
-*   **例句**:
-    *   English: We need to focus on achieving **tangible** results within this quarter.
-    *   中文: 我们需要专注于在本季度内取得**切实的**成果。
-*   **记忆技巧**:
-    *   **词根词缀**: `tang-` (触摸，来自拉丁语 *tangere*) + `-ible` (能够...的)。即“能够触摸到的”，引申为“有形的、实在的”。
+### 2.  **alleviate**
+    *   **音标**： /əˈliːvieɪt/
+    *   **词性**： v.
+    *   **中文释义**： 减轻，缓和（痛苦、问题等）
+    *   **例句**：
+        *   The medicine helped to **alleviate** her pain. (这种药帮助缓解了她的疼痛。)
+        *   The government introduced measures to **alleviate** poverty. (政府出台了措施来减轻贫困。)
+    *   **记忆技巧**： 前缀 **al-** (表“使...”，同 ad-) + **levi** (轻的，词根 lev- 的变体) + **-ate**。联想：使（问题）变得更“轻”，就是“缓解”。
 
 ---
-**今日学习小结**：
-*   **动词**：precede, fluctuate, deliberate
-*   **名词**：predecessor, subordinate, scrutiny, bureaucracy
-*   **形容词**：subordinate, profound, discreet, inherent, plausible, tangible
 
-建议结合例句朗读数遍，并尝试用每个新词造一个自己的句子，以加深理解和记忆。祝您学习愉快，备考顺利！
+### 3.  **pragmatic**
+    *   **音标**： /præɡˈmætɪk/
+    *   **词性**： adj.
+    *   **中文释义**： 务实的；注重实效的
+    *   **例句**：
+        *   We need a more **pragmatic** approach to solve this problem. (我们需要一种更务实的方法来解决这个问题。)
+        *   He is a **pragmatic** leader who focuses on practical results. (他是一个注重实际结果的务实型领导。)
+    *   **记忆技巧**： 源自希腊语 **pragmatikos** (与行动有关的)。联想：“实践(practice)”出真知，“务实(pragmatic)”的人注重行动和结果。
+
+---
+
+### 4.  **vindicate**
+    *   **音标**： /ˈvɪndɪkeɪt/
+    *   **词性**： v.
+    *   **中文释义**： 证明...正确；为...辩护；洗清...的冤屈
+    *   **例句**：
+        *   The new evidence **vindicated** her theory. (新证据证明了她的理论是正确的。)
+        *   The court ruling **vindicated** the company’s decision. (法院的裁决证明了公司的决定是正确的。)
+    *   **记忆技巧**： 词根 **vindic-** (主张，捍卫) + **-ate**。联想：为（观点或人）“捍卫(vindicate)”到底，最终“证明其清白或正确”。
+
+---
+
+### 5.  **elusive**
+    *   **音标**： /ɪˈluːsɪv/
+    *   **词性**： adj.
+    *   **中文释义**： 难以捉摸的；逃避的；难以理解的
+    *   **例句**：
+        *   The cause of the disease remains **elusive**. (这种疾病的病因仍然难以捉摸。)
+        *   He managed to give the reporters an **elusive** answer. (他设法给了记者们一个模棱两可、回避问题的答案。)
+    *   **记忆技巧**： 动词 **elude** (躲避) + **-ive** (形容词后缀)。联想：像狡猾的狐狸，总能“逃避”捕捉，让人感觉“难以捉摸”。
+
+---
+
+### 6.  **ramification**
+    *   **音标**： /ˌræmɪfɪˈkeɪʃn/
+    *   **词性**： n.
+    *   **中文释义**： （复杂事件的）后果，影响；分支，衍生物
+    *   **例句**：
+        *   We need to consider all the potential **ramifications** of this policy. (我们需要考虑这项政策所有潜在的后果。)
+        *   The tree’s **ramifications** spread out over a wide area. (这棵树的枝杈向四周蔓延。)
+    *   **记忆技巧**： 词根 **rami-** (枝) + **-fication** (形成过程)。本意是“树枝的分叉”，引申为一件事情引发的“众多分支”或“复杂后果”。
+
+---
+
+### 7.  **tangible**
+    *   **音标**： /ˈtændʒəbl/
+    *   **词性**： adj.
+    *   **中文释义**： 可触摸的；切实的；有形的
+    *   **例句**：
+        *   We have made **tangible** progress on this project. (我们在这个项目上取得了切实的进展。)
+        *   The artist works with **tangible** materials like clay and wood. (这位艺术家使用黏土和木材等有形材料进行创作。)
+    *   **记忆技巧**： 词根 **tang-** (触摸，同 touch) + **-ible** (能够...的)。联想：能够被“触摸(touch)”到的，就是“有形的、切实的”。
+
+---
+
+### 8.  **concede**
+    *   **音标**： /kənˈsiːd/
+    *   **词性**： v.
+    *   **中文释义**： （不情愿地）承认；让步，认输
+    *   **例句**：
+        *   He finally **conceded** defeat in the election. (他最终承认在选举中失败。)
+        *   The company was forced to **concede** to the workers’ demands. (公司被迫向工人的要求让步。)
+    *   **记忆技巧**： 前缀 **con-** (完全) + 词根 **cede** (走，让步)。联想：完全“让(cede)”出去，就是“让步、承认失败”。
+
+---
+
+### 9.  **resilient**
+    *   **音标**： /rɪˈzɪliənt/
+    *   **词性**： adj.
+    *   **中文释义**： 有弹性的；能迅速恢复的；适应力强的
+    *   **例句**：
+        *   Children are often more emotionally **resilient** than adults. (儿童在情感上通常比成年人更有韧性。)
+        *   The economy has shown **resilient** growth despite the challenges. (尽管面临挑战，经济仍显示出强劲的恢复力。)
+    *   **记忆技巧**： 词根 **resil-** (跳回，反弹) + **-ient** (形容词后缀)。联想：像弹簧一样，被压下去后能“跳回原状”，引申为“有弹性、能恢复”。
+
+---
+
+### 10. **fluctuation**
+    *   **音标**： /ˌflʌktʃuˈeɪʃn/
+    *   **词性**： n.
+    *   **中文释义**： 波动，起伏
+    *   **例句**：
+        *   We have observed significant **fluctuations** in the stock market. (我们观察到了股市的显著波动。)
+        *   **Fluctuations** in temperature are common in spring. (春季温度波动很常见。)
+    *   **记忆技巧**： 动词 **fluctuate** (波动) + **-ion** (名词后缀)。联想：想象心电图上的波浪线，那就是“波动(fluctuation)”。
+
+---
+
+### 11. **paradigm**
+    *   **音标**： /ˈpærədaɪm/
+    *   **词性**： n.
+    *   **中文释义**： 范式，典范；模式
+    *   **例句**：
+        *   This discovery represents a **paradigm** shift in physics. (这项发现代表了物理学的范式转变。)
+        *   The old **paradigm** of management is no longer effective. (旧的管理模式已经不再有效。)
+    *   **记忆技巧**： 源自希腊语 **paradeigma** (模型，范例)。联想：它常被用来指代一种“标准模型”或“典范”，比如常说的“新范式(new paradigm)”。
+
+---
+
+### 12. **subtle**
+    *   **音标**： /ˈsʌtl/
+    *   **词性**： adj.
+    *   **中文释义**： 微妙的；精巧的；敏锐的；不明显的
+    *   **例句**：
+        *   There is a **subtle** difference between the two words. (这两个词之间有微妙的差别。)
+        *   The painting uses **subtle** shades of blue. (这幅画运用了精巧的蓝色色调。)
+    *   **记忆技巧**： 联想发音：**subtle** 的 'b' 不发音，读作 /ˈsʌtl/，就像它的意思一样“不明显”。联想：“细微的(subtle)”变化往往不易察觉。
+
+---
+**学习建议**：
+*   尝试用今天学到的每个单词自己造一个句子。
+*   重点关注词汇的**搭配**和在语境中的**词性**变化。
+*   定期回顾，将新词与已学词汇联系起来，构建词汇网络。
+
+祝您学习愉快，备考顺利！
