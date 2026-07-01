@@ -1,143 +1,155 @@
-# 六级高频词汇学习 (第32天)
+# 六级高频词汇学习 - Day 33
 
-今天为您准备了12个六级核心词汇，涵盖动词、名词、形容词等不同词性，每个词汇都配有详细解析和记忆技巧，助您高效备考。
-
----
-
-### 1.  **scrutiny**
-    *   **音标**： /ˈskruːtəni/
-    *   **词性**： n.
-    *   **中文释义**： 仔细检查，详细审查；监视
-    *   **例句**：
-        *   The report was subject to intense **scrutiny** by the media. (这份报告受到了媒体的仔细审查。)
-        *   Her work has always been under the **scrutiny** of her colleagues. (她的工作一直受到同事的监视。)
-    *   **记忆技巧**： 词根 **scru-** (看，检查) + **-tiny** (后缀，表状态)。联想：像侦探用放大镜“仔细检查”每一个细节。
+今天为你精选了12个六级高频词汇，涵盖多种词性，结合词根词缀与联想记忆，助你高效积累！
 
 ---
 
-### 2.  **alleviate**
-    *   **音标**： /əˈliːvieɪt/
-    *   **词性**： v.
-    *   **中文释义**： 减轻，缓和（痛苦、问题等）
-    *   **例句**：
-        *   The medicine helped to **alleviate** her pain. (这种药帮助缓解了她的疼痛。)
-        *   The government introduced measures to **alleviate** poverty. (政府出台了措施来减轻贫困。)
-    *   **记忆技巧**： 前缀 **al-** (表“使...”，同 ad-) + **levi** (轻的，词根 lev- 的变体) + **-ate**。联想：使（问题）变得更“轻”，就是“缓解”。
+## 1. ambiguous
+
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：adj.
+- **中文释义**：模糊的，有歧义的；不明确的
+- **例句**：
+  - The instructions were so **ambiguous** that no one could understand them.
+  - 说明书写得如此**模棱两可**，以至于没人能理解。
+- **记忆技巧**：前缀 *ambi-*（两边的）+ *guous*（形容词后缀）→ 可以有两种理解的 → **模糊的**。
 
 ---
 
-### 3.  **pragmatic**
-    *   **音标**： /præɡˈmætɪk/
-    *   **词性**： adj.
-    *   **中文释义**： 务实的；注重实效的
-    *   **例句**：
-        *   We need a more **pragmatic** approach to solve this problem. (我们需要一种更务实的方法来解决这个问题。)
-        *   He is a **pragmatic** leader who focuses on practical results. (他是一个注重实际结果的务实型领导。)
-    *   **记忆技巧**： 源自希腊语 **pragmatikos** (与行动有关的)。联想：“实践(practice)”出真知，“务实(pragmatic)”的人注重行动和结果。
+## 2. hierarchy
+
+- **音标**：/ˈhaɪərɑːrki/
+- **词性**：n.
+- **中文释义**：等级制度；阶层；层次体系
+- **例句**：
+  - In this company, the **hierarchy** is very strict, and decisions must go through several levels.
+  - 这家公司**等级制度**非常严格，决策必须经过多层审批。
+- **记忆技巧**：*hiero-*（神圣的）+ *archy*（统治）→ 像教廷一样的统治结构 → **等级制度**。
 
 ---
 
-### 4.  **vindicate**
-    *   **音标**： /ˈvɪndɪkeɪt/
-    *   **词性**： v.
-    *   **中文释义**： 证明...正确；为...辩护；洗清...的冤屈
-    *   **例句**：
-        *   The new evidence **vindicated** her theory. (新证据证明了她的理论是正确的。)
-        *   The court ruling **vindicated** the company’s decision. (法院的裁决证明了公司的决定是正确的。)
-    *   **记忆技巧**： 词根 **vindic-** (主张，捍卫) + **-ate**。联想：为（观点或人）“捍卫(vindicate)”到底，最终“证明其清白或正确”。
+## 3. facilitate
+
+- **音标**：/fəˈsɪlɪteɪt/
+- **词性**：v.
+- **中文释义**：促进；使便利；推动
+- **例句**：
+  - The new policy aims to **facilitate** international trade.
+  - 新政策旨在**促进**国际贸易。
+- **记忆技巧**：来自 *facile*（容易的）+ *-itate* → 使事情变容易 → **促进、便利**。
 
 ---
 
-### 5.  **elusive**
-    *   **音标**： /ɪˈluːsɪv/
-    *   **词性**： adj.
-    *   **中文释义**： 难以捉摸的；逃避的；难以理解的
-    *   **例句**：
-        *   The cause of the disease remains **elusive**. (这种疾病的病因仍然难以捉摸。)
-        *   He managed to give the reporters an **elusive** answer. (他设法给了记者们一个模棱两可、回避问题的答案。)
-    *   **记忆技巧**： 动词 **elude** (躲避) + **-ive** (形容词后缀)。联想：像狡猾的狐狸，总能“逃避”捕捉，让人感觉“难以捉摸”。
+## 4. prevalent
+
+- **音标**：/ˈprevələnt/
+- **词性**：adj.
+- **中文释义**：流行的；普遍存在的
+- **例句**：
+  - Misinformation is **prevalent** on social media platforms.
+  - 错误信息在社交媒体平台上**普遍存在**。
+- **记忆技巧**：*pre-*（在…之前）+ *val*（强壮的，同 *value*）→ 很早就强大的 → **流行的、普遍的**。
 
 ---
 
-### 6.  **ramification**
-    *   **音标**： /ˌræmɪfɪˈkeɪʃn/
-    *   **词性**： n.
-    *   **中文释义**： （复杂事件的）后果，影响；分支，衍生物
-    *   **例句**：
-        *   We need to consider all the potential **ramifications** of this policy. (我们需要考虑这项政策所有潜在的后果。)
-        *   The tree’s **ramifications** spread out over a wide area. (这棵树的枝杈向四周蔓延。)
-    *   **记忆技巧**： 词根 **rami-** (枝) + **-fication** (形成过程)。本意是“树枝的分叉”，引申为一件事情引发的“众多分支”或“复杂后果”。
+## 5. deteriorate
+
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：v.
+- **中文释义**：恶化；变坏；退化
+- - **例句**：
+  - His health continued to **deteriorate** despite the treatment.
+  - 尽管接受了治疗，他的健康状况仍继续**恶化**。
+- **记忆技巧**：*deterior*（更坏的，来自拉丁语）+ *-ate* → 变得更坏 → **恶化**。
 
 ---
 
-### 7.  **tangible**
-    *   **音标**： /ˈtændʒəbl/
-    *   **词性**： adj.
-    *   **中文释义**： 可触摸的；切实的；有形的
-    *   **例句**：
-        *   We have made **tangible** progress on this project. (我们在这个项目上取得了切实的进展。)
-        *   The artist works with **tangible** materials like clay and wood. (这位艺术家使用黏土和木材等有形材料进行创作。)
-    *   **记忆技巧**： 词根 **tang-** (触摸，同 touch) + **-ible** (能够...的)。联想：能够被“触摸(touch)”到的，就是“有形的、切实的”。
+## 6. scrutinize
+
+- **音标**：/ˈskruːtənaɪz/
+- **词性**：v.
+- **中文释义**：仔细检查；详审；细查
+- **例句**：
+  - The auditor will **scrutinize** every financial record.
+  - 审计员将**仔细审查**每一份财务记录。
+- **记忆技巧**：*scrut-*（查看，同 *inspect*）+ *-inize*（动词后缀）→ **仔细检查**。
 
 ---
 
-### 8.  **concede**
-    *   **音标**： /kənˈsiːd/
-    *   **词性**： v.
-    *   **中文释义**： （不情愿地）承认；让步，认输
-    *   **例句**：
-        *   He finally **conceded** defeat in the election. (他最终承认在选举中失败。)
-        *   The company was forced to **concede** to the workers’ demands. (公司被迫向工人的要求让步。)
-    *   **记忆技巧**： 前缀 **con-** (完全) + 词根 **cede** (走，让步)。联想：完全“让(cede)”出去，就是“让步、承认失败”。
+## 7. resilient
+
+- **音标**：/rɪˈzɪliənt/
+- **词性**：adj.
+- **中文释义**：有弹性的；适应力强的；能恢复的
+- **例句**：
+  - Children are often more **resilient** than adults think.
+  - 孩子们通常比成年人想象的更**有韧性**。
+- **记忆技巧**：*re-*（回）+ *sili*（跳，同 *salt* 跳跃）→ 跳回来 → **有弹性的、坚韧的**。
 
 ---
 
-### 9.  **resilient**
-    *   **音标**： /rɪˈzɪliənt/
-    *   **词性**： adj.
-    *   **中文释义**： 有弹性的；能迅速恢复的；适应力强的
-    *   **例句**：
-        *   Children are often more emotionally **resilient** than adults. (儿童在情感上通常比成年人更有韧性。)
-        *   The economy has shown **resilient** growth despite the challenges. (尽管面临挑战，经济仍显示出强劲的恢复力。)
-    *   **记忆技巧**： 词根 **resil-** (跳回，反弹) + **-ient** (形容词后缀)。联想：像弹簧一样，被压下去后能“跳回原状”，引申为“有弹性、能恢复”。
+## 8. contemplate
+
+- **音标**：/ˈkɑːntəmpleɪt/
+- **词性**：v.
+- **中文释义**：沉思；考虑；注视
+- **例句**：
+  - She sat by the window, **contemplating** her future.
+  - 她坐在窗边，**沉思**着自己的未来。
+- **记忆技巧**：*con-*（一起）+ *templ*（观察，同 *template* 模板）→ 集中精力观察思考 → **沉思**。
 
 ---
 
-### 10. **fluctuation**
-    *   **音标**： /ˌflʌktʃuˈeɪʃn/
-    *   **词性**： n.
-    *   **中文释义**： 波动，起伏
-    *   **例句**：
-        *   We have observed significant **fluctuations** in the stock market. (我们观察到了股市的显著波动。)
-        *   **Fluctuations** in temperature are common in spring. (春季温度波动很常见。)
-    *   **记忆技巧**： 动词 **fluctuate** (波动) + **-ion** (名词后缀)。联想：想象心电图上的波浪线，那就是“波动(fluctuation)”。
+## 9. pragmatic
+
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的；实用主义的
+- **例句**：
+  - We need a more **pragmatic** approach to solve this problem.
+  - 我们需要更**务实的**方法来解决这个问题。
+- **记忆技巧**：*pragma*（事务，行动）+ *-tic*（形容词）→ 关注实际行动的 → **务实的**。
 
 ---
 
-### 11. **paradigm**
-    *   **音标**： /ˈpærədaɪm/
-    *   **词性**： n.
-    *   **中文释义**： 范式，典范；模式
-    *   **例句**：
-        *   This discovery represents a **paradigm** shift in physics. (这项发现代表了物理学的范式转变。)
-        *   The old **paradigm** of management is no longer effective. (旧的管理模式已经不再有效。)
-    *   **记忆技巧**： 源自希腊语 **paradeigma** (模型，范例)。联想：它常被用来指代一种“标准模型”或“典范”，比如常说的“新范式(new paradigm)”。
+## 10. proliferate
+
+- **音标**：/prəˈlɪfəreɪt/
+- **词性**：v.
+- **中文释义**：激增；扩散；迅速繁殖
+- **例句**:
+  - Online shopping platforms have **proliferated** in recent years.
+  - 近年来，网购平台**迅速增多**。
+- **记忆技巧**：*pro-*（向前）+ *lifer*（生命，同 *life*）→ 生命向前大量产生 → **激增、扩散**。
 
 ---
 
-### 12. **subtle**
-    *   **音标**： /ˈsʌtl/
-    *   **词性**： adj.
-    *   **中文释义**： 微妙的；精巧的；敏锐的；不明显的
-    *   **例句**：
-        *   There is a **subtle** difference between the two words. (这两个词之间有微妙的差别。)
-        *   The painting uses **subtle** shades of blue. (这幅画运用了精巧的蓝色色调。)
-    *   **记忆技巧**： 联想发音：**subtle** 的 'b' 不发音，读作 /ˈsʌtl/，就像它的意思一样“不明显”。联想：“细微的(subtle)”变化往往不易察觉。
+## 11. detrimental
+
+- **音标**：/ˌdetrɪˈmentl/
+- **词性**：adj.
+- **中文释义**：有害的；不利的
+- **例句**:
+  - Lack of sleep can be **detrimental** to your health.
+  - 缺乏睡眠可能对你的健康**有害**。
+- **记忆技巧**：*detriment*（损害）+ *-al*（形容词）→ **有害的**。
 
 ---
-**学习建议**：
-*   尝试用今天学到的每个单词自己造一个句子。
-*   重点关注词汇的**搭配**和在语境中的**词性**变化。
-*   定期回顾，将新词与已学词汇联系起来，构建词汇网络。
 
-祝您学习愉快，备考顺利！
+## 12. perpetuate
+
+- **音标**：/pərˈpetʃueɪt/
+- **词性**：v.
+- **中文释义**：使永久化；使持续
+- **例句**:
+  - These stereotypes **perpetuate** inequality in society.
+  - 这些刻板印象**使**社会的不平等**长期存在**。
+- **记忆技巧**：*per-*（贯穿）+ *pet*（追求，同 *petition*）→ 一直追求延续 → **使永久化**。
+
+---
+
+### 📌 今日学习小贴士：
+- 可以尝试用今天学习的 **3个形容词**（如 *ambiguous, resilient, detrimental*）描述最近看过的新闻事件。
+- **动词**（如 *facilitate, scrutinize*）非常适合用在写作中提升表达层次。
+
+加油，坚持就是胜利！明天见！ 🌟
