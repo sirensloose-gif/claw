@@ -1,155 +1,190 @@
-# 六级高频词汇学习 - Day 33
-
-今天为你精选了12个六级高频词汇，涵盖多种词性，结合词根词缀与联想记忆，助你高效积累！
+# 六级高频词汇学习（第34天）
 
 ---
 
-## 1. ambiguous
-
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：adj.
-- **中文释义**：模糊的，有歧义的；不明确的
-- **例句**：
-  - The instructions were so **ambiguous** that no one could understand them.
-  - 说明书写得如此**模棱两可**，以至于没人能理解。
-- **记忆技巧**：前缀 *ambi-*（两边的）+ *guous*（形容词后缀）→ 可以有两种理解的 → **模糊的**。
-
----
-
-## 2. hierarchy
-
-- **音标**：/ˈhaɪərɑːrki/
-- **词性**：n.
-- **中文释义**：等级制度；阶层；层次体系
-- **例句**：
-  - In this company, the **hierarchy** is very strict, and decisions must go through several levels.
-  - 这家公司**等级制度**非常严格，决策必须经过多层审批。
-- **记忆技巧**：*hiero-*（神圣的）+ *archy*（统治）→ 像教廷一样的统治结构 → **等级制度**。
+## 1. skeptical
+**音标**：/ˈskeptɪkl/  
+**词性**：形容词  
+**中文释义**：怀疑的，持怀疑态度的  
+**例句**：  
+- 英文：She was skeptical about the new treatment proposed by the doctor.  
+- 中文：她对医生提出的新疗法持怀疑态度。  
+**记忆技巧**：  
+- 词根词缀：`scept-`（怀疑）+ `-ical`（形容词后缀），表示“怀疑的”。联想记忆：“怀疑（scept）”的人总是需要证据。
 
 ---
 
-## 3. facilitate
-
-- **音标**：/fəˈsɪlɪteɪt/
-- **词性**：v.
-- **中文释义**：促进；使便利；推动
-- **例句**：
-  - The new policy aims to **facilitate** international trade.
-  - 新政策旨在**促进**国际贸易。
-- **记忆技巧**：来自 *facile*（容易的）+ *-itate* → 使事情变容易 → **促进、便利**。
-
----
-
-## 4. prevalent
-
-- **音标**：/ˈprevələnt/
-- **词性**：adj.
-- **中文释义**：流行的；普遍存在的
-- **例句**：
-  - Misinformation is **prevalent** on social media platforms.
-  - 错误信息在社交媒体平台上**普遍存在**。
-- **记忆技巧**：*pre-*（在…之前）+ *val*（强壮的，同 *value*）→ 很早就强大的 → **流行的、普遍的**。
+## 2. endeavor
+**音标**：/ɪnˈdevər/  
+**词性**：名词/动词  
+**中文释义**：n. 努力，尝试；v. 竭力，尝试  
+**例句**：  
+- 英文：We must endeavor to improve our English skills.  
+- 中文：我们必须努力提高我们的英语技能。  
+**记忆技巧**：  
+- 联想记忆：`en-`（使）+ `deavor`（发音类似“dear”）→ “使自己dear（重视）” → 努力。
 
 ---
 
-## 5. deteriorate
-
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：v.
-- **中文释义**：恶化；变坏；退化
-- - **例句**：
-  - His health continued to **deteriorate** despite the treatment.
-  - 尽管接受了治疗，他的健康状况仍继续**恶化**。
-- **记忆技巧**：*deterior*（更坏的，来自拉丁语）+ *-ate* → 变得更坏 → **恶化**。
-
----
-
-## 6. scrutinize
-
-- **音标**：/ˈskruːtənaɪz/
-- **词性**：v.
-- **中文释义**：仔细检查；详审；细查
-- **例句**：
-  - The auditor will **scrutinize** every financial record.
-  - 审计员将**仔细审查**每一份财务记录。
-- **记忆技巧**：*scrut-*（查看，同 *inspect*）+ *-inize*（动词后缀）→ **仔细检查**。
+## 3. integrate
+**音标**：/ˈɪntɪɡreɪt/  
+**词性**：动词  
+**中文释义**：使整合，使融合  
+**例句**：  
+- 英文：The company plans to integrate new technology into its production line.  
+- 中文：公司计划将新技术整合到生产线中。  
+**记忆技巧**：  
+- 词根词缀：`integr-`（完整）+ `-ate`（动词后缀），表示“使完整”，即“整合”。
 
 ---
 
-## 7. resilient
-
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.
-- **中文释义**：有弹性的；适应力强的；能恢复的
-- **例句**：
-  - Children are often more **resilient** than adults think.
-  - 孩子们通常比成年人想象的更**有韧性**。
-- **记忆技巧**：*re-*（回）+ *sili*（跳，同 *salt* 跳跃）→ 跳回来 → **有弹性的、坚韧的**。
-
----
-
-## 8. contemplate
-
-- **音标**：/ˈkɑːntəmpleɪt/
-- **词性**：v.
-- **中文释义**：沉思；考虑；注视
-- **例句**：
-  - She sat by the window, **contemplating** her future.
-  - 她坐在窗边，**沉思**着自己的未来。
-- **记忆技巧**：*con-*（一起）+ *templ*（观察，同 *template* 模板）→ 集中精力观察思考 → **沉思**。
+## 4. predominantly
+**音标**：/prɪˈdɒmɪnəntli/  
+**词性**：副词  
+**中文释义**：主要地，显著地  
+**例句**：  
+- 英文：The region is predominantly agricultural.  
+- 中文：该地区以农业为主。  
+**记忆技巧**：  
+- 词根词缀：`pre-`（在前）+ `dominant`（主导的）+ `-ly`（副词后缀），表示“主导地”。
 
 ---
 
-## 9. pragmatic
-
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.
-- **中文释义**：务实的；实用主义的
-- **例句**：
-  - We need a more **pragmatic** approach to solve this problem.
-  - 我们需要更**务实的**方法来解决这个问题。
-- **记忆技巧**：*pragma*（事务，行动）+ *-tic*（形容词）→ 关注实际行动的 → **务实的**。
-
----
-
-## 10. proliferate
-
-- **音标**：/prəˈlɪfəreɪt/
-- **词性**：v.
-- **中文释义**：激增；扩散；迅速繁殖
-- **例句**:
-  - Online shopping platforms have **proliferated** in recent years.
-  - 近年来，网购平台**迅速增多**。
-- **记忆技巧**：*pro-*（向前）+ *lifer*（生命，同 *life*）→ 生命向前大量产生 → **激增、扩散**。
+## 5. fluctuate
+**音标**：/ˈflʌktʃueɪt/  
+**词性**：动词  
+**中文释义**：波动，变动  
+**例句**：  
+- 英文：Stock prices fluctuate daily based on market demand.  
+- 中文：股价根据市场需求每日波动。  
+**记忆技巧**：  
+- 词根词缀：`fluct-`（流动）+ `-uate`（动词后缀），表示“像水流一样变动”。
 
 ---
 
-## 11. detrimental
-
-- **音标**：/ˌdetrɪˈmentl/
-- **词性**：adj.
-- **中文释义**：有害的；不利的
-- **例句**:
-  - Lack of sleep can be **detrimental** to your health.
-  - 缺乏睡眠可能对你的健康**有害**。
-- **记忆技巧**：*detriment*（损害）+ *-al*（形容词）→ **有害的**。
-
----
-
-## 12. perpetuate
-
-- **音标**：/pərˈpetʃueɪt/
-- **词性**：v.
-- **中文释义**：使永久化；使持续
-- **例句**:
-  - These stereotypes **perpetuate** inequality in society.
-  - 这些刻板印象**使**社会的不平等**长期存在**。
-- **记忆技巧**：*per-*（贯穿）+ *pet*（追求，同 *petition*）→ 一直追求延续 → **使永久化**。
+## 6. unprecedented
+**音标**：/ʌnˈpresɪdentɪd/  
+**词性**：形容词  
+**中文释义**：史无前例的，空前的  
+**例句**：  
+- 英文：The pandemic brought unprecedented challenges to the global economy.  
+- 中文：这场疫情给全球经济带来了前所未有的挑战。  
+**记忆技巧**：  
+- 词根词缀：`un-`（不）+ `precedent`（先例）+ `-ed`（形容词后缀），表示“没有先例的”。
 
 ---
 
-### 📌 今日学习小贴士：
-- 可以尝试用今天学习的 **3个形容词**（如 *ambiguous, resilient, detrimental*）描述最近看过的新闻事件。
-- **动词**（如 *facilitate, scrutinize*）非常适合用在写作中提升表达层次。
+## 7. plausible
+**音标**：/ˈplɔːzəbl/  
+**词性**：形容词  
+**中文释义**：似乎合理的，貌似可信的  
+**例句**：  
+- 英文：He offered a plausible explanation for the incident.  
+- 中文：他对这一事件给出了一个似乎合理的解释。  
+**记忆技巧**：  
+- 词根词缀：`plaus-`（鼓掌，认可）+ `-ible`（可…的），表示“可能被认可的”。
 
-加油，坚持就是胜利！明天见！ 🌟
+---
+
+## 8. resilience
+**音标**：/rɪˈzɪliəns/  
+**词性**：名词  
+**中文释义**：恢复力，适应力  
+**例句**：  
+- 英文：Children often show remarkable resilience in adapting to new environments.  
+- 中文：孩子们在适应新环境时通常表现出非凡的适应力。  
+**记忆技巧**：  
+- 词根词缀：`resil-`（跳回）+ `-ience`（名词后缀），表示“跳回”的能力 → 恢复力。
+
+---
+
+## 9. undermine
+**音标**：/ˌʌndərˈmaɪnd/  
+**词性**：动词  
+**中文释义**：逐渐削弱，暗中破坏  
+**例句**：  
+- 英文：His constant criticism undermined her confidence.  
+- 中文：他不断的批评逐渐削弱了她的信心。  
+**记忆技巧**：  
+- 联想记忆：`under`（在下面）+ `mine`（采矿）→ 在下面采矿会破坏地基 → 暗中破坏。
+
+---
+
+## 10. perpetual
+**音标**：/pərˈpetʃuəl/  
+**词性**：形容词  
+**中文释义**：永久的，持久的  
+**例句**：  
+- 英文：She was tired of his perpetual complaints.  
+- 中文：她厌倦了他永无休止的抱怨。  
+**记忆技巧**：  
+- 词根词缀：`per-`（始终）+ `pet-`（追求）+ `-ual`（形容词后缀），表示“始终追求的” → 永久的。
+
+---
+
+## 11. arbitrary
+**音标**：/ˈɑːrbɪtreri/  
+**词性**：形容词  
+**中文释义**：任意的，武断的  
+**例句**：  
+- 英文：The decision seemed completely arbitrary and unfair.  
+- 中文：这个决定看起来完全武断且不公平。  
+**记忆技巧**：  
+- 词根词缀：`arbit-`（判断）+ `-ary`（形容词后缀），表示“凭个人判断的” → 武断的。
+
+---
+
+## 12. scrutinize
+**音标**：/ˈskruːtənaɪz/  
+**词性**：动词  
+**中文释义**：仔细检查，审视  
+**例句**：  
+- 英文：The committee will scrutinize all the proposals carefully.  
+- 中文：委员会将仔细审查所有提案。  
+**记忆技巧**：  
+- 联想记忆：`scru-`（类似“scroll”卷轴）+ `tiny`（微小的）→ 对卷轴上的微小细节进行审查。
+
+---
+
+## 13. pragmatic
+**音标**：/præɡˈmætɪk/  
+**词性**：形容词  
+**中文释义**：务实的，实用的  
+**例句**：  
+- 英文：We need a pragmatic approach to solve this problem.  
+- 中文：我们需要一个务实的方法来解决这个问题。  
+**记忆技巧**：  
+- 词根词缀：`pragm-`（实践）+ `-atic`（形容词后缀），表示“注重实践的” → 务实的。
+
+---
+
+## 14. vicinity
+**音标**：/vɪˈsɪnəti/  
+**词性**：名词  
+**中文释义**：附近，邻近地区  
+**例句**：  
+- 英文：There are several restaurants in the vicinity of the hotel.  
+- 中文：酒店附近有几家餐馆。  
+**记忆技巧**：  
+- 词根词缀：`vicin-`（邻近）+ `-ity`（名词后缀），表示“邻近的地方”。
+
+---
+
+## 15. eloquent
+**音标**：/ˈeləkwənt/  
+**词性**：形容词  
+**中文释义**：雄辩的，有说服力的  
+**例句**：  
+- 英文：Her speech was eloquent and moving.  
+- 中文：她的演讲雄辩而感人。  
+**记忆技巧**：  
+- 词根词缀：`e-`（出）+ `loqu-`（说话）+ `-ent`（形容词后缀），表示“说出话来” → 雄辩的。
+
+---
+
+### 今日学习小贴士：
+1. 尝试用每个词汇造句，加深理解。
+2. 结合记忆技巧，反复复习易混淆词汇。
+3. 将词汇放入语境中学习，提高实际应用能力。
+
+祝学习顺利！ 💪
