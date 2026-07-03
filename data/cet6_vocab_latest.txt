@@ -1,190 +1,121 @@
-# 六级高频词汇学习（第34天）
+# 六级高频词汇 · 第35天
+
+今天是坚持学习的第35天，你正在稳步前进，掌握这些词汇将让你的阅读和写作如虎添翼。以下是今天的10个核心词汇。
 
 ---
 
-## 1. skeptical
-**音标**：/ˈskeptɪkl/  
-**词性**：形容词  
-**中文释义**：怀疑的，持怀疑态度的  
-**例句**：  
-- 英文：She was skeptical about the new treatment proposed by the doctor.  
-- 中文：她对医生提出的新疗法持怀疑态度。  
-**记忆技巧**：  
-- 词根词缀：`scept-`（怀疑）+ `-ical`（形容词后缀），表示“怀疑的”。联想记忆：“怀疑（scept）”的人总是需要证据。
+### 1. negligence
+*   **音标**：/ˈnɛɡlɪdʒəns/
+*   **词性**：n. 疏忽，过失
+*   **中文释义**：指未尽到应有的注意义务或carefulness。
+*   **例句**：
+    *   *The company was sued for **negligence** after the accident.*
+    *   *该公司因事故后被起诉**疏忽**。*
+*   **记忆技巧**：
+    *   **词根**：来自拉丁语 `neg-` (不) + `legere` (选择) → 不去在意/选择 → **疏忽**。
+    *   **联想**：想象一个人对重要的事“neglects（忽视）”，导致了“negligence（过失）”。
+
+### 2. indispensable
+*   **音标**：/ˌɪndɪˈspɛnsəbl/
+*   **词性**：adj. 不可缺少的，绝对必要的
+*   **中文释义**：对于某个目的或状态来说，是必需的、不能没有的。
+*   **例句**：
+    *   *Clean water is an **indispensable** resource for all life forms.*
+    *   *清洁水是所有生命形式**不可或缺**的资源。*
+*   **记忆技巧**：
+    *   **词根**：`in-` (不) + `dis-` (分开) + `pens` (支付/衡量) + `-able` (能…的) → 不能被支付/衡量分开的 → **必不可少的**。
+    *   **联想**：“Dispensable”是“可有可无的”，加上否定前缀“in-”就成了“不可少的”。
+
+### 3. sculptor
+*   **音标**：/ˈskʌlptər/
+*   **词性**：n. 雕塑家
+*   **中文释义**：创作雕塑作品的艺术家。
+*   **例句**：
+    *   *The **sculptor** spent months carving the statue from a single block of marble.*
+    *   *这位**雕塑家**花了数月从一整块大理石上雕刻这座雕像。*
+*   **记忆技巧**：
+    *   **词根**：来自拉丁语 `sculpere` (雕刻)。
+    *   **联想**：与“sculpture（雕塑）”一起记，做雕塑的人就是sculptor。
+
+### 4. receptive
+*   **音标**：/rɪˈsɛptɪv/
+*   **词性**：adj. 能容纳的，接受能力强的
+*   **中文释义**：乐于接受新思想或建议的。
+*   **例句**：
+    *   *The audience was very **receptive** to the new ideas presented in the lecture.*
+    *   *听众对讲座中提出的新思想**非常乐于接受**。*
+*   **记忆技巧**：
+    *   **词根**：`re-` (回) + `cept` (拿，取) + `-ive` (形容词后缀) → 能把东西拿回来的 → **善于接受的**。
+    *   **联想**：记住名词“reception（接待、接收）”，形容词就是“receptive”。
+
+### 5. manifest
+*   **音标**：/ˈmænɪfɛst/
+*   **词性**：v. 表明，显示；adj. 明显的
+*   **中文释义**：清楚地表明或显示；清晰易懂的。
+*   **例句**：
+    *   *Her talent **manifested** itself at an early age.*
+    *   *她的天赋在**早年便显现出来**。*
+*   **记忆技巧**：
+    *   **词根**：`mani-` (手) + `fest` (打击) → 用手敲击出来，引申为**清楚显示**。
+    *   **联想**：它的名词形式是“manifestation（表现、现象）”。
+
+### 6. counterpart
+*   **音标**：/ˈkaʊntərˌpɑːrt/
+*   **词性**：n. 职位（或作用）相当的人；对应物
+*   **中文释义**：在另一方中担任相同职位或具有相同功能的人或物。
+*   **例句**：
+    *   *The Prime Minister met with his British **counterpart**.*
+    *   *首相与他的英国**对等官员**举行了会晤。*
+*   **记忆技巧**：
+    *   **词根**：`counter-` (相对) + `part` (部分) → 相对的部分 → **对应的人或物**。
+    *   **联想**：想象两个人像照镜子一样，在不同地方扮演相同角色。
+
+### 7. trivial
+*   **音标**：/ˈtrɪviəl/
+*   **词性**：adj. 琐碎的，不重要的
+*   **中文释义**：指某事微不足道，不值得重视。
+*   **例句**：
+    *   *They argued over **trivial** matters all evening.*
+    *   *他们整晚都在为一些**琐碎的**事情争吵。*
+*   **记忆技巧**：
+    *   **词源**：源自拉丁语 `trivium` (三条路的交叉口)，指在街头闲聊的**肤浅话题**。
+    *   **联想**：与“vital（至关重要的）”意思相反。
+
+### 8. plausible
+*   **音标**：/ˈplɔːzəbl/
+*   **词性**：adj. 貌似合理的，花言巧语的
+*   **中文释义**：（指陈述或论点）听起来可能是真实的、有道理的。
+*   **例句**：
+    *   *The detective needed a more **plausible** explanation for the crime.*
+    *   *侦探需要一个更**合理**的犯罪解释。*
+*   **记忆技巧**：
+    *   **词根**：`plaus-` (鼓掌) + `-ible` (能…的) → 能让人鼓掌的 → **听起来有理的**。
+    *   **联想**：它的反义词是“implausible（难以置信的）”。
+
+### 9. proliferate
+*   **音标**：/prəˈlɪfəˌreɪt/
+*   **词性**：v. 激增，迅速扩散
+*   **中文释义**：（指生物）迅速繁殖；（指事物）大量涌现。
+*   **例句**：
+    *   *Misinformation **proliferated** on social media during the election.*
+    *   *选举期间，虚假信息在社交媒体上**大量扩散**。*
+*   **记忆技巧**：
+    *   **词根**：`pro-` (向前) + `lifer` (生命，来自 `liberi` 子女) → 生命向前繁衍 → **激增**。
+    *   **联想**：它的名词形式是“proliferation（增殖、扩散）”。
+
+### 10. endeavor
+*   **音标**：/ɪnˈdɛvər/
+*   **词性**：n./v. 尝试，努力；尽力
+*   **中文释义**：为实现某个目标而付出的认真、持续的努力。
+*   **例句**：
+    *   *Learning a new language is a worthy **endeavor**.*
+    *   *学习一门新语言是一项值得的**努力**。*
+*   **记忆技巧**：
+    *   **词源**：来自古法语 `en devoir` (在责任中) → 履行责任 → **努力**。
+    *   **联想**：可以理解为“end（目的）+ eavor（近似avor渴望）”，为了“目的”而“渴望”去做的事。
 
 ---
 
-## 2. endeavor
-**音标**：/ɪnˈdevər/  
-**词性**：名词/动词  
-**中文释义**：n. 努力，尝试；v. 竭力，尝试  
-**例句**：  
-- 英文：We must endeavor to improve our English skills.  
-- 中文：我们必须努力提高我们的英语技能。  
-**记忆技巧**：  
-- 联想记忆：`en-`（使）+ `deavor`（发音类似“dear”）→ “使自己dear（重视）” → 努力。
+**学习小结**：今天你接触了表示 **抽象概念（negligence）、价值判断（trivial, indispensable）、人物/关系（sculptor, counterpart）、行为状态（manifest, proliferate, endeavor）以及性质描述（receptive, plausible）** 的词汇。尝试用它们各造一个句子，让记忆更牢固。
 
----
-
-## 3. integrate
-**音标**：/ˈɪntɪɡreɪt/  
-**词性**：动词  
-**中文释义**：使整合，使融合  
-**例句**：  
-- 英文：The company plans to integrate new technology into its production line.  
-- 中文：公司计划将新技术整合到生产线中。  
-**记忆技巧**：  
-- 词根词缀：`integr-`（完整）+ `-ate`（动词后缀），表示“使完整”，即“整合”。
-
----
-
-## 4. predominantly
-**音标**：/prɪˈdɒmɪnəntli/  
-**词性**：副词  
-**中文释义**：主要地，显著地  
-**例句**：  
-- 英文：The region is predominantly agricultural.  
-- 中文：该地区以农业为主。  
-**记忆技巧**：  
-- 词根词缀：`pre-`（在前）+ `dominant`（主导的）+ `-ly`（副词后缀），表示“主导地”。
-
----
-
-## 5. fluctuate
-**音标**：/ˈflʌktʃueɪt/  
-**词性**：动词  
-**中文释义**：波动，变动  
-**例句**：  
-- 英文：Stock prices fluctuate daily based on market demand.  
-- 中文：股价根据市场需求每日波动。  
-**记忆技巧**：  
-- 词根词缀：`fluct-`（流动）+ `-uate`（动词后缀），表示“像水流一样变动”。
-
----
-
-## 6. unprecedented
-**音标**：/ʌnˈpresɪdentɪd/  
-**词性**：形容词  
-**中文释义**：史无前例的，空前的  
-**例句**：  
-- 英文：The pandemic brought unprecedented challenges to the global economy.  
-- 中文：这场疫情给全球经济带来了前所未有的挑战。  
-**记忆技巧**：  
-- 词根词缀：`un-`（不）+ `precedent`（先例）+ `-ed`（形容词后缀），表示“没有先例的”。
-
----
-
-## 7. plausible
-**音标**：/ˈplɔːzəbl/  
-**词性**：形容词  
-**中文释义**：似乎合理的，貌似可信的  
-**例句**：  
-- 英文：He offered a plausible explanation for the incident.  
-- 中文：他对这一事件给出了一个似乎合理的解释。  
-**记忆技巧**：  
-- 词根词缀：`plaus-`（鼓掌，认可）+ `-ible`（可…的），表示“可能被认可的”。
-
----
-
-## 8. resilience
-**音标**：/rɪˈzɪliəns/  
-**词性**：名词  
-**中文释义**：恢复力，适应力  
-**例句**：  
-- 英文：Children often show remarkable resilience in adapting to new environments.  
-- 中文：孩子们在适应新环境时通常表现出非凡的适应力。  
-**记忆技巧**：  
-- 词根词缀：`resil-`（跳回）+ `-ience`（名词后缀），表示“跳回”的能力 → 恢复力。
-
----
-
-## 9. undermine
-**音标**：/ˌʌndərˈmaɪnd/  
-**词性**：动词  
-**中文释义**：逐渐削弱，暗中破坏  
-**例句**：  
-- 英文：His constant criticism undermined her confidence.  
-- 中文：他不断的批评逐渐削弱了她的信心。  
-**记忆技巧**：  
-- 联想记忆：`under`（在下面）+ `mine`（采矿）→ 在下面采矿会破坏地基 → 暗中破坏。
-
----
-
-## 10. perpetual
-**音标**：/pərˈpetʃuəl/  
-**词性**：形容词  
-**中文释义**：永久的，持久的  
-**例句**：  
-- 英文：She was tired of his perpetual complaints.  
-- 中文：她厌倦了他永无休止的抱怨。  
-**记忆技巧**：  
-- 词根词缀：`per-`（始终）+ `pet-`（追求）+ `-ual`（形容词后缀），表示“始终追求的” → 永久的。
-
----
-
-## 11. arbitrary
-**音标**：/ˈɑːrbɪtreri/  
-**词性**：形容词  
-**中文释义**：任意的，武断的  
-**例句**：  
-- 英文：The decision seemed completely arbitrary and unfair.  
-- 中文：这个决定看起来完全武断且不公平。  
-**记忆技巧**：  
-- 词根词缀：`arbit-`（判断）+ `-ary`（形容词后缀），表示“凭个人判断的” → 武断的。
-
----
-
-## 12. scrutinize
-**音标**：/ˈskruːtənaɪz/  
-**词性**：动词  
-**中文释义**：仔细检查，审视  
-**例句**：  
-- 英文：The committee will scrutinize all the proposals carefully.  
-- 中文：委员会将仔细审查所有提案。  
-**记忆技巧**：  
-- 联想记忆：`scru-`（类似“scroll”卷轴）+ `tiny`（微小的）→ 对卷轴上的微小细节进行审查。
-
----
-
-## 13. pragmatic
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词  
-**中文释义**：务实的，实用的  
-**例句**：  
-- 英文：We need a pragmatic approach to solve this problem.  
-- 中文：我们需要一个务实的方法来解决这个问题。  
-**记忆技巧**：  
-- 词根词缀：`pragm-`（实践）+ `-atic`（形容词后缀），表示“注重实践的” → 务实的。
-
----
-
-## 14. vicinity
-**音标**：/vɪˈsɪnəti/  
-**词性**：名词  
-**中文释义**：附近，邻近地区  
-**例句**：  
-- 英文：There are several restaurants in the vicinity of the hotel.  
-- 中文：酒店附近有几家餐馆。  
-**记忆技巧**：  
-- 词根词缀：`vicin-`（邻近）+ `-ity`（名词后缀），表示“邻近的地方”。
-
----
-
-## 15. eloquent
-**音标**：/ˈeləkwənt/  
-**词性**：形容词  
-**中文释义**：雄辩的，有说服力的  
-**例句**：  
-- 英文：Her speech was eloquent and moving.  
-- 中文：她的演讲雄辩而感人。  
-**记忆技巧**：  
-- 词根词缀：`e-`（出）+ `loqu-`（说话）+ `-ent`（形容词后缀），表示“说出话来” → 雄辩的。
-
----
-
-### 今日学习小贴士：
-1. 尝试用每个词汇造句，加深理解。
-2. 结合记忆技巧，反复复习易混淆词汇。
-3. 将词汇放入语境中学习，提高实际应用能力。
-
-祝学习顺利！ 💪
+祝你学习愉快，明天见！
