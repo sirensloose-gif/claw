@@ -1,121 +1,126 @@
-# 六级高频词汇 · 第35天
-
-今天是坚持学习的第35天，你正在稳步前进，掌握这些词汇将让你的阅读和写作如虎添翼。以下是今天的10个核心词汇。
+# 六级高频词汇学习 - 第36天
 
 ---
 
-### 1. negligence
-*   **音标**：/ˈnɛɡlɪdʒəns/
-*   **词性**：n. 疏忽，过失
-*   **中文释义**：指未尽到应有的注意义务或carefulness。
-*   **例句**：
-    *   *The company was sued for **negligence** after the accident.*
-    *   *该公司因事故后被起诉**疏忽**。*
-*   **记忆技巧**：
-    *   **词根**：来自拉丁语 `neg-` (不) + `legere` (选择) → 不去在意/选择 → **疏忽**。
-    *   **联想**：想象一个人对重要的事“neglects（忽视）”，导致了“negligence（过失）”。
-
-### 2. indispensable
-*   **音标**：/ˌɪndɪˈspɛnsəbl/
-*   **词性**：adj. 不可缺少的，绝对必要的
-*   **中文释义**：对于某个目的或状态来说，是必需的、不能没有的。
-*   **例句**：
-    *   *Clean water is an **indispensable** resource for all life forms.*
-    *   *清洁水是所有生命形式**不可或缺**的资源。*
-*   **记忆技巧**：
-    *   **词根**：`in-` (不) + `dis-` (分开) + `pens` (支付/衡量) + `-able` (能…的) → 不能被支付/衡量分开的 → **必不可少的**。
-    *   **联想**：“Dispensable”是“可有可无的”，加上否定前缀“in-”就成了“不可少的”。
-
-### 3. sculptor
-*   **音标**：/ˈskʌlptər/
-*   **词性**：n. 雕塑家
-*   **中文释义**：创作雕塑作品的艺术家。
-*   **例句**：
-    *   *The **sculptor** spent months carving the statue from a single block of marble.*
-    *   *这位**雕塑家**花了数月从一整块大理石上雕刻这座雕像。*
-*   **记忆技巧**：
-    *   **词根**：来自拉丁语 `sculpere` (雕刻)。
-    *   **联想**：与“sculpture（雕塑）”一起记，做雕塑的人就是sculptor。
-
-### 4. receptive
-*   **音标**：/rɪˈsɛptɪv/
-*   **词性**：adj. 能容纳的，接受能力强的
-*   **中文释义**：乐于接受新思想或建议的。
-*   **例句**：
-    *   *The audience was very **receptive** to the new ideas presented in the lecture.*
-    *   *听众对讲座中提出的新思想**非常乐于接受**。*
-*   **记忆技巧**：
-    *   **词根**：`re-` (回) + `cept` (拿，取) + `-ive` (形容词后缀) → 能把东西拿回来的 → **善于接受的**。
-    *   **联想**：记住名词“reception（接待、接收）”，形容词就是“receptive”。
-
-### 5. manifest
-*   **音标**：/ˈmænɪfɛst/
-*   **词性**：v. 表明，显示；adj. 明显的
-*   **中文释义**：清楚地表明或显示；清晰易懂的。
-*   **例句**：
-    *   *Her talent **manifested** itself at an early age.*
-    *   *她的天赋在**早年便显现出来**。*
-*   **记忆技巧**：
-    *   **词根**：`mani-` (手) + `fest` (打击) → 用手敲击出来，引申为**清楚显示**。
-    *   **联想**：它的名词形式是“manifestation（表现、现象）”。
-
-### 6. counterpart
-*   **音标**：/ˈkaʊntərˌpɑːrt/
-*   **词性**：n. 职位（或作用）相当的人；对应物
-*   **中文释义**：在另一方中担任相同职位或具有相同功能的人或物。
-*   **例句**：
-    *   *The Prime Minister met with his British **counterpart**.*
-    *   *首相与他的英国**对等官员**举行了会晤。*
-*   **记忆技巧**：
-    *   **词根**：`counter-` (相对) + `part` (部分) → 相对的部分 → **对应的人或物**。
-    *   **联想**：想象两个人像照镜子一样，在不同地方扮演相同角色。
-
-### 7. trivial
-*   **音标**：/ˈtrɪviəl/
-*   **词性**：adj. 琐碎的，不重要的
-*   **中文释义**：指某事微不足道，不值得重视。
-*   **例句**：
-    *   *They argued over **trivial** matters all evening.*
-    *   *他们整晚都在为一些**琐碎的**事情争吵。*
-*   **记忆技巧**：
-    *   **词源**：源自拉丁语 `trivium` (三条路的交叉口)，指在街头闲聊的**肤浅话题**。
-    *   **联想**：与“vital（至关重要的）”意思相反。
-
-### 8. plausible
-*   **音标**：/ˈplɔːzəbl/
-*   **词性**：adj. 貌似合理的，花言巧语的
-*   **中文释义**：（指陈述或论点）听起来可能是真实的、有道理的。
-*   **例句**：
-    *   *The detective needed a more **plausible** explanation for the crime.*
-    *   *侦探需要一个更**合理**的犯罪解释。*
-*   **记忆技巧**：
-    *   **词根**：`plaus-` (鼓掌) + `-ible` (能…的) → 能让人鼓掌的 → **听起来有理的**。
-    *   **联想**：它的反义词是“implausible（难以置信的）”。
-
-### 9. proliferate
-*   **音标**：/prəˈlɪfəˌreɪt/
-*   **词性**：v. 激增，迅速扩散
-*   **中文释义**：（指生物）迅速繁殖；（指事物）大量涌现。
-*   **例句**：
-    *   *Misinformation **proliferated** on social media during the election.*
-    *   *选举期间，虚假信息在社交媒体上**大量扩散**。*
-*   **记忆技巧**：
-    *   **词根**：`pro-` (向前) + `lifer` (生命，来自 `liberi` 子女) → 生命向前繁衍 → **激增**。
-    *   **联想**：它的名词形式是“proliferation（增殖、扩散）”。
-
-### 10. endeavor
-*   **音标**：/ɪnˈdɛvər/
-*   **词性**：n./v. 尝试，努力；尽力
-*   **中文释义**：为实现某个目标而付出的认真、持续的努力。
-*   **例句**：
-    *   *Learning a new language is a worthy **endeavor**.*
-    *   *学习一门新语言是一项值得的**努力**。*
-*   **记忆技巧**：
-    *   **词源**：来自古法语 `en devoir` (在责任中) → 履行责任 → **努力**。
-    *   **联想**：可以理解为“end（目的）+ eavor（近似avor渴望）”，为了“目的”而“渴望”去做的事。
+## 1. **endeavor**
+- **音标**：/ɪnˈdevər/
+- **词性**：n. / v.
+- **中文释义**：(n.) 尽力，努力；(v.) 尝试，竭力做到
+- **例句**：
+  - We must *endeavor* to improve our efficiency. (我们必须努力提高效率。)
+  - Learning a new language is a worthy *endeavor*. (学习一门新语言是一项有价值的事业。)
+- **记忆技巧**：词根 `deavor` 与 `devote`（奉献）相关，可以理解为“全身心投入去做”，即“努力”。
 
 ---
 
-**学习小结**：今天你接触了表示 **抽象概念（negligence）、价值判断（trivial, indispensable）、人物/关系（sculptor, counterpart）、行为状态（manifest, proliferate, endeavor）以及性质描述（receptive, plausible）** 的词汇。尝试用它们各造一个句子，让记忆更牢固。
+## 2. **pragmatic**
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的，注重实效的；实用主义的
+- **例句**：
+  - We need a more *pragmatic* approach to solve this problem. (我们需要一种更务实的方法来解决这个问题。)
+- **记忆技巧**：联想 `pragmat-`（实践） + `-ic`（形容词后缀）→ 注重实践的 → 务实的。
 
-祝你学习愉快，明天见！
+---
+
+## 3. **hinder**
+- **音标**：/ˈhɪndər/
+- **词性**：v.
+- **中文释义**：阻碍，妨碍；使受阻
+- **例句**：
+  - The lack of funding will *hinder* the progress of the project. (资金短缺将阻碍项目的进展。)
+- **记忆技巧**：谐音 “恨的” → 因为被**阻碍**了，所以感到“恨的”。
+
+---
+
+## 4. **resilient**
+- **音标**：/rɪˈzɪliənt/
+- **词性**：adj.
+- **中文释义**：有弹性的；适应力强的，能迅速恢复的
+- **例句**：
+  - Children are often more *resilient* than adults think. (孩子们往往比成年人想象的更有韧性。)
+- **记忆技巧**：词根 `sili`（弹回，跳） + `-ent`（形容词后缀）→ 像弹簧一样能弹回的 → 有韧性的。
+
+---
+
+## 5. **ambiguous**
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：adj.
+- **中文释义**：模棱两可的，含糊不清的；引起歧义的
+- **例句**：
+  - His statement was deliberately *ambiguous*. (他的声明故意含糊其辞。)
+- **记忆技巧**：`ambi-`（两个） + `-guous`（走） → 走向两个方向 → 意思不明确 → 模棱两可的。
+
+---
+
+## 6. **scrutiny**
+- **音标**：/ˈskruːtəni/
+- **词性**：n.
+- **中文释义**：仔细检查，详细审查
+- **例句**：
+  - The report will be subject to close *scrutiny*. (这份报告将受到严格的审查。)
+- **记忆技巧**：联想 `scrut-`（检查） + `-iny`（名词后缀）→ 审查行为。可以联想 `scrutinize`（仔细查看）。
+
+---
+
+## 7. **undermine**
+- **音标**：/ˌʌndərˈmaɪn/
+- **词性**：v.
+- **中文释义**：逐渐削弱，暗中破坏；损害
+- **例句**：
+  - Constant criticism can *undermine* a child's confidence. (不断的批评会逐渐削弱孩子的自信。)
+- **记忆技巧**：`under-`（在下面） + `mine`（采矿，挖掘） → 从地下挖掘 → 暗中破坏基础 → 逐渐削弱。
+
+---
+
+## 8. **foster**
+- **音标**：/ˈfɔːstər/
+- **词性**：v.
+- **中文释义**：培养，促进；收养，抚育
+- **例句**：
+  - Teachers should *foster* a love of learning in their students. (教师应该培养学生对学习的热爱。)
+- **记忆技巧**：谐音 “for her” → 为了她的成长 → **培养**。也可联想 `foster parent`（养父母）。
+
+---
+
+## 9. **prestige**
+- **音标**：/preˈstiːʒ/
+- **词性**：n.
+- **中文释义**：声望，威信；威望
+- **例句**：
+  - She enjoys high *prestige* among her colleagues. (她在同事中享有很高的威望。)
+- **记忆技巧**：`pre-`（在前） + `stige`（站，联想 `stand`） → 站在前面 → 引人注目 → 有声望。
+
+---
+
+## 10. **contempt**
+- **音标**：/kənˈtempt/
+- **词性**：n.
+- **中文释义**：轻视，蔑视；不顾，不尊重
+- **例句**：
+  - He showed *contempt* for those who cheated. (他蔑视那些作弊的人。)
+- **记忆技巧**：`con-`（共同） + `tempt`（尝试，诱惑） → 共同去诱惑却失败 → 被**轻视**。联想词组 `in contempt of`（不顾，藐视）。
+
+---
+
+## 11. **erratic**
+- **音标**：/ɪˈrætɪk/
+- **词性**：adj.
+- **中文释义**：不稳定的，反复无常的；古怪的
+- **例句**：
+  - His performance has been *erratic* lately. (他最近的表现一直不稳定。)
+- **记忆技巧**：词根 `err`（错误，偏离） → 像走错路一样 → 行为**不稳定**。
+
+---
+
+## 12. **profound**
+- **音标**：/prəˈfaʊnd/
+- **词性**：adj.
+- **中文释义**：深刻的，深切的；意义深远的；渊博的
+- **例句**：
+  - The book had a *profound* impact on my worldview. (这本书对我的世界观产生了深远的影响。)
+- **记忆技巧**：`pro-`（向前） + `found`（建立，基础） → 向前深入到基础 → **深刻的**。
+
+---
+
+**学习小结**：今天重点记忆的词汇中，**endeavor**, **hinder**, **undermine**, **foster** 为动词；**pragmatic**, **resilient**, **ambiguous**, **erratic**, **profound** 为形容词；**scrutiny**, **prestige**, **contempt** 为名词。注意区分 **contempt** (n.) 与 **contemptuous** (adj. 轻蔑的) 的词性。
