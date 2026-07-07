@@ -1,150 +1,152 @@
-# 六级高频词汇学习 第38天
+# 📚 六级词汇每日攻坚 - 第39天
+
+今天为你精选了12个六级高频词汇，覆盖多种词性，助你高效备考！
 
 ---
 
-### 1. **controversial**  
-**音标**：/ˌkɑːntrəˈvɜːrʃl/  
-**词性**：形容词  
-**中文释义**：有争议的；引发辩论的  
-**例句**：  
-- The controversial policy sparked widespread debate.  
-  （这项有争议的政策引发了广泛辩论。）  
-**记忆技巧**：  
-词根 **controvers**（争议）+ **-ial**（形容词后缀），可联想 **“control（控制）+ ver（很）+ sial（社会）”**，指一个话题在社会上引起很大控制不住的争议。
+### 1. **rehabilitate**
+*   **音标**：/ˌriːhəˈbɪlɪteɪt/
+*   **词性**：`v.` 使康复；修复；使恢复名誉
+*   **中文释义**：使（患病或受伤者）恢复正常生活；修复（建筑物等）；为…平反。
+*   **例句**：
+    *   The government plans to **rehabilitate** the old industrial district into a modern park.
+    *   政府计划将旧工业区**改造**成一个现代化的公园。
+*   **记忆技巧**：
+    *   **词根词缀**：前缀 `re-` (再次) + `habilit` (源自拉丁语 *habilitas*，意为“能力、资格”) + `-ate` (动词后缀)。合起来意为“再次赋予能力”，即“康复、修复”。
 
 ---
 
-### 2. **skeptical**  
-**音标**：/ˈskeptɪkl/  
-**词性**：形容词  
-**中文释义**：怀疑的；多疑的  
-**例句**：  
-- She was skeptical about his promises.  
-  （她对他的承诺持怀疑态度。）  
-**记忆技巧**：  
-词根 **skept-**（看，源于希腊语 *skeptikos*）+ **-ical**（形容词后缀），可联想 **“skeptic（怀疑者）”**，像侦探一样带着怀疑的眼光“看”问题。
+### 2. **redundancy**
+*   **音标**：/rɪˈdʌndənsi/
+*   **词性**：`n.` 冗余；裁员，解雇
+*   **中文释义**：过多，多余的部分；因工作岗位取消而被解雇。
+*   **例句**：
+    *   Due to the economic downturn, thousands of workers are facing **redundancy**.
+    *   由于经济衰退，数千名工人面临**被裁员**。
+*   **记忆技巧**：
+    *   **谐音联想**：谐音“**RE-DUND-AN-CY**”。可以联想“**累** (re) **蹲** (dun) 在**办公室** (cy)”，因为工作“冗余”而被裁掉，所以很累，只能蹲着等待。
 
 ---
 
-### 3. **phenomenon**  
-**音标**：/fəˈnɑːmɪnɑːn/  
-**词性**：名词  
-**中文释义**：现象；非凡的人（或事）  
-**例句**：  
-- Global warming is a pressing environmental phenomenon.  
-  （全球变暖是一个紧迫的环境现象。）  
-**记忆技巧**：  
-词根 **pheno-**（出现）+ **-menon**（表示事物），即“显现出来的事物”，复数形式为 **phenomena**，注意与单数区分。
+### 3. **rehearse**
+*   **音标**：/rɪˈhɜːrs/
+*   **词性**：`v.` 排练；预演；默背
+*   **中文释义**：练习（戏剧、音乐等）以便演出；反复叙述。
+*   **例句**：
+    *   The actors **rehearsed** their lines for hours before the final performance.
+    *   演员们在最后的演出前**排练**台词好几个小时。
+*   **记忆技巧**：
+    *   **场景联想**：想象一个剧院后台，导演对演员说：“**再 (re-)** 去 **听 (hear)** 一下，然后 **‘死’ (ce)** 纪排练！” (hearse 读音近似 hear+ce)，指反复排练到完美。
 
 ---
 
-### 4. **implement**  
-**音标**：/ˈɪmplɪment/  
-**词性**：动词（也可作名词）  
-**中文释义**：实施，执行；工具，器具  
-**例句**：  
-- The government plans to implement new education reforms.  
-  （政府计划实施新的教育改革。）  
-**记忆技巧**：  
-词根 **im-**（进入）+ **ple**（填满）+ **-ment**，即“使计划被填满/落实”，引申为“执行”。
+### 4. **reinforce**
+*   **音标**：/ˌriːɪnˈfɔːrs/
+*   **词性**：`v.` 加强，强化；增援
+*   **中文释义**：加强；增加（某物的）数量、尺寸或力量。
+*   **例句**：
+    *   This discovery **reinforces** the theory that diet plays a key role in health.
+    *   这一发现**证实了**饮食在健康中起关键作用的理论。
+*   **记忆技巧**：
+    *   **词根词缀**：`re-` (再次) + `in-` (进入) + `force` (力量)。合起来就是“再次注入力量”，即“加强”。
 
 ---
 
-### 5. **integrity**  
-**音标**：/ɪnˈteɡrəti/  
-**词性**：名词  
-**中文释义**：正直，诚实；完整，完善  
-**例句**：  
-- His reputation for integrity earned him the trust of the community.  
-  （他正直的声誉为他赢得了社区的信任。）  
-**记忆技巧**：  
-词根 **integr-**（完整）+ **-ity**（名词后缀），联想 **“integer（整数）”**，表示人格“完整无缺”即为正直。
+### 5. **reluctant**
+*   **音标**：/rɪˈlʌktənt/
+*   **词性**：`adj.` 不情愿的，勉强的
+*   **中文释义**：不愿意的，勉强的。
+*   **例句**：
+    *   He was **reluctant** to admit his mistake.
+    *   他**不情愿**承认自己的错误。
+*   **记忆技巧**：
+    *   **词根词缀**：来自拉丁语 *reluctant-* (反抗)，词根 `luctari` (挣扎、搏斗)。想象“**re (反复) lut (挣扎)**”，内心在挣扎，所以“不情愿”。
 
 ---
 
-### 6. **bias**  
-**音标**：/ˈbaɪəs/  
-**词性**：名词（也可作动词）  
-**中文释义**：偏见；倾向；使有偏见  
-**例句**：  
-- The media should avoid political bias in reporting.  
-  （媒体在报道中应避免政治偏见。）  
-**记忆技巧**：  
-可联想 **“bi-”（双）**，偏见往往是只看到“两边”中的一边，忽略另一边。
+### 6. **reminiscent**
+*   **音标**：/ˌremɪˈnɪsnt/
+*   **词性**：`adj.` 怀旧的，使人联想的
+*   **中文释义**：令人回忆起…的；怀旧的。
+*   **例句**：
+    *   The old film was **reminiscent** of my childhood.
+    *   这部老电影让我**回想起**我的童年。
+*   **记忆技巧**：
+    *   **词根词缀**：`re-` (再次) + `minisce` (来自 *meminiscī*，记住) + `-ent` (形容词后缀)。意为“再次记起的”，即“令人联想的”。
 
 ---
 
-### 7. **substantial**  
-**音标**：/səbˈstænʃl/  
-**词性**：形容词  
-**中文释义**：大量的；实质的；坚固的  
-**例句**：  
-- They made substantial progress in the research.  
-  （他们在研究中取得了实质性进展。）  
-**记忆技巧**：  
-词根 **sub-**（在…之下）+ **stant**（站立）+ **-ial**，即“站在下面的”，引申为“有基础的、实质性的”。
+### 7. **repertoire**
+*   **音标**：/ˈrepərtwɑːr/
+*   **词性**：`n.` 全部剧目；（某人的）全部技能
+*   **中文释义**：（演员、歌手等的）全部节目；（个人的）全部技能、本领。
+*   **例句**：
+    *   The chef has an impressive **repertoire** of international dishes.
+    *   这位厨师掌握着令人印象深刻的**拿手菜**，都是国际菜肴。
+*   **记忆技巧**：
+    *   **外来词**：直接来自法语，指“目录、仓库”。可以联想成一个“**储备库 (repo)**”，里面存满了你的“**全套 (ertoire)**”技能。
 
 ---
 
-### 8. **pragmatic**  
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词  
-**中文释义**：务实的；实用主义的  
-**例句**：  
-- She took a pragmatic approach to solving the problem.  
-  （她以务实的方式解决问题。）  
-**记忆技巧**：  
-联想 **“pragma（实际事务）”**，类似“实践”，强调“做实事”而非空谈。
+### 8. **reproach**
+*   **音标**：/rɪˈproʊtʃ/
+*   **词性**：`n./v.` 责备，批评
+*   **中文释义**：(n.) 责备，批评；(v.) 责备，批评；使感到羞愧。
+*   **例句**：
+    *   She looked at her son with **reproach** in her eyes.
+    *   她**责备**地看着儿子。
+*   **记忆技巧**：
+    *   **谐音联想**：谐音“**RE-PROACH**”。可以联想“**热 (re) 抛 (proach)**”，因为做错了事被“热切地批评”，即“责备”。
 
 ---
 
-### 9. **volatile**  
-**音标**：/ˈvɑːlətl/  
-**词性**：形容词  
-**中文释义**：不稳定的；易变的；易挥发的  
-**例句**：  
-- The stock market has been volatile recently.  
-  （股市最近一直不稳定。）  
-**记忆技巧**：  
-词根 **vol-**（飞）+ **-atile**（易…的），像鸟一样“飞来飞去”，引申为“易变的”。
+### 9. **reputable**
+*   **音标**：/ˈrepjətəbl/
+*   **词性**：`adj.` 声誉好的，值得尊敬的
+*   **中文释义**：有名气的，有声望的。
+*   **例句**：
+    *   You should buy appliances from a **reputable** dealer.
+    *   你应该从**信誉良好**的经销商那里购买电器。
+*   **记忆技巧**：
+    *   **词根词缀**：来自名词 `repute` (名声) + `-able` (能…的，值得…的)。合起来就是“能有好名声的”，即“声誉好的”。
 
 ---
 
-### 10. **mitigate**  
-**音标**：/ˈmɪtɪɡeɪt/  
-**词性**：动词  
-**中文释义**：减轻；缓和  
-**例句**：  
-- Measures were taken to mitigate the effects of the disaster.  
-  （采取了措施减轻灾害的影响。）  
-**记忆技巧**：  
-联想 **“mit（减少）+ i + gate（门）”**，想象在灾难面前打开一扇“缓解之门”。
+### 10. **resilient**
+*   **音标**：/rɪˈzɪliənt/
+*   **词性**：`adj.` 有韧性的；适应力强的
+*   **中文释义**：（物体）有弹性的，能恢复原状的；（人）能迅速恢复的，有活力的。
+*   **例句**：
+    *   Children are often more **resilient** than adults after a setback.
+    *   孩子们在遭受挫折后往往比成年人更有**韧性**。
+*   **记忆技巧**：
+    *   **词根词缀**：来自拉丁语 *resilīre* (跳回、反弹)。词根 `salt-` (跳)，如 *salt* (跳)。想象一个球“跳回”原位，即“有韧性、能恢复”。
 
 ---
 
-### 11. **empirical**  
-**音标**：/ɪmˈpɪrɪkl/  
-**词性**：形容词  
-**中文释义**：以经验为依据的；实证的  
-**例句**：  
-- The theory lacks empirical evidence.  
-  （这个理论缺乏实证依据。）  
-**记忆技巧**：  
-词根 **em-**（在…内）+ **pir**（尝试）+ **-ical**，即“在内部尝试过的”，引申为“基于经验的”。
+### 11. **relatively**
+*   **音标**：/ˈrelətɪvli/
+*   **词性**：`adv.` 相对地，比较而言
+*   **中文释义**：相对地；相比较而言。
+*   **例句**：
+    *   The exam was **relatively** easy for most students.
+    *   对大多数学生来说，这次考试**相对**容易。
+*   **记忆技巧**：
+    *   **基础派生**：由形容词 `relative` (相对的) + `-ly` (副词后缀) 构成。这是副词构词法的标准模式。
 
 ---
 
-### 12. **coherent**  
-**音标**：/koʊˈhɪrənt/  
-**词性**：形容词  
-**中文释义**：连贯的；有条理的  
-**例句**：  
-- She presented a coherent argument in her thesis.  
-  （她在论文中提出了一个连贯的论点。）  
-**记忆技巧**：  
-词根 **co-**（共同）+ **her**（粘附）+ **-ent**，即“粘在一起”，引申为“逻辑连贯、不散乱”。
+### 12. **resurgence**
+*   **音标**：/rɪˈsɜːrdʒəns/
+*   **词性**：`n.` 复兴，再起
+*   **中文释义**：复苏，再起。
+*   **例句**：
+    *   There has been a **resurgence** of interest in traditional crafts.
+    *   人们对传统工艺的兴趣**重新兴起**。
+*   **记忆技巧**：
+    *   **词根词缀**：前缀 `re-` (再次) + `surge` (涌起，来自拉丁语 *surgere*) + `-ence` (名词后缀)。字面意思就是“再次涌起”，即“复兴”。
 
 ---
 
-**今日学习小结**：  
-本日词汇覆盖了**争议、态度、社会现象、个人品质、方法论**等多个六级常见主题。建议重点记忆 **phenomenon（现象）** 和 **empirical（实证的）** 等学术高频词，同时通过例句理解 **skeptical（怀疑的）** 与 **coherent（连贯的）** 等词的语境用法。坚持积累，阅读理解与写作将更得心应手！
+**今日学习小贴士**：
+不要孤立地记忆单词，尝试用今天学到的1-2个新词（如 **resilient**, **reinforce**）造一个贴近自己生活或专业的句子，并在脑海中“导演”出这个场景，记忆会更牢固！加油！💪
