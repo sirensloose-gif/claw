@@ -1,152 +1,221 @@
-# 📚 六级词汇每日攻坚 - 第39天
-
-今天为你精选了12个六级高频词汇，覆盖多种词性，助你高效备考！
+# 六级高频词汇学习（第40天）
 
 ---
 
-### 1. **rehabilitate**
-*   **音标**：/ˌriːhəˈbɪlɪteɪt/
-*   **词性**：`v.` 使康复；修复；使恢复名誉
-*   **中文释义**：使（患病或受伤者）恢复正常生活；修复（建筑物等）；为…平反。
-*   **例句**：
-    *   The government plans to **rehabilitate** the old industrial district into a modern park.
-    *   政府计划将旧工业区**改造**成一个现代化的公园。
-*   **记忆技巧**：
-    *   **词根词缀**：前缀 `re-` (再次) + `habilit` (源自拉丁语 *habilitas*，意为“能力、资格”) + `-ate` (动词后缀)。合起来意为“再次赋予能力”，即“康复、修复”。
+### 1. **ambiguous**
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：adj.
+- **中文释义**：模糊的；不明确的；引起歧义的
+- **例句**：
+    - *The instructions were ambiguous, so everyone interpreted them differently.*  
+      （说明书含糊不清，所以每个人解释得都不一样。）
+    - *His ambiguous response left us wondering about his true intentions.*  
+      （他模棱两可的回应让我们对他的真实意图感到困惑。）
+- **记忆技巧**：
+    - 词根 *ambi-*（两边） + *guous*（形容词后缀）→ “两边都靠” → 不确定、模糊。
 
 ---
 
-### 2. **redundancy**
-*   **音标**：/rɪˈdʌndənsi/
-*   **词性**：`n.` 冗余；裁员，解雇
-*   **中文释义**：过多，多余的部分；因工作岗位取消而被解雇。
-*   **例句**：
-    *   Due to the economic downturn, thousands of workers are facing **redundancy**.
-    *   由于经济衰退，数千名工人面临**被裁员**。
-*   **记忆技巧**：
-    *   **谐音联想**：谐音“**RE-DUND-AN-CY**”。可以联想“**累** (re) **蹲** (dun) 在**办公室** (cy)”，因为工作“冗余”而被裁掉，所以很累，只能蹲着等待。
+### 2. **resilient**
+- **音标**：/rɪˈzɪliənt/
+- **词性**：adj.
+- **中文释义**：有韧性的；恢复力强的；适应性强的
+- **例句**：
+    - *Children are often more resilient than adults when facing setbacks.*  
+      （孩子们面对挫折时往往比成年人更有韧性。）
+    - *The resilient economy recovered quickly from the recession.*  
+      （经济韧性很强，迅速从衰退中复苏。）
+- **记忆技巧**：
+    - 来自 *resilience*（韧性），联想 “re-（再）+ sil（跳）” → 能反弹回来。
 
 ---
 
-### 3. **rehearse**
-*   **音标**：/rɪˈhɜːrs/
-*   **词性**：`v.` 排练；预演；默背
-*   **中文释义**：练习（戏剧、音乐等）以便演出；反复叙述。
-*   **例句**：
-    *   The actors **rehearsed** their lines for hours before the final performance.
-    *   演员们在最后的演出前**排练**台词好几个小时。
-*   **记忆技巧**：
-    *   **场景联想**：想象一个剧院后台，导演对演员说：“**再 (re-)** 去 **听 (hear)** 一下，然后 **‘死’ (ce)** 纪排练！” (hearse 读音近似 hear+ce)，指反复排练到完美。
+### 3. **substantial**
+- **音标**：/səbˈstænʃəl/
+- **词性**：adj.
+- **中文释义**：大量的；实质的；坚固的
+- **例句**：
+    - *The project requires a substantial investment of time and money.*  
+      （这个项目需要大量的时间和金钱投入。）
+    - *There has been a substantial improvement in air quality this year.*  
+      （今年空气质量有了显著改善。）
+- **记忆技巧**：
+    - 来自 *substance*（物质、实质） + *-ial* → “有实质的” → 大量的、实质的。
 
 ---
 
-### 4. **reinforce**
-*   **音标**：/ˌriːɪnˈfɔːrs/
-*   **词性**：`v.` 加强，强化；增援
-*   **中文释义**：加强；增加（某物的）数量、尺寸或力量。
-*   **例句**：
-    *   This discovery **reinforces** the theory that diet plays a key role in health.
-    *   这一发现**证实了**饮食在健康中起关键作用的理论。
-*   **记忆技巧**：
-    *   **词根词缀**：`re-` (再次) + `in-` (进入) + `force` (力量)。合起来就是“再次注入力量”，即“加强”。
+### 4. **impede**
+- **音标**：/ɪmˈpiːd/
+- **词性**：v.
+- **中文释义**：阻碍；妨碍；阻止
+- **例句**：
+    - *The bad weather impeded our progress toward the summit.*  
+      （恶劣的天气阻碍了我们向山顶的进程。）
+    - *Lack of funding could impede scientific research.*  
+      （缺乏资金可能会妨碍科学研究。）
+- **记忆技巧**：
+    - 词根 *imped-*（脚） → “绊住脚” → 阻碍。对比 *pedestrian*（行人）中的 *ped-*（脚）。
 
 ---
 
-### 5. **reluctant**
-*   **音标**：/rɪˈlʌktənt/
-*   **词性**：`adj.` 不情愿的，勉强的
-*   **中文释义**：不愿意的，勉强的。
-*   **例句**：
-    *   He was **reluctant** to admit his mistake.
-    *   他**不情愿**承认自己的错误。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 *reluctant-* (反抗)，词根 `luctari` (挣扎、搏斗)。想象“**re (反复) lut (挣扎)**”，内心在挣扎，所以“不情愿”。
+### 5. **unprecedented**
+- **音标**：/ʌnˈpresɪdentɪd/
+- **词性**：adj.
+- **中文释义**：前所未有的；空前的
+- **例句**：
+    - *The pandemic caused unprecedented disruption to global travel.*  
+      （这场大流行对全球旅行造成了前所未有的中断。）
+    - *The company experienced unprecedented growth in the last quarter.*  
+      （该公司上个季度经历了空前的增长。）
+- **记忆技巧**：
+    - *un-*（不） + *precedented*（有先例的） → “没有先例的” → 前所未有的。
 
 ---
 
-### 6. **reminiscent**
-*   **音标**：/ˌremɪˈnɪsnt/
-*   **词性**：`adj.` 怀旧的，使人联想的
-*   **中文释义**：令人回忆起…的；怀旧的。
-*   **例句**：
-    *   The old film was **reminiscent** of my childhood.
-    *   这部老电影让我**回想起**我的童年。
-*   **记忆技巧**：
-    *   **词根词缀**：`re-` (再次) + `minisce` (来自 *meminiscī*，记住) + `-ent` (形容词后缀)。意为“再次记起的”，即“令人联想的”。
+### 6. **coherent**
+- **音标**：/koʊˈhɪrənt/
+- **词性**：adj.
+- **中文释义**：连贯的；有条理的；黏在一起的
+- **例句**：
+    - *She presented a coherent argument that convinced the committee.*  
+      （她提出了一个连贯的论点，说服了委员会。）
+    - *The story needs to be more coherent for readers to follow.*  
+      （这个故事需要更连贯一些，以便读者理解。）
+- **记忆技巧**：
+    - 词根 *co-*（一起） + *her*（粘） → “粘在一起” → 连贯的。
 
 ---
 
-### 7. **repertoire**
-*   **音标**：/ˈrepərtwɑːr/
-*   **词性**：`n.` 全部剧目；（某人的）全部技能
-*   **中文释义**：（演员、歌手等的）全部节目；（个人的）全部技能、本领。
-*   **例句**：
-    *   The chef has an impressive **repertoire** of international dishes.
-    *   这位厨师掌握着令人印象深刻的**拿手菜**，都是国际菜肴。
-*   **记忆技巧**：
-    *   **外来词**：直接来自法语，指“目录、仓库”。可以联想成一个“**储备库 (repo)**”，里面存满了你的“**全套 (ertoire)**”技能。
+### 7. **paradigm**
+- **音标**：/ˈpærədaɪm/
+- **词性**：n.
+- **中文释义**：范式；典范；模式
+- **例句**：
+    - *The discovery led to a new paradigm in medical treatment.*  
+      （这一发现引发了医疗领域的新范式。）
+    - *The old paradigm of management is no longer effective.*  
+      （旧的管理模式已不再有效。）
+- **记忆技巧**：
+    - 希腊语来源，原意为“模式、示例”。可联想 *pair*（一对）+ *adigm* → 成对出现的典型模式。
 
 ---
 
-### 8. **reproach**
-*   **音标**：/rɪˈproʊtʃ/
-*   **词性**：`n./v.` 责备，批评
-*   **中文释义**：(n.) 责备，批评；(v.) 责备，批评；使感到羞愧。
-*   **例句**：
-    *   She looked at her son with **reproach** in her eyes.
-    *   她**责备**地看着儿子。
-*   **记忆技巧**：
-    *   **谐音联想**：谐音“**RE-PROACH**”。可以联想“**热 (re) 抛 (proach)**”，因为做错了事被“热切地批评”，即“责备”。
+### 8. **pragmatic**
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的；实用主义的
+- **例句**：
+    - *We need a pragmatic approach to solve this problem.*  
+      （我们需要一种务实的方法来解决这个问题。）
+    - *She is a pragmatic leader who focuses on results.*  
+      （她是一位注重结果的务实型领导者。）
+- **记忆技巧**：
+    - 来自 *pragmatism*（实用主义），联想 *practice*（实践）→ 注重实践的、务实的。
 
 ---
 
-### 9. **reputable**
-*   **音标**：/ˈrepjətəbl/
-*   **词性**：`adj.` 声誉好的，值得尊敬的
-*   **中文释义**：有名气的，有声望的。
-*   **例句**：
-    *   You should buy appliances from a **reputable** dealer.
-    *   你应该从**信誉良好**的经销商那里购买电器。
-*   **记忆技巧**：
-    *   **词根词缀**：来自名词 `repute` (名声) + `-able` (能…的，值得…的)。合起来就是“能有好名声的”，即“声誉好的”。
+### 9. **elaborate**
+- **音标**：/ɪˈlæbərət/
+- **词性**：adj./v.
+- **中文释义**：（adj.）精心制作的；详细阐述的；（v.）详细说明
+- **例句**：
+    - *She prepared an elaborate dinner for the guests.*  
+      （她为客人们准备了一顿精心制作的晚餐。）
+    - *Could you elaborate on your proposal?*  
+      （你能详细说明一下你的提案吗？）
+- **记忆技巧**：
+    - 词根 *e-*（出） + *labor*（劳动）→ “花大量劳动”→ 精心制作、详细说明。
 
 ---
 
-### 10. **resilient**
-*   **音标**：/rɪˈzɪliənt/
-*   **词性**：`adj.` 有韧性的；适应力强的
-*   **中文释义**：（物体）有弹性的，能恢复原状的；（人）能迅速恢复的，有活力的。
-*   **例句**：
-    *   Children are often more **resilient** than adults after a setback.
-    *   孩子们在遭受挫折后往往比成年人更有**韧性**。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 *resilīre* (跳回、反弹)。词根 `salt-` (跳)，如 *salt* (跳)。想象一个球“跳回”原位，即“有韧性、能恢复”。
+### 10. **skeptical**
+- **音标**：/ˈskeptɪkəl/
+- **词性**：adj.
+- **中文释义**：怀疑的；持怀疑态度的
+- **例句**：
+    - *Many scientists remain skeptical about the findings.*  
+      （许多科学家对这些发现仍持怀疑态度。）
+    - *He was skeptical about the company's promises.*  
+      （他对公司的承诺表示怀疑。）
+- **记忆技巧**：
+    - 来自 *skeptic*（怀疑论者），希腊语词根 *skeptikos*（仔细思考的）。
 
 ---
 
-### 11. **relatively**
-*   **音标**：/ˈrelətɪvli/
-*   **词性**：`adv.` 相对地，比较而言
-*   **中文释义**：相对地；相比较而言。
-*   **例句**：
-    *   The exam was **relatively** easy for most students.
-    *   对大多数学生来说，这次考试**相对**容易。
-*   **记忆技巧**：
-    *   **基础派生**：由形容词 `relative` (相对的) + `-ly` (副词后缀) 构成。这是副词构词法的标准模式。
+### 11. **fluctuate**
+- **音标**：/ˈflʌktʃueɪt/
+- **词性**：v.
+- **中文释义**：波动；涨落；动摇
+- **例句**：
+    - *Stock prices fluctuated wildly after the announcement.*  
+      （消息公布后股价剧烈波动。）
+    - *His confidence fluctuated depending on the situation.*  
+      （他的信心随情况变化而波动。）
+- **记忆技巧**：
+    - 词根 *flu-*（流动） → “流动不定” → 波动。联想 *fluid*（流体）。
 
 ---
 
-### 12. **resurgence**
-*   **音标**：/rɪˈsɜːrdʒəns/
-*   **词性**：`n.` 复兴，再起
-*   **中文释义**：复苏，再起。
-*   **例句**：
-    *   There has been a **resurgence** of interest in traditional crafts.
-    *   人们对传统工艺的兴趣**重新兴起**。
-*   **记忆技巧**：
-    *   **词根词缀**：前缀 `re-` (再次) + `surge` (涌起，来自拉丁语 *surgere*) + `-ence` (名词后缀)。字面意思就是“再次涌起”，即“复兴”。
+### 12. **comprehensive**
+- **音标**：/ˌkɑːmprɪˈhensɪv/
+- **词性**：adj.
+- **中文释义**：综合的；全面的；广泛的
+- **例句**：
+    - *The report provides a comprehensive analysis of the market.*  
+      （这份报告对市场进行了全面分析。）
+    - *We need a comprehensive plan to address the issue.*  
+      （我们需要一个全面的计划来解决这个问题。）
+- **记忆技巧**：
+    - 词根 *com-*（一起） + *prehens*（抓住）→ “全部抓住”→ 综合的、全面的。
 
 ---
 
-**今日学习小贴士**：
-不要孤立地记忆单词，尝试用今天学到的1-2个新词（如 **resilient**, **reinforce**）造一个贴近自己生活或专业的句子，并在脑海中“导演”出这个场景，记忆会更牢固！加油！💪
+### 13. **controversial**
+- **音标**：/ˌkɑːntrəˈvɜːrʃəl/
+- **词性**：adj.
+- **中文释义**：有争议的；引发争论的
+- **例句**：
+    - *The controversial policy sparked nationwide debate.*  
+      （这项有争议的政策引发了全国性的辩论。）
+    - *His controversial remarks drew criticism from many.*  
+      （他有争议的言论招致了许多批评。）
+- **记忆技巧**：
+    - 词根 *contra-*（相反） + *vers*（转） → “转向相反” → 引发对立观点 → 有争议的。
+
+---
+
+### 14. **aggregate**
+- **音标**：/ˈæɡrɪɡət/
+- **词性**：n./adj./v.
+- **中文释义**：（n.）总数；总量；（adj.）总计的；（v.）合计；汇集
+- **例句**：
+    - *The aggregate of all donations exceeded $1 million.*  
+      （捐款总额超过了100万美元。）
+    - *These figures aggregate to a total of 200.*  
+      （这些数字合计为200。）
+- **记忆技巧**：
+    - 词根 *ag-*（向） + *greg*（群）→ “聚集成群”→ 总计、汇集。联想 *congregate*（聚集）。
+
+---
+
+### 15. **negligible**
+- **音标**：/ˈneɡlɪdʒəbl/
+- **词性**：adj.
+- **中文释义**：可忽略的；微不足道的
+- **例句**：
+    - *The impact of the change was negligible.*  
+      （这种变化的影响微乎其微。）
+    - *The cost difference between the two options is negligible.*  
+      （两种选项之间的成本差异可以忽略不计。）
+- **记忆技巧**：
+    - 词根 *neg-*（不） + *lig*（选择）→ “不值得选的” → 可忽略的。联想 *neglect*（忽视）。
+
+---
+
+## 📌 今日复习小贴士
+1. **分组记忆**：将形容词（如ambiguous, resilient）与动词（如impede, fluctuate）分开练习。
+2. **造句应用**：尝试用每个单词写1-2个贴近生活的句子，加深理解。
+3. **词根串联**：复习含相同词根的单词（如 *co-* 在 coherent/comprehensive 中），构建词汇网络。
+4. **定期回顾**：每3天复习今日词汇，确保长期记忆。
+
+坚持积累，词汇量会稳步提升！ 🚀
