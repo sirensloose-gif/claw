@@ -1,104 +1,134 @@
-# 🌟 六级词汇学习 · 第41天
+# 📚 六级高频词汇学习 (Day 42)
 
-## 今日目标
-完成今日的10个核心词汇学习，聚焦不同词性，掌握词根词缀记忆法，提升词汇运用能力。
-
----
-
-### 1. ambiguity [ˌæmˈbɪɡjuəti]
-*   **词性**： n. 歧义；模棱两可；含糊不清
-*   **中文释义**：指语言、文字或行为存在多种解释的可能性，意义不明确。
-*   **例句**：
-    *   The contract was rejected because its clauses were full of **ambiguity**.
-    *   该合同因条款充满了**歧义**而被驳回。
-*   **记忆技巧**：
-    *   **词根词缀**：`ambi-` (两边) + `igu` (驱动，来自 agere) + `-ity` (名词后缀) → 在两边驱动 → 意思不明确。
-
-### 2. stimulate [ˈstɪmjuleɪt]
-*   **词性**： v. 刺激；激励；促进
-*   **中文释义**：使某事物开始运作、活跃或增强；鼓励或激发（兴趣、思想等）。
-*   **例句**：
-    *   The government plans to **stimulate** the economy by investing in infrastructure.
-    *   政府计划通过投资基础设施来**刺激**经济。
-*   **记忆技巧**：
-    *   **词根词缀**：`stimul-` (棒，刺) + `-ate` (动词后缀) → 用棒刺激 → 引申为激励、促进。
-
-### 3. indispensable [ˌɪndɪˈspensəbl]
-*   **词性**： adj. 不可缺少的；必需的
-*   **中文释义**：绝对需要的，无法舍弃或替代的。
-*   **例句**：
-    *   A good dictionary is **indispensable** for language learners.
-    *   一本好的字典对于语言学习者来说是**必不可少的**。
-*   **记忆技巧**：
-    *   **词根词缀**：`in-` (不) + `dis-` (分开) + `pens` (支付，引申为衡量) + `-able` (形容词后缀) → 不能分开衡量的 → 不可缺少的。
-
-### 4. controversy [ˈkɑːntrəvɜːrsi]
-*   **词性**： n. 争论；辩论；争议
-*   **中文释义**：公众的公开辩论或讨论，通常涉及不同意见或分歧。
-*   **例句**：
-    *   The new policy has sparked considerable **controversy** among scientists.
-    *   新政策在科学家中引发了相当大的**争议**。
-*   **记忆技巧**：
-    *   **词根词缀**：`contra-` (反对) + `vers` (转) + `-y` (名词后缀) → 转向对立面 → 争论。
-
-### 5. deliberately [dɪˈlɪbərətli]
-*   **词性**： adv. 故意地；从容地；审慎地
-*   **中文释义**：经过深思熟虑后有意为之；不慌不忙地。
-*   **例句**：
-    *   He **deliberately** ignored my question during the meeting.
-    *   他在会议上**故意**忽略了我的问题。
-*   **记忆技巧**：
-    *   **词根词缀**：`de-` (加强) + `liber` (思考) + `-ate` (形容词后缀) + `-ly` (副词后缀) → 仔细思考地 → 审慎地，故意地。
-
-### 6. vulnerable [ˈvʌlnərəbl]
-*   **词性**： adj. 脆弱的；易受伤害的
-*   **中文释义**：指在身体、情感或情况上容易受到攻击、批评或伤害的状态。
-*   **例句**：
-    *   Children are particularly **vulnerable** to the effects of pollution.
-    *   儿童尤其容易受到污染的**影响**（变得**脆弱**）。
-*   **记忆技巧**：
-    *   **联想记忆**：`vuln` 发音像“挖你”。想象一个城墙有漏洞（vulner），容易被敌人“挖”开，所以是脆弱的。
-
-### 7. negotiate [nɪˈɡoʊʃieɪt]
-*   **词性**： v. 谈判；协商；成功越过
-*   **中文释义**：与他人商讨以达成协议；尝试就某事达成一致；设法通过或越过（障碍）。
-*   **例句**：
-    *   The union and management are **negotiating** a new labor contract.
-    *   工会和管理层正在**谈判**一项新的劳动合同。
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 `negotiari` (经商)。`neg-` (不) + `otium` (闲暇) → 不闲着 → 忙于事务/交易 → 谈判。
-
-### 8. integrity [ɪnˈteɡrəti]
-*   **词性**： n. 正直；诚实；完整；完善
-*   **中文释义**：坚持道德和伦理原则的品质；事物的完整、未受损状态。
-*   **例句**：
-    *   He is a man of great **integrity** and is respected by everyone.
-    *   他是一个非常**正直**的人，受到所有人的尊敬。
-*   **记忆技巧**：
-    *   **词根词缀**：`integer` (完整的，整体的) + `-ity` (名词后缀) → 完整的品质 → 诚实（人格完整）。
-
-### 9. inherent [ɪnˈhɪrənt]
-*   **词性**： adj. 固有的；内在的；生来就有的
-*   **中文释义**：指作为事物固有或永久组成部分的性质。
-*   **例句**：
-    *   There are **inherent** risks in any investment strategy.
-    *   任何投资策略都有**固有**的风险。
-*   **记忆技巧**：
-    *   **词根词缀**：`in-` (在内) + `her` (粘附) + `-ent` (形容词后缀) → 粘附在内的 → 固有的，内在的。
-
-### 10. unanimously [juˈnænɪməsli]
-*   **词性**： adv. 全体一致地；一致同意地
-*   **中文释义**：所有成员意见完全一致地。
-*   **例句**：
-    *   The board **unanimously** approved the proposed merger.
-    *   董事会**一致**批准了提议的合并方案。
-*   **记忆技巧**：
-    *   **词根词缀**：`uni-` (一) + `anim` (心，意见) + `-ous` (形容词后缀) + `-ly` (副词后缀) → 心意合一地 → 一致地。
+坚持就是胜利，第42天，继续为六级堡垒添砖加瓦！以下是今天的词汇清单，包含13个高频核心词，涵盖多种词性，请认真学习。
 
 ---
-**今日复习建议**：
-1. 尝试用今天学习的单词，**口头造句**或**写一段短文**。
-2. 重点复习 `ambiguous/ambiguous, vulnerable, indispensable` 这三个形容词的搭配用法。
-3. 回顾昨天的词汇，进行间隔重复记忆。
 
-坚持就是胜利！💪
+### 1. consequence
+*   **音标**: /ˈkɑːnsəkvens/
+*   **词性**: n.
+*   **中文释义**: 结果，后果；重要性，意义
+*   **例句**: 
+    *   **English**: His failure to submit the report on time had serious **consequences** for the project's timeline.
+    *   **中文**: 他未能按时提交报告，对项目的进度造成了严重**后果**。
+*   **记忆技巧**: **词根词缀**：`con-` (共同) + `sequ` (跟随) + `-ence` (名词后缀)。即“跟随而来的事情” → 结果/后果。
+
+### 2. respective
+*   **音标**: /rɪˈspektɪv/
+*   **词性**: adj.
+*   **中文释义**: 各自的，分别的
+*   **例句**: 
+    *   **English**: The manager and the director held talks in **their respective** offices.
+    *   **中文**: 经理和总监在**他们各自的**办公室进行了会谈。
+*   **记忆技巧**: **联想记忆**：由 `respect` (尊重) 派生。要尊重“各自的”观点和立场。
+
+### 3. prosper
+*   **音标**: /ˈprɑːspər/
+*   **词性**: v.
+*   **中文释义**: 繁荣，兴旺；茁壮成长
+*   **例句**: 
+    *   **English**: The small business continued to **prosper** despite the economic downturn.
+    *   **中文**: 尽管经济低迷，这家小企业仍持续**兴旺**。
+*   **记忆技巧**: **词根词缀**：`pro-` (向前) + `sper` (希望，来自拉丁语 *spes*)。向前看到希望 → 繁荣，兴旺。
+
+### 4. inevitable
+*   **音标**: /ɪnˈevɪtəbl/
+*   **词性**: adj.
+*   **中文释义**: 不可避免的，必然的
+*   **例句**: 
+    *   **English**: Change is an **inevitable** part of life.
+    *   **中文**: 变化是生活中**不可避免的**一部分。
+*   **记忆技巧**: **词根词缀**：`in-` (不) + `evitable` (可避免的，来自 *evade* 逃避)。即“无法逃避的” → 不可避免的。
+
+### 5. excessively
+*   **音标**: /ɪkˈsesɪvli/
+*   **词性**: adv.
+*   **中文释义**: 过度地，过分地
+*   **例句**: 
+    *   **English**: He criticized her for speaking **excessively** during the meeting.
+    *   **中文**: 他批评她在会议中发言**太过冗长**。
+*   **记忆技巧**: **词根词缀**：`excess` (过量) + `-ive` (形容词后缀) + `-ly` (副词后缀)。形容词变为副词即可。
+
+### 6. alleviate
+*   **音标**: /əˈliːvieɪt/
+*   **词性**: v.
+*   **中文释义**: 减轻，缓和（痛苦、困难等）
+*   **例句**: 
+    *   **English**: The new policy aims to **alleviate** poverty in rural areas.
+    *   **中文**: 新政策旨在**减轻**农村地区的贫困。
+*   **记忆技巧**: **词根词缀**：`al-` (= ad-，朝向) + `levi` (轻，来自拉丁语 *levis*) + `-ate`。使它变轻 → 缓解，减轻。
+
+### 7. endeavor
+*   **音标**: /ɪnˈdevər/
+*   **词性**: n./v.
+*   **中文释义**: (n.) 努力，尝试 (v.) 力图，努力
+*   **例句**: 
+    *   **English**: We must all **endeavor** to do our best in every task.
+    *   **中文**: 我们都必须**努力**在每项任务中做到最好。
+*   **记忆技巧**: **联想记忆**：`en-` (使…) + `deavor` (听起来像“deavour”→ duty“职责”)。使自己尽到职责 → 努力。
+
+### 8. dilemma
+*   **音标**: /dɪˈlemə/
+*   **词性**: n.
+*   **中文释义**: （进退两难的）困境，窘境
+*   **例句**: 
+    *   **English**: He faced a **dilemma** between accepting the job offer and staying with his current company.
+    *   **中文**: 他面临着接受新工作和留在现公司的**两难选择**。
+*   **记忆技巧**: **词根词缀**：`di-` (两个) + `lemma` (前提)。有两个需要权衡的前提 → 两难境地。
+
+### 9. compulsory
+*   **音标**: /kəmˈpʌlsəri/
+*   **词性**: adj.
+*   **中文释义**: 强制的，必修的
+*   **例句**: 
+    *   **English**: Physical education is a **compulsory** subject in many schools.
+    *   **中文**: 体育是许多学校的**必修**科目。
+*   **记忆技巧**: **词根词缀**：`com-` (一起，加强) + `puls` (推动，驱动) + `-ory`。被一起推动着去做的 → 强制的。
+
+### 10. elaborate
+*   **音标**: /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
+*   **词性**: adj./v.
+*   **中文释义**: (adj.) 精心制作的，详尽的 (v.) 详细阐述
+*   **例句**: 
+    *   **English**: Could you **elaborate** on your proposal? The current plan seems too simple.
+    *   **中文**: 你能**详细阐述**一下你的提案吗？目前的计划似乎太简单了。
+*   **记忆技巧**: **词根词缀**：`e-` (= ex-，出) + `labor` (劳动) + `-ate`。投入大量劳动去做 → 精心制作/详细说明。
+
+### 11. subordinate
+*   **音标**: /səˈbɔːrdɪnət/
+*   **词性**: adj./n./v.
+*   **中文释义**: (adj.) 次要的，从属的 (n.) 下属，下级 (v.) 使服从，使次要
+*   **例句**: 
+    *   **English**: She **subordinated** her personal feelings to the needs of the team.
+    *   **中文**: 她使个人感情**服从于**团队的需要。
+*   **记忆技巧**: **词根词缀**：`sub-` (下面) + `ordin` (顺序，来自拉丁语 *ordo*) + `-ate`。排在下面的顺序 → 从属的/下属。
+
+### 12. ambiguous
+*   **音标**: /æmˈbɪɡjuəs/
+*   **词性**: adj.
+*   **中文释义**: 模棱两可的，含糊不清的
+*   **例句**: 
+    *   **English**: The instructions were **ambiguous** and left many people confused.
+    *   **中文**: 这些说明**模棱两可**，让许多人感到困惑。
+*   **记忆技巧**: **词根词缀**：`ambi-` (两个，两边) + `guous` (来自拉丁语 *agere*，驱动)。在两边被驱动 → 向两边摇摆不定的 → 模棱两可的。
+
+### 13. disposition
+*   **音标**: /ˌdɪspəˈzɪʃn/
+*   **词性**: n.
+*   **中文释义**: 气质，性情；意向，倾向；处置，安排
+*   **例句**: 
+    *   **English**: She has a cheerful **disposition** that makes her popular among her friends.
+    *   **中文**: 她性格开朗，这让她在朋友中很受欢迎。
+*   **记忆技巧**: **词根词缀**：`dis-` (分开) + `posit` (放置，来自拉丁语 *ponere*) + `-ion`。把（事物）分开放置 → 安排/处置；也可引申为内在的“倾向”或“性情”。
+
+### 14. negligible
+*   **音标**: /ˈneɡlɪdʒəbl/
+*   **词性**: adj.
+*   **中文释义**: 微不足道的，可以忽略不计的
+*   **例句**: 
+    *   **English**: The impact of the new regulation on our department is **negligible**.
+    *   **中文**: 新规定对我们部门的影响是**微乎其微的**。
+*   **记忆技巧**: **词根词缀**：`neg-` (不) + `lig` (挑选，选择，来自拉丁语 *legere*) + `-ible`。不值得去选的 → 可以忽略的。
+
+---
+**✨ 学习小贴士**: 今天的词汇中，`dilemma`, `compulsory`, `ambiguous` 在阅读理解和翻译题中出现频率极高。`alleviate`, `endeavor`, `elaborate` 则是写作和翻译的优质词汇。建议结合例句反复朗读，并尝试自己造句，以加深记忆。祝你学习顺利，备考成功！
