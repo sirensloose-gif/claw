@@ -1,134 +1,189 @@
-# 📚 六级高频词汇学习 (Day 42)
+# 📚 六级高频词汇 · 第43天
 
-坚持就是胜利，第42天，继续为六级堡垒添砖加瓦！以下是今天的词汇清单，包含13个高频核心词，涵盖多种词性，请认真学习。
+## 1. scrutiny  
+**音标**：/ˈskruːtəni/  
+**词性**：n.  
+**中文释义**：仔细检查，审查；监视  
+**例句**：  
+- His work has attracted intense scrutiny.（他的工作引起了密切关注。）  
+- The report was subject to close scrutiny by the committee.（该报告受到了委员会的仔细审查。）  
+**记忆技巧**：  
+词根 *scrut-*（检查） + *-in*（名词后缀） → 像侦探一样“细查”线索。
+
+---
+
+## 2. resilient  
+**音标**：/rɪˈzɪliənt/  
+**词性**：adj.  
+**中文释义**：有韧性的；适应力强的  
+**例句**：  
+- Children are often more resilient than adults think.（孩子们往往比成人想象的更有韧性。）  
+- The economy showed resilient growth despite the crisis.（尽管危机存在，经济仍显示出韧性增长。）  
+**记忆技巧**：  
+词根 *resil-*（回弹） + *-ient*（形容词后缀） → 像弹簧一样“回弹”。
 
 ---
 
-### 1. consequence
-*   **音标**: /ˈkɑːnsəkvens/
-*   **词性**: n.
-*   **中文释义**: 结果，后果；重要性，意义
-*   **例句**: 
-    *   **English**: His failure to submit the report on time had serious **consequences** for the project's timeline.
-    *   **中文**: 他未能按时提交报告，对项目的进度造成了严重**后果**。
-*   **记忆技巧**: **词根词缀**：`con-` (共同) + `sequ` (跟随) + `-ence` (名词后缀)。即“跟随而来的事情” → 结果/后果。
-
-### 2. respective
-*   **音标**: /rɪˈspektɪv/
-*   **词性**: adj.
-*   **中文释义**: 各自的，分别的
-*   **例句**: 
-    *   **English**: The manager and the director held talks in **their respective** offices.
-    *   **中文**: 经理和总监在**他们各自的**办公室进行了会谈。
-*   **记忆技巧**: **联想记忆**：由 `respect` (尊重) 派生。要尊重“各自的”观点和立场。
-
-### 3. prosper
-*   **音标**: /ˈprɑːspər/
-*   **词性**: v.
-*   **中文释义**: 繁荣，兴旺；茁壮成长
-*   **例句**: 
-    *   **English**: The small business continued to **prosper** despite the economic downturn.
-    *   **中文**: 尽管经济低迷，这家小企业仍持续**兴旺**。
-*   **记忆技巧**: **词根词缀**：`pro-` (向前) + `sper` (希望，来自拉丁语 *spes*)。向前看到希望 → 繁荣，兴旺。
-
-### 4. inevitable
-*   **音标**: /ɪnˈevɪtəbl/
-*   **词性**: adj.
-*   **中文释义**: 不可避免的，必然的
-*   **例句**: 
-    *   **English**: Change is an **inevitable** part of life.
-    *   **中文**: 变化是生活中**不可避免的**一部分。
-*   **记忆技巧**: **词根词缀**：`in-` (不) + `evitable` (可避免的，来自 *evade* 逃避)。即“无法逃避的” → 不可避免的。
-
-### 5. excessively
-*   **音标**: /ɪkˈsesɪvli/
-*   **词性**: adv.
-*   **中文释义**: 过度地，过分地
-*   **例句**: 
-    *   **English**: He criticized her for speaking **excessively** during the meeting.
-    *   **中文**: 他批评她在会议中发言**太过冗长**。
-*   **记忆技巧**: **词根词缀**：`excess` (过量) + `-ive` (形容词后缀) + `-ly` (副词后缀)。形容词变为副词即可。
-
-### 6. alleviate
-*   **音标**: /əˈliːvieɪt/
-*   **词性**: v.
-*   **中文释义**: 减轻，缓和（痛苦、困难等）
-*   **例句**: 
-    *   **English**: The new policy aims to **alleviate** poverty in rural areas.
-    *   **中文**: 新政策旨在**减轻**农村地区的贫困。
-*   **记忆技巧**: **词根词缀**：`al-` (= ad-，朝向) + `levi` (轻，来自拉丁语 *levis*) + `-ate`。使它变轻 → 缓解，减轻。
-
-### 7. endeavor
-*   **音标**: /ɪnˈdevər/
-*   **词性**: n./v.
-*   **中文释义**: (n.) 努力，尝试 (v.) 力图，努力
-*   **例句**: 
-    *   **English**: We must all **endeavor** to do our best in every task.
-    *   **中文**: 我们都必须**努力**在每项任务中做到最好。
-*   **记忆技巧**: **联想记忆**：`en-` (使…) + `deavor` (听起来像“deavour”→ duty“职责”)。使自己尽到职责 → 努力。
-
-### 8. dilemma
-*   **音标**: /dɪˈlemə/
-*   **词性**: n.
-*   **中文释义**: （进退两难的）困境，窘境
-*   **例句**: 
-    *   **English**: He faced a **dilemma** between accepting the job offer and staying with his current company.
-    *   **中文**: 他面临着接受新工作和留在现公司的**两难选择**。
-*   **记忆技巧**: **词根词缀**：`di-` (两个) + `lemma` (前提)。有两个需要权衡的前提 → 两难境地。
-
-### 9. compulsory
-*   **音标**: /kəmˈpʌlsəri/
-*   **词性**: adj.
-*   **中文释义**: 强制的，必修的
-*   **例句**: 
-    *   **English**: Physical education is a **compulsory** subject in many schools.
-    *   **中文**: 体育是许多学校的**必修**科目。
-*   **记忆技巧**: **词根词缀**：`com-` (一起，加强) + `puls` (推动，驱动) + `-ory`。被一起推动着去做的 → 强制的。
-
-### 10. elaborate
-*   **音标**: /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
-*   **词性**: adj./v.
-*   **中文释义**: (adj.) 精心制作的，详尽的 (v.) 详细阐述
-*   **例句**: 
-    *   **English**: Could you **elaborate** on your proposal? The current plan seems too simple.
-    *   **中文**: 你能**详细阐述**一下你的提案吗？目前的计划似乎太简单了。
-*   **记忆技巧**: **词根词缀**：`e-` (= ex-，出) + `labor` (劳动) + `-ate`。投入大量劳动去做 → 精心制作/详细说明。
-
-### 11. subordinate
-*   **音标**: /səˈbɔːrdɪnət/
-*   **词性**: adj./n./v.
-*   **中文释义**: (adj.) 次要的，从属的 (n.) 下属，下级 (v.) 使服从，使次要
-*   **例句**: 
-    *   **English**: She **subordinated** her personal feelings to the needs of the team.
-    *   **中文**: 她使个人感情**服从于**团队的需要。
-*   **记忆技巧**: **词根词缀**：`sub-` (下面) + `ordin` (顺序，来自拉丁语 *ordo*) + `-ate`。排在下面的顺序 → 从属的/下属。
-
-### 12. ambiguous
-*   **音标**: /æmˈbɪɡjuəs/
-*   **词性**: adj.
-*   **中文释义**: 模棱两可的，含糊不清的
-*   **例句**: 
-    *   **English**: The instructions were **ambiguous** and left many people confused.
-    *   **中文**: 这些说明**模棱两可**，让许多人感到困惑。
-*   **记忆技巧**: **词根词缀**：`ambi-` (两个，两边) + `guous` (来自拉丁语 *agere*，驱动)。在两边被驱动 → 向两边摇摆不定的 → 模棱两可的。
-
-### 13. disposition
-*   **音标**: /ˌdɪspəˈzɪʃn/
-*   **词性**: n.
-*   **中文释义**: 气质，性情；意向，倾向；处置，安排
-*   **例句**: 
-    *   **English**: She has a cheerful **disposition** that makes her popular among her friends.
-    *   **中文**: 她性格开朗，这让她在朋友中很受欢迎。
-*   **记忆技巧**: **词根词缀**：`dis-` (分开) + `posit` (放置，来自拉丁语 *ponere*) + `-ion`。把（事物）分开放置 → 安排/处置；也可引申为内在的“倾向”或“性情”。
-
-### 14. negligible
-*   **音标**: /ˈneɡlɪdʒəbl/
-*   **词性**: adj.
-*   **中文释义**: 微不足道的，可以忽略不计的
-*   **例句**: 
-    *   **English**: The impact of the new regulation on our department is **negligible**.
-    *   **中文**: 新规定对我们部门的影响是**微乎其微的**。
-*   **记忆技巧**: **词根词缀**：`neg-` (不) + `lig` (挑选，选择，来自拉丁语 *legere*) + `-ible`。不值得去选的 → 可以忽略的。
+## 3. tangible  
+**音标**：/ˈtændʒəbl/  
+**词性**：adj.  
+**中文释义**：有形的，可触摸的；确实的  
+**例句**：  
+- We need tangible evidence to support the theory.（我们需要确凿的证据来支持该理论。）  
+- The government promised tangible results within a year.（政府承诺在一年内取得切实成果。）  
+**记忆技巧**：  
+词根 *tang-*（触摸） + *-ible*（能够…的） → “可触摸的”。
 
 ---
-**✨ 学习小贴士**: 今天的词汇中，`dilemma`, `compulsory`, `ambiguous` 在阅读理解和翻译题中出现频率极高。`alleviate`, `endeavor`, `elaborate` 则是写作和翻译的优质词汇。建议结合例句反复朗读，并尝试自己造句，以加深记忆。祝你学习顺利，备考成功！
+
+## 4. eloquent  
+**音标**：/ˈeləkwənt/  
+**词性**：adj.  
+**中文释义**：雄辩的，有说服力的；意味深长的  
+**例句**：  
+- She gave an eloquent speech on human rights.（她就人权问题发表了一场雄辩的演说。）  
+- His silence was more eloquent than words.（他的沉默比语言更有深意。）  
+**记忆技巧**：  
+词根 *eloqu-*（说话流利） + *-ent*（形容词后缀） → 能“说出”动人话的人。
+
+---
+
+## 5. deteriorate  
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：v.  
+**中文释义**：恶化，退化  
+**例句**：  
+- His health began to deteriorate rapidly.（他的健康状况开始迅速恶化。）  
+- The weather conditions deteriorated into a storm.（天气状况恶化成一场风暴。）  
+**记忆技巧**：  
+词根 *deterior-*（更坏） + *-ate*（动词后缀） → 变得“更糟”。
+
+---
+
+## 6. pragmatic  
+**音标**：/præɡˈmætɪk/  
+**词性**：adj.  
+**中文释义**：务实的，注重实效的  
+**例句**：  
+- We need a pragmatic approach to solve this problem.（我们需要一个务实的方法来解决这个问题。）  
+- She is a pragmatic leader who focuses on results.（她是一位注重结果的务实型领导。）  
+**记忆技巧**：  
+源自希腊语 *pragma*（实际事务） → 关心“实际事务的”。
+
+---
+
+## 7. stringent  
+**音标**：/ˈstrɪndʒənt/  
+**词性**：adj.  
+**中文释义**：严格的，严厉的  
+**例句**：  
+- The factory must comply with stringent safety regulations.（这家工厂必须遵守严格的安全规定。）  
+- Stringent measures were taken to control pollution.（采取了严厉措施来控制污染。）  
+**记忆技巧**：  
+词根 *string-*（束缚） + *-ent* → 被“紧紧束缚”的规定 → 严格的。
+
+---
+
+## 8. ambiguous  
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：adj.  
+**中文释义**：模棱两可的，含糊不清的  
+**例句**：  
+- The instructions were ambiguous and caused confusion.（说明含糊不清，造成了混淆。）  
+- His ambiguous response left us unsure of his intentions.（他模棱两可的回应让我们无法确定他的意图。）  
+**记忆技巧**：  
+前缀 *ambi-*（两边） + *-guous*（形容词后缀） → 两边都“靠”的 → 不确定的。
+
+---
+
+## 9. proliferate  
+**音标**：/prəˈlɪfəreɪt/  
+**词性**：v.  
+**中文释义**：激增；迅速繁殖  
+**例句**：  
+- Social media platforms have proliferated in recent years.（社交媒体平台近年来激增。）  
+- weeds proliferate in the warm, wet weather.（杂草在温暖潮湿的天气里迅速生长。）  
+**记忆技巧**：  
+词根 *prol-*（后代） + *-ifer-*（产生） + *-ate* → 不断“产生后代” → 激增。
+
+---
+
+## 10. ubiquitous  
+**音标**：/juːˈbɪkwɪtəs/  
+**词性**：adj.  
+**中文释义**：无处不在的  
+**例句**：  
+- Smartphones have become ubiquitous in modern life.（智能手机在现代生活中已无处不在。）  
+- The ubiquitous influence of advertising is hard to avoid.（广告无处不在的影响难以避免。）  
+**记忆技巧**：  
+词根 *ubiquit-*（到处） + *-ous* → 像影子一样“到处存在”。
+
+---
+
+## 11. benevolent  
+**音标**：/bəˈnevələnt/  
+**词性**：adj.  
+**中文释义**：仁慈的，慈善的  
+**例句**：  
+- She was known for her benevolent attitude toward the poor.（她以对穷人的仁慈态度而闻名。）  
+- A benevolent smile appeared on his face.（他脸上露出和善的微笑。）  
+**记忆技巧**：  
+前缀 *bene-*（好） + *vol-*（意愿） + *-ent* → 有“好意的”。
+
+---
+
+## 12. meticulous  
+**音标**：/məˈtɪkjələs/  
+**词性**：adj.  
+**中文释义**：一丝不苟的，细致的  
+**例句**：  
+- She is meticulous about keeping her workspace clean.（她对保持工作空间整洁一丝不苟。）  
+- The report was the result of meticulous research.（这份报告是细致研究的结果。）  
+**记忆技巧**：  
+词根 *meticul-*（恐惧出错） + *-ous* → 因为“怕出错”而格外仔细。
+
+---
+
+## 13. volatile  
+**音标**：/ˈvɑːlətl/  
+**词性**：adj.  
+**中文释义**：不稳定的；易变的  
+**例句**：  
+- The stock market has been volatile in recent weeks.（股市近几周一直不稳定。）  
+- He has a volatile temper.（他脾气易变。）  
+**记忆技巧**：  
+词根 *volat-*（飞） + *-ile* → 像鸟一样“飞来飞去” → 不稳定的。
+
+---
+
+## 14. paradigm  
+**音标**：/ˈpærədaɪm/  
+**词性**：n.  
+**中文释义**：范例，典范；模式  
+**例句**：  
+- This discovery represents a paradigm shift in science.（这一发现代表了科学的范式转变。）  
+- The traditional teaching paradigm is being challenged.（传统的教学模式正受到挑战。）  
+**记忆技巧**：  
+源自希腊语 *paradeigma*（范例） → para-（旁边） + deik-（显示） → 放在“旁边展示”的样板。
+
+---
+
+## 15. resilient  
+**音标**：/rɪˈzɪliənt/  
+**词性**：adj.  
+**中文释义**：有弹性的；能迅速恢复的  
+**例句**：  
+- The economy proved resilient against external shocks.（经济证明了其对冲外部冲击的韧性。）  
+- Her resilient spirit helped her overcome difficulties.（她坚韧的精神帮助她克服了困难。**（注：与第2个词重复，但此处为强化记忆）**  
+**记忆技巧**：  
+可联想 **re-**（再） + **sili**（跳） → 再次“跳起来” → 有恢复力。
+
+---
+
+### 💡 学习建议：
+1. **每日回顾**：隔天复习今日所学，加深长期记忆。
+2. **造句练习**：尝试用每个词汇造1-2个新句子。
+3. **词汇串联**：将意思相近或相反的词归类记忆（如 *volatile* 与 *resilient* 对比）。
+4. **听力输入**：通过听力材料熟悉词汇的发音和语境。
+
+坚持每日积累，六级词汇量会稳步提升！ 🚀
