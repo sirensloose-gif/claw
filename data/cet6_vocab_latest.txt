@@ -1,189 +1,119 @@
-# 📚 六级高频词汇 · 第43天
+# 📝 六级高频词汇学习 - Day 44
 
-## 1. scrutiny  
-**音标**：/ˈskruːtəni/  
-**词性**：n.  
-**中文释义**：仔细检查，审查；监视  
-**例句**：  
-- His work has attracted intense scrutiny.（他的工作引起了密切关注。）  
-- The report was subject to close scrutiny by the committee.（该报告受到了委员会的仔细审查。）  
-**记忆技巧**：  
-词根 *scrut-*（检查） + *-in*（名词后缀） → 像侦探一样“细查”线索。
+你好！我是MiMo。希望这份精心挑选的词汇能帮助你今天的学习，坚持就是胜利，加油！
 
 ---
 
-## 2. resilient  
-**音标**：/rɪˈzɪliənt/  
-**词性**：adj.  
-**中文释义**：有韧性的；适应力强的  
-**例句**：  
-- Children are often more resilient than adults think.（孩子们往往比成人想象的更有韧性。）  
-- The economy showed resilient growth despite the crisis.（尽管危机存在，经济仍显示出韧性增长。）  
-**记忆技巧**：  
-词根 *resil-*（回弹） + *-ient*（形容词后缀） → 像弹簧一样“回弹”。
+### 1. **controversial**
+*   **音标：** /ˌkɑːntrəˈvɜːrʃl/
+*   **词性：** 形容词
+*   **中文释义：** 引起争议的，有争议的
+*   **例句：**
+    *   英文：The decision to close the factory was highly **controversial** and sparked protests.
+    *   中文：关闭工厂的决定极具**争议性**，并引发了抗议。
+*   **记忆技巧：** 词根 **controversy**（争论，论战）+ 后缀 **-ial**（形容词后缀），意思是“有争论的”。
+
+### 2. **devote**
+*   **音标：** /dɪˈvoʊt/
+*   **词性：** 动词
+*   **中文释义：** 把...奉献给，致力于，投入（时间、精力等）
+*   **例句：**
+    *   英文：She has **devoted** her entire career to environmental protection.
+    *   中文：她把整个职业生涯都**奉献**给了环境保护事业。
+*   **记忆技巧：** 联想记忆：De（加强）+ vote（投票，表决）→ 全心全意“投向”某事 → **奉献，致力于**。
+
+### 3. **inevitable**
+*   **音标：** /ɪnˈevɪtəbl/
+*   **词性：** 形容词
+*   **中文释义：** 不可避免的，必然的
+*   **例句：**
+    *   英文：Some job losses are **inevitable** as the company automates its processes.
+    *   中文：随着公司流程自动化，一些裁员是**不可避免的**。
+*   **记忆技巧：** 词根 **in-**（不）+ **evitable**（可避免的，来自拉丁语 evitare）→ 不能避免的 → **不可避免的**。
+
+### 4. **substantially**
+*   **音标：** /səbˈstænʃəli/
+*   **词性：** 副词
+*   **中文释义：** 实质上，充分地，可观地
+*   **例句：**
+    *   英文：The new policy has **substantially** improved the company's efficiency.
+    *   中文：新政策**大幅度**地提高了公司的效率。
+*   **记忆技巧：** 词根 **substance**（实质，本质）+ **-ial** + **-ly** → 与“实质”相关 → **在很大程度上，实质地**。
+
+### 5. **circumstance**
+*   **音标：** /ˈsɜːrkəmstæns/
+*   **词性：** 名词
+*   **中文释义：** 环境，情况，境况
+*   **例句：**
+    *   英文：Under no **circumstances** should you reveal your password to anyone.
+    *   中文：在任何**情况下**你都不应该向任何人透露你的密码。
+*   **记忆技巧：** 词根 **circum-**（周围）+ **stance**（站立）→ 站在周围的东西 → **环境，情况**。
+
+### 6. **profound**
+*   **音标：** /prəˈfaʊnd/
+*   **词性：** 形容词
+*   **中文释义：** 深刻的，渊博的，意义深远的
+*   **例句：**
+    *   英文：The book had a **profound** impact on my understanding of history.
+    *   中文：这本书对我的历史理解产生了**深远的影响**。
+*   **记忆技巧：** 词根 **pro-**（向前）+ **found**（基础，found的词根是“基础”）→ 深入到底层基础的 → **深刻的，渊博的**。
+
+### 7. **restraint**
+*   **音标：** /rɪˈstreɪnt/
+*   **词性：** 名词
+*   **中文释义：** 克制，限制，约束
+*   **例句：**
+    *   英文：He showed great **restraint** by not responding to the insults.
+    *   中文：他表现出极大的**克制**，没有对侮辱做出回应。
+*   **记忆技巧：** 动词 **restrain**（克制，阻止）+ 名词后缀 **-t** → **克制，约束**。
+
+### 8. **ambiguous**
+*   **音标：** /æmˈbɪɡjuəs/
+*   **词性：** 形容词
+*   **中文释义：** 模棱两可的，含糊不清的
+*   **例句：**
+    *   英文：His statement was deliberately **ambiguous**, leaving room for different interpretations.
+    *   中文：他的声明故意**模棱两可**，留下了不同的解释空间。
+*   **记忆技巧：** 词根 **ambi-**（两个，两边）+ **-guous**（形容词后缀）→ 有两边意思的 → **模棱两可的**。
+
+### 9. **diminish**
+*   **音标：** /dɪˈmɪnɪʃ/
+*   **词性：** 动词
+*   **中文释义：** 减少，降低，削弱
+*   **例句：**
+    *   英文：Nothing can **diminish** the importance of education in our lives.
+    *   中文：没有什么能**削弱**教育在我们生活中的重要性。
+*   **记忆技巧：** 词根 **di-**（使动）+ **minish**（减少，源自拉丁语 minuere）→ 使减少 → **削弱，降低**。
+
+### 10. **plausible**
+*   **音标：** /ˈplɔːzəbl/
+*   **词性：** 形容词
+*   **中文释义：** 貌似合理的，似乎可信的
+*   **例句：**
+    *   英文：The detective found the suspect's alibi to be **plausible** but needed more evidence.
+    *   中文：侦探认为嫌疑人的不在场证明**看似合理**，但需要更多证据。
+*   **记忆技巧：** 词根 **plaus-**（鼓掌，赞同）+ **-ible**（可...的）→ 可以赢得赞同的 → **似乎合理的**。
+
+### 11. **obligation**
+*   **音标：** /ˌɑːblɪˈɡeɪʃn/
+*   **词性：** 名词
+*   **中文释义：** 义务，责任，债务
+*   **例句：**
+    *   英文：Parents have a legal **obligation** to ensure their children receive an education.
+    *   中文：父母有法律**义务**确保他们的孩子接受教育。
+*   **记忆技巧：** 动词 **oblige**（强迫，使感激）+ 名词后缀 **-ation** → 被迫做的事或应尽的本分 → **义务**。
+
+### 12. **scrutiny**
+*   **音标：** /ˈskruːtəni/
+*   **词性：** 名词
+*   **中文释义：** 详细审查，监视
+*   **例句：**
+    *   英文：The politician's financial records are under close public **scrutiny**.
+    *   中文：这位政治家的财务记录正受到公众的严密**审查**。
+*   **记忆技巧：** 可联想 **scout**（侦察兵）或 **screen**（筛选）进行记忆，都有仔细查看、检查的意思。
 
 ---
+💡 **今日小贴士：**
+尝试用今天的 **inevitable**, **restraint**, 和 **scrutiny** 三个词，自己造一个句子。例如：`Despite his anger, he exercised great restraint when facing the inevitable and unpleasant scrutiny.` (尽管很生气，他在面对必然且令人不快的审查时，还是表现出了极大的克制。) 这样能加深记忆哦！
 
-## 3. tangible  
-**音标**：/ˈtændʒəbl/  
-**词性**：adj.  
-**中文释义**：有形的，可触摸的；确实的  
-**例句**：  
-- We need tangible evidence to support the theory.（我们需要确凿的证据来支持该理论。）  
-- The government promised tangible results within a year.（政府承诺在一年内取得切实成果。）  
-**记忆技巧**：  
-词根 *tang-*（触摸） + *-ible*（能够…的） → “可触摸的”。
-
----
-
-## 4. eloquent  
-**音标**：/ˈeləkwənt/  
-**词性**：adj.  
-**中文释义**：雄辩的，有说服力的；意味深长的  
-**例句**：  
-- She gave an eloquent speech on human rights.（她就人权问题发表了一场雄辩的演说。）  
-- His silence was more eloquent than words.（他的沉默比语言更有深意。）  
-**记忆技巧**：  
-词根 *eloqu-*（说话流利） + *-ent*（形容词后缀） → 能“说出”动人话的人。
-
----
-
-## 5. deteriorate  
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：v.  
-**中文释义**：恶化，退化  
-**例句**：  
-- His health began to deteriorate rapidly.（他的健康状况开始迅速恶化。）  
-- The weather conditions deteriorated into a storm.（天气状况恶化成一场风暴。）  
-**记忆技巧**：  
-词根 *deterior-*（更坏） + *-ate*（动词后缀） → 变得“更糟”。
-
----
-
-## 6. pragmatic  
-**音标**：/præɡˈmætɪk/  
-**词性**：adj.  
-**中文释义**：务实的，注重实效的  
-**例句**：  
-- We need a pragmatic approach to solve this problem.（我们需要一个务实的方法来解决这个问题。）  
-- She is a pragmatic leader who focuses on results.（她是一位注重结果的务实型领导。）  
-**记忆技巧**：  
-源自希腊语 *pragma*（实际事务） → 关心“实际事务的”。
-
----
-
-## 7. stringent  
-**音标**：/ˈstrɪndʒənt/  
-**词性**：adj.  
-**中文释义**：严格的，严厉的  
-**例句**：  
-- The factory must comply with stringent safety regulations.（这家工厂必须遵守严格的安全规定。）  
-- Stringent measures were taken to control pollution.（采取了严厉措施来控制污染。）  
-**记忆技巧**：  
-词根 *string-*（束缚） + *-ent* → 被“紧紧束缚”的规定 → 严格的。
-
----
-
-## 8. ambiguous  
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：adj.  
-**中文释义**：模棱两可的，含糊不清的  
-**例句**：  
-- The instructions were ambiguous and caused confusion.（说明含糊不清，造成了混淆。）  
-- His ambiguous response left us unsure of his intentions.（他模棱两可的回应让我们无法确定他的意图。）  
-**记忆技巧**：  
-前缀 *ambi-*（两边） + *-guous*（形容词后缀） → 两边都“靠”的 → 不确定的。
-
----
-
-## 9. proliferate  
-**音标**：/prəˈlɪfəreɪt/  
-**词性**：v.  
-**中文释义**：激增；迅速繁殖  
-**例句**：  
-- Social media platforms have proliferated in recent years.（社交媒体平台近年来激增。）  
-- weeds proliferate in the warm, wet weather.（杂草在温暖潮湿的天气里迅速生长。）  
-**记忆技巧**：  
-词根 *prol-*（后代） + *-ifer-*（产生） + *-ate* → 不断“产生后代” → 激增。
-
----
-
-## 10. ubiquitous  
-**音标**：/juːˈbɪkwɪtəs/  
-**词性**：adj.  
-**中文释义**：无处不在的  
-**例句**：  
-- Smartphones have become ubiquitous in modern life.（智能手机在现代生活中已无处不在。）  
-- The ubiquitous influence of advertising is hard to avoid.（广告无处不在的影响难以避免。）  
-**记忆技巧**：  
-词根 *ubiquit-*（到处） + *-ous* → 像影子一样“到处存在”。
-
----
-
-## 11. benevolent  
-**音标**：/bəˈnevələnt/  
-**词性**：adj.  
-**中文释义**：仁慈的，慈善的  
-**例句**：  
-- She was known for her benevolent attitude toward the poor.（她以对穷人的仁慈态度而闻名。）  
-- A benevolent smile appeared on his face.（他脸上露出和善的微笑。）  
-**记忆技巧**：  
-前缀 *bene-*（好） + *vol-*（意愿） + *-ent* → 有“好意的”。
-
----
-
-## 12. meticulous  
-**音标**：/məˈtɪkjələs/  
-**词性**：adj.  
-**中文释义**：一丝不苟的，细致的  
-**例句**：  
-- She is meticulous about keeping her workspace clean.（她对保持工作空间整洁一丝不苟。）  
-- The report was the result of meticulous research.（这份报告是细致研究的结果。）  
-**记忆技巧**：  
-词根 *meticul-*（恐惧出错） + *-ous* → 因为“怕出错”而格外仔细。
-
----
-
-## 13. volatile  
-**音标**：/ˈvɑːlətl/  
-**词性**：adj.  
-**中文释义**：不稳定的；易变的  
-**例句**：  
-- The stock market has been volatile in recent weeks.（股市近几周一直不稳定。）  
-- He has a volatile temper.（他脾气易变。）  
-**记忆技巧**：  
-词根 *volat-*（飞） + *-ile* → 像鸟一样“飞来飞去” → 不稳定的。
-
----
-
-## 14. paradigm  
-**音标**：/ˈpærədaɪm/  
-**词性**：n.  
-**中文释义**：范例，典范；模式  
-**例句**：  
-- This discovery represents a paradigm shift in science.（这一发现代表了科学的范式转变。）  
-- The traditional teaching paradigm is being challenged.（传统的教学模式正受到挑战。）  
-**记忆技巧**：  
-源自希腊语 *paradeigma*（范例） → para-（旁边） + deik-（显示） → 放在“旁边展示”的样板。
-
----
-
-## 15. resilient  
-**音标**：/rɪˈzɪliənt/  
-**词性**：adj.  
-**中文释义**：有弹性的；能迅速恢复的  
-**例句**：  
-- The economy proved resilient against external shocks.（经济证明了其对冲外部冲击的韧性。）  
-- Her resilient spirit helped her overcome difficulties.（她坚韧的精神帮助她克服了困难。**（注：与第2个词重复，但此处为强化记忆）**  
-**记忆技巧**：  
-可联想 **re-**（再） + **sili**（跳） → 再次“跳起来” → 有恢复力。
-
----
-
-### 💡 学习建议：
-1. **每日回顾**：隔天复习今日所学，加深长期记忆。
-2. **造句练习**：尝试用每个词汇造1-2个新句子。
-3. **词汇串联**：将意思相近或相反的词归类记忆（如 *volatile* 与 *resilient* 对比）。
-4. **听力输入**：通过听力材料熟悉词汇的发音和语境。
-
-坚持每日积累，六级词汇量会稳步提升！ 🚀
+祝你学习愉快，明天见！
