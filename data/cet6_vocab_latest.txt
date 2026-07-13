@@ -1,119 +1,175 @@
-# 📝 六级高频词汇学习 - Day 44
-
-你好！我是MiMo。希望这份精心挑选的词汇能帮助你今天的学习，坚持就是胜利，加油！
+# 📚 六级词汇学习（第45天）
 
 ---
 
-### 1. **controversial**
-*   **音标：** /ˌkɑːntrəˈvɜːrʃl/
-*   **词性：** 形容词
-*   **中文释义：** 引起争议的，有争议的
-*   **例句：**
-    *   英文：The decision to close the factory was highly **controversial** and sparked protests.
-    *   中文：关闭工厂的决定极具**争议性**，并引发了抗议。
-*   **记忆技巧：** 词根 **controversy**（争论，论战）+ 后缀 **-ial**（形容词后缀），意思是“有争论的”。
-
-### 2. **devote**
-*   **音标：** /dɪˈvoʊt/
-*   **词性：** 动词
-*   **中文释义：** 把...奉献给，致力于，投入（时间、精力等）
-*   **例句：**
-    *   英文：She has **devoted** her entire career to environmental protection.
-    *   中文：她把整个职业生涯都**奉献**给了环境保护事业。
-*   **记忆技巧：** 联想记忆：De（加强）+ vote（投票，表决）→ 全心全意“投向”某事 → **奉献，致力于**。
-
-### 3. **inevitable**
-*   **音标：** /ɪnˈevɪtəbl/
-*   **词性：** 形容词
-*   **中文释义：** 不可避免的，必然的
-*   **例句：**
-    *   英文：Some job losses are **inevitable** as the company automates its processes.
-    *   中文：随着公司流程自动化，一些裁员是**不可避免的**。
-*   **记忆技巧：** 词根 **in-**（不）+ **evitable**（可避免的，来自拉丁语 evitare）→ 不能避免的 → **不可避免的**。
-
-### 4. **substantially**
-*   **音标：** /səbˈstænʃəli/
-*   **词性：** 副词
-*   **中文释义：** 实质上，充分地，可观地
-*   **例句：**
-    *   英文：The new policy has **substantially** improved the company's efficiency.
-    *   中文：新政策**大幅度**地提高了公司的效率。
-*   **记忆技巧：** 词根 **substance**（实质，本质）+ **-ial** + **-ly** → 与“实质”相关 → **在很大程度上，实质地**。
-
-### 5. **circumstance**
-*   **音标：** /ˈsɜːrkəmstæns/
-*   **词性：** 名词
-*   **中文释义：** 环境，情况，境况
-*   **例句：**
-    *   英文：Under no **circumstances** should you reveal your password to anyone.
-    *   中文：在任何**情况下**你都不应该向任何人透露你的密码。
-*   **记忆技巧：** 词根 **circum-**（周围）+ **stance**（站立）→ 站在周围的东西 → **环境，情况**。
-
-### 6. **profound**
-*   **音标：** /prəˈfaʊnd/
-*   **词性：** 形容词
-*   **中文释义：** 深刻的，渊博的，意义深远的
-*   **例句：**
-    *   英文：The book had a **profound** impact on my understanding of history.
-    *   中文：这本书对我的历史理解产生了**深远的影响**。
-*   **记忆技巧：** 词根 **pro-**（向前）+ **found**（基础，found的词根是“基础”）→ 深入到底层基础的 → **深刻的，渊博的**。
-
-### 7. **restraint**
-*   **音标：** /rɪˈstreɪnt/
-*   **词性：** 名词
-*   **中文释义：** 克制，限制，约束
-*   **例句：**
-    *   英文：He showed great **restraint** by not responding to the insults.
-    *   中文：他表现出极大的**克制**，没有对侮辱做出回应。
-*   **记忆技巧：** 动词 **restrain**（克制，阻止）+ 名词后缀 **-t** → **克制，约束**。
-
-### 8. **ambiguous**
-*   **音标：** /æmˈbɪɡjuəs/
-*   **词性：** 形容词
-*   **中文释义：** 模棱两可的，含糊不清的
-*   **例句：**
-    *   英文：His statement was deliberately **ambiguous**, leaving room for different interpretations.
-    *   中文：他的声明故意**模棱两可**，留下了不同的解释空间。
-*   **记忆技巧：** 词根 **ambi-**（两个，两边）+ **-guous**（形容词后缀）→ 有两边意思的 → **模棱两可的**。
-
-### 9. **diminish**
-*   **音标：** /dɪˈmɪnɪʃ/
-*   **词性：** 动词
-*   **中文释义：** 减少，降低，削弱
-*   **例句：**
-    *   英文：Nothing can **diminish** the importance of education in our lives.
-    *   中文：没有什么能**削弱**教育在我们生活中的重要性。
-*   **记忆技巧：** 词根 **di-**（使动）+ **minish**（减少，源自拉丁语 minuere）→ 使减少 → **削弱，降低**。
-
-### 10. **plausible**
-*   **音标：** /ˈplɔːzəbl/
-*   **词性：** 形容词
-*   **中文释义：** 貌似合理的，似乎可信的
-*   **例句：**
-    *   英文：The detective found the suspect's alibi to be **plausible** but needed more evidence.
-    *   中文：侦探认为嫌疑人的不在场证明**看似合理**，但需要更多证据。
-*   **记忆技巧：** 词根 **plaus-**（鼓掌，赞同）+ **-ible**（可...的）→ 可以赢得赞同的 → **似乎合理的**。
-
-### 11. **obligation**
-*   **音标：** /ˌɑːblɪˈɡeɪʃn/
-*   **词性：** 名词
-*   **中文释义：** 义务，责任，债务
-*   **例句：**
-    *   英文：Parents have a legal **obligation** to ensure their children receive an education.
-    *   中文：父母有法律**义务**确保他们的孩子接受教育。
-*   **记忆技巧：** 动词 **oblige**（强迫，使感激）+ 名词后缀 **-ation** → 被迫做的事或应尽的本分 → **义务**。
-
-### 12. **scrutiny**
-*   **音标：** /ˈskruːtəni/
-*   **词性：** 名词
-*   **中文释义：** 详细审查，监视
-*   **例句：**
-    *   英文：The politician's financial records are under close public **scrutiny**.
-    *   中文：这位政治家的财务记录正受到公众的严密**审查**。
-*   **记忆技巧：** 可联想 **scout**（侦察兵）或 **screen**（筛选）进行记忆，都有仔细查看、检查的意思。
+## 1. **resilient**  
+- **音标**：/rɪˈzɪliənt/  
+- **词性**：adj.  
+- **释义**：有弹性的；能迅速恢复的；适应力强的  
+- **例句**：  
+  *Children are often more resilient than adults in facing adversity.*  
+  孩子们在面对逆境时往往比成年人更具韧性。  
+- **记忆技巧**：词根“-sili-”表示“跳跃”（如insilient向内跳），联想“弹性”概念。
 
 ---
-💡 **今日小贴士：**
-尝试用今天的 **inevitable**, **restraint**, 和 **scrutiny** 三个词，自己造一个句子。例如：`Despite his anger, he exercised great restraint when facing the inevitable and unpleasant scrutiny.` (尽管很生气，他在面对必然且令人不快的审查时，还是表现出了极大的克制。) 这样能加深记忆哦！
 
-祝你学习愉快，明天见！
+## 2. **contemplate**  
+- **音标**：/ˈkɑːntəmpleɪt/  
+- **词性**：v.  
+- **释义**：深思；考虑；注视  
+- **例句**：  
+  *She sat quietly, contemplating the meaning of life.*  
+  她安静地坐着，思索着生命的意义。  
+- **记忆技巧**：词根“con-”（共同）+ “templ-”（寺庙），联想“在寺庙中共同沉思”。
+
+---
+
+## 3. **ubiquitous**  
+- **音标**：/juːˈbɪkwɪtəs/  
+- **词性**：adj.  
+- **释义**：无处不在的；普遍存在的  
+- **例句**：  
+  *Smartphones have become ubiquitous in modern society.*  
+  智能手机在现代社会已无处不在。  
+- **记忆技巧**：词根“ubiqu-”（到处）+ “-ous”，联想“到处都是的”。
+
+---
+
+## 4. **mitigate**  
+- **音标**：/ˈmɪtɪɡeɪt/  
+- **词性**：v.  
+- **释义**：减轻；缓和；缓解  
+- **例句**：  
+  *Planting trees can help mitigate the effects of climate change.*  
+  种植树木有助于缓解气候变化的影响。  
+- **记忆技巧**：词根“mitig-”（柔和），联想“使事物变得柔和”。
+
+---
+
+## 5. **pragmatic**  
+- **音标**：/præɡˈmætɪk/  
+- **词性**：adj.  
+- **释义**：务实的；注重实际的  
+- **例句**：  
+  *We need a pragmatic approach to solve this complex issue.*  
+  我们需要一个务实的方法来解决这个复杂问题。  
+- **记忆技巧**：词根“pragmat-”（实践），联想“注重实践的”。
+
+---
+
+## 6. **profound**  
+- **音标**：/prəˈfaʊnd/  
+- **词性**：adj.  
+- **释义**：深刻的；深奥的；渊博的  
+- **例句**：  
+  *The book had a profound impact on my worldview.*  
+  这本书对我的世界观产生了深远影响。  
+- **记忆技巧**：词根“pro-”（向前）+ “found-”（底部），联想“深入到事物底部”。
+
+---
+
+## 7. **volatile**  
+- **音标**：/ˈvɑːlətl/  
+- **词性**：adj.  
+- **释义**：不稳定的；易变的；易挥发的  
+- **例句**：  
+  *The stock market has been highly volatile recently.*  
+  股票市场最近波动剧烈。  
+- **记忆技巧**：词根“vol-”（飞），联想“情绪像飞一样不稳定”。
+
+---
+
+## 8. **elaborate**  
+- **音标**：/ɪˈlæbərət/  
+- **词性**：adj./v.  
+- **释义**：精致的；复杂的；详细阐述  
+- **例句**：  
+  *Could you elaborate on your proposal for the new project?*  
+  你能详细阐述一下新项目的提案吗？  
+- **记忆技巧**：词根“e-”（出）+ “labor-”（工作），联想“精心制作出来”。
+
+---
+
+## 9. **aesthetic**  
+- **音标**：/esˈθetɪk/  
+- **词性**：adj./n.  
+- **释义**：审美的；美学的；美感  
+- **例句**：  
+  *The design focuses on both functionality and aesthetic appeal.*  
+  该设计兼顾功能性和美感。  
+- **记忆技巧**：词根“aesthet-”（感觉），联想“对美的感知”。
+
+---
+
+## 10. **skeptical**  
+- **音标**：/ˈskeptɪkl/  
+- **词性**：adj.  
+- **释义**：怀疑的；多疑的  
+- **例句**：  
+  *Many scientists remain skeptical about the theory.*  
+  许多科学家对该理论仍持怀疑态度。  
+- **记忆技巧**：词根“skept-”（考虑、思考），联想“反复思考”。
+
+---
+
+## 11. **vulnerable**  
+- **音标**：/ˈvʌlnərəbl/  
+- **词性**：adj.  
+- **释义**：脆弱的；易受伤的；易受攻击的  
+- **例句**：  
+  *Children are particularly vulnerable to air pollution.*  
+  儿童尤其容易受到空气污染的影响。  
+- **记忆技巧**：词根“vuln-”（伤），联想“容易受伤的”。
+
+---
+
+## 12. **coherent**  
+- **音标**：/koʊˈhɪrənt/  
+- **词性**：adj.  
+- **释义**：连贯的；一致的；有条理的  
+- **例句**：  
+  *Please present your ideas in a coherent manner.*  
+  请以连贯的方式陈述你的想法。  
+- **记忆技巧**：词根“co-”（共同）+ “her-”（粘），联想“粘在一起形成整体”。
+
+---
+
+## 13. **feasible**  
+- **音标**：/ˈfiːzəbl/  
+- **词性**：adj.  
+- **释义**：可行的；可能的  
+- **例句**：  
+  *The plan sounds feasible, but we need to check the budget.*  
+  这个计划听起来可行，但我们需要核对预算。  
+- **记忆技巧**：词根“feas-”（做），联想“可以做到的”。
+
+---
+
+## 14. **ambiguous**  
+- **音标**：/æmˈbɪɡjuəs/  
+- **词性**：adj.  
+- **释义**：模棱两可的；含糊不清的  
+- **例句**：  
+  *The instructions were ambiguous and led to confusion.*  
+  说明书含糊不清，导致了混淆。  
+- **记忆技巧**：词根“ambi-”（两边），联想“两边都说得通”。
+
+---
+
+## 15. **lucrative**  
+- **音标**：/ˈluːkrətɪv/  
+- **词性**：adj.  
+- **释义**：获利丰厚的；赚钱的  
+- **例句**：  
+  *He switched to a more lucrative career in finance.*  
+  他转向了更赚钱的金融行业。  
+- **记忆技巧**：词根“lucr-”（钱），联想“带来钱财的”。
+
+---
+
+## 📝 学习小贴士  
+- **复习方法**：每天回顾前几天的词汇，强化记忆。  
+- **应用练习**：尝试用每个词造句或写短段落。  
+- **记忆巩固**：使用词根词缀分析法，举一反三。  
+
+坚持就是胜利，祝你备考顺利！ 🌟
