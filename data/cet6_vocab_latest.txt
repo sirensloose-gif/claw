@@ -1,175 +1,100 @@
-# 六级词汇学习 · 第46天
+# 六级高频词汇学习 - 第47天
+
+## 1. phenomenon
+- **音标**：/fəˈnɑːmɪnɑːn/
+- **词性**：名词 (n.)
+- **中文释义**：现象；非凡的人或事物
+- **例句**：The Northern Lights are a spectacular natural **phenomenon** that attracts many tourists.
+  北极光是一种壮观的自然**现象**，吸引了许多游客。
+- **记忆技巧**：词根 `pheno-`（显现）+ `menon`（后缀）→ 显现出来的事物 → 现象。联想：“粉丝”（fensi）们的狂热也是一种“现象”。
+
+## 2. diminish
+- **音标**：/dɪˈmɪnɪʃ/
+- **词性**：动词 (v.)
+- **中文释义**：（使）减少，减小；贬低
+- **例句**：Nothing could **diminish** her enthusiasm for the project.
+  没有什么能**减少**她对这个项目的热情。
+- **记忆技巧**：`di-`（离开）+ `minish`（减少，来自mini）→ 不断变小 → 减少、削弱。
+
+## 3. plausible
+- **音标**：/ˈplɔːzəbl/
+- **词性**：形容词 (adj.)
+- **中文释义**：似乎有道理的，可信的
+- **例句**：His explanation for being late seemed **plausible**, so I didn’t question it further.
+  他对迟到的解释似乎**很合理**，所以我没有再追问。
+- **记忆技巧**：词根 `plaus-`（鼓掌，同applaud）+ `-ible`（能够…的）→ 能够赢得掌声的 → 令人信服的。
+
+## 4. resilient
+- **音标**：/rɪˈzɪliənt/
+- **词性**：形容词 (adj.)
+- **中文释义**：有弹性的；能迅速恢复的，适应力强的
+- **例句**：Children are often more emotionally **resilient** than adults realize.
+  孩子们在情感上往往比成年人所意识到的更具**恢复力**。
+- **记忆技巧**：`re-`（回）+ `sili-`（跳跃，同spring）+ `-ent`（形容词后缀）→ 能弹回原状的 → 有弹性的，坚韧的。
+
+## 5. discrepancy
+- **音标**：/dɪˈskrepənsi/
+- **词性**：名词 (n.)
+- **中文释义**：不符，差异，矛盾
+- **例句**：There is a significant **discrepancy** between the budget report and the actual expenses.
+  预算报告和实际开支之间存在很大的**差异**。
+- **记忆技巧**：`dis-`（分开）+ `crep-`（发出格格声，同creak）+ `-ancy`（名词后缀）→ 发出不和谐的声音 → 不一致，有差距。
+
+## 6. contemplate
+- **音标**：/ˈkɑːntəmpleɪt/
+- **词性**：动词 (v.)
+- **中文释义**：深思，考虑；凝视；打算
+- **例句**：She sat by the window, **contemplating** the meaning of life.
+  她坐在窗边，**沉思**着生命的意义。
+- **记忆技巧**：`con-`（一起）+ `temp-`（看，同temple寺庙）+ `-ate` → 一起凝视（神像） → 深思，沉思。
+
+## 7. abrupt
+- **音标**：/əˈbrʌpt/
+- **词性**：形容词 (adj.)
+- **中文释义**：突然的，意外的；（言语、行为）唐突的
+- **例句**：His **abrupt** departure from the meeting left everyone confused.
+  他从会议上**突然**离开，让所有人都感到困惑。
+- **记忆技巧**：`ab-`（离开）+ `rupt`（打破）→ 打破常规地离开 → 突然的，唐突的。
+
+## 8. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：形容词 (adj.)
+- **中文释义**：务实的，注重实效的
+- **例句**：We need a more **pragmatic** approach to solve this practical problem.
+  我们需要更**务实**的方法来解决这个实际问题。
+- **记忆技巧**：`pragm-`（实践，行动）+ `-atic`（形容词后缀）→ 注重行动和实践的 → 务实的。
+
+## 9. elaborate
+- **音标**：/ɪˈlæbərət/
+- **词性**：动词 (v.) / 形容词 (adj.)
+- **中文释义**：(v.) 详细阐述，精心制作；(adj.) 复杂的，精心的
+- **例句**：Could you **elaborate** on your proposal? The details seem a bit **elaborate**.
+  你能**详细阐述**一下你的提案吗？这些细节似乎有些**复杂**。
+- **记忆技巧**：`e-`（出）+ `labor-`（劳动）+ `-ate` → 付出大量劳动做出来的 → 精心制作的，详细阐述的。
+
+## 10. aggregate
+- **音标**：/ˈæɡrɪɡət/
+- **词性**：名词 (n.) / 形容词 (adj.) / 动词 (v.)
+- **中文释义**：总计，合计；总量的；（使）聚集，合计
+- **例句**：In the **aggregate**, the benefits outweigh the costs.
+  **总体来看**，利大于弊。
+- **记忆技巧**：`ag-`（向）+ `greg-`（群，同group）+ `-ate` → 聚拢成群 → 总计，聚集。
+
+## 11. controversial
+- **音标**：/ˌkɑːntrəˈvɜːrʃl/
+- **词性**：形容词 (adj.)
+- **中文释义**：引起争论的，有争议的
+- **例句**：The politician’s views on immigration are highly **controversial**.
+  这位政治家关于移民的观点极具**争议性**。
+- **记忆技巧**：`contra-`（相反）+ `vers-`（转）+ `-ial`（形容词后缀）→ 转向相反方向的 → 引发对立观点的 → 有争议的。
+
+## 12. subsequent
+- **音标**：/ˈsʌbsɪkwənt/
+- **词性**：形容词 (adj.)
+- **中文释义**：随后的，后来的
+- **例句**：The initial investment paid off in **subsequent** years.
+  初始投资在**随后的**几年里得到了回报。
+- **记忆技巧**：`sub-`（在…下面）+ `sequ-`（跟随，同sequence）+ `-ent` → 在下面跟着的 → 随后的。
 
 ---
-
-### 1. **profound**
-- **音标**：/prəˈfaʊnd/  
-- **词性**：形容词  
-- **中文释义**：深刻的；意义深远的；知识渊博的  
-- **例句**：  
-  *His research has had a profound impact on modern medicine.*  
-  他的研究对现代医学产生了深远影响。  
-- **记忆技巧**：词根 **pro-**（向前）+ **found**（建立），可联想“在基础之上更深入地建立”，引申为“深刻的”。
-
----
-
-### 2. **elaborate**
-- **音标**：/ɪˈlæbərət/（形容词）；/ɪˈlæbəreɪt/（动词）  
-- **词性**：形容词 / 动词  
-- **中文释义**：精心制作的；详细阐述  
-- **例句**：  
-  *She asked me to elaborate on my research plan.*  
-  她要求我详细阐述我的研究计划。  
-- **记忆技巧**：词根 **e-**（出）+ **labor**（劳动）+ **-ate**，可理解为“通过劳动做出来的”，引申为“精心制作的”。
-
----
-
-### 3. **controversial**
-- **音标**：/ˌkɑːntrəˈvɜːrʃl/  
-- **词性**：形容词  
-- **中文释义**：有争议的；引发争论的  
-- **例句**：  
-  *The controversial policy sparked widespread debate.*  
-  这项有争议的政策引发了广泛讨论。  
-- **记忆技巧**：词根 **contra-**（相反）+ **vers**（转）+ **-ial**，字面意思是“转向相反方向的”，引申为“有争议的”。
-
----
-
-### 4. **prerequisite**
-- **音标**：/priːˈrekwəzɪt/  
-- **词性**：名词  
-- **中文释义**：先决条件；前提  
-- **例句**：  
-  *Good health is a prerequisite for success in any field.*  
-  良好的健康是在任何领域取得成功的前提。  
-- **记忆技巧**：前缀 **pre-**（预先）+ **requisite**（必需品），即“预先需要的东西”。
-
----
-
-### 5. **manipulate**
-- **音标**：/məˈnɪpjəleɪt/  
-- **词性**：动词  
-- **中文释义**：操纵；操控；巧妙处理  
-- **例句**：  
-  *Politicians sometimes manipulate public opinion.*  
-  政客有时会操纵公众舆论。  
-- **记忆技巧**：词根 **mani-**（手）+ **pul-**（充满）+ **-ate**，字面意思是“用手填满”，引申为“巧妙操控”。
-
----
-
-### 6. **resilient**
-- **音标**：/rɪˈzɪliənt/  
-- **词性**：形容词  
-- **中文释义**：有弹性的；适应力强的；能迅速恢复的  
-- **例句**：  
-  *Children are often more resilient than adults in facing setbacks.*  
-  孩子们在面对挫折时往往比成年人更具韧性。  
-- **记忆技巧**：词根 **re-**（回）+ **sili**（跳）+ **-ent**，可联想“跳回原状”，引申为“恢复力强的”。
-
----
-
-### 7. **ambiguous**
-- **音标**：/æmˈbɪɡjuəs/  
-- **词性**：形容词  
-- **中文释义**：模棱两可的；含糊不清的  
-- **例句**：  
-  *The instructions were so ambiguous that no one understood them.*  
-  这些说明如此含糊，以至于没人能理解。  
-- **记忆技巧**：词根 **ambi-**（两边）+ **gu**（驱动）+ **-ous**，字面意思是“驱动向两边的”，引申为“模棱两可的”。
-
----
-
-### 8. **deliberately**
-- **音标**：/dɪˈlɪbərətli/  
-- **词性**：副词  
-- **中文释义**：故意地；深思熟虑地  
-- **例句**：  
-  *He deliberately ignored my question during the meeting.*  
-  他在会议上故意无视了我的问题。  
-- **记忆技巧**：来自动词 **deliberate**（仔细考虑），加上 **-ly** 构成副词，强调“经过深思熟虑后的故意行为”。
-
----
-
-### 9. **curiosity**
-- **音标**：/ˌkjʊriˈɑːsəti/  
-- **词性**：名词  
-- **中文释义**：好奇心；求知欲  
-- **例句**：  
-  *Scientific progress often begins with a sense of curiosity.*  
-  科学进步往往始于好奇心。  
-- **记忆技巧**：来自形容词 **curious**（好奇的），加上名词后缀 **-ity**。
-
----
-
-### 10. **prosperity**
-- **音标**：/prɑːˈsperəti/  
-- **词性**：名词  
-- **中文释义**：繁荣；兴旺；成功  
-- **例句**：  
-  *The country enjoyed a period of economic prosperity.*  
-  这个国家经历了一段经济繁荣时期。  
-- **记忆技巧**：来自形容词 **prosperous**（繁荣的），加上名词后缀 **-ity**；也可联想词根 **pro-**（向前）+ **sper**（希望），即“向前看到希望”。
-
----
-
-### 11. **inevitable**
-- **音标**：/ɪnˈevɪtəbl/  
-- **词性**：形容词  
-- **中文释义**：不可避免的；必然的  
-- **例句**：  
-  *Change is an inevitable part of life.*  
-  变化是生活中不可避免的一部分。  
-- **记忆技巧**：前缀 **in-**（不）+ **evitable**（可避免的），合起来就是“不可避免的”。
-
----
-
-### 12. **vulnerable**
-- **音标**：/ˈvʌlnərəbl/  
-- **词性**：形容词  
-- **中文释义**：脆弱的；易受伤害的；易受攻击的  
-- **例句**：  
-  *Young children are particularly vulnerable to infections.*  
-  幼儿特别容易受到感染。  
-- **记忆技巧**：词根 **vulner-**（伤口）+ **-able**，可理解为“容易受伤的”。
-
----
-
-### 13. **scrutiny**
-- **音标**：/ˈskruːtəni/  
-- **词性**：名词  
-- **中文释义**：仔细检查；详细审查；监视  
-- **例句**：  
-  *The proposal came under intense scrutiny from the committee.*  
-  该提案受到了委员会的严格审查。  
-- **记忆技巧**：联想 **screw**（螺丝）+ **tiny**（微小的），像“用螺丝固定后放大检查”，引申为“仔细审查”。
-
----
-
-### 14. **commodity**
-- **音标**：/kəˈmɑːdəti/  
-- **词性**：名词  
-- **中文释义**：商品；日用品；有价值的东西  
-- **例句**：  
-  *Clean water is becoming a valuable commodity in many regions.*  
-  在许多地区，清洁水正成为一种宝贵的商品。  
-- **记忆技巧**：词根 **com-**（共同）+ **mod**（方式）+ **-ity**，可理解为“共同使用的标准物品”，引申为“商品”。
-
----
-
-### 15. **alleviate**
-- **音标**：/əˈliːvieɪt/  
-- **词性**：动词  
-- **中文释义**：减轻；缓解；缓和  
-- **例句**：  
-  *The medicine helped alleviate her pain.*  
-  这种药帮助缓解了她的疼痛。  
-- **记忆技巧**：前缀 **al-**（加强）+ **levi**（轻）+ **-ate**，字面意思是“使更轻”，引申为“减轻、缓解”。
-
----
-
-**学习建议**：  
-1. 每天坚持记忆并复习前一天的词汇；  
-2. 尝试用新学的词汇造句，加深理解；  
-3. 结合真题或阅读材料，观察词汇在语境中的使用。
-
-祝你学习顺利，六级高分通过！ 📚✨
+**今日学习小贴士**：试着用今天学到的2-3个词汇（如 `discrepancy`, `pragmatic`, `aggregate`）造一个与你学习或生活相关的句子，并大声朗读，加深记忆！
