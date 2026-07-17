@@ -1,194 +1,169 @@
-# 📚 六级高频词汇学习（第48天）
+# 六级高频词汇学习（第49天）
 
-**日期：** 2023年10月27日  
-**计划进度：** 48/60天  
-**目标：** 巩固高频词汇，提升阅读与写作表达能力
+坚持就是胜利！今天我们一起攻克这些高频词汇，让词汇量再上一个台阶！
 
 ---
 
-## 1. **ambiguous**
-- **音标：** /æmˈbɪɡjuəs/  
-- **词性：** adj.  
-- **释义：** 模棱两可的，含糊不清的  
-- **例句：**  
-  *The instructions were so ambiguous that no one understood how to assemble the device.*  
-  （说明书写得模棱两可，没人明白如何组装设备。）  
-- **记忆技巧：**  
-  前缀 *ambi-*（两边）+ *-guous*（形容词后缀）→ 两边都可能 → 模棱两可。
+### 1. comprehensive
+*   **音标**： /ˌkɑːmprɪˈhensɪv/
+*   **词性**：adj.
+*   **中文释义**：综合的，全面的；有理解力的
+*   **例句**：
+    *   *The government has promised to carry out a **comprehensive** review of the education system.*
+    *   *政府已承诺对教育体系进行全面审查。*
+*   **记忆技巧**：
+    *   **词根词缀**：`com-`（共同）+ `prehen-`（抓住）+ `-sive`（形容词后缀）→ 把所有东西都抓住 → 综合的、全面的。同根词：`comprehend` (理解)。
+
+### 2. undermine
+*   **音标**： /ˌʌndərˈmaɪn/
+*   **词性**：v.
+*   **中文释义**：逐渐削弱，暗中破坏
+*   **例句**：
+    *   *Constant criticism will **undermine** a child's self-confidence.*
+    *   *持续的批评会逐渐削弱孩子的自信心。*
+*   **记忆技巧**：
+    *   **联想记忆**：`under`（在下面）+ `mine`（采矿）→ 在下面挖矿，把地基挖空 → 暗中破坏，削弱。
+
+### 3. prosperous
+*   **音标**： /ˈprɑːspərəs/
+*   **词性**：adj.
+*   **中文释义**：繁荣的，兴旺的
+*   **例句**：
+    *   *The town became **prosperous** thanks to the booming tourism industry.*
+    *   *这个小镇因蓬勃发展的旅游业而变得繁荣。*
+*   **记忆技巧**：
+    *   **词根词缀**：`prosper`（繁荣）+ `-ous`（形容词后缀）→ 繁荣的。核心词 `prosper` 可联想：`pro`（向前）+ `sper`（希望）→ 抱有希望向前 → 繁荣。
+
+### 4. dilemma
+*   **音标**： /dɪˈlemə/
+*   **词性**：n.
+*   **中文释义**：(进退两难的)困境，窘境
+*   **例句**：
+    *   *She faced the **dilemma** of whether to prioritize her career or her family.*
+    *   *她面临着优先考虑事业还是家庭的两难选择。*
+*   **记忆技巧**：
+    *   **联想记忆**：发音类似“地来吗？” → 地震来了吗？跑还是不跑？→ 两难困境。
+
+### 5. fluctuate
+*   **音标**： /ˈflʌktʃueɪt/
+*   **词性**：v.
+*   **中文释义**：波动，涨落，起伏不定
+*   **例句**：
+    *   *The exchange rate **fluctuates** daily based on market conditions.*
+    *   *汇率每天根据市场情况波动。*
+*   **记忆技巧**：
+    *   **词根词缀**：`flu-`（流动）→ 像水一样流动 → 波动。同根词：`fluent` (流利的)，`fluid` (流体)。
+
+### 6. controversy
+*   **音标**： /ˈkɑːntrəvɜːrsi/
+*   **词性**：n.
+*   **中文释义**：争论，争议
+*   **例句**：
+    *   *The new policy has sparked a great deal of **controversy**.*
+    *   *新政策引发了大量的争议。*
+*   **记忆技巧**：
+    *   **词根词缀**：`contra-`（反对）+ `vers-`（转）+ `-y`（名词后缀）→ 转向反对的立场 → 争论。
+
+### 7. ambiguous
+*   **音标**： /æmˈbɪɡjuəs/
+*   **词性**：adj.
+*   **中文释义**：模棱两可的，含糊不清的
+*   **例句**：
+    *   *The instructions were so **ambiguous** that nobody understood them.*
+    *   *说明如此含糊不清，以至于没人能看懂。*
+*   **记忆技巧**：
+    *   **词根词缀**：`ambi-`（两者，周围）+ `-guous`（形容词后缀）→ 两边都靠，两边都不靠 → 模棱两可的。
+
+### 8. simulate
+*   **音标**： /ˈsɪmjuleɪt/
+*   **词性**：v.
+*   **中文释义**：模拟，模仿；假装
+*   **例句**：
+    *   *The software can **simulate** the effects of climate change on agriculture.*
+    *   *该软件可以模拟气候变化对农业的影响。*
+*   **记忆技巧**：
+    *   **词根词缀**：`simul-`（相同，类似）+ `-ate`（动词后缀）→ 使相似 → 模拟。同根词：`simultaneous` (同时的)。
+
+### 9. deteriorate
+*   **音标**： /dɪˈtɪriəreɪt/
+*   **词性**：v.
+*   **中文释义**：恶化，变坏
+*   **例句**：
+    *   *His health began to **deteriorate** rapidly after the diagnosis.*
+    *   *确诊后，他的健康状况开始迅速恶化。*
+*   **记忆技巧**：
+    *   **词根词缀**：`de-`（向下）+ `terior`（更坏）+ `-ate`（动词后缀）→ 变得更坏 → 恶化。
+
+### 10. elaborate
+*   **音标**： /ɪˈlæbərət/
+*   **词性**：adj. / v.
+*   **中文释义**：
+    *   adj. 精心制作的；复杂的
+    *   v. 详细阐述
+*   **例句**：
+    *   *Could you **elaborate** on your proposal?*
+    *   *你能详细阐述一下你的提案吗？*
+*   **记忆技巧**：
+    *   **词根词缀**：`e-`（出）+ `labor`（劳动）+ `-ate` → 投入大量劳动做出来的 → 精心制作的；详细阐述。
+
+### 11. feasible
+*   **音标**： /ˈfiːzəbl/
+*   **词性**：adj.
+*   **中文释义**：可行的，可能的
+*   **例句**：
+    *   *We need to determine whether this plan is **feasible** within our budget.*
+    *   *我们需要确定这个计划在我们的预算内是否可行。*
+*   **记忆技巧**：
+    *   **词根词缀**：`feas-`（做，同 `fac`）+ `-ible`（能够…的）→ 能够做成的 → 可行的。同根词：`manufacture` (制造)。
+
+### 12. predominantly
+*   **音标**： /prɪˈdɑːmɪnəntli/
+*   **词性**：adv.
+*   **中文释义**：主要地，显著地
+*   **例句**：
+    *   *The population in this area is **predominantly** elderly.*
+    *   *这个地区的人口以老年人为主。*
+*   **记忆技巧**：
+    *   **词根词缀**：`pre-`（前）+ `domin-`（统治）+ `-ant` + `-ly` → 在前面统治的 → 主要地。核心词：`dominate` (支配)。
+
+### 13. consensus
+*   **音标**： /kənˈsensəs/
+*   **词性**：n.
+*   **中文释义**：共识，一致意见
+*   **例句**：
+    *   *The committee finally reached a **consensus** on the new budget.*
+    *   *委员会最终就新预算达成了一致。*
+*   **记忆技巧**：
+    *   **词根词缀**：`con-`（共同）+ `sens-`（感觉）+ `-us` → 共同的感觉 → 共识。
+
+### 14. vicinity
+*   **音标**： /vɪˈsɪnəti/
+*   **词性**：n.
+*   **中文释义**：附近，邻近地区
+*   **例句**：
+    *   *There are several good restaurants in the **vicinity** of the hotel.*
+    *   *酒店附近有几家不错的餐馆。*
+*   **记忆技巧**：
+    *   **联想记忆**：发音类似 “维森纳提” → 想象一个叫“维森”的人在提着东西在附近走动。
+
+### 15. susceptible
+*   **音标**： /səˈseptəbl/
+*   **词性**：adj.
+*   **中文释义**：易受影响的；易感的
+*   **例句**：
+    *   *Young children are particularly **susceptible** to respiratory infections.*
+    *   *幼儿特别容易受到呼吸道感染。*
+*   **记忆技巧**：
+    *   **词根词缀**：`sus-`（下，同 `sub-`）+ `cept-`（拿，抓）+ `-ible`（能…的）→ 能被从下面抓住的 → 容易被影响、抓住的 → 易受影响的。
 
 ---
 
-## 2. **coherent**
-- **音标：** /koʊˈhɪrənt/  
-- **词性：** adj.  
-- **释义：** 连贯的，有条理的  
-- **例句：**  
-  *Despite the chaos, she managed to deliver a coherent argument during the debate.*  
-  （尽管场面混乱，她在辩论中仍提出了一个连贯的论点。）  
-- **记忆技巧：**  
-  词根 *co-*（共同）+ *-herent*（粘附）→ 各部分粘合在一起 → 连贯的。
+**今日学习小结**：
+今天的词汇涵盖了**形容词**（comprehensive, prosperous, ambiguous, elaborate, feasible, susceptible）、**动词**（undermine, fluctuate, simulate, deteriorate, elaborate）、**名词**（dilemma, controversy, consensus, vicinity）和**副词**（predominantly）。注意 `elaborate` 既可作形容词也可作动词哦！
 
----
+**记忆小贴士**：
+1.  **词根记忆法**是攻克六级长难词的利器，今天词汇中的 `com-`, `contra-`, `ambi-`, `sus-` 等前缀非常常见。
+2.  结合例句理解词汇的用法和语境，记忆会更深刻。
+3.  尝试用今天学到的任意3个词造一个句子或写一段话。
 
-## 3. **conspicuous**
-- **音标：** /kənˈspɪkjuəs/  
-- **词性：** adj.  
-- **释义：** 显眼的，引人注目的  
-- **例句：**  
-  *The bright red car was conspicuous among the parked vehicles.*  
-  （那辆鲜红色的汽车在停放的车辆中很显眼。）  
-- **记忆技巧：**  
-  前缀 *con-*（加强）+ *-spicuous*（看）→ 非常容易被看到 → 显眼的。
-
----
-
-## 4. **elaborate**
-- **音标：** /ɪˈlæbərət/  
-- **词性：** adj. / v.  
-- **释义：** 精心制作的；详细阐述  
-- **例句：**  
-  *She planned an elaborate surprise party for her friend’s birthday.*  
-  （她为朋友的生日精心策划了一场惊喜派对。）  
-- **记忆技巧：**  
-  词根 *e-*（出）+ *-laborate*（工作）→ 花费大量精力完成 → 精心制作的。
-
----
-
-## 5. **grievance**
-- **音标：** /ˈɡriːvəns/  
-- **词性：** n.  
-- **释义：** 不满，委屈，抱怨  
-- **例句：**  
-  *Employees submitted formal grievances regarding the new workplace policies.*  
-  （员工就新工作场所政策提交了正式投诉。）  
-- **记忆技巧：**  
-  词根 *griev-*（沉重，痛苦）+ *-ance*（名词后缀）→ 感到痛苦的事 → 不满。
-
----
-
-## 6. **hypothetical**
-- **音标：** /ˌhaɪpəˈθetɪkl/  
-- **词性：** adj.  
-- **释义：** 假设的，假想的  
-- **例句：**  
-  *We discussed a hypothetical scenario where the company faced bankruptcy.*  
-  （我们讨论了一个假设公司破产的情景。）  
-- **记忆技巧：**  
-  词根 *hypo-*（下）+ *-thetical*（论点）→ 在下方的论点 → 假设的。
-
----
-
-## 7. **integrate**
-- **音标：** /ˈɪntɪɡreɪt/  
-- **词性：** v.  
-- **释义：** 整合，使融入  
-- **例句：**  
-  *The school aims to integrate technology into all aspects of the curriculum.*  
-  （学校致力于将技术融入课程的各个方面。）  
-- **记忆技巧：**  
-  词根 *integr-*（整体）+ *-ate*（动词后缀）→ 使成为整体 → 整合。
-
----
-
-## 8. **meticulous**
-- **音标：** /məˈtɪkjələs/  
-- **词性：** adj.  
-- **释义：** 一丝不苟的，细致的  
-- **例句：**  
-  *He is meticulous about organizing his notes before exams.*  
-  （他在考前整理笔记时非常细致。）  
-- **记忆技巧：**  
-  联想 *meticulous* 发音像“每题都扣死”，即每道题都仔细检查 → 一丝不苟。
-
----
-
-## 9. **notorious**
-- **音标：** /noʊˈtɔːriəs/  
-- **词性：** adj.  
-- **释义：** 臭名昭著的，声名狼藉的  
-- **例句：**  
-  *The area is notorious for heavy traffic during rush hours.*  
-  （该地区因高峰时段交通拥堵而臭名昭著。）  
-- **记忆技巧：**  
-  词根 *not-*（知道）+ *-orious*（形容词后缀）→ 被很多人知道（负面）→ 臭名昭著。
-
----
-
-## 10. **perpetuate**
-- **音标：** /pərˈpetʃueɪt/  
-- **词性：** v.  
-- **释义：** 使永久化，持续  
-- **例句：**  
-  *Social media can perpetuate stereotypes if not used mindfully.*  
-  （如果不加注意，社交媒体可能会使刻板印象永久化。）  
-- **记忆技巧：**  
-  词根 *per-*（通过）+ *-petuate*（追寻）→ 持续追寻 → 使永久化。
-
----
-
-## 11. **pragmatic**
-- **音标：** /præɡˈmætɪk/  
-- **词性：** adj.  
-- **释义：** 务实的，注重实效的  
-- **例句：**  
-  *We need a pragmatic approach to solve this complex problem.*  
-  （我们需要一个务实的方法来解决这个复杂问题。）  
-- **记忆技巧：**  
-  词根 *pragmat-*（实践）+ *-ic*（形容词后缀）→ 注重实践 → 务实的。
-
----
-
-## 12. **relinquish**
-- **音标：** /rɪˈlɪŋkwɪʃ/  
-- **词性：** v.  
-- **释义：** 放弃，交出  
-- **例句：**  
-  *He was forced to relinquish control of the company after the scandal.*  
-  （丑闻发生后，他被迫交出公司的控制权。）  
-- **记忆技巧：**  
-  词根 *re-*（向后）+ *-linquish*（离开）→ 向后离开 → 放弃。
-
----
-
-## 13. **scrutiny**
-- **音标：** /ˈskruːtəni/  
-- **词性：** n.  
-- **释义：** 仔细检查，审查  
-- **例句：**  
-  *The politician’s actions came under intense public scrutiny.*  
-  （这位政治家的行为受到了公众的严格审查。）  
-- **记忆技巧：**  
-  联想 *scrut-*（看）+ *-iny*（名词后缀）→ 仔细看 → 审查。
-
----
-
-## 14. **substantive**
-- **音标：** /ˈsʌbstəntɪv/  
-- **词性：** adj.  
-- **释义：** 实质性的，重要的  
-- **例句：**  
-  *The negotiations led to substantive changes in the policy.*  
-  （谈判带来了政策上的实质性变化。）  
-- **记忆技巧：**  
-  词根 *substant-*（实质）+ *-ive*（形容词后缀）→ 有实质内容的 → 实质性的。
-
----
-
-## 15. **volatile**
-- **音标：** /ˈvɑːlətl/  
-- **词性：** adj.  
-- **释义：** 不稳定的，易变的  
-- **例句：**  
-  *The stock market has been highly volatile in recent weeks.*  
-  （近几周股市一直极不稳定。）  
-- **记忆技巧：**  
-  词根 *volat-*（飞）+ *-ile*（形容词后缀）→ 像飞一样快变化 → 不稳定的。
-
----
-
-**💡 学习建议：**  
-- 尝试用每个词汇造一个贴近生活的句子。  
-- 结合阅读练习，如六级真题文章，观察词汇在上下文中的用法。  
-- 定期复习，利用艾宾浩斯遗忘曲线巩固记忆。
-
-坚持就是胜利，今天的努力是明天的收获！加油！ 🌟
+继续加油，第49天的你非常棒！每天进步一点点！
