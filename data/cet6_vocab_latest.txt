@@ -1,161 +1,184 @@
-# 今日六级高频词汇学习 (第50天)
+# 📚 六级高频词汇学习 (第51天)
 
-祝贺你坚持到第50天！今天的词汇包含一些实用且高级的表达，继续加油！
-
----
-
-### **1. skeptical**
-- **音标**： `/ˈskeptɪkl/`
-- **词性**： *adj.* 怀疑的，多疑的
-- **中文释义**： 对某事的真实性、有效性或某人的诚信持怀疑态度的。
-- **例句**：
-    - He remains **skeptical** about the new project's chances of success.
-      (他对新项目的成功可能性仍持怀疑态度。)
-- **记忆技巧**： 词根 **skept-/scept-** 意为“观察、思考”，引申为“怀疑”。可以联想一个侦探在仔细“观察”线索时那种**怀疑一切**的眼神。
+今天为你准备了12个精选六级高频词汇，包含不同词性，助你高效备考！每个词汇都附有记忆技巧，帮助你牢固掌握。
 
 ---
 
-### **2. pragmatic**
-- **音标**： `/præɡˈmætɪk/`
-- **词性**： *adj.* 务实的，注重实效的
-- **中文释义**： 关注实际效果而非理论或理想的。
-- **例句**：
-    - We need a **pragmatic** approach to solve this complex issue.
-      (我们需要一种务实的方法来解决这个复杂问题。)
-- **记忆技巧**： 词根 **pragmat-** 意为“行动、实践”。一个**务实的(pragmatic)**人，就是注重“实践”和“行动”的人。
+### 1. Rhetoric
+**音标**: /ˈretərɪk/  
+**词性**: n.  
+**释义**:  
+1. 修辞学，修辞技巧  
+2. 华丽的言辞，花言巧语  
+
+**例句**:  
+- The politician's speech was full of empty **rhetoric** but lacked real substance.  
+  那位政客的演讲充满了空洞的**言辞**，但缺乏实质内容。  
+
+**记忆技巧**:  
+词根 **rhetor-** (演说家) + **-ic** (名词后缀)，最初指演说的艺术。
 
 ---
 
-### **3. ubiquitous**
-- **音标**： `/juːˈbɪkwɪtəs/`
-- **词性**： *adj.* 无所不在的，普遍存在的
-- **中文释义**： 似乎在每个地方都存在；非常常见的。
-- **例句**：
-    - Smartphones have become **ubiquitous** in modern society.
-      (智能手机在现代社会已经变得无处不在。)
-- **记忆技巧**： 词根 **ubiquit-** 源于拉丁语“无论何处”。想象一下Wi-Fi信号，它**无处不在(ubiquitous)**。
+### 2. Deter
+**音标**: /dɪˈtɜːr/  
+**词性**: v.  
+**释义**:  
+1. 威慑，吓住  
+2. 阻止，防止  
+
+**例句**:  
+- High security measures are intended to **deter** potential criminals.  
+  高级别的安保措施旨在**威慑**潜在的犯罪分子。  
+
+**记忆技巧**:  
+词根 **de-** (离开) + **ter** (源自拉丁语 *terrēre*，使恐惧)，即“使恐惧而离开” → 阻止。
 
 ---
 
-### **4. meticulous**
-- **音标**： `/məˈtɪkjələs/`
-- **词性**： *adj.* 一丝不苟的，非常细致的
-- **中文释义**： 对细节非常注意；极其精确和细致的。
-- **例句**：
-    - The scientist conducted the experiment with **meticulous** care.
-      (这位科学家以一丝不苟的细心进行了实验。)
-- **记忆技巧**： 可以拆分为 **meti（像“meters”米）+ culous（像“careless”反义）**。一个用“米尺”来测量，一点也不“粗心”的人，就是**一丝不苟的**。
+### 3. Feasible
+**音标**: /ˈfiːzəbl/  
+**词性**: adj.  
+**释义**: 可行的，可能的  
+
+**例句**:  
+- Before launching the project, we need to determine if it is **feasible**.  
+  在启动项目之前，我们需要确定它是否**可行**。  
+
+**记忆技巧**:  
+词根 **feas-** (做，与 *fact* 同源) + **-ible** (能够…的)，即“能够做成的” → 可行的。
 
 ---
 
-### **5. exacerbate**
-- **音标**： `/ɪɡˈzæsərbeɪt/`
-- **词性**： *v.* 使加剧，使恶化
-- **中文释义**： 使（问题、不愉快的情况等）变得更严重。
-- **例句**：
-    - Heavy rainfall will **exacerbate** the flood situation in the region.
-      (强降雨将加剧该地区的洪水情况。)
-- **记忆技巧**： 词根 **ex-（向外）+ acerb-（尖锐、苦涩）**。把事情“向外”变得更“苦涩”或更“尖锐”，即**使情况恶化**。
+### 4. Pervasive
+**音标**: /pərˈveɪsɪv/  
+**词性**: adj.  
+**释义**: 普遍的，弥漫的，遍布的  
+
+**例句**:  
+- The **pervasive** influence of social media has changed how we communicate.  
+  社交媒体**无处不在的**影响力改变了我们的交流方式。  
+
+**记忆技巧**:  
+词根 **per-** (完全地) + **vas-** (走，与 *wade* 同源) + **-ive** (形容词后缀)，即“完全走过/渗透的” → 普遍的。
 
 ---
 
-### **6. volatile**
-- **音标**： `/ˈvɑːlətl/`
-- **词性**： *adj.* 不稳定的，易变的；易挥发的
-- **中文释义**： 1. （指人）情绪或行为易变的；2. （指情况）可能突然而剧烈变化的。
-- **例句**：
-    - The stock market has been highly **volatile** recently.
-      (最近股市非常不稳定。)
-- **记忆技巧**： 词根 **volat-** 意为“飞”。像鸟儿一样容易“飞走”、抓不住的东西，就是**不稳定的**。
+### 5. Prevalent
+**音标**: /ˈprevələnt/  
+**词性**: adj.  
+**释义**: 盛行的，普遍的  
+
+**例句**:  
+- Obesity has become increasingly **prevalent** among teenagers in recent years.  
+  近年来，肥胖在青少年中变得越来越**普遍**。  
+
+**记忆技巧**:  
+词根 **pre-** (在…之前) + **val-** (强，与 *value* 同源) + **-ent** (形容词后缀)，即“力量在前的、占优势的” → 流行的。
 
 ---
 
-### **7. impervious**
-- **音标**： `/ɪmˈpɜːrviəs/`
-- **词性**： *adj.* 不受影响的；不能渗透的
-- **中文释义**： 1. （对批评、影响等）无动于衷的，不受影响的；2. （材料）防水的。
-- **例句**：
-    - He seemed **impervious** to criticism from others.
-      (他似乎对别人的批评无动于衷。)
-- **记忆技巧**： 前缀 **im-（不）+ pervious（渗透的、受影响的）**。字面意思就是“不渗透的”，引申为“不受影响的”。
+### 6. Inevitable
+**音标**: /ɪnˈevɪtəbl/  
+**词性**: adj.  
+**释义**: 不可避免的，必然的  
+
+**例句**:  
+- Technological progress brings with it **inevitable** ethical challenges.  
+  技术进步带来了**不可避免的**伦理挑战。  
+
+**记忆技巧**:  
+前缀 **in-** (不) + **evitable** (可避免的，来自拉丁语 *ēvitāre*)，即“不可避免的”。
 
 ---
 
-### **8. coerce**
-- **音标**： `/koʊˈɜːrs/`
-- **词性**： *v.* 强迫，胁迫
-- **中文释义**： 用武力或威胁强迫某人做某事。
-- **例句**：
-    - The gang tried to **coerce** the shopkeeper into paying protection money.
-      (那帮匪徒试图胁迫店主交保护费。)
-- **记忆技巧**： 联想 **co-（一起）+ force（力量）**。用“共同的力量”或“武力”去逼迫别人，即**强迫**。
+### 7. Lucrative
+**音标**: /ˈluːkrətɪv/  
+**词性**: adj.  
+**释义**: 获利丰厚的，赚钱的  
+
+**例句**:  
+- She gave up a **lucrative** career in finance to pursue her dream of becoming an artist.  
+  她放弃了**收入丰厚的**金融职业生涯，去追求成为艺术家的梦想。  
+
+**记忆技巧**:  
+词根 **lucr-** (金钱，与 *lucre* 同源) + **-ative** (形容词后缀)，即“与金钱有关的” → 赚钱的。
 
 ---
 
-### **9. succinct**
-- **音标**： `/səkˈsɪŋkt/`
-- **词性**： *adj.* 简洁的，言简意赅的
-- **中文释义**： （表达）简明而抓住要点的。
-- **例句**：
-    - Could you give me a **succinct** summary of the report?
-      (你能给我一个关于这份报告的简洁总结吗？)
-- **记忆技巧**： 词根 **suc-（在下面）+ cinct-（束紧）**。把话在下面“束紧”，不说废话，就是**简洁的**。
+### 8. Reminisce
+**音标**: /ˌremɪˈnɪs/  
+**词性**: v.  
+**释义**: 追忆，回忆  
+
+**例句**:  
+- Over dinner, the old friends enjoyed **reminiscing** about their college days.  
+  共进晚餐时，老朋友们愉快地**回忆**着他们的大学时光。  
+
+**记忆技巧**:  
+词根 **re-** (再次) + **min-** (思考，与 *mind* 同源) + **-isce**，即“再次思考” → 追忆。
 
 ---
 
-### **10. prevalent**
-- **音标**： `/ˈprevələnt/`
-- **词性**： *adj.* 流行的，盛行的；普遍的
-- **中文释义**： 在某个特定时间或地点广泛存在的。
-- **例句**：
-    - Misinformation is **prevalent** on social media platforms.
-      (虚假信息在社交媒体平台上很普遍。)
-- **记忆技巧**： 词根 **preval-** 意为“占优势，战胜”。一个东西“占优势”到到处都是，就是**盛行的、普遍的**。
+### 9. Scrutiny
+**音标**: /ˈskruːtəni/  
+**词性**: n.  
+**释义**: 仔细检查，详细审查，监督  
+
+**例句**:  
+- The report is subject to intense public **scrutiny**.  
+  这份报告受到公众的严格**审查**。  
+
+**记忆技巧**:  
+源自拉丁语 *scrūta* (破布，垃圾)，引申为“像翻垃圾一样仔细翻找” → 详细审查。
 
 ---
 
-### **11. relinquish**
-- **音标**： `/rɪˈlɪŋkwɪʃ/`
-- **词性**： *v.* 放弃；交出
-- **中文释义**： 自愿放弃（权力、头衔、财产等）或交给别人。
-- **例句**：
-    - The CEO reluctantly **relinquished** control of the company.
-      (这位CEO不情愿地交出了公司的控制权。)
-- **记忆技巧**： 词根 **relinqu-** 意为“留下、放弃”。可以联想 **“relax”（放松）**，当你**放弃**某事时，也就**放松**了对它的执念。
+### 10. Exacerbate
+**音标**: /ɪɡˈzæsərbeɪt/  
+**词性**: v.  
+**释义**: 使加剧，使恶化  
+
+**例句**:  
+- The drought was **exacerbated** by record-high temperatures.  
+  干旱因创纪录的高温而**加剧**。  
+
+**记忆技巧**:  
+前缀 **ex-** (出) + **acerb-** (尖锐，苦涩，与 *acerbic* 同源) + **-ate**，即“变得更尖锐/苦涩” → 使恶化。
 
 ---
 
-### **12. audacious**
-- **音标**： `/ɔːˈdeɪʃəs/`
-- **词性**： *adj.* 大胆的，敢于冒险的
-- **中文释义**： 愿意冒险或做新奇事物的；大胆挑衅的。
-- **例句**：
-    - The team launched an **audacious** plan to explore the deep sea.
-      (该团队启动了一个大胆的计划来探索深海。)
-- **记忆技巧**： 词根 **aud-** 意为“大胆”。和 **“audacity”（胆量，厚颜无耻）** 同源。一个有 **audacity** 的人，行为就是 **audacious** 的。
+### 11. Prudent
+**音标**: /ˈpruːdnt/  
+**词性**: adj.  
+**释义**: 谨慎的，慎重的，精明的  
+
+**例句**:  
+- It would be **prudent** to save some money for unexpected expenses.  
+  为意外开销存些钱是**明智**的。  
+
+**记忆技巧**:  
+源自拉丁语 *prūdentem* (有远见的)，与 **provident** (有远见的) 同源，核心是“提前考虑”。
 
 ---
 
-### **13. inertia**
-- **音标**： `/ɪˈnɜːrʃə/`
-- **词性**： *n.* 惰性；惯性
-- **中文释义**： 1. （物理）物体保持其运动状态不变的性质；2. （比喻）缺乏活力或行动力；迟钝。
-- **例句**：
-    - The project failed due to bureaucratic **inertia**.
-      (由于官僚机构的惰性，这个项目失败了。)
-- **记忆技巧**： 直接来自物理学术语“惯性”。在日常生活中，形容一个人像物体一样有**惯性**，懒得改变现状，就是指他的**惰性**。
+### 12. Conspicuously
+**音标**: /kənˈspɪkjuəsli/  
+**词性**: adv.  
+**释义**: 显眼地，显著地  
+
+**例句**:  
+- He was **conspicuously** absent from the important meeting.  
+  他**明显地**缺席了那场重要会议。  
+
+**记忆技巧**:  
+词根 **con-** (加强) + **spic-** (看，与 *spectacle* 同源) + **-uously**，即“大家都看得见的” → 显眼地。
 
 ---
 
-### **14. conundrum**
-- **音标**： `/kəˈnʌndrəm/`
-- **词性**： *n.* 难题，复杂的问题
-- **中文释义**： 一个难以解决的、令人困惑的问题或困境。
-- **例句**：
-    - Balancing economic growth and environmental protection is a **conundrum** for many governments.
-      (平衡经济增长与环境保护对许多政府来说都是一个难题。)
-- **记忆技巧**： 这个词本身读起来就像一个谜语 **“可难倒他(s)”**，正好对应其 **“难题”** 的含义。
+**今日学习小结**：
+- **词性覆盖**：名词(rhetoric, scrutiny)，动词(deter, exacerbate, reminisce)，形容词(feasible, pervasive, prevalent, inevitable, lucrative, prudent)，副词(conspicuously)。
+- **记忆核心**：重点把握词根 **terrēre (恐惧)，feas (做)，val (强)，lucr (钱)，min (思考)** 等。
+- **复习建议**：大声朗读例句，并尝试用每个新词造一个自己的句子，能有效加深记忆。
 
----
-
-**学习小贴士**：尝试用今天学到的3个新词各造一个与自己生活相关的句子，并大声读出来，这能加深记忆！祝你学习愉快！
+祝你学习愉快，词汇量日日精进！ 🎯
