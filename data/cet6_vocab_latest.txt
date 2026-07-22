@@ -1,143 +1,157 @@
-# 📚 六级高频词汇 | 第53天
-**坚持就是胜利，每日积累，终将厚积薄发！**
+# 六级高频词汇 · 第54天
+
+## 1. ambiguous
+**音标**：[æmˈbɪɡjuəs]  
+**词性**：形容词  
+**释义**：模棱两可的；含糊不清的  
+**例句**：The instructions were so **ambiguous** that nobody understood what to do.  
+这些说明如此**含糊不清**，以至于没人明白该做什么。  
+**记忆技巧**：词根“ambi-”（两边）+ “guous”（与…相关）→ 两边都相关 → 不确定、模糊。
 
 ---
 
-### 1. **unprecedented**  
-**音标**：/ʌnˈpresɪdentɪd/  
-**词性**：adj.  
-**释义**：史无前例的；空前的  
-**例句**：  
-- The city faced an **unprecedented** challenge during the flood.  
-- 这座城市在洪水期间面临着**空前的**挑战。  
-**记忆技巧**：前缀 `un-`（表否定）+ `precedented`（有先例的）→ 没有先例的 → 史无前例的。
+## 2. profound
+**音标**：[prəˈfaʊnd]  
+**词性**：形容词  
+**释义**：深刻的；深奥的  
+**例句**：The book had a **profound** influence on his thinking.  
+这本书对他的思想产生了**深刻的**影响。  
+**记忆技巧**：词根“pro-”（向前）+ “found”（基础）→ 深入基础 → 深刻的。
 
 ---
 
-### 2. **scrutinize**  
-**音标**：/ˈskruːtənaɪz/  
-**词性**：v.  
-**释义**：仔细检查；细看  
-**例句**：  
-- The committee will **scrutinize** every detail of the proposal.  
-- 委员会将**仔细审查**提案的每一个细节。  
-**记忆技巧**：词根 `scrutin-`（检查）+ `-ize`（动词后缀）→ 检查行为 → 仔细查看。
+## 3. fluctuate
+**音标**：[ˈflʌktʃueɪt]  
+**词性**：动词  
+**释义**：波动；涨落  
+**例句**：The price of oil **fluctuates** according to supply and demand.  
+石油价格随供需**波动**。  
+**记忆技巧**：词根“flu-”（流动）→ 像水流一样变动 → 波动。
 
 ---
 
-### 3. **pragmatic**  
-**音标**：/præɡˈmætɪk/  
-**词性**：adj.  
-**释义**：务实的；注重实效的  
-**例句**：  
-- We need a **pragmatic** approach to solve this complex issue.  
-- 我们需要用**务实的**方法来解决这个复杂问题。  
-**记忆技巧**：来自希腊语 `pragmatikos`（行动的），联想“注重实际行动” → 务实的。
+## 4. resilient
+**音标**：[rɪˈzɪliənt]  
+**词性**：形容词  
+**释义**：有弹性的；适应力强的  
+**例句**：She showed great **resilience** in the face of adversity.  
+她在逆境中表现出极强的**适应力**。  
+**记忆技巧**：词根“re-”（回）+ “sili”（跳跃）+ “-ent” → 能跳回来 → 有弹性的、恢复力强的。
 
 ---
 
-### 4. **advocate**  
-**音标**：/ˈædvəkeɪt/  
-**词性**：v./n.  
-**释义**：提倡；拥护；拥护者  
-**例句**：  
-- She **advocates** for equal rights in the workplace.  
-- 她**倡导**工作场所的平等权利。  
-**记忆技巧**：词根 `advoc-`（呼吁）+ `-ate` → 发出呼吁 → 提倡。
+## 5. prerequisite
+**音标**：[priˈrekwɪzɪt]  
+**词性**：名词  
+**释义**：先决条件；前提  
+**例句**：Mathematics is a **prerequisite** for physics.  
+数学是物理的**先决条件**。  
+**记忆技巧**：前缀“pre-”（之前）+ “requirement”（要求）→ 之前需要的东西 → 前提。
 
 ---
 
-### 5. **resilient**  
-**音标**：/rɪˈzɪliənt/  
-**词性**：adj.  
-**释义**：有韧性的；能迅速恢复的  
-**例句**：  
-- Children are often more **resilient** than adults in facing setbacks.  
-- 孩子们在面对挫折时往往比成年人更有**韧性**。  
-**记忆技巧**：来自拉丁语 `resilire`（反弹），联想“像弹簧一样弹回” → 有恢复力的。
+## 6. scrutinize
+**音标**：[ˈskruːtənaɪz]  
+**词性**：动词  
+**释义**：仔细检查；审查  
+**例句**：The committee will **scrutinize** every detail of the proposal.  
+委员会将**仔细审查**提案的每个细节。  
+**记忆技巧**：联想“screen”（屏幕）+ “-ize” → 像在屏幕上放大查看 → 仔细检查。
 
 ---
 
-### 6. **prevalent**  
-**音标**：/ˈprevələnt/  
-**词性**：adj.  
+## 7. tangible
+**音标**：[ˈtændʒəbl]  
+**词性**：形容词  
+**释义**：有形的；可触摸的；切实的  
+**例句**：The project produced **tangible** results within three months.  
+该项目在三个月内产生了**切实的**成果。  
+**记忆技巧**：词根“tang-”（触摸）+ “-ible”（可…的）→ 可触摸的 → 有形的、实在的。
+
+---
+
+## 8. mitigate
+**音标**：[ˈmɪtɪɡeɪt]  
+**词性**：动词  
+**释义**：减轻；缓和  
+**例句**：They took steps to **mitigate** the effects of the disaster.  
+他们采取措施**减轻**灾难的影响。  
+**记忆技巧**：词根“mit-”（减弱）+ “-igate” → 使减弱 → 缓和、减轻。
+
+---
+
+## 9. prevalent
+**音标**：[ˈprevələnt]  
+**词性**：形容词  
 **释义**：流行的；普遍存在的  
-**例句**：  
-- The use of social media is **prevalent** among young people.  
-- 社交媒体的使用在年轻人中很**普遍**。  
-**记忆技巧**：词根 `preval-`（占优势）+ `-ent` → 占优势的 → 流行的。
+**例句**：Misinformation is **prevalent** on social media.  
+虚假信息在社交媒体上**普遍存在**。  
+**记忆技巧**：词根“pre-”（之前）+ “val”（强壮）+ “-ent” → 很早之前就强大 → 流行的、盛行的。
 
 ---
 
-### 7. **undermine**  
-**音标**：/ˌʌndərˈmaɪn/  
-**词性**：v.  
-**释义**：逐渐削弱；暗中破坏  
-**例句**：  
-- His comments **undermined** the team's confidence.  
-- 他的言论**削弱了**团队的信心。  
-**记忆技巧**：`under-`（下方）+ `mine`（采矿）→ 在下方挖矿 → 从根基上破坏。
+## 10. redundant
+**音标**：[rɪˈdʌndənt]  
+**词性**：形容词  
+**释义**：多余的；冗余的  
+**例句**：We need to remove **redundant** information from the report.  
+我们需要从报告中删除**多余的**信息。  
+**记忆技巧**：词根“re-”（再次）+ “undant”（波浪）→ 再次溢出 → 过多的、冗余的。
 
 ---
 
-### 8. **coherent**  
-**音标**：/koʊˈhɪrənt/  
-**词性**：adj.  
-**释义**：连贯的；有条理的  
-**例句**：  
-- Present your ideas in a clear and **coherent** manner.  
-- 请以清晰**连贯**的方式阐述你的想法。  
-**记忆技巧**：词根 `co-`（共同）+ `her-`（粘附）→ 粘附在一起 → 连贯的。
+## 11. intuitive
+**音标**：[ɪnˈtuːɪtɪv]  
+**词性**：形容词  
+**释义**：直觉的；凭直觉的  
+**例句**：The new software has a very **intuitive** interface.  
+新软件有一个非常**直观的**界面。  
+**记忆技巧**：词根“in-”（进入）+ “tuit”（看）+ “-ive” → 向内看 → 直觉感知的。
 
 ---
 
-### 9. **profound**  
-**音标**：/prəˈfaʊnd/  
-**词性**：adj.  
-**释义**：深刻的；深远的  
-**例句**：  
-- The book had a **profound** influence on my worldview.  
-- 这本书对我的世界观产生了**深远的**影响。  
-**记忆技巧**：词根 `pro-`（向前）+ `found-`（底部）→ 达到深处 → 深刻的。
+## 12. proliferate
+**音标**：[prəˈlɪfəreɪt]  
+**词性**：动词  
+**释义**：激增；扩散  
+**例句**：Fast-food restaurants **proliferate** in urban areas.  
+快餐店在城市地区**激增**。  
+**记忆技巧**：词根“pro-”（向前）+ “lifer”（生命）+ “-ate” → 像生命一样向前繁殖 → 扩散、激增。
 
 ---
 
-### 10. **substantiate**  
-**音标**：/səbˈstænʃieɪt/  
-**词性**：v.  
-**释义**：证实；证明…有根据  
-**例句**：  
-- Can you **substantiate** your claims with evidence?  
-- 你能用证据**证实**你的说法吗？  
-**记忆技巧**：来自拉丁语 `substantia`（实质），联想“赋予实质证据” → 证实。
+## 13. obscure
+**音标**：[əbˈskjʊr]  
+**词性**：形容词 / 动词  
+**释义**：adj. 晦涩的；v. 使模糊  
+**例句**：The meaning of the poem is somewhat **obscure**.  
+这首诗的意义有些**晦涩难懂**。  
+**记忆技巧**：词根“ob-”（覆盖）+ “scure”（黑暗）→ 被覆盖变黑暗 → 晦涩、使模糊。
 
 ---
 
-### 11. **skeptical**  
-**音标**：/ˈskeptɪkəl/  
-**词性**：adj.  
-**释义**：怀疑的；持怀疑态度的  
-**例句**：  
-- Many scientists remain **skeptical** about the new theory.  
-- 许多科学家对这个新理论仍持**怀疑态度**。  
-**记忆技巧**：词根 `skept-`（思考、质疑）+ `-ical` → 善于质疑的 → 怀疑的。
+## 14. substantiate
+**音标**：[səbˈstænʃieɪt]  
+**词性**：动词  
+**释义**：证实；证明  
+**例句**：Can you **substantiate** your claims with evidence?  
+你能用证据**证实**你的说法吗？  
+**记忆技巧**：词根“sub-”（下）+ “stant”（站立）+ “-iate” → 站在下面支撑 → 证实、证明。
 
 ---
 
-### 12. **discrepancy**  
-**音标**：/dɪsˈkrepənsi/  
-**词性**：n.  
-**释义**：差异；不一致  
-**例句**：  
-- There is a **discrepancy** between the two reports.  
-- 这两份报告之间存在**差异**。  
-**记忆技巧**：前缀 `dis-`（分离）+ `crep-`（发出噼啪声）→ 声音不一致 → 差异。
+## 15. volatile
+**音标**：[ˈvɑːlətl]  
+**词性**：形容词  
+**释义**：不稳定的；易挥发的  
+**例句**：The stock market has been **volatile** recently.  
+股市最近**波动很大**。  
+**记忆技巧**：词根“volat-”（飞）+ “-ile” → 像飞走一样不稳定 → 不稳定的。
 
 ---
 
-### 📝 **学习小贴士**：
-1. **例句朗读**：大声读出英文例句，培养语感。
-2. **词汇串联**：尝试用今天学的词造一个新句子，比如：The **skeptical** researcher tried to **substantiate** the **profound** theory, but found a **discrepancy** in the data.
-3. **每日复习**：睡前回顾本日词汇，加深记忆。
-
-**明天见，继续加油！** 🌟
+> 💡 **学习建议**：  
+> 1. 重点掌握词根词缀规律，举一反三；  
+> 2. 结合例句理解词汇用法；  
+> 3. 每天复习前一天词汇，巩固记忆。  
+> 加油！祝你备考顺利！ 🌟
