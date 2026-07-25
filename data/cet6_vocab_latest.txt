@@ -1,129 +1,175 @@
-# 📚 六级词汇 · 第56天
-
-**每日坚持，积少成多。今天你又向成功迈进了一步！**
+# 六级高频词汇学习 - 第57天
 
 ---
 
-### 1. **ambiguity** /ˌæm.bɪˈɡjuː.ə.t̬i/
-- **词性**：n.
-- **释义**：n. 模棱两可，含糊不清；一语双关
-- **例句**：
-    - The **ambiguity** of the contract's terms led to a legal dispute.
-    - 合同条款的**模棱两可**引发了一场法律纠纷。
-- **记忆技巧**：词根 **ambi-** 意为“两者，两边”，**-guity** 可联想为 **guilty** (有罪的)。站在两边，立场不明，所以是“模棱两可”的。另外，一个词能有多重含义，本身就体现了 **ambiguity**。
-
-### 2. **complement** /ˈkɑːm.plɪ.mənt/
-- **词性**：v. / n.
-- **释义**：v. 补充，补足；使完美；n. 补充物，补足物
-- **例句**：
-    - The scarf **complements** her outfit perfectly.
-    - 这条围巾完美地**衬托了**她的装束。
-    - The two teams have different strengths that **complement** each other.
-    - 两个团队拥有**互相补充**的不同优势。
-- **记忆技巧**：与 **complete** (完成) 同源。它的意思是“补全”，使其更完美。注意不要和 **compliment** (赞美) 混淆。
-
-### 3. **comprehensive** /ˌkɑːm.prɪˈhen.sɪv/
-- **词性**：adj.
-- **释义**：adj. 全面的，综合的；理解的
-- **例句**：
-    - The report provides a **comprehensive** analysis of the market trends.
-    - 这份报告对市场趋势进行了**全面的**分析。
-    - Before the exam, we did a **comprehensive** review of all the notes.
-    - 考试前，我们对所有笔记做了一次**综合的**复习。
-- **记忆技巧**：来自词根 **comprehend** (理解，包含)。能把所有方面都“包含”进来的，就是“全面的”。
-
-### 4. **deliberately** /dɪˈlɪb.ər.ət.li/
-- **词性**：adv.
-- **释义**：adv. 故意地，蓄意地；从容不迫地，审慎地
-- **例句**：
-    - He **deliberately** ignored my question during the meeting.
-    - 他在会议上**故意**无视了我的问题。
-    - She **deliberately** chose a career path that aligned with her values.
-    - 她**审慎地**选择了一条符合自己价值观的职业道路。
-- **记忆技巧**：形容词 **deliberate** (故意的；深思熟虑的) 的副词形式。可以想成：一个深思熟虑 (**deliberate**) 的决定，肯定是“从容不迫地”做出的。
-
-### 5. **discrepancy** /dɪˈskrep.ən.si/
-- **词性**：n.
-- **释义**：n. 差异，不一致；矛盾
-- **例句**：
-    - There is a significant **discrepancy** between the data from the two experiments.
-    - 两个实验的数据之间存在着巨大的**差异**。
-    - The audit revealed several **discrepancies** in the financial records.
-    - 审计揭示了财务记录中的几处**不符**。
-- **记忆技巧**：词根 **dis-** (分开) + **crep-** (发出爆裂声，像断裂声)。数据或事实“断裂开”，不再一致，即产生“差异”。
-
-### 6. **empirical** /ɪmˈpɪr.ɪ.kəl/
-- **词性**：adj.
-- **释义**：adj. 以经验为依据的，经验主义的
-- **例句**：
-    - The scientist relied on **empirical** evidence to support her theory.
-    - 这位科学家依靠**经验证据**来支持她的理论。
-    - We need to move beyond assumptions and look for **empirical** proof.
-    - 我们需要超越假设，寻找**经验性的**证明。
-- **记忆技巧**：来自 **empire** (帝国)。古罗马帝国 (**empire**) 的扩张和治理，很大程度上基于实际经验和观察，而非纯粹的理论。
-
-### 7. **endorse** /ɪnˈdɔːrs/
-- **词性**：v.
-- **释义**：v. 赞同，支持；代言；背书
-- **例句**：
-    - Several experts **endorsed** the new treatment method.
-    - 几位专家**赞同了**这种新的治疗方法。
-    - The celebrity was paid to **endorse** the luxury brand.
-    - 这位名人被雇佣来**代言**这个奢侈品牌。
-- **记忆技巧**：在支票背面 (**en-** 表示“在…里面/上” + **dorse** 背面) 签字，就是“背书”，引申为“担保、支持”。
-
-### 8. **fluctuate** /ˈflʌk.tʃ.u.eɪt/
-- **词性**：v.
-- **释义**：v. 波动，起伏不定；动摇
-- **例句**：
-    - Stock prices tend to **fluctuate** in response to economic news.
-    - 股票价格往往会随着经济新闻而**波动**。
-    - His confidence **fluctuated** throughout the interview process.
-    - 在整个面试过程中，他的信心**起伏不定**。
-- **记忆技巧**：词根 **flu-** 意为“流动”(如 fluid)，**-ctuate** 表示动作。像水一样“流动、起伏”，就是“波动”。
-
-### 9. **futile** /ˈfjuː.t̬əl/
-- **词性**：adj.
-- **释义**：adj. 徒劳的，无用的；琐碎的
-- **例句**：
-    - Arguing with him about this is **futile**; he won't change his mind.
-    - 为这事和他争论是**徒劳的**；他不会改变主意的。
-    - All attempts to rescue the stranded whale proved **futile**.
-    - 所有营救搁浅鲸鱼的尝试都被证明是**无效的**。
-- **记忆技巧**：谐音“废土”。努力了半天，最后只留下一片废土，可见是“徒劳的”。
-
-### 10. **hierarchical** /ˌhaɪəˈrɑːr.kɪ.kəl/
-- **词性**：adj.
-- **释义**：adj. 等级制度的；层级分明的
-- **例句**：
-    - The company is organized in a strict **hierarchical** structure.
-    - 这家公司组织架构是严格的**等级制**。
-    - Many social cultures are **hierarchical**, with clear ranks and roles.
-    - 许多社会文化都是**等级分明的**，有清晰的阶层和角色。
-- **记忆技巧**：来自 **hierarchy** (等级制度)。**hier-** (神圣的) + **archy** (统治)。最初指神圣的统治顺序，引申为“等级制度”。
-
-### 11. **impede** /ɪmˈpiːd/
-- **词性**：v.
-- **释义**：v. 阻碍，妨碍；阻止
-- **例句**：
-    - The heavy snow **impeded** our progress on the hike.
-    - 大雪**阻碍了**我们徒步的进程。
-    - Bureaucracy should not **impede** economic development.
-    - 官僚主义不应**妨碍**经济发展。
-- **记忆技巧**：im (进入) + pede (脚，像 pedestrian 行人)。把脚陷进去，行走自然就受阻了。
-
-### 12. **pragmatic** /præɡˈmæt̬.ɪk/
-- **词性**：adj.
-- **释义**：adj. 务实的，注重实效的；实用主义的
-- **例句**：
-    - We need a **pragmatic** approach to solve this complex problem.
-    - 我们需要一种**务实的**方法来解决这个复杂的问题。
-    - She's a very **pragmatic** person who doesn't waste time on fantasies.
-    - 她是个非常**务实的**人，不把时间浪费在空想上。
-- **记忆技巧**：来自 **pragma** (事务，实际事务)。关心实际事务的，就是“务实的”。注意与 **dogmatic** (教条的) 区分。
+## 1. **elaborate**  
+**音标：** /ɪˈlæbərət/  
+**词性：** v. / adj.  
+**释义：** v. 详细阐述；精心制作；adj. 复杂的；精心设计的  
+**例句：**  
+Could you **elaborate** on your proposal? We need more details.  
+你能详细阐述一下你的提案吗？我们需要更多细节。  
+**记忆技巧：** 词根“labor”（劳动）+ 前缀“e-”（出）+ 后缀“-ate” → 需要大量劳动做出来的 → **精心制作的；详细阐述**
 
 ---
 
-**今日小结**：今天涵盖了从“模糊”到“务实”的多个概念。理解这些词汇的精确含义，并尝试在口语和写作中运用它们，能让你的表达更地道、更有力。
+## 2. **vulnerable**  
+**音标：** /ˈvʌlnərəbl/  
+**词性：** adj.  
+**释义：** 脆弱的；易受伤害的；易受攻击的  
+**例句：**  
+Children and the elderly are especially **vulnerable** to the disease.  
+儿童和老年人特别容易感染这种疾病。  
+**记忆技巧：** 词根“vulner”（伤口，来自拉丁语vulnus）+ 后缀“-able”（能够…的） → 能够受伤的 → **易受伤害的**
 
-**明日预告**：第57天词汇主题——“变革与影响”。祝你学习愉快！ 🌟
+---
+
+## 3. **fluctuate**  
+**音标：** /ˈflʌktʃueɪt/  
+**词性：** v.  
+**释义：** 波动；起伏不定；变动  
+**例句：**  
+The stock market prices **fluctuate** daily based on economic news.  
+股市价格根据经济新闻每天波动。  
+**记忆技巧：** 词根“flu”（流动）+ “-ctuate”（动词后缀） → 像水一样流动 → **波动，起伏**
+
+---
+
+## 4. **resilient**  
+**音标：** /rɪˈzɪliənt/  
+**词性：** adj.  
+**释义：** 有弹性的；适应力强的；能迅速恢复的  
+**例句：**  
+The economy has proved **resilient** despite the global downturn.  
+尽管全球经济下行，经济仍表现出强大的韧性。  
+**记忆技巧：** 词根“resili”（回弹，来自拉丁语resilire）+ 后缀“-ent” → 能够回弹的 → **有弹性的，适应力强的**
+
+---
+
+## 5. **empirical**  
+**音标：** /ɪmˈpɪrɪkl/  
+**词性：** adj.  
+**释义：** 以经验为依据的；经验主义的  
+**例句：**  
+The theory needs **empirical** evidence to support it.  
+这个理论需要经验证据来支持。  
+**记忆技巧：** 词根“empiric”（经验的，来自希腊语empeiria）+ 后缀“-al” → 与经验有关的 → **经验主义的**
+
+---
+
+## 6. **ambiguous**  
+**音标：** /æmˈbɪɡjuəs/  
+**词性：** adj.  
+**释义：** 模棱两可的；含糊不清的；有多种解释的  
+**例句：**  
+His statement was intentionally **ambiguous** to avoid direct criticism.  
+他的声明故意模棱两可，以避免直接批评。  
+**记忆技巧：** 前缀“ambi-”（两者）+ 词根“igu-”（驱动）+ 后缀“-ous” → 同时驱动两个方向 → **模棱两可的**
+
+---
+
+## 7. **prevalent**  
+**音标：** /ˈprevələnt/  
+**词性：** adj.  
+**释义：** 盛行的；流行的；普遍的  
+**例句：**  
+Misinformation is **prevalent** on social media platforms.  
+虚假信息在社交媒体平台上很普遍。  
+**记忆技巧：** 前缀“pre-”（前）+ 词根“val”（强大）+ 后缀“-ent” → 提前占据强势地位的 → **盛行的**
+
+---
+
+## 8. **scrutiny**  
+**音标：** /ˈskruːtəni/  
+**词性：** n.  
+**释义：** 详细审查；仔细检查；监视  
+**例句：**  
+The project's budget is under close **scrutiny** by the committee.  
+项目的预算正受到委员会的仔细审查。  
+**记忆技巧：** 词根“scrut-”（检查，来自拉丁语scrutari）+ 后缀“-iny” → 需要仔细检查的过程 → **详细审查**
+
+---
+
+## 9. **plausible**  
+**音标：** /ˈplɔːzəbl/  
+**词性：** adj.  
+**释义：** 貌似合理的；可信的  
+**例句：**  
+His excuse didn't sound very **plausible** to the teacher.  
+他的借口在老师听来不太可信。  
+**记忆技巧：** 词根“plaus”（鼓掌，来自拉丁语plaudere）+ 后缀“-ible” → 能让人鼓掌的 → **看似合理的，可信的**
+
+---
+
+## 10. **controversy**  
+**音标：** /ˈkɑːntrəvɜːrsi/  
+**词性：** n.  
+**释义：** 争论；争议；论战  
+**例句：**  
+The policy has sparked a major **controversy** among the public.  
+这项政策在公众中引发了重大争议。  
+**记忆技巧：** 前缀“contra-”（相反）+ 词根“vers”（转）+ 后缀“-y” → 朝相反方向转 → **争论，争议**
+
+---
+
+## 11. **profound**  
+**音标：** /prəˈfaʊnd/  
+**词性：** adj.  
+**释义：** 深刻的；深远的；极度的  
+**例句：**  
+The book had a **profound** impact on my understanding of history.  
+这本书对我理解历史产生了深远的影响。  
+**记忆技巧：** 前缀“pro-”（向前）+ 词根“found”（底部，来自拉丁语fundus） → 向前深入到底部 → **深刻的，深远的**
+
+---
+
+## 12. **allocate**  
+**音标：** /ˈæləkeɪt/  
+**词性：** v.  
+**释义：** 分配；拨出；指定用途  
+**例句：**  
+The government plans to **allocate** more funds to education next year.  
+政府计划明年分配更多资金给教育。  
+**记忆技巧：** 前缀“al-”（到，ad-的变体）+ 词根“loc”（地方）+ 后缀“-ate” → 到特定地方去 → **分配，拨出**
+
+---
+
+## 13. **deteriorate**  
+**音标：** /dɪˈtɪriəreɪt/  
+**词性：** v.  
+**释义：** 恶化；变坏；退化  
+**例句：**  
+His health began to **deteriorate** rapidly after the diagnosis.  
+诊断之后，他的健康状况迅速恶化。  
+**记忆技巧：** 词根“deterior”（更坏的，来自拉丁语deterior）+ 后缀“-ate” → 使变得更坏 → **恶化**
+
+---
+
+## 14. **paradigm**  
+**音标：** /ˈpærədaɪm/  
+**词性：** n.  
+**释义：** 范例；典范；思维模式；范式  
+**例句：**  
+The discovery led to a **paradigm** shift in scientific thinking.  
+这一发现导致了科学思维的范式转变。  
+**记忆技巧：** 前缀“para-”（旁边）+ 词根“digm”（显示，来自希腊语deiknunai） → 放在旁边展示的样板 → **范例，范式**
+
+---
+
+## 15. **pragmatic**  
+**音标：** /præɡˈmætɪk/  
+**词性：** adj.  
+**释义：** 务实的；实用主义的；注重实效的  
+**例句：**  
+We need a **pragmatic** approach to solve this problem, not just theoretical ideas.  
+我们需要一个务实的方法来解决这个问题，而不仅仅是理论想法。  
+**记忆技巧：** 词根“pragmat-”（实践，来自希腊语pragma）+ 后缀“-ic” → 关于实践的 → **务实的，实用主义的**
+
+---
+
+## 📚 学习小贴士  
+- 每天坚持复习前一天的词汇，加深记忆  
+- 尝试用新学的词汇造句，增强运用能力  
+- 结合阅读真题，在实际语境中理解词汇  
+
+**坚持就是胜利！你已经完成了57天的学习，继续加油！** 💪
