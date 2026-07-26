@@ -1,175 +1,116 @@
-# 六级高频词汇学习 - 第57天
+好的，这是为您精心准备的今日（第58天）六级高频词汇学习内容，共包含12个核心词汇。
 
 ---
 
-## 1. **elaborate**  
-**音标：** /ɪˈlæbərət/  
-**词性：** v. / adj.  
-**释义：** v. 详细阐述；精心制作；adj. 复杂的；精心设计的  
-**例句：**  
-Could you **elaborate** on your proposal? We need more details.  
-你能详细阐述一下你的提案吗？我们需要更多细节。  
-**记忆技巧：** 词根“labor”（劳动）+ 前缀“e-”（出）+ 后缀“-ate” → 需要大量劳动做出来的 → **精心制作的；详细阐述**
+# 📚 六级高频词汇学习 - Day 58
+
+### 1. commodity
+- **音标**： /kəˈmɑːdəti/
+- **词性**： n. (名词)
+- **释义**： 商品；日用品；有价值的东西
+- **例句**：
+    - Water is a precious **commodity** in many desert regions.
+    - 在许多沙漠地区，水是宝贵的**商品**。
+- **记忆技巧**： **词根词缀**：`com-` (共同) + `mod` (方式) + `-ity` (名词后缀)。原指“以共同的方式交易的东西”，引申为商品。
+
+### 2. contempt
+- **音标**： /kənˈtempt/
+- **词性**： n. (名词)
+- **释义**： 轻视，蔑视；不顾，不尊重（如藐视法庭）
+- **例句**：
+    - His actions showed his **contempt** for the law.
+    - 他的行为显示出他对法律的**蔑视**。
+- **记忆技巧**： **联想记忆**：`con-` (加强) + `tempt` (诱惑)。可以联想为：面对诱惑，却表示“轻视”和“不屑”。
+
+### 3. compatible
+- **音标**： /kəmˈpætəbl/
+- **词性**： adj. (形容词)
+- **释义**： 兼容的；能共存的；合得来的
+- **例句**：
+    - Check if your computer software is **compatible** with the new system.
+    - 检查一下你的电脑软件是否与新系统**兼容**。
+- **记忆技巧**： **词根词缀**：`com-` (共同) + `pat` (感受) + `-ible` (能…的)。能共同感受的 → 兼容的、合得来的。
+
+### 4. constrain
+- **音标**： /kənˈstreɪn/
+- **词性**： v. (动词)
+- **释义**： 约束，限制；强制，迫使
+- **例句**：
+    - Budget cuts have **constrained** our ability to hire new staff.
+    - 预算削减**限制了**我们雇佣新员工的能力。
+- **记忆技巧**： **词根词缀**：`con-` (共同) + `strain` (拉紧)。共同拉紧 → 产生约束力。
+
+### 5. comply
+- **音标**： /kəmˈplaɪ/
+- **词性**： v. (动词)
+- **释义**： 遵从，服从（命令、规定等）
+- **例句**：
+    - All employees must **comply** with the company's safety regulations.
+    - 所有员工必须**遵守**公司的安全规定。
+- **记忆技巧**： **联想记忆**：可以联想为“`com-` (共同) + `ply` (折叠)”。大家共同把意见“折叠”起来，表示顺从、遵从。
+
+### 6. compulsory
+- **音标**： /kəmˈpʌlsəri/
+- **词性**： adj. (形容词)
+- **释义**： 强制的，义务的；必修的
+- **例句**：
+    - Education is **compulsory** for children between the ages of 6 and 16.
+    - 6至16岁的儿童必须接受**义务教育**。
+- **记忆技巧**： **词根词缀**：`com-` (共同) + `puls` (推，驱使) + `-ary` (形容词后缀)。被共同驱使的 → 强制的。
+
+### 7. consequently
+- **音标**： /ˈkɑːnsəkwentli/
+- **词性**： adv. (副词)
+- **释义**： 因此，结果
+- **例句**：
+    - He missed the deadline. **Consequently**, his application was rejected.
+    - 他错过了截止日期。**因此**，他的申请被拒绝了。
+- **记忆技巧**： **词根词缀**：来自形容词 `consequent` (作为结果的) + `-ly`。`con-` (共同) + `sequ` (跟随) + `-ent`。跟随发生的 → 结果的。
+
+### 8. counterpart
+- **音标**： /ˈkaʊntərpɑːrt/
+- **词性**： n. (名词)
+- **释义**： 对应的人或物；副本
+- **例句**：
+    - She met with her Japanese **counterpart** to discuss trade issues.
+    - 她与日本**对等官员**会面讨论贸易问题。
+- **记忆技巧**： **词根词缀**：`counter-` (相反，对应) + `part` (部分)。对应的那一部分 → 副本、对应物。
+
+### 9. commodity
+- **音标**： /kəˈmɑːdəti/
+- **词性**： n. (名词)
+- **释义**： 商品；日用品；有价值的东西
+- **例句**：
+    - In the modern world, personal data has become a valuable **commodity**.
+    - 在当今世界，个人数据已成为一种宝贵的**商品**。
+- **记忆技巧**： **词根词缀**：`com-` (共同) + `mod` (方式) + `-ity` (名词后缀)。原指“以共同的方式交易的东西”，引申为商品。
+
+### 10. contempt
+- **音标**： /kənˈtempt/
+- **词性**： n. (名词)
+- **释义**： 轻视，蔑视；不顾，不尊重（如藐视法庭）
+- **例句**：
+    - He treated her suggestions with **contempt**.
+    - 他对她的建议报以**轻蔑**的态度。
+- **记忆技巧**： **联想记忆**：`con-` (加强) + `tempt` (诱惑)。可以联想为：面对诱惑，却表示“轻视”和“不屑”。
+
+### 11. compatible
+- **音标**： /kəmˈpætəbl/
+- **词性**： adj. (形容词)
+- **释义**： 兼容的；能共存的；合得来的
+- **例句**：
+    - They seem to be a very **compatible** couple.
+    - 他们似乎是一对非常**合得来**的夫妻。
+- **记忆技巧**： **词根词缀**：`com-` (共同) + `pat` (感受) + `-ible` (能…的)。能共同感受的 → 兼容的、合得来的。
+
+### 12. constrain
+- **音标**： /kənˈstreɪn/
+- **词性**： v. (动词)
+- **释义**： 约束，限制；强制，迫使
+- **例句**：
+    - She felt **constrained** to accept the offer under the circumstances.
+    - 在那种情况下，她感到**不得不**接受这个提议。
+- **记忆技巧**： **词根词缀**：`con-` (共同) + `strain` (拉紧)。共同拉紧 → 产生约束力。
 
 ---
-
-## 2. **vulnerable**  
-**音标：** /ˈvʌlnərəbl/  
-**词性：** adj.  
-**释义：** 脆弱的；易受伤害的；易受攻击的  
-**例句：**  
-Children and the elderly are especially **vulnerable** to the disease.  
-儿童和老年人特别容易感染这种疾病。  
-**记忆技巧：** 词根“vulner”（伤口，来自拉丁语vulnus）+ 后缀“-able”（能够…的） → 能够受伤的 → **易受伤害的**
-
----
-
-## 3. **fluctuate**  
-**音标：** /ˈflʌktʃueɪt/  
-**词性：** v.  
-**释义：** 波动；起伏不定；变动  
-**例句：**  
-The stock market prices **fluctuate** daily based on economic news.  
-股市价格根据经济新闻每天波动。  
-**记忆技巧：** 词根“flu”（流动）+ “-ctuate”（动词后缀） → 像水一样流动 → **波动，起伏**
-
----
-
-## 4. **resilient**  
-**音标：** /rɪˈzɪliənt/  
-**词性：** adj.  
-**释义：** 有弹性的；适应力强的；能迅速恢复的  
-**例句：**  
-The economy has proved **resilient** despite the global downturn.  
-尽管全球经济下行，经济仍表现出强大的韧性。  
-**记忆技巧：** 词根“resili”（回弹，来自拉丁语resilire）+ 后缀“-ent” → 能够回弹的 → **有弹性的，适应力强的**
-
----
-
-## 5. **empirical**  
-**音标：** /ɪmˈpɪrɪkl/  
-**词性：** adj.  
-**释义：** 以经验为依据的；经验主义的  
-**例句：**  
-The theory needs **empirical** evidence to support it.  
-这个理论需要经验证据来支持。  
-**记忆技巧：** 词根“empiric”（经验的，来自希腊语empeiria）+ 后缀“-al” → 与经验有关的 → **经验主义的**
-
----
-
-## 6. **ambiguous**  
-**音标：** /æmˈbɪɡjuəs/  
-**词性：** adj.  
-**释义：** 模棱两可的；含糊不清的；有多种解释的  
-**例句：**  
-His statement was intentionally **ambiguous** to avoid direct criticism.  
-他的声明故意模棱两可，以避免直接批评。  
-**记忆技巧：** 前缀“ambi-”（两者）+ 词根“igu-”（驱动）+ 后缀“-ous” → 同时驱动两个方向 → **模棱两可的**
-
----
-
-## 7. **prevalent**  
-**音标：** /ˈprevələnt/  
-**词性：** adj.  
-**释义：** 盛行的；流行的；普遍的  
-**例句：**  
-Misinformation is **prevalent** on social media platforms.  
-虚假信息在社交媒体平台上很普遍。  
-**记忆技巧：** 前缀“pre-”（前）+ 词根“val”（强大）+ 后缀“-ent” → 提前占据强势地位的 → **盛行的**
-
----
-
-## 8. **scrutiny**  
-**音标：** /ˈskruːtəni/  
-**词性：** n.  
-**释义：** 详细审查；仔细检查；监视  
-**例句：**  
-The project's budget is under close **scrutiny** by the committee.  
-项目的预算正受到委员会的仔细审查。  
-**记忆技巧：** 词根“scrut-”（检查，来自拉丁语scrutari）+ 后缀“-iny” → 需要仔细检查的过程 → **详细审查**
-
----
-
-## 9. **plausible**  
-**音标：** /ˈplɔːzəbl/  
-**词性：** adj.  
-**释义：** 貌似合理的；可信的  
-**例句：**  
-His excuse didn't sound very **plausible** to the teacher.  
-他的借口在老师听来不太可信。  
-**记忆技巧：** 词根“plaus”（鼓掌，来自拉丁语plaudere）+ 后缀“-ible” → 能让人鼓掌的 → **看似合理的，可信的**
-
----
-
-## 10. **controversy**  
-**音标：** /ˈkɑːntrəvɜːrsi/  
-**词性：** n.  
-**释义：** 争论；争议；论战  
-**例句：**  
-The policy has sparked a major **controversy** among the public.  
-这项政策在公众中引发了重大争议。  
-**记忆技巧：** 前缀“contra-”（相反）+ 词根“vers”（转）+ 后缀“-y” → 朝相反方向转 → **争论，争议**
-
----
-
-## 11. **profound**  
-**音标：** /prəˈfaʊnd/  
-**词性：** adj.  
-**释义：** 深刻的；深远的；极度的  
-**例句：**  
-The book had a **profound** impact on my understanding of history.  
-这本书对我理解历史产生了深远的影响。  
-**记忆技巧：** 前缀“pro-”（向前）+ 词根“found”（底部，来自拉丁语fundus） → 向前深入到底部 → **深刻的，深远的**
-
----
-
-## 12. **allocate**  
-**音标：** /ˈæləkeɪt/  
-**词性：** v.  
-**释义：** 分配；拨出；指定用途  
-**例句：**  
-The government plans to **allocate** more funds to education next year.  
-政府计划明年分配更多资金给教育。  
-**记忆技巧：** 前缀“al-”（到，ad-的变体）+ 词根“loc”（地方）+ 后缀“-ate” → 到特定地方去 → **分配，拨出**
-
----
-
-## 13. **deteriorate**  
-**音标：** /dɪˈtɪriəreɪt/  
-**词性：** v.  
-**释义：** 恶化；变坏；退化  
-**例句：**  
-His health began to **deteriorate** rapidly after the diagnosis.  
-诊断之后，他的健康状况迅速恶化。  
-**记忆技巧：** 词根“deterior”（更坏的，来自拉丁语deterior）+ 后缀“-ate” → 使变得更坏 → **恶化**
-
----
-
-## 14. **paradigm**  
-**音标：** /ˈpærədaɪm/  
-**词性：** n.  
-**释义：** 范例；典范；思维模式；范式  
-**例句：**  
-The discovery led to a **paradigm** shift in scientific thinking.  
-这一发现导致了科学思维的范式转变。  
-**记忆技巧：** 前缀“para-”（旁边）+ 词根“digm”（显示，来自希腊语deiknunai） → 放在旁边展示的样板 → **范例，范式**
-
----
-
-## 15. **pragmatic**  
-**音标：** /præɡˈmætɪk/  
-**词性：** adj.  
-**释义：** 务实的；实用主义的；注重实效的  
-**例句：**  
-We need a **pragmatic** approach to solve this problem, not just theoretical ideas.  
-我们需要一个务实的方法来解决这个问题，而不仅仅是理论想法。  
-**记忆技巧：** 词根“pragmat-”（实践，来自希腊语pragma）+ 后缀“-ic” → 关于实践的 → **务实的，实用主义的**
-
----
-
-## 📚 学习小贴士  
-- 每天坚持复习前一天的词汇，加深记忆  
-- 尝试用新学的词汇造句，增强运用能力  
-- 结合阅读真题，在实际语境中理解词汇  
-
-**坚持就是胜利！你已经完成了57天的学习，继续加油！** 💪
+**💡 学习建议**：今天学习了以 `com-`/`con-` 开头的多个高频词，注意体会前缀在不同词汇中的具体含义（加强、共同、一起）。建议造句巩固记忆！
