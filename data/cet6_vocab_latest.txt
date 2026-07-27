@@ -1,116 +1,191 @@
-好的，这是为您精心准备的今日（第58天）六级高频词汇学习内容，共包含12个核心词汇。
+# 📅 六级高频词汇学习 · 第59天
 
 ---
 
-# 📚 六级高频词汇学习 - Day 58
-
-### 1. commodity
-- **音标**： /kəˈmɑːdəti/
-- **词性**： n. (名词)
-- **释义**： 商品；日用品；有价值的东西
-- **例句**：
-    - Water is a precious **commodity** in many desert regions.
-    - 在许多沙漠地区，水是宝贵的**商品**。
-- **记忆技巧**： **词根词缀**：`com-` (共同) + `mod` (方式) + `-ity` (名词后缀)。原指“以共同的方式交易的东西”，引申为商品。
-
-### 2. contempt
-- **音标**： /kənˈtempt/
-- **词性**： n. (名词)
-- **释义**： 轻视，蔑视；不顾，不尊重（如藐视法庭）
-- **例句**：
-    - His actions showed his **contempt** for the law.
-    - 他的行为显示出他对法律的**蔑视**。
-- **记忆技巧**： **联想记忆**：`con-` (加强) + `tempt` (诱惑)。可以联想为：面对诱惑，却表示“轻视”和“不屑”。
-
-### 3. compatible
-- **音标**： /kəmˈpætəbl/
-- **词性**： adj. (形容词)
-- **释义**： 兼容的；能共存的；合得来的
-- **例句**：
-    - Check if your computer software is **compatible** with the new system.
-    - 检查一下你的电脑软件是否与新系统**兼容**。
-- **记忆技巧**： **词根词缀**：`com-` (共同) + `pat` (感受) + `-ible` (能…的)。能共同感受的 → 兼容的、合得来的。
-
-### 4. constrain
-- **音标**： /kənˈstreɪn/
-- **词性**： v. (动词)
-- **释义**： 约束，限制；强制，迫使
-- **例句**：
-    - Budget cuts have **constrained** our ability to hire new staff.
-    - 预算削减**限制了**我们雇佣新员工的能力。
-- **记忆技巧**： **词根词缀**：`con-` (共同) + `strain` (拉紧)。共同拉紧 → 产生约束力。
-
-### 5. comply
-- **音标**： /kəmˈplaɪ/
-- **词性**： v. (动词)
-- **释义**： 遵从，服从（命令、规定等）
-- **例句**：
-    - All employees must **comply** with the company's safety regulations.
-    - 所有员工必须**遵守**公司的安全规定。
-- **记忆技巧**： **联想记忆**：可以联想为“`com-` (共同) + `ply` (折叠)”。大家共同把意见“折叠”起来，表示顺从、遵从。
-
-### 6. compulsory
-- **音标**： /kəmˈpʌlsəri/
-- **词性**： adj. (形容词)
-- **释义**： 强制的，义务的；必修的
-- **例句**：
-    - Education is **compulsory** for children between the ages of 6 and 16.
-    - 6至16岁的儿童必须接受**义务教育**。
-- **记忆技巧**： **词根词缀**：`com-` (共同) + `puls` (推，驱使) + `-ary` (形容词后缀)。被共同驱使的 → 强制的。
-
-### 7. consequently
-- **音标**： /ˈkɑːnsəkwentli/
-- **词性**： adv. (副词)
-- **释义**： 因此，结果
-- **例句**：
-    - He missed the deadline. **Consequently**, his application was rejected.
-    - 他错过了截止日期。**因此**，他的申请被拒绝了。
-- **记忆技巧**： **词根词缀**：来自形容词 `consequent` (作为结果的) + `-ly`。`con-` (共同) + `sequ` (跟随) + `-ent`。跟随发生的 → 结果的。
-
-### 8. counterpart
-- **音标**： /ˈkaʊntərpɑːrt/
-- **词性**： n. (名词)
-- **释义**： 对应的人或物；副本
-- **例句**：
-    - She met with her Japanese **counterpart** to discuss trade issues.
-    - 她与日本**对等官员**会面讨论贸易问题。
-- **记忆技巧**： **词根词缀**：`counter-` (相反，对应) + `part` (部分)。对应的那一部分 → 副本、对应物。
-
-### 9. commodity
-- **音标**： /kəˈmɑːdəti/
-- **词性**： n. (名词)
-- **释义**： 商品；日用品；有价值的东西
-- **例句**：
-    - In the modern world, personal data has become a valuable **commodity**.
-    - 在当今世界，个人数据已成为一种宝贵的**商品**。
-- **记忆技巧**： **词根词缀**：`com-` (共同) + `mod` (方式) + `-ity` (名词后缀)。原指“以共同的方式交易的东西”，引申为商品。
-
-### 10. contempt
-- **音标**： /kənˈtempt/
-- **词性**： n. (名词)
-- **释义**： 轻视，蔑视；不顾，不尊重（如藐视法庭）
-- **例句**：
-    - He treated her suggestions with **contempt**.
-    - 他对她的建议报以**轻蔑**的态度。
-- **记忆技巧**： **联想记忆**：`con-` (加强) + `tempt` (诱惑)。可以联想为：面对诱惑，却表示“轻视”和“不屑”。
-
-### 11. compatible
-- **音标**： /kəmˈpætəbl/
-- **词性**： adj. (形容词)
-- **释义**： 兼容的；能共存的；合得来的
-- **例句**：
-    - They seem to be a very **compatible** couple.
-    - 他们似乎是一对非常**合得来**的夫妻。
-- **记忆技巧**： **词根词缀**：`com-` (共同) + `pat` (感受) + `-ible` (能…的)。能共同感受的 → 兼容的、合得来的。
-
-### 12. constrain
-- **音标**： /kənˈstreɪn/
-- **词性**： v. (动词)
-- **释义**： 约束，限制；强制，迫使
-- **例句**：
-    - She felt **constrained** to accept the offer under the circumstances.
-    - 在那种情况下，她感到**不得不**接受这个提议。
-- **记忆技巧**： **词根词缀**：`con-` (共同) + `strain` (拉紧)。共同拉紧 → 产生约束力。
+### 1. **profound**
+- **音标**: /prəˈfaʊnd/
+- **词性**: 形容词
+- **释义**: 深远的；深刻的；深切的
+- **例句**: 
+  - *The book has had a **profound** influence on my thinking.*  
+  （这本书对我的思想产生了深远的影响。）
+- **记忆技巧**:  
+  前缀 `pro-`（向前、深入） + `found`（基础） → 深入基础 → 引申为“深刻的”。
 
 ---
-**💡 学习建议**：今天学习了以 `com-`/`con-` 开头的多个高频词，注意体会前缀在不同词汇中的具体含义（加强、共同、一起）。建议造句巩固记忆！
+
+### 2. **vulnerable**
+- **音标**: /ˈvʌlnərəbl/
+- **词性**: 形容词
+- **释义**: 脆弱的；易受伤害的
+- **例句**: 
+  - *Children are particularly **vulnerable** to exploitation.*  
+  （儿童特别容易受到剥削。）
+- **记忆技巧**:  
+  联想词根 `vulner`（伤害） + `-able`（能够） → 能够被伤害的 → “脆弱的”。
+
+---
+
+### 3. **elaborate**
+- **音标**: /ɪˈlæbəreɪt/ (动词) / ɪˈlæbərət/ (形容词)
+- **词性**: 动词 & 形容词
+- **释义**: 
+  - (动词) 详细阐述；精心制作  
+  - (形容词) 精心构思的；详尽的
+- **例句**: 
+  - *Could you **elaborate** on your proposal?*  
+  （你能详细说明一下你的提案吗？）
+- **记忆技巧**:  
+  前缀 `e-`（出） + `labor`（劳动） + `-ate` → 投入劳动去做 → “精心制作”。
+
+---
+
+### 4. **paradox**
+- **音标**: /ˈpærədɑːks/
+- **词性**: 名词
+- **释义**: 悖论；矛盾的人或事物
+- **例句**: 
+  - *It's a **paradox** that he is wealthy yet lives simply.*  
+  （他很富有却生活简朴，这真是个矛盾。）
+- **记忆技巧**:  
+  希腊词根 `para-`（超越） + `doxa`（意见） → 超越一般看法 → “悖论”。
+
+---
+
+### 5. **reluctant**
+- **音标**: /rɪˈlʌktənt/
+- **词性**: 形容词
+- **释义**: 不情愿的；勉强的
+- **例句**: 
+  - *She was **reluctant** to admit her mistake.*  
+  （她不情愿承认自己的错误。）
+- **记忆技巧**:  
+  词根 `re-`（反） + `luct`（斗争） + `-ant` → 内心在斗争 → “不情愿的”。
+
+---
+
+### 6. **prudent**
+- **音标**: /ˈpruːdnt/
+- **词性**: 形容词
+- **释义**: 谨慎的；精明的
+- **例句**: 
+  - *It would be **prudent** to save some money for emergencies.*  
+  （存些钱以备紧急情况是明智的。）
+- **记忆技巧**:  
+  联想 `prudence`（审慎），发音类似“普鲁登斯”（人名），想象一个谨慎的人名。
+
+---
+
+### 7. **scrutinize**
+- **音标**: /ˈskruːtənaɪz/
+- **词性**: 动词
+- **释义**: 仔细检查；详细审查
+- **例句**: 
+  - *The committee will **scrutinize** all the applications.*  
+  （委员会将仔细审查所有申请。）
+- **记忆技巧**:  
+  词根 `scrut`（检查） + `-inize` → 进行检查 → “仔细审查”。
+
+---
+
+### 8. **ambiguous**
+- **音标**: /æmˈbɪɡjuəs/
+- **词性**: 形容词
+- **释义**: 模棱两可的；含糊不清的
+- **例句**: 
+  - *His answer was deliberately **ambiguous**.*  
+  （他的回答故意模棱两可。）
+- **记忆技巧**:  
+  前缀 `ambi-`（两边） + `guous`（引导） → 可以引向两边 → “模棱两可的”。
+
+---
+
+### 9. **resilient**
+- **音标**: /rɪˈzɪliənt/
+- **词性**: 形容词
+- **释义**: 有韧性的；能迅速恢复的
+- **例句**: 
+  - *Children are often more **resilient** than adults realize.*  
+  （孩子们往往比成人意识到的更有韧性。）
+- **记忆技巧**:  
+  词根 `re-`（回） + `sili`（跳跃） + `-ent` → 能够跳回 → “有恢复力的”。
+
+---
+
+### 10. **curiosity**
+- **音标**: /ˌkjʊriˈɑːsəti/
+- **词性**: 名词
+- **释义**: 好奇心；求知欲
+- **例句**: 
+  - *Her **curiosity** led her to explore new cultures.*  
+    （她的好奇心驱使她探索新的文化。）
+- **记忆技巧**:  
+  来自形容词 `curious`（好奇的） + `-ity`（名词后缀） → “好奇心”。
+
+---
+
+### 11. **alleviate**
+- **音标**: /əˈliːvieɪt/
+- **词性**: 动词
+- **释义**: 减轻；缓解（痛苦或问题）
+- **例句**: 
+  - *This medicine can **alleviate** the symptoms of the disease.*  
+  （这种药可以缓解疾病症状。）
+- **记忆技巧**:  
+  前缀 `al-`（向） + `levi`（轻） + `-ate` → 使之变轻 → “减轻”。
+
+---
+
+### 12. **contemplate**
+- **音标**: /ˈkɑːntəmpleɪt/
+- **词性**: 动词
+- **释义**: 沉思；深思熟虑；打算
+- **例句**: 
+  - *He sat quietly, **contemplating** his next move.*  
+  （他静静地坐着，思考下一步行动。）
+- **记忆技巧**:  
+  词根 `con-`（一起） + `templ`（观察） → 集中观察 → “沉思”。
+
+---
+
+### 13. **implication**
+- **音标**: /ˌɪmplɪˈkeɪʃn/
+- **词性**: 名词
+- **释义**: 含义；暗示；牵连
+- **例句**: 
+  - *What are the **implications** of this new policy?*  
+  （这项新政策有哪些影响？）
+- **记忆技巧**:  
+  来自动词 `imply`（暗示） + `-cation`（名词后缀） → “暗示；含义”。
+
+---
+
+### 14. **abundant**
+- **音标**: /əˈbʌndənt/
+- **词性**: 形容词
+- **释义**: 丰富的；充裕的
+- **例句**: 
+  - *The region has **abundant** natural resources.*  
+  （该地区自然资源丰富。）
+- **记忆技巧**:  
+  前缀 `ab-`（加强） + `und`（波浪） + `-ant` → 像波浪一样涌出 → “丰富的”。
+
+---
+
+### 15. **relinquish**
+- **音标**: /rɪˈlɪŋkwɪʃ/
+- **词性**: 动词
+- **释义**: 放弃；交出（权力、要求等）
+- **例句**: 
+  - *He was forced to **relinquish** his control over the company.*  
+  （他被迫放弃了对公司的控制权。）
+- **记忆技巧**:  
+  前缀 `re-`（向后） + `linqu`（离开） + `-ish` → 向后离开 → “放弃”。
+
+---
+
+### 💡 今日学习小贴士：
+- **词汇搭配**：试着用今天学的词造句，例如：“She reluctantly relinquished her position, despite her profound knowledge.”（她不情愿地放弃了职位，尽管她学识渊深。）
+- **复习建议**：睡前回顾一遍今日词汇，重点关注 **vulnerable, elaborate, scrutinize** 等易混淆词。
+
+坚持就是胜利，你已经走过了59天，继续加油！ 🎯
