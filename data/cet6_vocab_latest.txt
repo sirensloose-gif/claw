@@ -1,191 +1,145 @@
-# 📅 六级高频词汇学习 · 第59天
+# 六级高频词汇学习 | Day 60
+
+今天为你准备了 **12个** 高频核心词汇，涵盖动词、名词、形容词和副词，助力你稳步提升！
 
 ---
 
-### 1. **profound**
-- **音标**: /prəˈfaʊnd/
-- **词性**: 形容词
-- **释义**: 深远的；深刻的；深切的
-- **例句**: 
-  - *The book has had a **profound** influence on my thinking.*  
-  （这本书对我的思想产生了深远的影响。）
-- **记忆技巧**:  
-  前缀 `pro-`（向前、深入） + `found`（基础） → 深入基础 → 引申为“深刻的”。
+### 1. **perceive**  
+/pərˈsiːv/  
+**v.** 感知，察觉；理解  
+**例句：**  
+*We perceive the world through our senses.*  
+我们通过感官来感知世界。  
+**记忆技巧：**  
+- **词根词缀**：`per-`（完全地） + `ceive`（拿，抓） → 完全抓住（信息） → 理解、感知。
 
 ---
 
-### 2. **vulnerable**
-- **音标**: /ˈvʌlnərəbl/
-- **词性**: 形容词
-- **释义**: 脆弱的；易受伤害的
-- **例句**: 
-  - *Children are particularly **vulnerable** to exploitation.*  
-  （儿童特别容易受到剥削。）
-- **记忆技巧**:  
-  联想词根 `vulner`（伤害） + `-able`（能够） → 能够被伤害的 → “脆弱的”。
+### 2. **ambiguous**  
+/æmˈbɪɡjuəs/  
+**adj.** 模棱两可的；含混不清的  
+**例句：**  
+*His ambiguous reply left everyone confused.*  
+他模棱两可的回答让所有人都很困惑。  
+**记忆技巧：**  
+- **联想**：`ambi-`（两边） + `guous`（想） → 在两边都想 → 犹豫不决、模糊的。
 
 ---
 
-### 3. **elaborate**
-- **音标**: /ɪˈlæbəreɪt/ (动词) / ɪˈlæbərət/ (形容词)
-- **词性**: 动词 & 形容词
-- **释义**: 
-  - (动词) 详细阐述；精心制作  
-  - (形容词) 精心构思的；详尽的
-- **例句**: 
-  - *Could you **elaborate** on your proposal?*  
-  （你能详细说明一下你的提案吗？）
-- **记忆技巧**:  
-  前缀 `e-`（出） + `labor`（劳动） + `-ate` → 投入劳动去做 → “精心制作”。
+### 3. **contempt**  
+/kənˈtempt/  
+**n.** 轻视，蔑视  
+**例句：**  
+*She showed her contempt for unfair rules with a silent protest.*  
+她以无声的抗议表达了对不公平规则的蔑视。  
+**记忆技巧：**  
+- **联想**：`con-`（完全） + `tempt`（尝试，这里引申为“看不起”） → 完全看不起 → 蔑视。
 
 ---
 
-### 4. **paradox**
-- **音标**: /ˈpærədɑːks/
-- **词性**: 名词
-- **释义**: 悖论；矛盾的人或事物
-- **例句**: 
-  - *It's a **paradox** that he is wealthy yet lives simply.*  
-  （他很富有却生活简朴，这真是个矛盾。）
-- **记忆技巧**:  
-  希腊词根 `para-`（超越） + `doxa`（意见） → 超越一般看法 → “悖论”。
+### 4. **skeptical**  
+/ˈskeptɪkl/  
+**adj.** 持怀疑态度的；怀疑的  
+**例句：**  
+*Many scientists are skeptical about the new theory.*  
+许多科学家对这个新理论持怀疑态度。  
+**记忆技巧：**  
+- **词根词缀**：`skeptic`（怀疑者） + `-al`（形容词后缀） → 怀疑的。
 
 ---
 
-### 5. **reluctant**
-- **音标**: /rɪˈlʌktənt/
-- **词性**: 形容词
-- **释义**: 不情愿的；勉强的
-- **例句**: 
-  - *She was **reluctant** to admit her mistake.*  
-  （她不情愿承认自己的错误。）
-- **记忆技巧**:  
-  词根 `re-`（反） + `luct`（斗争） + `-ant` → 内心在斗争 → “不情愿的”。
+### 5. **substantial**  
+/səbˈstænʃl/  
+**adj.** 大量的；实质的；坚固的  
+**例句：**  
+*The company has made substantial progress this year.*  
+该公司今年取得了重大进展。  
+**记忆技巧：**  
+- **词根词缀**：`sub-`（在下面） + `stant`（站立） + `-ial` → 站得住脚的 → 实质的、大量的。
 
 ---
 
-### 6. **prudent**
-- **音标**: /ˈpruːdnt/
-- **词性**: 形容词
-- **释义**: 谨慎的；精明的
-- **例句**: 
-  - *It would be **prudent** to save some money for emergencies.*  
-  （存些钱以备紧急情况是明智的。）
-- **记忆技巧**:  
-  联想 `prudence`（审慎），发音类似“普鲁登斯”（人名），想象一个谨慎的人名。
+### 6. **prosperous**  
+/ˈprɑːspərəs/  
+**adj.** 繁荣的；成功的  
+**例句：**  
+*The city became prosperous through international trade.*  
+这座城市通过国际贸易变得繁荣。  
+**记忆技巧：**  
+- **词根词缀**：`prosper`（繁荣） + `-ous`（形容词后缀） → 繁荣的。
 
 ---
 
-### 7. **scrutinize**
-- **音标**: /ˈskruːtənaɪz/
-- **词性**: 动词
-- **释义**: 仔细检查；详细审查
-- **例句**: 
-  - *The committee will **scrutinize** all the applications.*  
-  （委员会将仔细审查所有申请。）
-- **记忆技巧**:  
-  词根 `scrut`（检查） + `-inize` → 进行检查 → “仔细审查”。
+### 7. **erode**  
+/ɪˈroʊd/  
+**v.** 侵蚀；腐蚀；逐渐削弱  
+**例句：**  
+*Public trust in the government has eroded over time.*  
+公众对政府的信任已随时间逐渐削弱。  
+**记忆技巧：**  
+- **联想**：读起来像“一肉的” → 水滴石穿（一肉的被侵蚀） → 侵蚀。
 
 ---
 
-### 8. **ambiguous**
-- **音标**: /æmˈbɪɡjuəs/
-- **词性**: 形容词
-- **释义**: 模棱两可的；含糊不清的
-- **例句**: 
-  - *His answer was deliberately **ambiguous**.*  
-  （他的回答故意模棱两可。）
-- **记忆技巧**:  
-  前缀 `ambi-`（两边） + `guous`（引导） → 可以引向两边 → “模棱两可的”。
+### 8. **discreet**  
+/dɪˈskriːt/  
+**adj.** 谨慎的；言行审慎的；不引人注目的  
+**例句：**  
+*She was always discreet about her colleagues' privacy.*  
+她对同事的隐私总是很谨慎。  
+**记忆技巧：**  
+- **对比**：注意与 `discrete`（离散的）区分。`discreet` 中有两个 `e` 紧挨着（像两个人小心地在一起） → 谨慎的。
 
 ---
 
-### 9. **resilient**
-- **音标**: /rɪˈzɪliənt/
-- **词性**: 形容词
-- **释义**: 有韧性的；能迅速恢复的
-- **例句**: 
-  - *Children are often more **resilient** than adults realize.*  
-  （孩子们往往比成人意识到的更有韧性。）
-- **记忆技巧**:  
-  词根 `re-`（回） + `sili`（跳跃） + `-ent` → 能够跳回 → “有恢复力的”。
+### 9. **prestige**  
+/preˈstiːʒ/  
+**n.** 威信，声望  
+**例句：**  
+*He enjoys considerable prestige in the academic field.*  
+他在学术界享有相当高的声望。  
+**记忆技巧：**  
+- **词源**：源自法语“幻觉、光环” → 带有光环 → 声望。
 
 ---
 
-### 10. **curiosity**
-- **音标**: /ˌkjʊriˈɑːsəti/
-- **词性**: 名词
-- **释义**: 好奇心；求知欲
-- **例句**: 
-  - *Her **curiosity** led her to explore new cultures.*  
-    （她的好奇心驱使她探索新的文化。）
-- **记忆技巧**:  
-  来自形容词 `curious`（好奇的） + `-ity`（名词后缀） → “好奇心”。
+### 10. **alleviate**  
+/əˈliːvieɪt/  
+**v.** 减轻（痛苦），缓和  
+**例句：**  
+*The medicine helped alleviate her headache.*  
+这药帮助减轻了她的头痛。  
+**记忆技巧：**  
+- **词根词缀**：`al-`（to） + `levi`（轻） + `-ate` → 使变轻 → 减轻。
 
 ---
 
-### 11. **alleviate**
-- **音标**: /əˈliːvieɪt/
-- **词性**: 动词
-- **释义**: 减轻；缓解（痛苦或问题）
-- **例句**: 
-  - *This medicine can **alleviate** the symptoms of the disease.*  
-  （这种药可以缓解疾病症状。）
-- **记忆技巧**:  
-  前缀 `al-`（向） + `levi`（轻） + `-ate` → 使之变轻 → “减轻”。
+### 11. **vulnerable**  
+/ˈvʌlnərəbl/  
+**adj.** 脆弱的；易受伤害的  
+**例句：**  
+*Children are particularly vulnerable to infections.*  
+儿童特别容易受到感染。  
+**记忆技巧：**  
+- **联想**：`vulner`（伤口） + `-able`（能被） → 能被打上伤口的 → 脆弱的。
 
 ---
 
-### 12. **contemplate**
-- **音标**: /ˈkɑːntəmpleɪt/
-- **词性**: 动词
-- **释义**: 沉思；深思熟虑；打算
-- **例句**: 
-  - *He sat quietly, **contemplating** his next move.*  
-  （他静静地坐着，思考下一步行动。）
-- **记忆技巧**:  
-  词根 `con-`（一起） + `templ`（观察） → 集中观察 → “沉思”。
+### 12. **adversely**  
+/ˈædvɜːrsli/  
+**adv.** 不利地；有害地  
+**例句：**  
+*The new policy adversely affected small businesses.*  
+新政策对小企业产生了不利影响。  
+**记忆技巧：**  
+- **词根词缀**：`adverse`（不利的） + `-ly`（副词后缀） → 不利地。
 
 ---
 
-### 13. **implication**
-- **音标**: /ˌɪmplɪˈkeɪʃn/
-- **词性**: 名词
-- **释义**: 含义；暗示；牵连
-- **例句**: 
-  - *What are the **implications** of this new policy?*  
-  （这项新政策有哪些影响？）
-- **记忆技巧**:  
-  来自动词 `imply`（暗示） + `-cation`（名词后缀） → “暗示；含义”。
+**✨ 今日学习小结：**
+这些词汇在六级阅读、听力和写作中出现频率很高。建议你：
+1.  **朗读**每个词的音标和例句，培养语感。
+2.  **尝试用新词造句**，加深理解。
+3.  **结合记忆技巧**联想记忆，事半功倍。
 
----
-
-### 14. **abundant**
-- **音标**: /əˈbʌndənt/
-- **词性**: 形容词
-- **释义**: 丰富的；充裕的
-- **例句**: 
-  - *The region has **abundant** natural resources.*  
-  （该地区自然资源丰富。）
-- **记忆技巧**:  
-  前缀 `ab-`（加强） + `und`（波浪） + `-ant` → 像波浪一样涌出 → “丰富的”。
-
----
-
-### 15. **relinquish**
-- **音标**: /rɪˈlɪŋkwɪʃ/
-- **词性**: 动词
-- **释义**: 放弃；交出（权力、要求等）
-- **例句**: 
-  - *He was forced to **relinquish** his control over the company.*  
-  （他被迫放弃了对公司的控制权。）
-- **记忆技巧**:  
-  前缀 `re-`（向后） + `linqu`（离开） + `-ish` → 向后离开 → “放弃”。
-
----
-
-### 💡 今日学习小贴士：
-- **词汇搭配**：试着用今天学的词造句，例如：“She reluctantly relinquished her position, despite her profound knowledge.”（她不情愿地放弃了职位，尽管她学识渊深。）
-- **复习建议**：睡前回顾一遍今日词汇，重点关注 **vulnerable, elaborate, scrutinize** 等易混淆词。
-
-坚持就是胜利，你已经走过了59天，继续加油！ 🎯
+坚持就是胜利，祝你学习愉快，六级高分在望！💪
