@@ -1,190 +1,189 @@
-# 📅 第61天：六级高频词汇学习
-
-**今日目标：** 掌握15个六级核心词汇，提升阅读与写作能力！
+# 📚 六级高频词汇 · 第62天
 
 ---
 
-### 1. reproach
-*   **音标：** /rɪˈproʊtʃ/
-*   **词性：** n./vt.
-*   **释义：** 责备，责备；丢脸
-*   **例句：**
-    *   He looked at her with **reproach** in his eyes.
-    *   他**责备**地看着她。
-    *   The teacher **reproached** the students for their laziness.
-    *   老师**责备**学生们懒惰。
-*   **记忆技巧：** 词根 “rope” 意为 “绳子”，前缀 “re-” 表示 “回来”。想象用绳子把自己拉回来，是因为做得不好受到了“责备”。
+## 1. **alleviate**  
+- **音标**: /əˈliːvieɪt/  
+- **词性**: v.  
+- **释义**: 缓和，减轻（痛苦或困难）  
+- **例句**:  
+  - *The medicine helped to alleviate her headache.*  
+  （这种药有助于缓解她的头痛。）  
+- **记忆技巧**:  
+  - 词根：`al-`（表强调） + `levi`（轻的，如leverage） + `-ate`（动词后缀）→ 使变轻 → 缓和。
 
 ---
 
-### 2. plausible
-*   **音标：** /ˈplɔːzəbl/
-*   **词性：** adj.
-*   **释义：** 貌似有理的，听起来可信的
-*   **例句：**
-    *   His excuse for being late was **plausible**, but I didn’t believe it.
-    *   他迟到的借口**听起来可信**，但我不信。
-    *   The theory seems **plausible** at first glance.
-    *   这个理论乍一看似乎**很合理**。
-*   **记忆技巧：** 词根 “plaus” 意为 “鼓掌”（如 applause 掌声）。一个观点能赢得掌声，说明它“听起来可信”。
+## 2. **ambiguous**  
+- **音标**: /æmˈbɪɡjuəs/  
+- **词性**: adj.  
+- **释义**: 模棱两可的，含糊不清的  
+- **例句**:  
+  - *His ambiguous reply made everyone confused.*  
+  （他模棱两可的回答让所有人感到困惑。）  
+- **记忆技巧**:  
+  - 联想：`ambi-`（两边） + `guous`（形容词后缀）→ 在两边摇摆 → 不明确。
 
 ---
 
-### 3. erroneous
-*   **音标：** /ɪˈroʊniəs/
-*   **词性：** adj.
-*   **释义：** 错误的，不正确的
-*   **例句：**
-    *   The report was based on **erroneous** information.
-    *   这份报告基于**错误的**信息。
-    *   It is **erroneous** to assume that money can buy happiness.
-    *   认为金钱能买到幸福是**错误的**。
-*   **记忆技巧：** 直接来自名词 “error” (错误)，形容词形式就是 “erroneous”。
+## 3. **bureaucracy**  
+- **音标**: /bjʊˈrɑːkrəsi/  
+- **词性**: n.  
+- **释义**: 官僚主义；官僚机构  
+- **例句**:  
+  - *Excessive bureaucracy can slow down decision-making.*  
+  （过度的官僚主义会拖慢决策过程。）  
+- **记忆技巧**:  
+  - 拆分：`bureau`（办公室） + `cracy`（统治）→ 办公室统治 → 官僚体系。
 
 ---
 
-### 4. profound
-*   **音标：** /prəˈfaʊnd/
-*   **词性：** adj.
-*   **释义：** 深刻的；渊博的；深度的
-*   **例句：**
-    *   The book had a **profound** impact on my thinking.
-    *   这本书对我的思想产生了**深远的**影响。
-    *   He is a **profound** thinker.
-    *   他是一位**思想渊博的**思想家。
-*   **记忆技巧：** 词根 “found” 有 “基础、底部” 的意思，“profound” 可以理解为 “深入基础的”，即“深刻的”。
+## 4. **coherent**  
+- **音标**: /koʊˈhɪrənt/  
+- **词性**: adj.  
+- **释义**: 连贯的，有条理的  
+- **例句**:  
+  - *She presented a coherent argument during the debate.*  
+  （她在辩论中提出了一个连贯的论点。）  
+- **记忆技巧**:  
+  - 词根：`co-`（一起） + `here`（粘连） + `-ent`（形容词后缀）→ 粘在一起 → 连贯。
 
 ---
 
-### 5. resilient
-*   **音标：** /rɪˈzɪliənt/
-*   **词性：** adj.
-*   **释义：** 有韧性的；能恢复的；适应性强的
-*   **例句：**
-    *   Children are often more **resilient** than adults.
-    *   孩子们通常比成年人更有**韧性**，恢复力更强。
-    *   The team showed great **resilience** after the defeat.
-    *   这支队伍在失败后表现出了极大的**韧性**。
-*   **记忆技巧：** 词根 “sili” 意为 “跳跃”（如 resiliency 弹回），前缀 “re-” 表示 “再次”。能再次跳起来，即“有韧性”。
+## 5. **demographic**  
+- **音标**: /ˌdeməˈɡræfɪk/  
+- **词性**: adj./n.  
+- **释义**: 人口统计的；人口统计数据  
+- **例句**:  
+  - *The product targets a specific demographic group.*  
+  （该产品针对特定的人口群体。）  
+- **记忆技巧**:  
+  - 词根：`demo-`（人民，如democracy） + `graphic`（写、画）→ 描绘人民情况 → 人口统计。
 
 ---
 
-### 6. lethargic
-*   **音标：** /ləˈθɑːrdʒɪk/
-*   **词性：** adj.
-*   **释义：** 昏昏欲睡的；无精打采的；迟钝的
-*   **例句：**
-    *   I felt **lethargic** after the heavy meal.
-    *   饱餐一顿后我感到**昏昏欲睡**。
-    *   The **lethargic** pace of the reforms frustrated many people.
-    *   改革**迟缓的**步伐让许多人感到沮丧。
-*   **记忆技巧：** 发音联想 “离塔记刻” -> 离开塔的那一刻，就想睡觉，感觉“无精打采”。
+## 6. **empirical**  
+- **音标**: /ɪmˈpɪrɪkl/  
+- **词性**: adj.  
+- **释义**: 经验主义的；以实验为依据的  
+- **例句**:  
+  - *The theory needs to be supported by empirical evidence.*  
+  （这个理论需要实证证据的支持。）  
+- **记忆技巧**:  
+  - 联想：源自`empire`（帝国） + `ical`→ 帝国通过经验统治 → 经验主义。
 
 ---
 
-### 7. prudent
-*   **音标：** /ˈpruːdnt/
-*   **词性：** adj.
-*   **释义：** 谨慎的，慎重的；精明的
-*   **例句：**
-    *   It would be **prudent** to save some money for emergencies.
-    *   储蓄一些钱以备不时之需是**谨慎的**做法。
-    *   She made a **prudent** decision.
-    *   她做出了一个**明智的**决定。
-*   **记忆技巧：** 发音联想 “破入等的” -> 破门前要等一等，观察情况，这就是“谨慎”。
+## 7. **foster**  
+- **音标**: /ˈfɑːstər/  
+- **词性**: v.  
+- **释义**: 培养，促进；收养  
+- **例句**:  
+  - *Good teachers foster a love of learning in their students.*  
+  （好老师会培养学生对学习的热爱。）  
+- **记忆技巧**:  
+  - 联想：`forster`（古英语中意为“收养者”）→ 收养、培养。
 
 ---
 
-### 8. ubiquitous
-*   **音标：** /juːˈbɪkwɪtəs/
-*   **词性：** adj.
-*   **释义：** 无所不在的，普遍存在的
-*   **例句：**
-    *   Smartphones have become **ubiquitous** in modern life.
-    *   智能手机在现代生活中已经变得**无处不在**。
-    *   The **ubiquitous** presence of social media affects our communication.
-    *   **无处不在的**社交媒体影响着我们的交流。
-*   **记忆技巧：** 词根 “ubiquit” 源于拉丁语，意为 “存在于任何地方”。可以联想 “优必去它斯” -> 优等生哪里都必须去，所以“无处不在”。
+## 8. **gregarious**  
+- **音标**: /ɡrɪˈɡeriəs/  
+- **词性**: adj.  
+- **释义**: 爱交际的；合群的  
+- **例句**:  
+  - *He is a gregarious person who enjoys parties.*  
+  （他是一个喜欢交际的人，热衷于参加聚会。）  
+- **记忆技巧**:  
+  - 词根：`greg-`（群体，如aggregate） + `-arious`（形容词后缀）→ 喜欢群体的 → 合群。
 
 ---
 
-### 9. spontaneous
-*   **音标：** /spɑːnˈteɪniəs/
-*   **词性：** adj.
-*   **释义：** 自发的；自然的；未经计划的
-*   **例句：**
-    *   The audience broke into **spontaneous** applause.
-    *   观众爆发出**自发的**掌声。
-    *   She is a very **spontaneous** person who loves adventure.
-    *   她是一个非常**率性而为的**人，热爱冒险。
-*   **记忆技巧：** 词根 “spon” 意为 “自己”（如 sponsor 赞助人，发起者）。“自己”产生或发生的，即“自发的”。
+## 9. **impede**  
+- **音标**: /ɪmˈpiːd/  
+- **词性**: v.  
+- **释义**: 阻碍，妨碍  
+- **例句**:  
+  - *The bad weather will impede our travel plans.*  
+  （恶劣的天气将妨碍我们的旅行计划。）  
+- **记忆技巧**:  
+  - 词根：`im-`（进入） + `pede`（脚，如pedestrian）→ 把脚陷进去 → 阻碍。
 
 ---
 
-### 10. ambiguous
-*   **音标：** /æmˈbɪɡjuəs/
-*   **词性：** adj.
-*   **释义：** 模棱两可的，含糊不清的
-*   **例句：**
-    *   The wording of the law is **ambiguous**.
-    *   这条法律的措辞**模棱两可**。
-    *   His answer was deliberately **ambiguous**.
-    *   他的回答故意**含糊其辞**。
-*   **记忆技巧：** 前缀 “ambi-” 表示 “两者”（如 ambidextrous 双手都灵巧的）。一个词有“两者”含义，所以是“模棱两可的”。
+## 10. **juxtapose**  
+- **音标**: /ˌdʒʌkstəˈpoʊz/  
+- **词性**: v.  
+- **释义**: 并列，并置  
+- **例句**:  
+  - *The artist juxtaposed light and dark colors in the painting.*  
+  （这位艺术家在画中并置了明暗色彩。）  
+- **记忆技巧**:  
+  - 词根：`juxta-`（近旁） + `pose`（放置）→ 放在旁边 → 并列。
 
 ---
 
-### 11. lucrative
-*   **音标：** /ˈluːkrətɪv/
-*   **词性：** adj.
-*   **释义：** 利润丰厚的，赚钱的
-*   **例句：**
-    *   She left her job for a more **lucrative** career.
-    *   她辞去了工作，转向了一个更**赚钱的**职业。
-    *   The deal proved to be extremely **lucrative**.
-    *   这笔交易被证明利润**非常丰厚**。
-*   **记忆技巧：** 词根 “luc” 意为 “光、钱”（如 lucre 钱财）。“-ative” 是形容词后缀。闪闪发光（的钱）的，即“赚钱的”。
+## 11. **meticulous**  
+- **音标**: /məˈtɪkjələs/  
+- **词性**: adj.  
+- **释义**: 一丝不苟的，非常仔细的  
+- **例句**:  
+  - *She is meticulous about keeping her workspace tidy.*  
+  （她对保持工作空间整洁一丝不苟。）  
+- **记忆技巧**:  
+  - 联想：`metic`（胆小的） + `ulous`→ 像胆小的人一样小心 → 仔细。
 
 ---
 
-### 12. paradigm
-*   **音标：** /ˈpærədaɪm/
-*   **词性：** n.
-*   **释义：** 范例；模式；范式
-*   **例句：**
-    *   The internet has created a new **paradigm** for communication.
-    *   互联网创造了一种新的交流**范式**。
-    *   This discovery led to a **paradigm** shift in physics.
-    *   这一发现引发了物理学的**范式**转变。
-*   **记忆技巧：** 拆分为 “para-” (类似，旁边) + “dig” (显示)。在旁边显示的“模型”或“样板”。
+## 12. **paradigm**  
+- **音标**: /ˈpærədaɪm/  
+- **词性**: n.  
+- **释义**: 范式；典范；模式  
+- **例句**:  
+  - *The discovery caused a paradigm shift in scientific thinking.*  
+  （这一发现导致了科学思维的范式转变。）  
+- **记忆技巧**:  
+  - 联想：`para-`（旁边） + `digm`（显示）→ 并排显示的样板 → 范式。
 
 ---
 
-### 13. leverage
-*   **音标：** /ˈlevərɪdʒ/
-*   **词性：** n./vt.
-*   **释义：** n. 杠杆作用；影响力；v. 利用；充分利用
-*   **例句：**
-    *   The company used its financial **leverage** to acquire a rival.
-    *   这家公司利用其财务**杠杆**收购了一家竞争对手。
-    *   We must **leverage** technology to improve efficiency.
-    *   我们必须**利用**技术来提高效率。
-*   **记忆技巧：** 核心词是 “lever” (杠杆)。名词指“杠杆作用”，动词指像用杠杆一样“撬动”资源，即“利用”。
+## 13. **rhetoric**  
+- **音标**: /ˈretərɪk/  
+- **词性**: n.  
+- **释义**: 修辞学；华丽辞藻  
+- **例句**:  
+  - *His speech was full of empty rhetoric.*  
+  （他的演讲充满了空洞的辞藻。）  
+- **记忆技巧**:  
+  - 词源：来自希腊语`rhetor`（演讲者）→ 演讲的技巧 → 修辞。
 
 ---
 
-### 14. discrepancy
-*   **音标：** /dɪˈskrepənsi/
-*   **词性：** n.
-*   **释义：** 差异，不一致；矛盾
-*   **例句：**
-    *   There is a significant **discrepancy** between the two reports.
-    *   两份报告之间存在着显著的**差异**。
-    *   The **discrepancy** in their ages never mattered to them.
-    *   他们年龄上的**差距**从未对他们产生过影响。
-*   **记忆技巧：** 词根 “crep” 意为 “响声、裂缝”。不一致的地方就像有了“裂缝”，发出不和谐的声音。
+## 14. **scrutinize**  
+- **音标**: /ˈskruːtənaɪz/  
+- **词性**: v.  
+- **释义**: 仔细审查，细查  
+- **例句**:  
+  - *The committee will scrutinize the budget proposals.*  
+  （委员会将仔细审查预算提案。）  
+- **记忆技巧**:  
+  - 词根：`scrut-`（检查） + `-inize`（动词后缀）→ 反复检查 → 细查。
 
 ---
 
-### 15. advocate
-*   **音标：
+## 15. **tangible**  
+- **音标**: /ˈtændʒəbl/  
+- **词性**: adj.  
+- **释义**: 有形的，可触摸的；切实的  
+- **例句**:  
+  - *We need tangible results from this project.*  
+  （我们需要这个项目带来切实的成果。）  
+- **记忆技巧**:  
+  - 词根：`tang-`（触摸，如tactile） + `-ible`（能够）→ 能触摸到的 → 有形。
+
+---
+
+> **学习小贴士** 📖：  
+> 建议每天复习前一天的词汇，并尝试用新词造句。坚持积累，六级词汇量会稳步提升！ 💪
+
+---
+*本列表根据近年六级真题高频词整理，适合每日巩固记忆。*
