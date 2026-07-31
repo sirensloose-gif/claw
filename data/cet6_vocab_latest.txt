@@ -1,189 +1,105 @@
-# 📚 六级高频词汇 · 第62天
+# 📚 六级高频词汇学习（第63天）
+
+## 1. **scrutiny**  
+/ˈskruːtəni/  
+**n.** 详细审查，监视  
+**释义：** 仔细检查或审视的行为。  
+**例句：** The proposal has come under intense scrutiny from the committee.  
+（该提案正受到委员会的严格审查。）  
+**记忆技巧：** 词根 *scrut-*（检查）+ *-in- + -y* → 像用放大镜（放大）检查细节。
+
+## 2. **perpetuate**  
+/pərˈpetʃuˌeɪt/  
+**v.** 使永久化，使延续  
+**释义：** 使某种状态、习俗等持续不断。  
+**例句：** Social media can perpetuate harmful stereotypes.  
+（社交媒体可能延续有害的刻板印象。）  
+**记忆技巧：** 词根 *per-*（贯穿）+ *pet-*（追求）+ *-uate* → 一直追求→永久化。
+
+## 3. **coherent**  
+/koʊˈhɪrənt/  
+**adj.** 连贯的，有条理的  
+**释义：** 各部分之间逻辑清晰、相互关联的。  
+**例句：** The essay presents a coherent argument for renewable energy.  
+（这篇文章对可再生能源提出了连贯的论点。）  
+**记忆技巧：** 前缀 *co-*（共同）+ *her-*（粘连）+ *-ent* → 粘在一起→连贯的。
+
+## 4. **volatile**  
+/ˈvɑːlətl/  
+**adj.** 不稳定的；易挥发的  
+**释义：** 情绪、局势等容易急剧变化的。  
+**例句：** The stock market has been highly volatile this week.  
+（本周股市波动剧烈。）  
+**记忆技巧：** 联想 *volcano*（火山）→ 火山易爆发→不稳定的。
+
+## 5. **paradigm**  
+/ˈpærədaɪm/  
+**n.** 范例，典范；范式  
+**释义：** 某一领域中被广泛接受的模式或范例。  
+**例句：** The discovery created a new paradigm in genetic research.  
+（这一发现为基因研究创造了新的范式。）  
+**记忆技巧：** 联想“天堂的典范” → *para-*（超越）+ *digm*（显示）→超越显示的范本。
+
+## 6. **profound**  
+/prəˈfaʊnd/  
+**adj.** 深刻的；渊博的  
+**释义：** 程度极深的，或思想深奥的。  
+**例句：** The book had a profound impact on her worldview.  
+（这本书对她的世界观产生了深刻影响。）  
+**记忆技巧：** 前缀 *pro-*（向前）+ *found*（基础）→深入到基础→深刻的。
+
+## 7. **mitigate**  
+/ˈmɪtɪɡeɪt/  
+**v.** 缓和，减轻  
+**释义：** 使有害事物的严重性降低。  
+**例句：** Measures were taken to mitigate the effects of pollution.  
+（采取了措施来减轻污染的影响。）  
+**记忆技巧：** 联想 *mitten*（手套）→ 戴手套“缓解”寒冷→减轻。
+
+## 8. **ambiguous**  
+/æmˈbɪɡjuəs/  
+**adj.** 模棱两可的，含糊的  
+**释义：** 有多种可能解释的，不明确的。  
+**例句：** The contract’s wording is ambiguous, leading to disputes.  
+（合同条款含糊其辞，导致了争议。）  
+**记忆技巧：** 前缀 *ambi-*（两边）+ *guous* → 可往两边理解→模棱两可的。
+
+## 9. **spontaneous**  
+/spɑːnˈteɪniəs/  
+**adj.** 自发的，自然的  
+**释义：** 非事先计划、自然而然产生的。  
+**例句：** The audience broke into spontaneous applause.  
+（观众自发地鼓起掌来。）  
+**记忆技巧：** 联想“spon”（谐音“松”）→ 松弛自然→自发的。
+
+## 10. **futile**  
+/ˈfjuːtl/  
+**adj.** 徒劳的，无用的  
+**释义：** 无法达成任何目的或效果的。  
+**例句：** It is futile to resist change; we must adapt.  
+（抵抗变革是徒劳的；我们必须适应。）  
+**记忆技巧：** 联想 *future*（未来）→ 没有未来的→徒劳的。
+
+## 11. **resilient**  
+/rɪˈzɪliənt/  
+**adj.** 有韧性的，能迅速恢复的  
+**释义：** 遭受挫折后能快速复原的。  
+**例句：** Children are often more resilient than adults think.  
+（孩子们往往比成年人想象的更有韧性。）  
+**记忆技巧：** 词根 *re-*（回）+ *sili-*（跳）+ *-ent* → 跳回原状→有韧性的。
+
+## 12. **pragmatic**  
+/præɡˈmætɪk/  
+**adj.** 务实的，注重实效的  
+**释义：** 注重实际效果而非理论或理想的。  
+**例句：** We need a pragmatic approach to solve this problem.  
+（我们需要用务实的方法来解决这个问题。）  
+**记忆技巧：** 联想 *practical*（实际的）→发音相近→务实的。
 
 ---
+💡 **学习提示：**
+- 建议将例句抄写并尝试仿写，以加深理解。
+- 每个词汇的记忆技巧可结合个人联想进行扩展。
+- 每日坚持，积累高频词汇，六级阅读和写作将更加得心应手！
 
-## 1. **alleviate**  
-- **音标**: /əˈliːvieɪt/  
-- **词性**: v.  
-- **释义**: 缓和，减轻（痛苦或困难）  
-- **例句**:  
-  - *The medicine helped to alleviate her headache.*  
-  （这种药有助于缓解她的头痛。）  
-- **记忆技巧**:  
-  - 词根：`al-`（表强调） + `levi`（轻的，如leverage） + `-ate`（动词后缀）→ 使变轻 → 缓和。
-
----
-
-## 2. **ambiguous**  
-- **音标**: /æmˈbɪɡjuəs/  
-- **词性**: adj.  
-- **释义**: 模棱两可的，含糊不清的  
-- **例句**:  
-  - *His ambiguous reply made everyone confused.*  
-  （他模棱两可的回答让所有人感到困惑。）  
-- **记忆技巧**:  
-  - 联想：`ambi-`（两边） + `guous`（形容词后缀）→ 在两边摇摆 → 不明确。
-
----
-
-## 3. **bureaucracy**  
-- **音标**: /bjʊˈrɑːkrəsi/  
-- **词性**: n.  
-- **释义**: 官僚主义；官僚机构  
-- **例句**:  
-  - *Excessive bureaucracy can slow down decision-making.*  
-  （过度的官僚主义会拖慢决策过程。）  
-- **记忆技巧**:  
-  - 拆分：`bureau`（办公室） + `cracy`（统治）→ 办公室统治 → 官僚体系。
-
----
-
-## 4. **coherent**  
-- **音标**: /koʊˈhɪrənt/  
-- **词性**: adj.  
-- **释义**: 连贯的，有条理的  
-- **例句**:  
-  - *She presented a coherent argument during the debate.*  
-  （她在辩论中提出了一个连贯的论点。）  
-- **记忆技巧**:  
-  - 词根：`co-`（一起） + `here`（粘连） + `-ent`（形容词后缀）→ 粘在一起 → 连贯。
-
----
-
-## 5. **demographic**  
-- **音标**: /ˌdeməˈɡræfɪk/  
-- **词性**: adj./n.  
-- **释义**: 人口统计的；人口统计数据  
-- **例句**:  
-  - *The product targets a specific demographic group.*  
-  （该产品针对特定的人口群体。）  
-- **记忆技巧**:  
-  - 词根：`demo-`（人民，如democracy） + `graphic`（写、画）→ 描绘人民情况 → 人口统计。
-
----
-
-## 6. **empirical**  
-- **音标**: /ɪmˈpɪrɪkl/  
-- **词性**: adj.  
-- **释义**: 经验主义的；以实验为依据的  
-- **例句**:  
-  - *The theory needs to be supported by empirical evidence.*  
-  （这个理论需要实证证据的支持。）  
-- **记忆技巧**:  
-  - 联想：源自`empire`（帝国） + `ical`→ 帝国通过经验统治 → 经验主义。
-
----
-
-## 7. **foster**  
-- **音标**: /ˈfɑːstər/  
-- **词性**: v.  
-- **释义**: 培养，促进；收养  
-- **例句**:  
-  - *Good teachers foster a love of learning in their students.*  
-  （好老师会培养学生对学习的热爱。）  
-- **记忆技巧**:  
-  - 联想：`forster`（古英语中意为“收养者”）→ 收养、培养。
-
----
-
-## 8. **gregarious**  
-- **音标**: /ɡrɪˈɡeriəs/  
-- **词性**: adj.  
-- **释义**: 爱交际的；合群的  
-- **例句**:  
-  - *He is a gregarious person who enjoys parties.*  
-  （他是一个喜欢交际的人，热衷于参加聚会。）  
-- **记忆技巧**:  
-  - 词根：`greg-`（群体，如aggregate） + `-arious`（形容词后缀）→ 喜欢群体的 → 合群。
-
----
-
-## 9. **impede**  
-- **音标**: /ɪmˈpiːd/  
-- **词性**: v.  
-- **释义**: 阻碍，妨碍  
-- **例句**:  
-  - *The bad weather will impede our travel plans.*  
-  （恶劣的天气将妨碍我们的旅行计划。）  
-- **记忆技巧**:  
-  - 词根：`im-`（进入） + `pede`（脚，如pedestrian）→ 把脚陷进去 → 阻碍。
-
----
-
-## 10. **juxtapose**  
-- **音标**: /ˌdʒʌkstəˈpoʊz/  
-- **词性**: v.  
-- **释义**: 并列，并置  
-- **例句**:  
-  - *The artist juxtaposed light and dark colors in the painting.*  
-  （这位艺术家在画中并置了明暗色彩。）  
-- **记忆技巧**:  
-  - 词根：`juxta-`（近旁） + `pose`（放置）→ 放在旁边 → 并列。
-
----
-
-## 11. **meticulous**  
-- **音标**: /məˈtɪkjələs/  
-- **词性**: adj.  
-- **释义**: 一丝不苟的，非常仔细的  
-- **例句**:  
-  - *She is meticulous about keeping her workspace tidy.*  
-  （她对保持工作空间整洁一丝不苟。）  
-- **记忆技巧**:  
-  - 联想：`metic`（胆小的） + `ulous`→ 像胆小的人一样小心 → 仔细。
-
----
-
-## 12. **paradigm**  
-- **音标**: /ˈpærədaɪm/  
-- **词性**: n.  
-- **释义**: 范式；典范；模式  
-- **例句**:  
-  - *The discovery caused a paradigm shift in scientific thinking.*  
-  （这一发现导致了科学思维的范式转变。）  
-- **记忆技巧**:  
-  - 联想：`para-`（旁边） + `digm`（显示）→ 并排显示的样板 → 范式。
-
----
-
-## 13. **rhetoric**  
-- **音标**: /ˈretərɪk/  
-- **词性**: n.  
-- **释义**: 修辞学；华丽辞藻  
-- **例句**:  
-  - *His speech was full of empty rhetoric.*  
-  （他的演讲充满了空洞的辞藻。）  
-- **记忆技巧**:  
-  - 词源：来自希腊语`rhetor`（演讲者）→ 演讲的技巧 → 修辞。
-
----
-
-## 14. **scrutinize**  
-- **音标**: /ˈskruːtənaɪz/  
-- **词性**: v.  
-- **释义**: 仔细审查，细查  
-- **例句**:  
-  - *The committee will scrutinize the budget proposals.*  
-  （委员会将仔细审查预算提案。）  
-- **记忆技巧**:  
-  - 词根：`scrut-`（检查） + `-inize`（动词后缀）→ 反复检查 → 细查。
-
----
-
-## 15. **tangible**  
-- **音标**: /ˈtændʒəbl/  
-- **词性**: adj.  
-- **释义**: 有形的，可触摸的；切实的  
-- **例句**:  
-  - *We need tangible results from this project.*  
-  （我们需要这个项目带来切实的成果。）  
-- **记忆技巧**:  
-  - 词根：`tang-`（触摸，如tactile） + `-ible`（能够）→ 能触摸到的 → 有形。
-
----
-
-> **学习小贴士** 📖：  
-> 建议每天复习前一天的词汇，并尝试用新词造句。坚持积累，六级词汇量会稳步提升！ 💪
-
----
-*本列表根据近年六级真题高频词整理，适合每日巩固记忆。*
+明日预告：第64天词汇主题——**科技与创新领域高频词**。加油！ 🌟
