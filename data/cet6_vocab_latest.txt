@@ -1,122 +1,103 @@
-# 六级高频词汇学习 - 第64天
+# 六级高频词汇学习 | 第65天
 
-今天准备了12个精选高频词汇，涵盖多种词性，希望能助你备考一臂之力！
-
----
-
-### 1. **elaborate** 
-*   **音标**：/ɪˈlæbərət/ 
-*   **词性**：adj. / v.
-*   **中文释义**：
-    *   **adj.** 精心制作的；详细阐述的；复杂精巧的。
-    *   **v.** 详细说明；精心制作。
-*   **例句**：
-    *   **英文**：She had prepared an **elaborate** plan for the project, which impressed everyone.
-    *   **中文**：她为项目准备了一个**精心设计的**方案，给每个人都留下了深刻印象。
-*   **记忆技巧**：词根“labor”表示“劳动、工作”。加前缀“e-”（表“出”）和后缀“-ate”，即“精心工作出来的”，引申为“精心制作的”或“详细阐述”。
-
-### 2. **coherent**
-*   **音标**：/koʊˈhɪrənt/
-*   **词性**：adj.
-*   **中文释义**：连贯的，条理清楚的；一致的，协调的。
-*   **例句**：
-    *   **英文**：To win the debate, you need to present a **coherent** argument supported by evidence.
-    *   **中文**：要赢得辩论，你需要提出一个有证据支持的**连贯的**论点。
-*   **记忆技巧**：词根“co-”（共同）+ “her-”（粘，如 adhere 粘附）+ “-ent”（形容词后缀），表示“粘在一起的”，引申为“连贯的、有逻辑的”。
-
-### 3. **scrutiny**
-*   **音标**：/ˈskruːtəni/
-*   **词性**：n.
-*   **中文释义**：详细审查，仔细检查；监视。
-*   **例句**：
-    *   **英文**：The report is currently under close **scrutiny** by government officials.
-    *   **中文**：这份报告目前正受到政府官员的严密**审查**。
-*   **记忆技巧**：联想“scru-”像“screw”（螺丝），拧螺丝检查是否牢固，引申为“仔细检查”。
-
-### 4. **fluctuate**
-*   **音标**：/ˈflʌktʃueɪt/
-*   **词性**：v.
-*   **中文释义**：波动，变动，涨落。
-*   **例句**：
-    *   **英文**：The price of oil has **fluctuated** greatly over the past year.
-    *   **中文**：过去一年里，石油价格**波动**很大。
-*   **记忆技巧**：词根“flu-”（流，如 fluid 流动的）+ “-ate”（动词后缀），像水流一样“波动、起伏”。
-
-### 5. **subsequent**
-*   **音标**：/ˈsʌbsɪkwənt/
-*   **词性**：adj.
-*   **中文释义**：随后的，后来的。
-*   **例句**：
-    *   **英文**：We are aware of the initial problem and the **subsequent** efforts to fix it.
-    *   **中文**：我们了解最初的问题以及**随后的**解决努力。
-*   **记忆技巧**：词根“sub-”（在…之下，后）+ “sequ-”（跟随，如 sequence 序列）+ “-ent”，表示“跟在后面来的”，即“随后的”。
-
-### 6. **undermine**
-*   **音标**：/ˌʌndərˈmaɪn/
-*   **词性**：v.
-*   **中文释义**：逐渐削弱；暗中破坏；破坏…的基础。
-*   **例句**：
-    *   **英文**：Constant criticism can seriously **undermine** a child's confidence.
-    *   **中文**：持续的批评会严重**削弱**孩子的自信心。
-*   **记忆技巧**：under（下面）+ mine（采矿），字面意思是“在下方挖矿”，引申为“从根基处破坏，暗中削弱”。
-
-### 7. **resilient**
-*   **音标**：/rɪˈzɪliənt/
-*   **词性**：adj.
-*   **中文释义**：有弹性的；适应力强的，能迅速恢复的。
-*   **例句**：
-    *   **英文**：Children are often more emotionally **resilient** than adults give them credit for.
-    *   **中文**：孩子们往往比大人认为的更有情感上的**韧性**。
-*   **记忆技巧**：来自“resilience”（弹性、恢复力）。“re-”（回）+ “sil-”（跳），即“跳回来”，形容“有弹性、能恢复”。
-
-### 8. **advocate**
-*   **音标**：/ˈædvəkeɪt/ (v.) / ˈædvəkət/ (n.)
-*   **词性**：v. / n.
-*   **中文释义**：
-    *   **v.** 提倡，主张，拥护。
-    *   **n.** 提倡者，拥护者。
-*   **例句**：
-    *   **英文**：The organization **advocates** for the rights of refugees.
-    *   **中文**：该组织**倡导**难民的权利。
-*   **记忆技巧**：词根“ad-”（向）+ “voc-”（声音，喊叫，如 voice），即“为某事喊话”，引申为“提倡、主张”。
-
-### 9. **chronic**
-*   **音标**：/ˈkrɑːnɪk/
-*   **词性**：adj.
-*   **中文释义**：（疾病）慢性的；长期的，习惯性的。
-*   **例句**：
-    *   **英文**：He suffers from **chronic** back pain that makes it hard to sleep.
-    *   **中文**：他患有**慢性**背痛，导致难以入睡。
-*   **记忆技巧**：词根“chron-”（时间，如 chronological 按时间顺序的），表示“长时间的”，即“慢性的、长期的”。
-
-### 10. **paradox**
-*   **音标**：/ˈpærədɑːks/
-*   **词性**：n.
-*   **中文释义**：悖论，矛盾的事物/观点。
-*   **例句**：
-    *   **英文**：It's a **paradox** that more information can sometimes lead to worse decision-making.
-    *   **中文**：更多的信息有时反而会导致更差的决策，这真是一个**悖论**。
-*   **记忆技巧**：词根“para-”（超越）+ “dox-”（观点，如 orthodox 正统的），字面意思是“超越常规的观点”，与常理相悖，即“悖论”。
-
-### 11. **integrity**
-*   **音标**：/ɪnˈteɡrəti/
-*   **词性**：n.
-*   **中文释义**：正直，诚实；完整，完善。
-*   **例句**：
-    *   **英文**：A politician must act with **integrity** to earn public trust.
-    *   **中文**：政治家必须**正直**行事才能赢得公众信任。
-*   **记忆技巧**：词根“integr-”（完整，未受损，如 integrate 整合）+ “-ity”（名词后缀），表示“完整无损的状态”，引申为“品格上的完整”即“正直”。
-
-### 12. **discrepancy**
-*   **音标**：/dɪˈskrepənsi/
-*   **词性**：n.
-*   **中文释义**：差异，不一致；矛盾。
-*   **例句**：
-    *   **英文**：There is a significant **discrepancy** between the survey results and the actual sales data.
-    *   **中文**：调查结果与实际销售数据之间存在显著**差异**。
-*   **记忆技巧**：前缀“dis-”（分开）+ “crep-”（破裂声，来自 crepitus）+ “-ancy”，像东西破裂分开的声音，引申为“出现差异、不一致”。
+以下是为您精心挑选的10个六级高频词汇，涵盖不同词性，并配有详细解析和记忆技巧。
 
 ---
-**学习小贴士**：今天学习的重点词汇如 **elaborate**、**coherent** 和 **undermine** 在写作和阅读中非常常见。尝试用每个新词造一个句子，这样记忆会更深刻哦！
 
-祝你学习愉快，备考顺利！加油！ 📚
+### 1. **ambiguous**
+- **音标**： [æmˈbɪɡjuəs]
+- **词性**： adj.
+- **释义**： 模棱两可的，含糊不清的
+- **例句**：
+    * His instructions were so **ambiguous** that nobody understood what to do next.
+    * （他的指示如此**模棱两可**，以至于没人明白接下来该做什么。）
+- **记忆技巧**： 词根 `amb-` 表示“两个”，`-igu-` 来自 `agere`（驱动）。想象被两个方向驱动，就会感到“模棱两可”。
+
+### 2. **scrutiny**
+- **音标**： [ˈskruːtəni]
+- **词性**： n.
+- **释义**： 仔细检查，详细审查
+- **例句**：
+    * The government’s policy is under intense public **scrutiny**.
+    * （政府政策正受到公众的严密**审查**。）
+- **记忆技巧**： 联想单词 `screen`（屏幕），仔细检查就像用放大镜看屏幕上的每一个细节。
+
+### 3. **exemplify**
+- **音标**： [ɪɡˈzemplɪfaɪ]
+- **词性**： v.
+- **释义**： 是...的典型；举例说明
+- **例句**：
+    * This case **exemplifies** the importance of having a good lawyer.
+    * （这个案件**充分说明**了拥有好律师的重要性。）
+- **记忆技巧**： 来自名词 `example`（例子）。`-ify` 是动词后缀，表示“使成为”，所以就是“使成为一个例子”。
+
+### 4. **coherent**
+- **音标**： [koʊˈhɪrənt]
+- **词性**： adj.
+- **释义**： 连贯的，有条理的
+- **例句**：
+    * You must present a **coherent** argument if you want to persuade the committee.
+    * （如果你想说服委员会，就必须提出**连贯**的论点。）
+- **记忆技巧**： 词根 `co-`（共同） + `her-`（粘） + `-ent`（形容词后缀）。像胶水一样把想法“粘”在一起，使其“连贯”。
+
+### 5. **prudent**
+- **音标**： [ˈpruːdnt]
+- **词性**： adj.
+- **释义**： 谨慎的，精明的
+- **例句**：
+    * It would be **prudent** to save some money for an emergency.
+    * （为紧急情况存点钱是**明智**的。）
+- **记忆技巧**： 词根 `prud-` 与 `provide`（提供）有关。提前为未来提供保障，是一种“谨慎”的行为。
+
+### 6. **mitigate**
+- **音标**： [ˈmɪtɪɡeɪt]
+- **词性**： v.
+- **释义**： 减轻，缓和
+- **例句**：
+    * The government introduced measures to **mitigate** the effects of the drought.
+    * （政府采取了措施来**减轻**干旱的影响。）
+- **记忆技巧**： 词根 `mit-`（投掷） + `ig-` + `ate`（动词后缀）。想象把坏的东西“扔掉”，从而“减轻”它的影响。
+
+### 7. **prosperity**
+- **音标**： [prɑːˈsperəti]
+- **词性**： n.
+- **释义**： 繁荣，成功
+- **例句**：
+    * The country enjoyed a period of unprecedented economic **prosperity**.
+    * （该国经历了一段前所未有的经济**繁荣**时期。）
+- **记忆技巧**： 词根 `pro-`（向前） + `sper-`（希望）。充满“希望”并向前发展，就会带来“繁荣”。
+
+### 8. **prevalent**
+- **音标**： [ˈprevələnt]
+- **词性**： adj.
+- **释义**： 流行的，盛行的，普遍的
+- **例句**：
+    * Corruption is **prevalent** in some government departments.
+    * （腐败在某些政府部门中**普遍存在**。）
+- **记忆技巧**： 词根 `val-`（力量，价值）表示“有力量的、有价值的”，`pre-`（在前面）。有力量的、站前面的，就是“盛行的”。
+
+### 9. **alleviate**
+- **音标**： [əˈliːvieɪt]
+- **词性**： v.
+- **释义**： 减轻，缓和（痛苦或问题）
+- **例句**：
+    * The medicine helped to **alleviate** her headache.
+    * （这种药有助于**减轻**她的头痛。）
+- **记忆技巧**： 前缀 `al-`（= ad-，朝向） + `levi-`（轻的，来自词根 `lev`） + `ate`（动词后缀）。使某物变得“更轻”，就是“减轻”。
+
+### 10. **unprecedented**
+- **音标**： [ʌnˈpresɪdentɪd]
+- **词性**： adj.
+- **释义**： 前所未有的，空前的
+- **例句**：
+    * The pandemic caused **unprecedented** disruption to global travel.
+    * （这场疫情对全球旅行造成了**前所未有的**中断。）
+- **记忆技巧**： 前缀 `un-`（不） + `precedented`（有先例的，来自 `precedent`）。合起来就是“没有先例的”，即“空前的”。
+
+---
+**学习建议**：
+1.  **造句练习**：尝试用今天学到的词汇，每个词自己造一个句子，加深理解。
+2.  **复习回顾**：晚上花几分钟时间，遮住中文释义和记忆技巧，回想每个单词的含义和用法。
+3.  **关注搭配**：在查阅词典时，多留意这些词汇的常用搭配（如 `alleviate poverty`, `under scrutiny`）。
+
+坚持每日积累，词汇量会越来越扎实！祝您备考顺利！
