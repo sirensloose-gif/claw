@@ -1,133 +1,80 @@
-# 六级高频词汇学习 - 第66天
+# 📚 六级高频词汇学习 - 第67天
 
-以下是为你精选的今日12个六级高频词汇，覆盖不同词性，并附有详细的学习信息。
-
----
-
-### 1. prevalence
-*   **单词**： prevalence
-*   **音标**： /ˈprevələns/
-*   **词性**： n. (名词)
-*   **中文释义**： 流行，盛行；普遍，广泛
-*   **例句**：
-    *   The prevalence of smartphones has fundamentally changed how people communicate. (智能手机的普及从根本上改变了人们的交流方式。)
-*   **记忆技巧**：
-    *   **词根词缀**：来自形容词 `prevalent` (盛行的) + 名词后缀 `-ence`。`pre-` (在...之前) + `val-` (强大的，词源同 `value`)，原意为“占优势的”，引申为“盛行的”。
-
-### 2. consensus
-*   **单词**： consensus
-*   **音标**： /kənˈsensəs/
-*   **词性**： n. (名词)
-*   **中文释义**： 共识，一致意见
-*   **例句**：
-    *   The committee failed to reach a consensus on the budget proposal. (委员会未能就预算提案达成一致。)
-*   **记忆技巧**：
-    *   **词根词缀**：`con-` (共同) + `sensus` (感觉，同 `sense`)，即“共同的感觉”，引申为“共识”。
-
-### 3. divert
-*   **单词**： divert
-*   **音标**： /daɪˈvɜːrt; dɪˈvɜːrt/
-*   **词性**： v. (动词)
-*   **中文释义**： 使转向，使绕道；转移（注意力、资金等）
-*   **例句**：
-    *   The government diverted significant funds from education to infrastructure. (政府将大量资金从教育转向了基础设施。)
-*   **记忆技巧**：
-    *   **词根词缀**：`di-` (离开) + `vert` (转向，词源同 `convert`)，即“转向别处”。
-
-### 4. impairment
-*   **单词**： impairment
-*   **音标**： /ɪmˈpeərmənt/
-*   **词性**： n. (名词)
-*   **中文释义**： 损伤，损害；障碍，缺陷
-*   **例句**：
-    *   The patient suffered from a slight hearing impairment after the illness. (这场病后，患者的听力受到了轻微损伤。)
-*   **记忆技巧**：
-    *   **词根词缀**：来自动词 `impair` (损害) + 名词后缀 `-ment`。`im-` (使...) + `pair` (更差)，即“使之更差”。
-
-### 5. tentative
-*   **单词**： tentative
-*   **音标**： /ˈtentətɪv/
-*   **词性**： adj. (形容词)
-*   **中文释义**： 暂定的，试探性的；犹豫的，迟疑的
-*   **例句**：
-    *   We have made tentative arrangements for the meeting next week. (我们已对下周的会议做出了初步安排。)
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 `tentare` (尝试)，后缀 `-ive` 表示“有...性质的”，即“尝试性质的”，引申为“试探性的”。
-
-### 6. superficial
-*   **单词**： superficial
-*   **音标**： /ˌsuːpərˈfɪʃl/
-*   **词性**： adj. (形容词)
-*   **中文释义**： 表面的，表层的；肤浅的，浅薄的
-*   **例句**：
-    *   His understanding of the issue is rather superficial. (他对这个问题的理解相当肤浅。)
-*   **记忆技巧**：
-    *   **词根词缀**：`super-` (在...上面) + `fic-` (面，同 `face`) + `-ial`，即“在面上的”，引申为“表面的”。
-
-### 7. rarely
-*   **单词**： rarely
-*   **音标**： /ˈrerli/
-*   **词性**： adv. (副词)
-*   **中文释义**： 很少，难得；不常
-*   **例句**：
-    *   She is a talented writer who rarely produces a bad piece. (她是个才华横溢的作家，很少写出糟糕的作品。)
-*   **记忆技巧**：
-    *   **词根词缀**：直接来自形容词 `rare` (稀少的) + 副词后缀 `-ly`。
-
-### 8. deteriorate
-*   **单词**： deteriorate
-*   **音标**： /dɪˈtɪriəreɪt/
-*   **词性**： v. (动词)
-*   **中文释义**： 恶化，变坏，退化
-*   **例句**：
-    *   Without proper maintenance, the building's condition will continue to deteriorate. (如果没有适当的维护，这栋建筑的状况会持续恶化。)
-*   **记忆技巧**：
-    *   **词根词缀**：来自拉丁语 `deterior` (更坏的)，词根 `deter-` (坏的) + 动词后缀 `-ate`。
-
-### 9. pragmatic
-*   **单词**： pragmatic
-*   **音标**： /præɡˈmætɪk/
-*   **词性**： adj. (形容词)
-*   **中文释义**： 务实的，注重实效的；实用主义的
-*   **例句**：
-    *   We need a pragmatic approach to solve this complex problem. (我们需要一种务实的方法来解决这个复杂问题。)
-*   **记忆技巧**：
-    *   **联想记忆**：可以联想 `practice` (实践)，`pragmatic` 就是“重实践的”。
-
-### 10. compatible
-*   **单词**： compatible
-*   **音标**： /kəmˈpætəbl/
-*   **词性**： adj. (形容词)
-*   **中文释义**： 可共存的，兼容的；合得来的
-*   **例句**：
-    *   The new software is compatible with most operating systems. (这个新软件与大多数操作系统兼容。)
-*   **记忆技巧**：
-    *   **词根词缀**：`com-` (共同) + `pat-` (忍受，感受，同 `patience`) + `-ible` (能够...的)，即“能够共同忍受的”，引申为“兼容的”。
-
-### 11. hierarchy
-*   **单词**： hierarchy
-*   **音标**： /ˈhaɪərɑːrki/
-*   **词性**： n. (名词)
-*   **中文释义**： 等级制度；层级，层次
-*   **例句**：
-    *   The company has a very rigid hierarchy. (这家公司有非常严格的等级制度。)
-*   **记忆技巧**：
-    *   **词根词缀**：源自希腊语，`hiero-` (神圣的) + `-archy` (统治)，原指“神圣的统治秩序”，后泛化为“等级制度”。
-
-### 12. scrutinize
-*   **单词**： scrutinize
-*   **音标**： /ˈskruːtənaɪz/
-*   **词性**： v. (动词)
-*   **中文释义**： 仔细检查，详细审查
-*   **例句**：
-    *   The auditors will scrutinize the company's financial records. (审计员将详细审查公司的财务记录。)
-*   **记忆技巧**：
-    *   **词根词缀**：来自名词 `scrutiny` (仔细检查)。可以联想 `screen` (筛查)，`scrutinize` 就是“像用筛子一样仔细地检查”。
+今天为你精选了**12个**六级考试高频词汇，涵盖动词、名词、形容词和副词，助力备考！坚持积累，胜利在望！
 
 ---
-**学习建议**：
-1.  **跟读**：请务必跟随音标，大声朗读每个单词，熟悉发音。
-2.  **造句**：尝试用今天学到的词汇各造一个与自己生活相关的句子，加深理解。
-3.  **复习**：结合例句，理解单词在语境中的确切用法。记得定期回顾第66天之前的内容，巩固记忆。
 
-祝你学习愉快，备考顺利！
+### 1. **ambiguous** /æmˈbɪɡjuəs/
+**词性：** 形容词
+**中文释义：** 模棱两可的，有歧义的
+**例句：** The instructions were so **ambiguous** that we didn't know how to proceed. (说明书如此**模棱两可**，我们不知道该如何进行。)
+**记忆技巧：** 词根 **ambi-**（两边） + **-guous**（形容词后缀） → 意思像在两边摇摆，所以“模棱两可”。
+
+### 2. **benevolent** /bəˈnevələnt/
+**词性：** 形容词
+**中文释义：** 仁慈的，慈善的
+**例句：** The **benevolent** organization provides free education for underprivileged children. (这个**仁慈的**组织为贫困儿童提供免费教育。)
+**记忆技巧：** 词根 **bene-**（好） + **volent**（意愿，如volunteer） → 有“好的意愿”，即“仁慈的”。
+
+### 3. **chronic** /ˈkrɑːnɪk/
+**词性：** 形容词
+**中文释义：** 长期的；慢性的
+**例句：** He has been suffering from **chronic** back pain for years. (他多年来一直遭受**慢性**背痛的困扰。)
+**记忆技巧：** 词根 **chron-**（时间） + **-ic**（形容词后缀） → 与“时间”有关的，即“长期的”。可联想“编年史” **chronicle**。
+
+### 4. **disperse** /dɪˈspɜːrs/
+**词性：** 动词
+**中文释义：** 分散，散开；驱散
+**例句：** The police used tear gas to **disperse** the angry crowd. (警察使用催泪瓦斯**驱散**了愤怒的人群。)
+**记忆技巧：** 前缀 **dis-**（分开） + **perse**（散开） → “散开”即“分散”。
+
+### 5. **embrace** /ɪmˈbreɪs/
+**词性：** 动词
+**中文释义：** 拥抱；欣然接受；包含
+**例句：** We should **embrace** new technologies to improve our efficiency. (我们应该**欣然接受**新技术以提高我们的效率。)
+**记忆技巧：** 由“em-”（进入） + “brace”（手臂）构成 → 进入手臂的范围 → “拥抱”，引申为“接受”。
+
+### 6. **facet** /ˈfæsɪt/
+**词性：** 名词
+**中文释义：** （多面体的）面；（问题的）方面
+**例句：** We need to consider every **facet** of this complex issue. (我们需要考虑这个复杂问题的每一个**方面**。)
+**记忆技巧：** 源自 **face**（脸，面） → 一个事物有很多“面”，即“方面”。
+
+### 7. **gregarious** /ɡrɪˈɡeriəs/
+**词性：** 形容词
+**中文释义：** 爱交际的，合群的
+**例句：** She is a **gregarious** person who enjoys meeting new friends. (她是一个**爱交际的**人，喜欢结交新朋友。)
+**记忆技巧：** 词根 **greg-**（群体，如gregate聚集） + **-arious**（有…性质的） → 喜欢在群体中的，即“合群的”。
+
+### 8. **inadvertent** /ˌɪnədˈvɜːrtənt/
+**词性：** 形容词
+**中文释义：** 不经意的，无意的
+**例句：** The manager made an **inadvertent** remark that offended some employees. (经理说了一句**无意的**话，冒犯了一些员工。)
+**记忆技巧：** 前缀 **in-**（不） + **advertent**（注意的） → 没有注意到的 → “无意的”。
+
+### 9. **lucrative** /ˈluːkrətɪv/
+**词性：** 形容词
+**中文释义：** 获利丰厚的，赚钱的
+**例句：** Investing in renewable energy has proven to be a **lucrative** business. (投资可再生能源已被证明是一门**获利丰厚的**生意。)
+**记忆技巧：** 词根 **lucr-**（金钱，如利润） + **-ative**（有…性质的） → 与金钱有关的 → “赚钱的”。
+
+### 10. **mundane** /mʌnˈdeɪn/
+**词性：** 形容词
+**中文释义：** 平凡的，世俗的；单调的
+**例句：** He wanted to escape from his **mundane** routine and travel the world. (他想逃离他**单调的**日常生活，去环游世界。)
+**记忆技巧：** 可联想 **Monday**（星期一） → 一周开始，回归“平凡、世俗”的工作生活。
+
+### 11. **renowned** /rɪˈnaʊnd/
+**词性：** 形容词
+**中文释义：** 著名的，有声望的
+**例句：** Beijing is **renowned** for its rich history and cultural heritage. (北京以其丰富的历史和文化遗产而**闻名**。)
+**记忆技巧：** 前缀 **re-**（加强） + **nowned**（源自 **known**，知道的） → 被很多人知道的 → “著名的”。
+
+### 12. **vulnerable** /ˈvʌlnərəbl/
+**词性：** 形容词
+**中文释义：** 脆弱的，易受攻击的
+**例句：** Children are particularly **vulnerable** to the effects of poverty. (儿童尤其容易受到贫困的**影响**。)
+**记忆技巧：** 词根 **vulner-**（伤害，如wound伤口） + **-able**（能够…的） → 容易受到伤害的，即“脆弱的”。
+
+---
+💡 **学习建议**：尝试用每个词造一个与自己生活相关的句子，效果更佳！明天见，保持学习热情！✨
