@@ -1,80 +1,120 @@
-# 📚 六级高频词汇学习 - 第67天
-
-今天为你精选了**12个**六级考试高频词汇，涵盖动词、名词、形容词和副词，助力备考！坚持积累，胜利在望！
+### 📚 **六级高频词汇学习 Day 68**
 
 ---
 
-### 1. **ambiguous** /æmˈbɪɡjuəs/
-**词性：** 形容词
-**中文释义：** 模棱两可的，有歧义的
-**例句：** The instructions were so **ambiguous** that we didn't know how to proceed. (说明书如此**模棱两可**，我们不知道该如何进行。)
-**记忆技巧：** 词根 **ambi-**（两边） + **-guous**（形容词后缀） → 意思像在两边摇摆，所以“模棱两可”。
+#### **1. scrutinize**
+*   **音标**： /ˈskruːtənaɪz/
+*   **词性**： v. (动词)
+*   **释义**： 细致审查，仔细检查；详阅
+*   **例句**：
+    *   **英文**： The detective carefully scrutinized the crime scene for any evidence.
+    *   **中文**： 侦探仔细审查了犯罪现场以寻找任何证据。
+*   **记忆技巧**： 词根 **scrut** (检查) + **-inize** (动词后缀)，联想“像用筛子(sieve)一样细致地检查”。
 
-### 2. **benevolent** /bəˈnevələnt/
-**词性：** 形容词
-**中文释义：** 仁慈的，慈善的
-**例句：** The **benevolent** organization provides free education for underprivileged children. (这个**仁慈的**组织为贫困儿童提供免费教育。)
-**记忆技巧：** 词根 **bene-**（好） + **volent**（意愿，如volunteer） → 有“好的意愿”，即“仁慈的”。
+#### **2. skeptical**
+*   **音标**： /ˈskeptɪkl/
+*   **词性**： adj. (形容词)
+*   **释义**： 持怀疑态度的，多疑的
+*   **例句**：
+    *   **英文**： Many scientists remain skeptical about the findings of the new study.
+    *   **中文**： 许多科学家对这项新研究的结果仍持怀疑态度。
+*   **记忆技巧**： 源于希腊语 **skeptikos**，意为“仔细打量的、沉思的”，联想对事物质疑、思考的样子。
 
-### 3. **chronic** /ˈkrɑːnɪk/
-**词性：** 形容词
-**中文释义：** 长期的；慢性的
-**例句：** He has been suffering from **chronic** back pain for years. (他多年来一直遭受**慢性**背痛的困扰。)
-**记忆技巧：** 词根 **chron-**（时间） + **-ic**（形容词后缀） → 与“时间”有关的，即“长期的”。可联想“编年史” **chronicle**。
+#### **3. resilience**
+*   **音标**： /rɪˈzɪliəns/
+*   **词性**： n. (名词)
+*   **释义**： 韧性，复原力；适应力
+*   **例句**：
+    *   **英文**： The community showed great resilience in rebuilding after the natural disaster.
+    *   **中文**： 该社区在自然灾害后重建时展现出巨大的韧性。
+*   **记忆技巧**： 词根 **re-** (回) + **sili** (跳) + **-ence** (名词后缀)，像弹簧一样“跳回原状”的能力。
 
-### 4. **disperse** /dɪˈspɜːrs/
-**词性：** 动词
-**中文释义：** 分散，散开；驱散
-**例句：** The police used tear gas to **disperse** the angry crowd. (警察使用催泪瓦斯**驱散**了愤怒的人群。)
-**记忆技巧：** 前缀 **dis-**（分开） + **perse**（散开） → “散开”即“分散”。
+#### **4. perpetuate**
+*   **音标**： /pərˈpetʃueɪt/
+*   **词性**： v. (动词)
+*   **释义**： 使永久化，使持续；延续（错误或传统）
+*   **例句**：
+    *   **英文**： Social media can sometimes perpetuate harmful stereotypes.
+    *   **中文**： 社交媒体有时会延续有害的刻板印象。
+*   **记忆技巧**： 词根 **perpetu-** (永久的，如 perpetual)，加上 **-ate**，使某物“永久持续”。
 
-### 5. **embrace** /ɪmˈbreɪs/
-**词性：** 动词
-**中文释义：** 拥抱；欣然接受；包含
-**例句：** We should **embrace** new technologies to improve our efficiency. (我们应该**欣然接受**新技术以提高我们的效率。)
-**记忆技巧：** 由“em-”（进入） + “brace”（手臂）构成 → 进入手臂的范围 → “拥抱”，引申为“接受”。
+#### **5. pragmatic**
+*   **音标**： /præɡˈmætɪk/
+*   **词性**： adj. (形容词)
+*   **释义**： 务实的，注重实效的
+*   **例句**：
+    *   **英文**： We need a pragmatic approach to solve this complex problem.
+    *   **中文**： 我们需要一个务实的方法来解决这个复杂问题。
+*   **记忆技巧**： 词根 **pragm-** (行动，实践) + **-atic** (形容词后缀)，强调“实践行动”而非空想。
 
-### 6. **facet** /ˈfæsɪt/
-**词性：** 名词
-**中文释义：** （多面体的）面；（问题的）方面
-**例句：** We need to consider every **facet** of this complex issue. (我们需要考虑这个复杂问题的每一个**方面**。)
-**记忆技巧：** 源自 **face**（脸，面） → 一个事物有很多“面”，即“方面”。
+#### **6. substantiate**
+*   **音标**： /səbˈstænʃieɪt/
+*   **词性**： v. (动词)
+*   **释义**： 证实，证明（声明、理论）有根据
+*   **例句**：
+    *   **英文**： The researcher failed to substantiate her hypothesis with sufficient data.
+    *   **中文**： 该研究者未能用充分的数据证实她的假设。
+*   **记忆技巧**： 词根 **substant-** (实质，实体) + **-iate**，使某事有“实体/实质”作为支撑。
 
-### 7. **gregarious** /ɡrɪˈɡeriəs/
-**词性：** 形容词
-**中文释义：** 爱交际的，合群的
-**例句：** She is a **gregarious** person who enjoys meeting new friends. (她是一个**爱交际的**人，喜欢结交新朋友。)
-**记忆技巧：** 词根 **greg-**（群体，如gregate聚集） + **-arious**（有…性质的） → 喜欢在群体中的，即“合群的”。
+#### **7. tentative**
+*   **音标**： /ˈtentətɪv/
+*   **词性**： adj. (形容词)
+*   **释义**： 暂定的，试探性的；犹豫的
+*   **例句**：
+    *   **英文**： We have reached a tentative agreement, but it still needs final approval.
+    *   **中文**： 我们达成了一个初步协议，但它仍需最终批准。
+*   **记忆技巧**： 词根 **tent-** (尝试) + **-ative**，处于“尝试”阶段的，尚未最终确定的。
 
-### 8. **inadvertent** /ˌɪnədˈvɜːrtənt/
-**词性：** 形容词
-**中文释义：** 不经意的，无意的
-**例句：** The manager made an **inadvertent** remark that offended some employees. (经理说了一句**无意的**话，冒犯了一些员工。)
-**记忆技巧：** 前缀 **in-**（不） + **advertent**（注意的） → 没有注意到的 → “无意的”。
+#### **8. vicinity**
+*   **音标**： /vəˈsɪnəti/
+*   **词性**： n. (名词)
+*   **释义**： 邻近地区，附近
+*   **例句**：
+    *   **英文**： There are several parks and schools in the immediate vicinity of the new apartment.
+    *   **中文**： 新公寓附近有几个公园和学校。
+*   **记忆技巧**： 词根 **vicin-** (邻近，如 vicinity) + **-ity**，指“与某地邻近的状态或区域”。
 
-### 9. **lucrative** /ˈluːkrətɪv/
-**词性：** 形容词
-**中文释义：** 获利丰厚的，赚钱的
-**例句：** Investing in renewable energy has proven to be a **lucrative** business. (投资可再生能源已被证明是一门**获利丰厚的**生意。)
-**记忆技巧：** 词根 **lucr-**（金钱，如利润） + **-ative**（有…性质的） → 与金钱有关的 → “赚钱的”。
+#### **9. encompass**
+*   **音标**： /ɪnˈkʌmpəs/
+*   **词性**： v. (动词)
+*   **释义**： 包围，环绕；包含，涉及
+*   **例句**：
+    *   **英文**： The documentary aims to encompass a wide range of cultural perspectives.
+    *   **中文**： 这部纪录片旨在涵盖广泛的文化视角。
+*   **记忆技巧**： 前缀 **en-** (使...) + **compass** (指南针，范围)，使某物“进入自己的范围之内”。
 
-### 10. **mundane** /mʌnˈdeɪn/
-**词性：** 形容词
-**中文释义：** 平凡的，世俗的；单调的
-**例句：** He wanted to escape from his **mundane** routine and travel the world. (他想逃离他**单调的**日常生活，去环游世界。)
-**记忆技巧：** 可联想 **Monday**（星期一） → 一周开始，回归“平凡、世俗”的工作生活。
+#### **10. lucrative**
+*   **音标**： /ˈluːkrətɪv/
+*   **词性**： adj. (形容词)
+*   **释义**： 获利丰厚的，赚钱的
+*   **例句**：
+    *   **英文**： She left her job to pursue a more lucrative career in finance.
+    *   **中文**： 她辞去了工作，在金融领域寻求一份更赚钱的职业。
+*   **记忆技巧**： 词根 **lucr-** (金钱，利润，如 lucrative) + **-ative**，与“利润”高度相关的。
 
-### 11. **renowned** /rɪˈnaʊnd/
-**词性：** 形容词
-**中文释义：** 著名的，有声望的
-**例句：** Beijing is **renowned** for its rich history and cultural heritage. (北京以其丰富的历史和文化遗产而**闻名**。)
-**记忆技巧：** 前缀 **re-**（加强） + **nowned**（源自 **known**，知道的） → 被很多人知道的 → “著名的”。
+#### **11. inherent**
+*   **音标**： /ɪnˈhɪrənt/
+*   **词性**： adj. (形容词)
+*   **释义**： 固有的，内在的；天生的
+*   **例句**：
+    *   **英文**： There are certain risks inherent in any type of investment.
+    *   **中文**： 任何类型的投资都固有某些风险。
+*   **记忆技巧**： 词根 **inherit** (继承) 的同源词，指“从内部继承而来的”特性。
 
-### 12. **vulnerable** /ˈvʌlnərəbl/
-**词性：** 形容词
-**中文释义：** 脆弱的，易受攻击的
-**例句：** Children are particularly **vulnerable** to the effects of poverty. (儿童尤其容易受到贫困的**影响**。)
-**记忆技巧：** 词根 **vulner-**（伤害，如wound伤口） + **-able**（能够…的） → 容易受到伤害的，即“脆弱的”。
+#### **12. perpetually**
+*   **音标**： /pərˈpetʃuəli/
+*   **词性**： adv. (副词)
+*   **释义**： 永久地，持久地；没完没了地
+*   **例句**：
+    *   **英文**： The computer in the lab is perpetually occupied.
+    *   **中文**： 实验室的这台电脑总是被占用着。
+*   **记忆技巧**： 是形容词 **perpetual** (永久的) 的副词形式，意为“以永久的方式”。
 
 ---
-💡 **学习建议**：尝试用每个词造一个与自己生活相关的句子，效果更佳！明天见，保持学习热情！✨
+**💡 学习建议**：
+1.  **大声朗读**：结合音标，确保发音准确。
+2.  **造句应用**：尝试用每个新词自己造一个句子，加深理解。
+3.  **联想记忆**：结合词根词缀和例句情境进行记忆。
+4.  **定期复习**：将今日词汇加入复习列表，定期回顾。
+
+祝你学习顺利，备考加油！🌟
