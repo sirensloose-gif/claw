@@ -1,120 +1,247 @@
-### 📚 **六级高频词汇学习 Day 68**
+# 六级高频词汇学习（第69天）
+
+## 今日词汇清单
+| 序号 | 单词 | 词性 |
+|:---:|:---|:---:|
+| 1 | aggregate | n./v./adj. |
+| 2 | convergent | adj. |
+| 3 | demographic | adj./n. |
+| 4 | encompass | v. |
+| 5 | fluctuate | v. |
+| 6 | heterogeneous | adj. |
+| 7 | implicit | adj. |
+| 8 | juxtapose | v. |
+| 9 | meticulous | adj. |
+| 10 | paradigm | n. |
+| 11 | prevalent | adj. |
+| 12 | resilient | adj. |
+| 13 | scrutiny | n. |
+| 14 | tentative | adj. |
+| 15 | unprecedented | adj. |
 
 ---
 
-#### **1. scrutinize**
-*   **音标**： /ˈskruːtənaɪz/
-*   **词性**： v. (动词)
-*   **释义**： 细致审查，仔细检查；详阅
-*   **例句**：
-    *   **英文**： The detective carefully scrutinized the crime scene for any evidence.
-    *   **中文**： 侦探仔细审查了犯罪现场以寻找任何证据。
-*   **记忆技巧**： 词根 **scrut** (检查) + **-inize** (动词后缀)，联想“像用筛子(sieve)一样细致地检查”。
+## 词汇详解
 
-#### **2. skeptical**
-*   **音标**： /ˈskeptɪkl/
-*   **词性**： adj. (形容词)
-*   **释义**： 持怀疑态度的，多疑的
-*   **例句**：
-    *   **英文**： Many scientists remain skeptical about the findings of the new study.
-    *   **中文**： 许多科学家对这项新研究的结果仍持怀疑态度。
-*   **记忆技巧**： 源于希腊语 **skeptikos**，意为“仔细打量的、沉思的”，联想对事物质疑、思考的样子。
-
-#### **3. resilience**
-*   **音标**： /rɪˈzɪliəns/
-*   **词性**： n. (名词)
-*   **释义**： 韧性，复原力；适应力
-*   **例句**：
-    *   **英文**： The community showed great resilience in rebuilding after the natural disaster.
-    *   **中文**： 该社区在自然灾害后重建时展现出巨大的韧性。
-*   **记忆技巧**： 词根 **re-** (回) + **sili** (跳) + **-ence** (名词后缀)，像弹簧一样“跳回原状”的能力。
-
-#### **4. perpetuate**
-*   **音标**： /pərˈpetʃueɪt/
-*   **词性**： v. (动词)
-*   **释义**： 使永久化，使持续；延续（错误或传统）
-*   **例句**：
-    *   **英文**： Social media can sometimes perpetuate harmful stereotypes.
-    *   **中文**： 社交媒体有时会延续有害的刻板印象。
-*   **记忆技巧**： 词根 **perpetu-** (永久的，如 perpetual)，加上 **-ate**，使某物“永久持续”。
-
-#### **5. pragmatic**
-*   **音标**： /præɡˈmætɪk/
-*   **词性**： adj. (形容词)
-*   **释义**： 务实的，注重实效的
-*   **例句**：
-    *   **英文**： We need a pragmatic approach to solve this complex problem.
-    *   **中文**： 我们需要一个务实的方法来解决这个复杂问题。
-*   **记忆技巧**： 词根 **pragm-** (行动，实践) + **-atic** (形容词后缀)，强调“实践行动”而非空想。
-
-#### **6. substantiate**
-*   **音标**： /səbˈstænʃieɪt/
-*   **词性**： v. (动词)
-*   **释义**： 证实，证明（声明、理论）有根据
-*   **例句**：
-    *   **英文**： The researcher failed to substantiate her hypothesis with sufficient data.
-    *   **中文**： 该研究者未能用充分的数据证实她的假设。
-*   **记忆技巧**： 词根 **substant-** (实质，实体) + **-iate**，使某事有“实体/实质”作为支撑。
-
-#### **7. tentative**
-*   **音标**： /ˈtentətɪv/
-*   **词性**： adj. (形容词)
-*   **释义**： 暂定的，试探性的；犹豫的
-*   **例句**：
-    *   **英文**： We have reached a tentative agreement, but it still needs final approval.
-    *   **中文**： 我们达成了一个初步协议，但它仍需最终批准。
-*   **记忆技巧**： 词根 **tent-** (尝试) + **-ative**，处于“尝试”阶段的，尚未最终确定的。
-
-#### **8. vicinity**
-*   **音标**： /vəˈsɪnəti/
-*   **词性**： n. (名词)
-*   **释义**： 邻近地区，附近
-*   **例句**：
-    *   **英文**： There are several parks and schools in the immediate vicinity of the new apartment.
-    *   **中文**： 新公寓附近有几个公园和学校。
-*   **记忆技巧**： 词根 **vicin-** (邻近，如 vicinity) + **-ity**，指“与某地邻近的状态或区域”。
-
-#### **9. encompass**
-*   **音标**： /ɪnˈkʌmpəs/
-*   **词性**： v. (动词)
-*   **释义**： 包围，环绕；包含，涉及
-*   **例句**：
-    *   **英文**： The documentary aims to encompass a wide range of cultural perspectives.
-    *   **中文**： 这部纪录片旨在涵盖广泛的文化视角。
-*   **记忆技巧**： 前缀 **en-** (使...) + **compass** (指南针，范围)，使某物“进入自己的范围之内”。
-
-#### **10. lucrative**
-*   **音标**： /ˈluːkrətɪv/
-*   **词性**： adj. (形容词)
-*   **释义**： 获利丰厚的，赚钱的
-*   **例句**：
-    *   **英文**： She left her job to pursue a more lucrative career in finance.
-    *   **中文**： 她辞去了工作，在金融领域寻求一份更赚钱的职业。
-*   **记忆技巧**： 词根 **lucr-** (金钱，利润，如 lucrative) + **-ative**，与“利润”高度相关的。
-
-#### **11. inherent**
-*   **音标**： /ɪnˈhɪrənt/
-*   **词性**： adj. (形容词)
-*   **释义**： 固有的，内在的；天生的
-*   **例句**：
-    *   **英文**： There are certain risks inherent in any type of investment.
-    *   **中文**： 任何类型的投资都固有某些风险。
-*   **记忆技巧**： 词根 **inherit** (继承) 的同源词，指“从内部继承而来的”特性。
-
-#### **12. perpetually**
-*   **音标**： /pərˈpetʃuəli/
-*   **词性**： adv. (副词)
-*   **释义**： 永久地，持久地；没完没了地
-*   **例句**：
-    *   **英文**： The computer in the lab is perpetually occupied.
-    *   **中文**： 实验室的这台电脑总是被占用着。
-*   **记忆技巧**： 是形容词 **perpetual** (永久的) 的副词形式，意为“以永久的方式”。
+### 1. aggregate
+**音标** /ˈæɡrɪɡət/  
+**词性** n. 总数，合计；v. 聚集，合计；adj. 总计的  
+**中文释义**  
+1. 总数，总量  
+2. 聚合，合计  
+3. 总计的  
+**例句**  
+- The aggregate of all donations reached $50,000.（所有捐款的总额达到了50,000美元。）  
+- These small companies will aggregate into a powerful industry group.（这些小公司将聚合成一个强大的产业集团。）  
+**记忆技巧**  
+词根 ag- (to) + greg (gather) → 聚集到一起 → 总数/合计  
+联想：一群（greg）人聚集（ag-）在一起形成总数（aggregate）
 
 ---
-**💡 学习建议**：
-1.  **大声朗读**：结合音标，确保发音准确。
-2.  **造句应用**：尝试用每个新词自己造一个句子，加深理解。
-3.  **联想记忆**：结合词根词缀和例句情境进行记忆。
-4.  **定期复习**：将今日词汇加入复习列表，定期回顾。
 
-祝你学习顺利，备考加油！🌟
+### 2. convergent
+**音标** /kənˈvɜːrdʒənt/  
+**词性** adj. 会聚的，趋同的  
+**中文释义**  
+1. 会聚的，收敛的  
+2. 趋同的，相似的  
+**例句**  
+- The convergent evolution of dolphins and sharks is remarkable.（海豚和鲨鱼的趋同进化非常显著。）  
+- Their opinions on this issue are convergent.（他们对这个问题的看法趋同。）  
+**记忆技巧**  
+词根 con- (together) + verg (turn) → 一起转向 → 会聚/趋同  
+联想：不同的人转向（verge）同一个方向（con-）= 趋同
+
+---
+
+### 3. demographic
+**音标** /ˌdeməˈɡræfɪk/  
+**词性** adj. 人口统计的；n. 人口统计数据  
+**中文释义**  
+1. 人口统计的，人口学的  
+2. 人口特征，特定人群  
+**例句**  
+- The demographic shift has significant economic implications.（人口结构转变具有重大的经济影响。）  
+- This product is designed for the 18-25 demographic.（这款产品是为18-25岁人群设计的。）  
+**记忆技巧**  
+词根 demo (people) + graph (write) → 记录人口信息 → 人口统计的  
+联想：demo（演示）+ graphic（图形的）= 用图形展示人口数据
+
+---
+
+### 4. encompass
+**音标** /ɪnˈkʌmpəs/  
+**词性** v. 包围，包含，涵盖  
+**中文释义**  
+1. 包围，环绕  
+2. 包含，涵盖  
+**例句**  
+- The curriculum encompasses a wide range of subjects.（课程涵盖广泛的学科范围。）  
+- The national park encompasses over 1,000 square miles.（国家公园占地超过1000平方英里。）  
+**记忆技巧**  
+前缀 en- (in) + compass (包围) → 在包围之中 → 包含/涵盖  
+联想：指南针（compass）在内部（en-）能覆盖所有方向 = 涵盖
+
+---
+
+### 5. fluctuate
+**音标** /ˈflʌktʃueɪt/  
+**词性** v. 波动，起伏，动摇  
+**中文释义**  
+1. 波动，变动  
+2. 动摇，犹豫  
+**例句**  
+- Stock prices fluctuate daily based on market conditions.（股票价格根据市场条件每天波动。）  
+- His mood fluctuates between optimism and pessimism.（他的情绪在乐观和悲观之间摇摆。）  
+**记忆技巧**  
+词根 fluct- (wave) + -uate → 像波浪一样 → 波动  
+联想：fluct（flow流动）+ uate → 流动变化 = 波动
+
+---
+
+### 6. heterogeneous
+**音标** /ˌhetərəˈdʒiːniəs/  
+**词性** adj. 异质的，由不同种类组成的  
+**中文释义**  
+1. 异质的，不同种类的  
+2. 混杂的  
+**例句**  
+- The group was remarkably heterogeneous in age and background.（这个群体在年龄和背景方面非常多样化。）  
+- Heterogeneous data sources require careful integration.（异质数据源需要仔细整合。）  
+**记忆技巧**  
+前缀 hetero- (different) + gene (kind) + -ous → 不同种类的  
+联想：hetero（不同的）+ gene（基因）+ ous → 不同基因组成的 = 异质的
+
+---
+
+### 7. implicit
+**音标** /ɪmˈplɪsɪt/  
+**词性** adj. 含蓄的，隐含的，绝对的  
+**中文释义**  
+1. 含蓄的，不直接说明的  
+2. 隐含的，无疑问的  
+**例句**  
+- There was an implicit understanding between them.（他们之间有一种心照不宣的理解。）  
+- She has implicit trust in her doctor.（她对医生绝对信任。）  
+**记忆技巧**  
+前缀 im- (in) + plic (fold) → 折在里面 → 含蓄的/隐含的  
+联想：把意思折叠（plic）在里面（im-）= 不直接表达
+
+---
+
+### 8. juxtapose
+**音标** /ˌdʒʌkstəˈpoʊz/  
+**词性** v. 并列，并置  
+**中文释义**  
+1. 并列放置，紧挨着放置  
+2. 对照比较  
+**例句**  
+- The exhibition juxtaposes ancient and modern art.（这次展览将古代艺术和现代艺术并列展示。）  
+- Juxtaposing these two theories reveals their fundamental differences.（并置这两种理论揭示了它们的基本差异。）  
+**记忆技巧**  
+词根 juxta (near) + pose (put) → 放在附近 → 并列  
+联想：jux（adjacent相邻的）+ pose（放置）= 相邻放置 = 并列
+
+---
+
+### 9. meticulous
+**音标** /məˈtɪkjələs/  
+**词性** adj. 一丝不苟的，细致的  
+**中文释义**  
+1. 极其细致的，一丝不苟的  
+2. 细致入微的  
+**例句**  
+- She keeps meticulous records of all financial transactions.（她对所有财务交易都做一丝不苟的记录。）  
+- The artist is meticulous about every detail of the painting.（这位艺术家对画作的每一个细节都非常细致。）  
+**记忆技巧**  
+词根 meti- (fear) + culous → 因害怕出错而小心 → 一丝不苟的  
+联想：m（many很多）+ etic（etic外部的）+ ulous → 很多外部细节都要注意 = 细致的
+
+---
+
+### 10. paradigm
+**音标** /ˈpærədaɪm/  
+**词性** n. 范例，典范，模式  
+**中文释义**  
+1. 范例，典范  
+2. 范式，模式  
+**例句**  
+- This discovery represented a new paradigm in scientific thinking.（这一发现代表了科学思维的新范式。）  
+- The company established a new paradigm for customer service.（这家公司建立了客户服务的新典范。）  
+**记忆技巧**  
+词根 para- (beside) + digm (show) → 展示在旁边作为参照 → 范例  
+联想：para（平行）+ digm（dig挖掘）→ 平行挖掘出的模型 = 范式
+
+---
+
+### 11. prevalent
+**音标** /ˈprevələnt/  
+**词性** adj. 流行的，普遍的  
+**中文释义**  
+1. 流行的，盛行的  
+2. 普遍的，广泛存在的  
+**例句**  
+- Misinformation is prevalent on social media.（错误信息在社交媒体上很普遍。）  
+- The disease is particularly prevalent in tropical regions.（这种疾病在热带地区尤为流行。）  
+**记忆技巧**  
+词根 pre- (before) + val (strong) → 在前面占优势 → 流行的/普遍的  
+联想：pre（提前）+ val（value价值）→ 提前获得价值 = 流行的
+
+---
+
+### 12. resilient
+**音标** /rɪˈzɪliənt/  
+**词性** adj. 有弹性的，能恢复的，适应性强的  
+**中文释义**  
+1. 有弹性的，能恢复原状的  
+2. 适应性强的，能迅速恢复的  
+**例句**  
+- Children are often more resilient than adults realize.（孩子们通常比成年人意识到的更有韧性。）  
+- The resilient economy bounced back quickly from the recession.（富有韧性的经济从衰退中迅速恢复。）  
+**记忆技巧**  
+词根 re- (back) + sil (jump) → 跳回原来的状态 → 恢复原状的  
+联想：re（重新）+ sil（silly傻傻的）+ ient → 傻傻地重新站起来 = 有韧性的
+
+---
+
+### 13. scrutiny
+**音标** /ˈskruːtəni/  
+**词性** n. 仔细检查，详细审查  
+**中文释义**  
+1. 仔细检查，详细审查  
+2. 监视，监督  
+**例句**  
+- The proposal underwent careful scrutiny before approval.（提案在批准前经过了仔细审查。）  
+- The politician's actions were under constant public scrutiny.（这位政治家的行为受到公众的持续监督。）  
+**记忆技巧**  
+词根 scrut (examine) + -iny → 仔细检查  
+联想：scru（screen屏幕）+ tiny（微小的）→ 在屏幕上检查微小细节 = 仔细检查
+
+---
+
+### 14. tentative
+**音标** /ˈtentətɪv/  
+**词性** adj. 暂定的，试探性的，犹豫的  
+**中文释义**  
+1. 暂定的，临时的  
+2. 试探性的，尝试性的  
+**例句**  
+- We have reached a tentative agreement.（我们达成了暂定协议。）  
+- She gave a tentative smile when she saw him.（看到他时，她试探性地笑了笑。）  
+**记忆技巧**  
+词根 tent (try) + -ative → 尝试性的 → 试探性的  
+联想：tent（帐篷）+ ative → 像帐篷一样临时搭建 = 暂定的
+
+---
+
+### 15. unprecedented
+**音标** /ʌnˈpresɪdentɪd/  
+**词性** adj. 史无前例的，空前的  
+**中文释义**  
+1. 史无前例的，空前的  
+2. 空前的，前所未有的  
+**例句**  
+- The pandemic caused unprecedented global disruption.（疫情造成了史无前例的全球性破坏。）  
+- The company achieved unprecedented growth last year.（该公司去年取得了空前的增长。）  
+**记忆技巧**  
+前缀 un- (not) + precedent (先例) + -ed → 没有先例的 → 史无
