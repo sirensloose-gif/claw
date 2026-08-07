@@ -1,247 +1,138 @@
-# 六级高频词汇学习（第69天）
-
-## 今日词汇清单
-| 序号 | 单词 | 词性 |
-|:---:|:---|:---:|
-| 1 | aggregate | n./v./adj. |
-| 2 | convergent | adj. |
-| 3 | demographic | adj./n. |
-| 4 | encompass | v. |
-| 5 | fluctuate | v. |
-| 6 | heterogeneous | adj. |
-| 7 | implicit | adj. |
-| 8 | juxtapose | v. |
-| 9 | meticulous | adj. |
-| 10 | paradigm | n. |
-| 11 | prevalent | adj. |
-| 12 | resilient | adj. |
-| 13 | scrutiny | n. |
-| 14 | tentative | adj. |
-| 15 | unprecedented | adj. |
+# 六级高频词汇学习 - 第70天
 
 ---
 
-## 词汇详解
-
-### 1. aggregate
-**音标** /ˈæɡrɪɡət/  
-**词性** n. 总数，合计；v. 聚集，合计；adj. 总计的  
-**中文释义**  
-1. 总数，总量  
-2. 聚合，合计  
-3. 总计的  
-**例句**  
-- The aggregate of all donations reached $50,000.（所有捐款的总额达到了50,000美元。）  
-- These small companies will aggregate into a powerful industry group.（这些小公司将聚合成一个强大的产业集团。）  
-**记忆技巧**  
-词根 ag- (to) + greg (gather) → 聚集到一起 → 总数/合计  
-联想：一群（greg）人聚集（ag-）在一起形成总数（aggregate）
+### 1. **sustainable**
+- **音标**: /səˈsteɪnəbl/
+- **词性**: 形容词
+- **中文释义**: 可持续的，可维持的
+- **例句**: 
+  - The government is promoting **sustainable** energy sources to reduce carbon emissions.
+  - 政府正在推广**可持续的**能源以减少碳排放。
+- **记忆技巧**: 词根“sustain”（维持）+ 后缀“-able”（能够的）→ 能够维持的 → 可持续的。
 
 ---
 
-### 2. convergent
-**音标** /kənˈvɜːrdʒənt/  
-**词性** adj. 会聚的，趋同的  
-**中文释义**  
-1. 会聚的，收敛的  
-2. 趋同的，相似的  
-**例句**  
-- The convergent evolution of dolphins and sharks is remarkable.（海豚和鲨鱼的趋同进化非常显著。）  
-- Their opinions on this issue are convergent.（他们对这个问题的看法趋同。）  
-**记忆技巧**  
-词根 con- (together) + verg (turn) → 一起转向 → 会聚/趋同  
-联想：不同的人转向（verge）同一个方向（con-）= 趋同
+### 2. **alleviate**
+- **音标**: /əˈliːvieɪt/
+- **词性**: 动词
+- **中文释义**: 减轻，缓和
+- **例句**:
+  - The medicine helped **alleviate** her headache.
+  - 这种药帮助**缓解了**她的头痛。
+- **记忆技巧**: 联想“all”（所有） + “levitate”（悬浮） → 让所有负担悬浮起来 → 减轻压力。
 
 ---
 
-### 3. demographic
-**音标** /ˌdeməˈɡræfɪk/  
-**词性** adj. 人口统计的；n. 人口统计数据  
-**中文释义**  
-1. 人口统计的，人口学的  
-2. 人口特征，特定人群  
-**例句**  
-- The demographic shift has significant economic implications.（人口结构转变具有重大的经济影响。）  
-- This product is designed for the 18-25 demographic.（这款产品是为18-25岁人群设计的。）  
-**记忆技巧**  
-词根 demo (people) + graph (write) → 记录人口信息 → 人口统计的  
-联想：demo（演示）+ graphic（图形的）= 用图形展示人口数据
+### 3. **phenomenon**
+- **音标**: /fəˈnɒmɪnən/
+- **词性**: 名词
+- **中文释义**: 现象；非凡的人或事物
+- **例句**:
+  - Climate change is a global **phenomenon**.
+  - 气候变化是一种全球性的**现象**。
+- **记忆技巧**: 词根“pheno-”（出现） + “-menon”（名词后缀） → 出现的事物 → 现象。
 
 ---
 
-### 4. encompass
-**音标** /ɪnˈkʌmpəs/  
-**词性** v. 包围，包含，涵盖  
-**中文释义**  
-1. 包围，环绕  
-2. 包含，涵盖  
-**例句**  
-- The curriculum encompasses a wide range of subjects.（课程涵盖广泛的学科范围。）  
-- The national park encompasses over 1,000 square miles.（国家公园占地超过1000平方英里。）  
-**记忆技巧**  
-前缀 en- (in) + compass (包围) → 在包围之中 → 包含/涵盖  
-联想：指南针（compass）在内部（en-）能覆盖所有方向 = 涵盖
+### 4. **profound**
+- **音标**: /prəˈfaʊnd/
+- **词性**: 形容词
+- **中文释义**: 深远的；深刻的；深奥的
+- **例句**:
+  - The book had a **profound** impact on my thinking.
+  - 这本书对我的思维产生了**深远的**影响。
+- **记忆技巧**: 联想“pro-”（向前） + “found”（基础） → 向前深入基础 → 深刻的。
 
 ---
 
-### 5. fluctuate
-**音标** /ˈflʌktʃueɪt/  
-**词性** v. 波动，起伏，动摇  
-**中文释义**  
-1. 波动，变动  
-2. 动摇，犹豫  
-**例句**  
-- Stock prices fluctuate daily based on market conditions.（股票价格根据市场条件每天波动。）  
-- His mood fluctuates between optimism and pessimism.（他的情绪在乐观和悲观之间摇摆。）  
-**记忆技巧**  
-词根 fluct- (wave) + -uate → 像波浪一样 → 波动  
-联想：fluct（flow流动）+ uate → 流动变化 = 波动
+### 5. **advocate**
+- **音标**: /ˈædvəkeɪt/
+- **词性**: 动词 / 名词
+- **中文释义**: 提倡，主张；拥护者
+- **例句**:
+  - Many scientists **advocate** for renewable energy.
+  - 许多科学家**提倡**使用可再生能源。
+- **记忆技巧**: 词根“ad-”（向） + “voc-”（声音） + “-ate” → 向外发出声音支持 → 提倡。
 
 ---
 
-### 6. heterogeneous
-**音标** /ˌhetərəˈdʒiːniəs/  
-**词性** adj. 异质的，由不同种类组成的  
-**中文释义**  
-1. 异质的，不同种类的  
-2. 混杂的  
-**例句**  
-- The group was remarkably heterogeneous in age and background.（这个群体在年龄和背景方面非常多样化。）  
-- Heterogeneous data sources require careful integration.（异质数据源需要仔细整合。）  
-**记忆技巧**  
-前缀 hetero- (different) + gene (kind) + -ous → 不同种类的  
-联想：hetero（不同的）+ gene（基因）+ ous → 不同基因组成的 = 异质的
+### 6. **comprehensive**
+- **音标**: /ˌkɒmprɪˈhensɪv/
+- **词性**: 形容词
+- **中文释义**: 全面的；综合的
+- **例句**:
+  - The report provides a **comprehensive** analysis of the market.
+  - 这份报告提供了对市场的**全面的**分析。
+- **记忆技巧**: 词根“comprehend”（理解） + “-ive” → 完全理解的 → 全面的。
 
 ---
 
-### 7. implicit
-**音标** /ɪmˈplɪsɪt/  
-**词性** adj. 含蓄的，隐含的，绝对的  
-**中文释义**  
-1. 含蓄的，不直接说明的  
-2. 隐含的，无疑问的  
-**例句**  
-- There was an implicit understanding between them.（他们之间有一种心照不宣的理解。）  
-- She has implicit trust in her doctor.（她对医生绝对信任。）  
-**记忆技巧**  
-前缀 im- (in) + plic (fold) → 折在里面 → 含蓄的/隐含的  
-联想：把意思折叠（plic）在里面（im-）= 不直接表达
+### 7. **resilient**
+- **音标**: /rɪˈzɪliənt/
+- **词性**: 形容词
+- **中文释义**: 有弹性的；适应力强的
+- **例句**:
+  - Children are often more **resilient** than adults in facing difficulties.
+  - 孩子在面对困难时往往比成年人更有**适应力**。
+- **记忆技巧**: 联想“re-”（再次） + “sili”（类似“silk”丝绸） → 像丝绸一样能恢复原状 → 有弹性的。
 
 ---
 
-### 8. juxtapose
-**音标** /ˌdʒʌkstəˈpoʊz/  
-**词性** v. 并列，并置  
-**中文释义**  
-1. 并列放置，紧挨着放置  
-2. 对照比较  
-**例句**  
-- The exhibition juxtaposes ancient and modern art.（这次展览将古代艺术和现代艺术并列展示。）  
-- Juxtaposing these two theories reveals their fundamental differences.（并置这两种理论揭示了它们的基本差异。）  
-**记忆技巧**  
-词根 juxta (near) + pose (put) → 放在附近 → 并列  
-联想：jux（adjacent相邻的）+ pose（放置）= 相邻放置 = 并列
+### 8. **scrutiny**
+- **音标**: /ˈskruːtəni/
+- **词性**: 名词
+- **中文释义**: 仔细审查；详细检查
+- **例句**:
+  - The project is under close **scrutiny** by the committee.
+  - 这个项目正受到委员会的**仔细审查**。
+- **记忆技巧**: 词根“scrut-”（检查） + “-iny” → 反复检查 → 审查。
 
 ---
 
-### 9. meticulous
-**音标** /məˈtɪkjələs/  
-**词性** adj. 一丝不苟的，细致的  
-**中文释义**  
-1. 极其细致的，一丝不苟的  
-2. 细致入微的  
-**例句**  
-- She keeps meticulous records of all financial transactions.（她对所有财务交易都做一丝不苟的记录。）  
-- The artist is meticulous about every detail of the painting.（这位艺术家对画作的每一个细节都非常细致。）  
-**记忆技巧**  
-词根 meti- (fear) + culous → 因害怕出错而小心 → 一丝不苟的  
-联想：m（many很多）+ etic（etic外部的）+ ulous → 很多外部细节都要注意 = 细致的
+### 9. **negligible**
+- **音标**: /ˈneɡlɪdʒəbl/
+- **词性**: 形容词
+- **中文释义**: 可以忽略的；微不足道的
+- **例句**:
+  - The cost difference is **negligible**.
+  - 价格差异是**可以忽略的**。
+- **记忆技巧**: 词根“neg-”（否定） + “lig-”（选择） + “-ible” → 不值得选择的 → 可忽略的。
 
 ---
 
-### 10. paradigm
-**音标** /ˈpærədaɪm/  
-**词性** n. 范例，典范，模式  
-**中文释义**  
-1. 范例，典范  
-2. 范式，模式  
-**例句**  
-- This discovery represented a new paradigm in scientific thinking.（这一发现代表了科学思维的新范式。）  
-- The company established a new paradigm for customer service.（这家公司建立了客户服务的新典范。）  
-**记忆技巧**  
-词根 para- (beside) + digm (show) → 展示在旁边作为参照 → 范例  
-联想：para（平行）+ digm（dig挖掘）→ 平行挖掘出的模型 = 范式
+### 10. **mitigate**
+- **音标**: /ˈmɪtɪɡeɪt/
+- **词性**: 动词
+- **中文释义**: 缓和；减轻
+- **例句**:
+  - Measures were taken to **mitigate** the effects of the flood.
+  - 采取了措施来**减轻**洪水的影响。
+- **记忆技巧**: 联想“mit-”（中间） + “igate”（动词后缀） → 在中间进行调节 → 缓和。
 
 ---
 
-### 11. prevalent
-**音标** /ˈprevələnt/  
-**词性** adj. 流行的，普遍的  
-**中文释义**  
-1. 流行的，盛行的  
-2. 普遍的，广泛存在的  
-**例句**  
-- Misinformation is prevalent on social media.（错误信息在社交媒体上很普遍。）  
-- The disease is particularly prevalent in tropical regions.（这种疾病在热带地区尤为流行。）  
-**记忆技巧**  
-词根 pre- (before) + val (strong) → 在前面占优势 → 流行的/普遍的  
-联想：pre（提前）+ val（value价值）→ 提前获得价值 = 流行的
+### 11. **coherent**
+- **音标**: /koʊˈhɪrənt/
+- **词性**: 形容词
+- **中文释义**: 连贯的；有条理的
+- **例句**:
+  - She presented a **coherent** argument in the debate.
+  - 她在辩论中提出了一个**连贯的**论点。
+- **记忆技巧**: 词根“co-”（共同） + “here-”（粘附） → 粘附在一起 → 连贯的。
 
 ---
 
-### 12. resilient
-**音标** /rɪˈzɪliənt/  
-**词性** adj. 有弹性的，能恢复的，适应性强的  
-**中文释义**  
-1. 有弹性的，能恢复原状的  
-2. 适应性强的，能迅速恢复的  
-**例句**  
-- Children are often more resilient than adults realize.（孩子们通常比成年人意识到的更有韧性。）  
-- The resilient economy bounced back quickly from the recession.（富有韧性的经济从衰退中迅速恢复。）  
-**记忆技巧**  
-词根 re- (back) + sil (jump) → 跳回原来的状态 → 恢复原状的  
-联想：re（重新）+ sil（silly傻傻的）+ ient → 傻傻地重新站起来 = 有韧性的
+### 12. **paradigm**
+- **音标**: /ˈpærədaɪm/
+- **词性**: 名词
+- **中文释义**: 范式；典范
+- **例句**:
+  - The discovery led to a **paradigm** shift in physics.
+  - 这一发现导致了物理学的**范式**转变。
+- **记忆技巧**: 联想“para-”（类似） + “digm-”（显示） → 显示类似模式 → 范式。
 
 ---
 
-### 13. scrutiny
-**音标** /ˈskruːtəni/  
-**词性** n. 仔细检查，详细审查  
-**中文释义**  
-1. 仔细检查，详细审查  
-2. 监视，监督  
-**例句**  
-- The proposal underwent careful scrutiny before approval.（提案在批准前经过了仔细审查。）  
-- The politician's actions were under constant public scrutiny.（这位政治家的行为受到公众的持续监督。）  
-**记忆技巧**  
-词根 scrut (examine) + -iny → 仔细检查  
-联想：scru（screen屏幕）+ tiny（微小的）→ 在屏幕上检查微小细节 = 仔细检查
-
----
-
-### 14. tentative
-**音标** /ˈtentətɪv/  
-**词性** adj. 暂定的，试探性的，犹豫的  
-**中文释义**  
-1. 暂定的，临时的  
-2. 试探性的，尝试性的  
-**例句**  
-- We have reached a tentative agreement.（我们达成了暂定协议。）  
-- She gave a tentative smile when she saw him.（看到他时，她试探性地笑了笑。）  
-**记忆技巧**  
-词根 tent (try) + -ative → 尝试性的 → 试探性的  
-联想：tent（帐篷）+ ative → 像帐篷一样临时搭建 = 暂定的
-
----
-
-### 15. unprecedented
-**音标** /ʌnˈpresɪdentɪd/  
-**词性** adj. 史无前例的，空前的  
-**中文释义**  
-1. 史无前例的，空前的  
-2. 空前的，前所未有的  
-**例句**  
-- The pandemic caused unprecedented global disruption.（疫情造成了史无前例的全球性破坏。）  
-- The company achieved unprecedented growth last year.（该公司去年取得了空前的增长。）  
-**记忆技巧**  
-前缀 un- (not) + precedent (先例) + -ed → 没有先例的 → 史无
+**学习小贴士**：  
+建议结合例句朗读，并尝试用新词造句。词根词缀可以帮助你举一反三，联想记忆能加深印象。坚持每天积累，词汇量会稳步提升！ 📚✨
