@@ -1,138 +1,117 @@
-# 六级高频词汇学习 - 第70天
+# 📚 每日六级高频词汇 - 第71天
+
+坚持就是胜利！今天是您六级词汇旅程的第71天，已经养成了很棒的学习习惯。让我们继续积累，为成功奠定坚实基础。
 
 ---
 
-### 1. **sustainable**
-- **音标**: /səˈsteɪnəbl/
-- **词性**: 形容词
-- **中文释义**: 可持续的，可维持的
-- **例句**: 
-  - The government is promoting **sustainable** energy sources to reduce carbon emissions.
-  - 政府正在推广**可持续的**能源以减少碳排放。
-- **记忆技巧**: 词根“sustain”（维持）+ 后缀“-able”（能够的）→ 能够维持的 → 可持续的。
+### 1.  **allocate**
+*   **音标**： /ˈæləkeɪt/
+*   **词性**： v.
+*   **释义**： 分配，拨出（资源、任务等）
+*   **例句**： The government plans to **allocate** more funds to education and healthcare next year. / 政府计划明年为教育和医疗拨付更多资金。
+*   **记忆技巧**： **词根词缀**： `al-` (朝向) + `loc` (地方) + `-ate` (动词后缀) → 使资源“去往特定地方” → 分配。联想：想象将一笔钱（`al-`发音似“all”）**全部**分配（`locate`）到不同项目中。
+
+### 2.  **ambiguous**
+*   **音标**： /æmˈbɪɡjuəs/
+*   **词性**： adj.
+*   **释义**： 模棱两可的，含糊不清的
+*   **例句**： The statement was deliberately **ambiguous** to avoid giving a direct answer. / 这份声明故意模棱两可，以避免给出直接的回答。
+*   **记忆技巧**： **词根词缀**： `ambi-` (两边) + `guous` (…的) → “两边都靠”的，不明确的。联想：`ambi-` 同 `ambiguous`，想象一个人站在两条路的岔口，方向“模棱两可”。
+
+### 3.  **anticipate**
+*   **音标**： /ænˈtɪsɪpeɪt/
+*   **词性**： v.
+*   **释义**： 预料，预期；期望
+*   **例句**： We **anticipate** that sales will increase significantly in the fourth quarter. / 我们预计第四季度销售额将大幅增长。
+*   **记忆技巧**： **词根词缀**： `anti-` (在前) + `cip` (拿，取) + `-ate` → 提前拿住（信息、情况） → 预期。联想：`anti-`（前）+ `cipate`（谐音“撕破的”），提前撕破未来的面纱去**预期**。
+
+### 4.  **apparatus**
+*   **音标**： /ˌæpəˈrætəs/
+*   **词性**： n.
+*   **释义**： 器械，设备；机构，组织体系
+*   **例句**： The laboratory is equipped with state-of-the-art scientific **apparatus**. / 这个实验室配备了最尖端的科学仪器。
+*   **记忆技巧**： **词根词缀**： `ap-` (朝向) + `par` (准备) + `-atus` (名词后缀) → 准备好用于某事的东西 → 器具。联想：发音近似“啊，破拉他死”，想象一台老旧**设备**被拉坏了。
+
+### 5.  **chronic**
+*   **音标**： /ˈkrɑːnɪk/
+*   **词性**： adj.
+*   **释义**： 长期的，慢性的；习惯性的
+*   **例句**： He suffers from **chronic** back pain that limits his mobility. / 他患有慢性背痛，活动受限。
+*   **记忆技巧**： **词根词缀**： `chron` (时间) + `-ic` (…的) → 与时间有关的 → 长期的。联想：词根 `chron-` 同 `chronology`（年表），**慢性的**就是持续“一段时间”的病症。
+
+### 6.  **conceive**
+*   **音标**： /kənˈsiːv/
+*   **词性**： v.
+*   **释义**： 构想，设想；怀（胎）
+*   **例句**： It is difficult to **conceive** of a world without the internet. / 难以想象一个没有互联网的世界。
+*   **记忆技巧**： **词根词缀**： `con-` (共同，完全) + `ceive` (拿，取) → 完全地“抓取”一个想法 → 构想。联想：`con-` + `ceive` (似“ceive”为“ceive”家族，如receive)，完全“接收”并形成想法。
+
+### 7.  **confine**
+*   **音标**： /kənˈfaɪn/
+*   **词性**： v. / n. (常用复数 `confines`)
+*   **释义**： 限制，局限于；禁闭；界限，范围
+*   **例句**： The discussion was **confined** to the financial aspects of the project. / 讨论仅限于该项目的财务方面。
+*   **记忆技巧**： **词根词缀**： `con-` (强调) + `fin` (结束，界限) → 强调在界限之内 → 限制。联想：`fin` 是“终点”，`confine` 就是把东西限制在“终点线”内。
+
+### 8.  **consensus**
+*   **音标**： /kənˈsensəs/
+*   **词性**： n.
+*   **释义**： 共识，一致意见
+*   **例句**： After hours of debate, the committee finally reached a **consensus**. / 经过数小时的辩论，委员会最终达成了共识。
+*   **记忆技巧**： **词根词缀**： `con-` (共同) + `sens` (感觉) + `-us` (名词后缀) → 共同的感觉 → 一致意见。联想：大家**共同**（con-）有相同的**感觉**（sens），从而达成**共识**。
+
+### 9.  **constraint**
+*   **音标**： /kənˈstreɪnt/
+*   **词性**： n.
+*   **释义**： 约束，限制；强制
+*   **例句**： The project is subject to strict budgetary **constraints**. / 该项目受到严格的预算限制。
+*   **记忆技巧**： **词根词缀**： `con-` (加强) + `strain` (拉紧) + `-t` (名词后缀) → 被紧紧拉住 → 约束。联想：来自 `constrain` (v.)，想象一根皮筋被**拉紧**（strain）的**约束**状态。
+
+### 10. **contemplate**
+*   **音标**： /ˈkɑːntəmpleɪt/
+*   **词性**： v.
+*   **释义**： 沉思，深思熟虑；打算，考虑
+*   **例句**： She **contemplated** her future career options while sitting by the window. / 她坐在窗边，深思自己未来的职业选择。
+*   **记忆技巧**： **词根词缀**： `con-` (强调) + `templ` (看) + `-ate` → 专注地“看” → 沉思。联想：`temple`（寺庙），在寺庙里**沉思**人生。
+
+### 11. **deprive**
+*   **音标**： /dɪˈpraɪv/
+*   **词性**： v.
+*   **释义**： 剥夺，使丧失
+*   **例句**： The children were **deprived** of their basic educational rights. / 这些孩子被剥夺了基本的受教育权。
+*   **记忆技巧**： **词根词缀**： `de-` (离开，向下) + `priv` (私人的，独有的) → 使离开私有状态 → 剥夺。联想：`deprive` 近似“抵普若无”，被剥夺后就“仿佛没有”了。
+
+### 12. **eligible**
+*   **音标**： /ˈelɪdʒəbl/
+*   **词性**： adj.
+*   **释义**： 有资格的，合格的
+*   **例句**： Only employees who have worked for more than two years are **eligible** for the promotion. / 只有工作超过两年的员工才有资格获得晋升。
+*   **记忆技巧**： **词根词缀**： `e-` (出) + `lig` (选择) + `-ible` (能…的) → 能被“选出来”的 → 有资格的。联想：从一群人中被**选出来**（elect），就是**有资格**的。
+
+### 13. **genuine**
+*   **音标**： /ˈdʒenjuɪn/
+*   **词性**： adj.
+*   **释义**： 真正的，真实的；真挚的
+*   **例句**： The museum has several **genuine** Renaissance paintings. / 博物馆收藏了几幅真正的文艺复兴时期画作。
+*   **记忆技巧**： **词根词缀**： `gen` (出生，起源) + `-uine` → 源自最初来源的 → 真正的。联想：`gene`（基因），由**基因**决定的才是**真正的**本性。
+
+### 14. **indispensable**
+*   **音标**： /ˌɪndɪˈspensəbl/
+*   **词性**： adj.
+*   **释义**： 不可缺少的，必需的
+*   **例句**： Mobile phones have become an **indispensable** tool in modern life. / 手机已成为现代生活中不可缺少的工具。
+*   **记忆技巧**： **词根词缀**： `in-` (不) + `dis-` (分开) + `pens` (支付，花费) + `-able` → 不可被分开支付/处理的 → 必需的。联想：一个物品的重要性，让你觉得“不（in-）能不（dis-）拥有”。
+
+### 15. **subsequent**
+*   **音标**： /ˈsʌbsɪkwənt/
+*   **词性**： adj.
+*   **释义**： 随后的，后来的
+*   **例句**： The initial investment was high, but the **subsequent** profits were substantial. / 初始投资很高，但随后的利润非常可观。
+*   **记忆技巧**： **词根词缀**： `sub-` (在下面，后面) + `sequ` (跟随) + `-ent` (…的) → 跟随在后面的 → 随后的。联想：`sequence`（顺序），`subsequent` 就是顺序中**跟在后面**的那个。
 
 ---
 
-### 2. **alleviate**
-- **音标**: /əˈliːvieɪt/
-- **词性**: 动词
-- **中文释义**: 减轻，缓和
-- **例句**:
-  - The medicine helped **alleviate** her headache.
-  - 这种药帮助**缓解了**她的头痛。
-- **记忆技巧**: 联想“all”（所有） + “levitate”（悬浮） → 让所有负担悬浮起来 → 减轻压力。
-
----
-
-### 3. **phenomenon**
-- **音标**: /fəˈnɒmɪnən/
-- **词性**: 名词
-- **中文释义**: 现象；非凡的人或事物
-- **例句**:
-  - Climate change is a global **phenomenon**.
-  - 气候变化是一种全球性的**现象**。
-- **记忆技巧**: 词根“pheno-”（出现） + “-menon”（名词后缀） → 出现的事物 → 现象。
-
----
-
-### 4. **profound**
-- **音标**: /prəˈfaʊnd/
-- **词性**: 形容词
-- **中文释义**: 深远的；深刻的；深奥的
-- **例句**:
-  - The book had a **profound** impact on my thinking.
-  - 这本书对我的思维产生了**深远的**影响。
-- **记忆技巧**: 联想“pro-”（向前） + “found”（基础） → 向前深入基础 → 深刻的。
-
----
-
-### 5. **advocate**
-- **音标**: /ˈædvəkeɪt/
-- **词性**: 动词 / 名词
-- **中文释义**: 提倡，主张；拥护者
-- **例句**:
-  - Many scientists **advocate** for renewable energy.
-  - 许多科学家**提倡**使用可再生能源。
-- **记忆技巧**: 词根“ad-”（向） + “voc-”（声音） + “-ate” → 向外发出声音支持 → 提倡。
-
----
-
-### 6. **comprehensive**
-- **音标**: /ˌkɒmprɪˈhensɪv/
-- **词性**: 形容词
-- **中文释义**: 全面的；综合的
-- **例句**:
-  - The report provides a **comprehensive** analysis of the market.
-  - 这份报告提供了对市场的**全面的**分析。
-- **记忆技巧**: 词根“comprehend”（理解） + “-ive” → 完全理解的 → 全面的。
-
----
-
-### 7. **resilient**
-- **音标**: /rɪˈzɪliənt/
-- **词性**: 形容词
-- **中文释义**: 有弹性的；适应力强的
-- **例句**:
-  - Children are often more **resilient** than adults in facing difficulties.
-  - 孩子在面对困难时往往比成年人更有**适应力**。
-- **记忆技巧**: 联想“re-”（再次） + “sili”（类似“silk”丝绸） → 像丝绸一样能恢复原状 → 有弹性的。
-
----
-
-### 8. **scrutiny**
-- **音标**: /ˈskruːtəni/
-- **词性**: 名词
-- **中文释义**: 仔细审查；详细检查
-- **例句**:
-  - The project is under close **scrutiny** by the committee.
-  - 这个项目正受到委员会的**仔细审查**。
-- **记忆技巧**: 词根“scrut-”（检查） + “-iny” → 反复检查 → 审查。
-
----
-
-### 9. **negligible**
-- **音标**: /ˈneɡlɪdʒəbl/
-- **词性**: 形容词
-- **中文释义**: 可以忽略的；微不足道的
-- **例句**:
-  - The cost difference is **negligible**.
-  - 价格差异是**可以忽略的**。
-- **记忆技巧**: 词根“neg-”（否定） + “lig-”（选择） + “-ible” → 不值得选择的 → 可忽略的。
-
----
-
-### 10. **mitigate**
-- **音标**: /ˈmɪtɪɡeɪt/
-- **词性**: 动词
-- **中文释义**: 缓和；减轻
-- **例句**:
-  - Measures were taken to **mitigate** the effects of the flood.
-  - 采取了措施来**减轻**洪水的影响。
-- **记忆技巧**: 联想“mit-”（中间） + “igate”（动词后缀） → 在中间进行调节 → 缓和。
-
----
-
-### 11. **coherent**
-- **音标**: /koʊˈhɪrənt/
-- **词性**: 形容词
-- **中文释义**: 连贯的；有条理的
-- **例句**:
-  - She presented a **coherent** argument in the debate.
-  - 她在辩论中提出了一个**连贯的**论点。
-- **记忆技巧**: 词根“co-”（共同） + “here-”（粘附） → 粘附在一起 → 连贯的。
-
----
-
-### 12. **paradigm**
-- **音标**: /ˈpærədaɪm/
-- **词性**: 名词
-- **中文释义**: 范式；典范
-- **例句**:
-  - The discovery led to a **paradigm** shift in physics.
-  - 这一发现导致了物理学的**范式**转变。
-- **记忆技巧**: 联想“para-”（类似） + “digm-”（显示） → 显示类似模式 → 范式。
-
----
-
-**学习小贴士**：  
-建议结合例句朗读，并尝试用新词造句。词根词缀可以帮助你举一反三，联想记忆能加深印象。坚持每天积累，词汇量会稳步提升！ 📚✨
+**学习小贴士**：
+1.  **主动应用**：尝试用今天学过的词汇各造一个与你生活相关的句子。
+2.  **间隔复习**：明天、三天后、一周后回顾今天的词汇，巩固记忆。
+3.  **关联学习**：注意同义词（如 `allocate` 和 `distribute
