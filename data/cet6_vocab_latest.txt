@@ -1,117 +1,116 @@
-# 📚 每日六级高频词汇 - 第71天
+# 🎓 六级高频词汇 · 第72天 (Number 12-23)
 
-坚持就是胜利！今天是您六级词汇旅程的第71天，已经养成了很棒的学习习惯。让我们继续积累，为成功奠定坚实基础。
-
----
-
-### 1.  **allocate**
-*   **音标**： /ˈæləkeɪt/
-*   **词性**： v.
-*   **释义**： 分配，拨出（资源、任务等）
-*   **例句**： The government plans to **allocate** more funds to education and healthcare next year. / 政府计划明年为教育和医疗拨付更多资金。
-*   **记忆技巧**： **词根词缀**： `al-` (朝向) + `loc` (地方) + `-ate` (动词后缀) → 使资源“去往特定地方” → 分配。联想：想象将一笔钱（`al-`发音似“all”）**全部**分配（`locate`）到不同项目中。
-
-### 2.  **ambiguous**
-*   **音标**： /æmˈbɪɡjuəs/
-*   **词性**： adj.
-*   **释义**： 模棱两可的，含糊不清的
-*   **例句**： The statement was deliberately **ambiguous** to avoid giving a direct answer. / 这份声明故意模棱两可，以避免给出直接的回答。
-*   **记忆技巧**： **词根词缀**： `ambi-` (两边) + `guous` (…的) → “两边都靠”的，不明确的。联想：`ambi-` 同 `ambiguous`，想象一个人站在两条路的岔口，方向“模棱两可”。
-
-### 3.  **anticipate**
-*   **音标**： /ænˈtɪsɪpeɪt/
-*   **词性**： v.
-*   **释义**： 预料，预期；期望
-*   **例句**： We **anticipate** that sales will increase significantly in the fourth quarter. / 我们预计第四季度销售额将大幅增长。
-*   **记忆技巧**： **词根词缀**： `anti-` (在前) + `cip` (拿，取) + `-ate` → 提前拿住（信息、情况） → 预期。联想：`anti-`（前）+ `cipate`（谐音“撕破的”），提前撕破未来的面纱去**预期**。
-
-### 4.  **apparatus**
-*   **音标**： /ˌæpəˈrætəs/
-*   **词性**： n.
-*   **释义**： 器械，设备；机构，组织体系
-*   **例句**： The laboratory is equipped with state-of-the-art scientific **apparatus**. / 这个实验室配备了最尖端的科学仪器。
-*   **记忆技巧**： **词根词缀**： `ap-` (朝向) + `par` (准备) + `-atus` (名词后缀) → 准备好用于某事的东西 → 器具。联想：发音近似“啊，破拉他死”，想象一台老旧**设备**被拉坏了。
-
-### 5.  **chronic**
-*   **音标**： /ˈkrɑːnɪk/
-*   **词性**： adj.
-*   **释义**： 长期的，慢性的；习惯性的
-*   **例句**： He suffers from **chronic** back pain that limits his mobility. / 他患有慢性背痛，活动受限。
-*   **记忆技巧**： **词根词缀**： `chron` (时间) + `-ic` (…的) → 与时间有关的 → 长期的。联想：词根 `chron-` 同 `chronology`（年表），**慢性的**就是持续“一段时间”的病症。
-
-### 6.  **conceive**
-*   **音标**： /kənˈsiːv/
-*   **词性**： v.
-*   **释义**： 构想，设想；怀（胎）
-*   **例句**： It is difficult to **conceive** of a world without the internet. / 难以想象一个没有互联网的世界。
-*   **记忆技巧**： **词根词缀**： `con-` (共同，完全) + `ceive` (拿，取) → 完全地“抓取”一个想法 → 构想。联想：`con-` + `ceive` (似“ceive”为“ceive”家族，如receive)，完全“接收”并形成想法。
-
-### 7.  **confine**
-*   **音标**： /kənˈfaɪn/
-*   **词性**： v. / n. (常用复数 `confines`)
-*   **释义**： 限制，局限于；禁闭；界限，范围
-*   **例句**： The discussion was **confined** to the financial aspects of the project. / 讨论仅限于该项目的财务方面。
-*   **记忆技巧**： **词根词缀**： `con-` (强调) + `fin` (结束，界限) → 强调在界限之内 → 限制。联想：`fin` 是“终点”，`confine` 就是把东西限制在“终点线”内。
-
-### 8.  **consensus**
-*   **音标**： /kənˈsensəs/
-*   **词性**： n.
-*   **释义**： 共识，一致意见
-*   **例句**： After hours of debate, the committee finally reached a **consensus**. / 经过数小时的辩论，委员会最终达成了共识。
-*   **记忆技巧**： **词根词缀**： `con-` (共同) + `sens` (感觉) + `-us` (名词后缀) → 共同的感觉 → 一致意见。联想：大家**共同**（con-）有相同的**感觉**（sens），从而达成**共识**。
-
-### 9.  **constraint**
-*   **音标**： /kənˈstreɪnt/
-*   **词性**： n.
-*   **释义**： 约束，限制；强制
-*   **例句**： The project is subject to strict budgetary **constraints**. / 该项目受到严格的预算限制。
-*   **记忆技巧**： **词根词缀**： `con-` (加强) + `strain` (拉紧) + `-t` (名词后缀) → 被紧紧拉住 → 约束。联想：来自 `constrain` (v.)，想象一根皮筋被**拉紧**（strain）的**约束**状态。
-
-### 10. **contemplate**
-*   **音标**： /ˈkɑːntəmpleɪt/
-*   **词性**： v.
-*   **释义**： 沉思，深思熟虑；打算，考虑
-*   **例句**： She **contemplated** her future career options while sitting by the window. / 她坐在窗边，深思自己未来的职业选择。
-*   **记忆技巧**： **词根词缀**： `con-` (强调) + `templ` (看) + `-ate` → 专注地“看” → 沉思。联想：`temple`（寺庙），在寺庙里**沉思**人生。
-
-### 11. **deprive**
-*   **音标**： /dɪˈpraɪv/
-*   **词性**： v.
-*   **释义**： 剥夺，使丧失
-*   **例句**： The children were **deprived** of their basic educational rights. / 这些孩子被剥夺了基本的受教育权。
-*   **记忆技巧**： **词根词缀**： `de-` (离开，向下) + `priv` (私人的，独有的) → 使离开私有状态 → 剥夺。联想：`deprive` 近似“抵普若无”，被剥夺后就“仿佛没有”了。
-
-### 12. **eligible**
-*   **音标**： /ˈelɪdʒəbl/
-*   **词性**： adj.
-*   **释义**： 有资格的，合格的
-*   **例句**： Only employees who have worked for more than two years are **eligible** for the promotion. / 只有工作超过两年的员工才有资格获得晋升。
-*   **记忆技巧**： **词根词缀**： `e-` (出) + `lig` (选择) + `-ible` (能…的) → 能被“选出来”的 → 有资格的。联想：从一群人中被**选出来**（elect），就是**有资格**的。
-
-### 13. **genuine**
-*   **音标**： /ˈdʒenjuɪn/
-*   **词性**： adj.
-*   **释义**： 真正的，真实的；真挚的
-*   **例句**： The museum has several **genuine** Renaissance paintings. / 博物馆收藏了几幅真正的文艺复兴时期画作。
-*   **记忆技巧**： **词根词缀**： `gen` (出生，起源) + `-uine` → 源自最初来源的 → 真正的。联想：`gene`（基因），由**基因**决定的才是**真正的**本性。
-
-### 14. **indispensable**
-*   **音标**： /ˌɪndɪˈspensəbl/
-*   **词性**： adj.
-*   **释义**： 不可缺少的，必需的
-*   **例句**： Mobile phones have become an **indispensable** tool in modern life. / 手机已成为现代生活中不可缺少的工具。
-*   **记忆技巧**： **词根词缀**： `in-` (不) + `dis-` (分开) + `pens` (支付，花费) + `-able` → 不可被分开支付/处理的 → 必需的。联想：一个物品的重要性，让你觉得“不（in-）能不（dis-）拥有”。
-
-### 15. **subsequent**
-*   **音标**： /ˈsʌbsɪkwənt/
-*   **词性**： adj.
-*   **释义**： 随后的，后来的
-*   **例句**： The initial investment was high, but the **subsequent** profits were substantial. / 初始投资很高，但随后的利润非常可观。
-*   **记忆技巧**： **词根词缀**： `sub-` (在下面，后面) + `sequ` (跟随) + `-ent` (…的) → 跟随在后面的 → 随后的。联想：`sequence`（顺序），`subsequent` 就是顺序中**跟在后面**的那个。
+> 今天，让我们一起学习12个高频词汇，它们将帮助你在阅读、听力和写作中更自信地表达。祝你学习愉快！
 
 ---
 
-**学习小贴士**：
-1.  **主动应用**：尝试用今天学过的词汇各造一个与你生活相关的句子。
-2.  **间隔复习**：明天、三天后、一周后回顾今天的词汇，巩固记忆。
-3.  **关联学习**：注意同义词（如 `allocate` 和 `distribute
+### 1. ambivalent
+*   **音标**： /æmˈbɪvələnt/
+*   **词性**： adj. 矛盾的；犹豫不决的
+*   **释义**： 对同一事物同时有两种强烈且相反的感觉或想法。
+*   **例句**：
+    *   She felt **ambivalent** about accepting the job offer; she loved the role but disliked the company culture.
+    *   她对接受这份工作感到**矛盾**：她喜欢这个职位，但不喜欢公司文化。
+*   **记忆技巧**： 词根 **ambi-** (意为“双方”) + **-valent** (来自拉丁语 valere, “有力量的”)。两种力量在拉扯，所以感到“矛盾”。
+
+### 2. pragmatic
+*   **音标**： /præɡˈmætɪk/
+*   **词性**： adj. 务实的；注重实效的
+*   **释义**： 关注实际结果或事实，而非理论或纯粹的想法。
+*   **例句**：
+    *   We need a **pragmatic** solution to this problem, not an idealistic one.
+    *   我们需要一个**务实的**解决方案，而不是空想的理想方案。
+*   **记忆技巧**： 联想 **pract-** (实践) + **-ic** (形容词后缀)。强调“实践”和“实用”性。
+
+### 3. resilient
+*   **音标**： /rɪˈzɪliənt/
+*   **词性**： adj. 有弹性的；能迅速恢复的；适应力强的
+*   **释义**： 指人或事物能从困境、创伤或变化中迅速恢复原状。
+*   **例句**：
+    *   Children are often surprisingly **resilient** and can bounce back from setbacks.
+    *   孩子们常常表现出惊人的**适应力**，能够从挫折中迅速恢复。
+*   **记忆技巧**： 词根 **re-** (回) + **sili-** (来自拉丁语 salire，“跳”) + **-ent**。像弹簧一样“跳回”原位，即“有弹性、能复原”。
+
+### 4. subtle
+*   **音标**： /ˈsʌtl/
+*   **词性**： adj. 微妙的；精妙的；敏锐的；隐蔽的
+*   **释义**： 需要仔细注意或思考才能察觉的。
+*   **例句**：
+    *   There was a **subtle** hint of criticism in her otherwise positive review.
+    *   在她原本积极的评价中，带有一丝**微妙的**批评意味。
+*   **记忆技巧**： 注意发音不发“b”。可以联想“sub”(下) + “tle”(轻声)。需要“潜下去”仔细听/看，才能发现的“细微之处”。
+
+### 5. ubiquitous
+*   **音标**： /juːˈbɪkwɪtəs/
+*   **词性**： adj. 无所不在的；普遍存在的
+*   **释义**： 似乎在任何地方同时出现或被找到。
+*   **例句**：
+    *   In the modern world, smartphones have become **ubiquitous**.
+    *   在现代社会，智能手机已经变得**无处不在**。
+*   **记忆技巧**： 联想 **u-** (你) + **biqui-** (像“必去”) + **-ous**。你去到任何地方(必去的地方)，它都在那里 → “无处不在”。
+
+### 6. augment
+*   **音标**： /ɔːɡˈment/
+*   **词性**： v. 增加；扩大；增强
+*   **释义**： 通过添加数量或质量来使某物变得更大或更好。
+*   **例句**：
+    *   He **augmented** his income by working as a freelance writer on weekends.
+    *   他通过周末做自由撰稿人来**增加**自己的收入。
+*   **记忆技巧**： 词根 **aug-** (同August八月，引申为“增长”) + **-ment**。核心是“使增长”。
+
+### 7. eloquent
+*   **音标**： /ˈeləkwənt/
+*   **词性**： adj. 雄辩的；有说服力的；意味深长的
+*   **释义**： 指语言表达清晰、有力、动人。
+*   **例句**：
+    *   The president gave an **eloquent** speech that moved the entire nation.
+    *   总统发表了一场**雄辩的**演讲，感动了全国人民。
+*   **记忆技巧**： 词根 **e-** (出) + **loqu-** (说话，如colloquial) + **-ent**。能把话说得“清晰流利”地表达出来，即“雄辩”。
+
+### 8. catalyst
+*   **音标**： /ˈkætəlɪst/
+*   **词性**： n. 催化剂；促进因素
+*   **释义**： 能加速化学反应的物质；比喻能引发或加速重大变化的人或事。
+*   **例句**：
+    *   The new policy acted as a **catalyst** for economic growth.
+    *   新政策成为了经济增长的**催化剂**。
+*   **记忆技巧**： 直接来自化学术语。联想 “Cat(猫) + alyst(分析)”。想象一只猫是引发一系列变化的“催化剂”。
+
+### 9. perpetuate
+*   **音标**： /pərˈpetʃueɪt/
+*   **词性**： v. 使永久化；使持续
+*   **释义**： 使某种状态、习俗或信念持续下去，通常带有负面含义。
+*   **例句**：
+    *   Social media can sometimes **perpetuate** stereotypes and misinformation.
+    *   社交媒体有时可能会**助长**刻板印象和错误信息的传播。
+*   **记忆技巧**： 词根 **per-** (贯穿，始终) + **pet-** (来自petere，“追求、寻求”) + **-uate**。始终在追求/维持 → “使永久化”。
+
+### 10. negligible
+*   **音标**： /ˈneɡlɪdʒəbl/
+*   **词性**： adj. 可以忽略不计的；微不足道的
+*   **释义**： 小到不值得考虑或注意的。
+*   **例句**：
+    *   The difference in their prices is **negligible**, so choose based on quality.
+    *   它们价格上的差异**微乎其微**，所以根据质量来选吧。
+*   **记忆技巧**： 词根 **neg-** (否定) + **-lig-** (选择，如intelligent) + **-ible** (能够…)。能够被“否定选择”的，即“可忽略的”。
+
+### 11. cumbersome
+*   **音标**： /ˈkʌmbərsəm/
+*   **词性**： adj. 笨重的；累赘的；手续繁琐的
+*   **释义**： 因体积、重量或复杂性而难以使用或处理。
+*   **例句**：
+    *   The old regulations were too **cumbersome** and needed to be simplified.
+    *   旧规定太**繁琐**了，需要简化。
+*   **记忆技巧**： 联想 **cumber** (阻碍) + **-some** (形容词后缀)。像负担一样“阻碍”行动的东西，即“笨重、繁琐”。
+
+### 12. retrospect
+*   **音标**： /ˈretrəspekt/
+*   **词性**： n. 回顾；追溯
+*   **释义**： 对过去事件的回顾。
+*   **例句**：
+    *   **In retrospect**, quitting my stable job to travel was the best decision I ever made.
+    *   **回想起来**，辞去稳定的工作去旅行是我做过的最好的决定。
+*   **记忆技巧**： 词根 **retro-** (向后) + **-spect** (看)。向后看，即“回顾”。
+
+---
+**今日复习**：花5分钟，回顾以上词汇。尝试用 `ambivalent`, `pragmatic`, `catalyst` 三个词，自己造一个描述近期社会现象的句子。坚持就是胜利！📈
