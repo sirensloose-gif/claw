@@ -1,116 +1,152 @@
-# 🎓 六级高频词汇 · 第72天 (Number 12-23)
-
-> 今天，让我们一起学习12个高频词汇，它们将帮助你在阅读、听力和写作中更自信地表达。祝你学习愉快！
+# 六级高频词汇学习 (Day 73)
 
 ---
 
-### 1. ambivalent
-*   **音标**： /æmˈbɪvələnt/
-*   **词性**： adj. 矛盾的；犹豫不决的
-*   **释义**： 对同一事物同时有两种强烈且相反的感觉或想法。
-*   **例句**：
-    *   She felt **ambivalent** about accepting the job offer; she loved the role but disliked the company culture.
-    *   她对接受这份工作感到**矛盾**：她喜欢这个职位，但不喜欢公司文化。
-*   **记忆技巧**： 词根 **ambi-** (意为“双方”) + **-valent** (来自拉丁语 valere, “有力量的”)。两种力量在拉扯，所以感到“矛盾”。
-
-### 2. pragmatic
-*   **音标**： /præɡˈmætɪk/
-*   **词性**： adj. 务实的；注重实效的
-*   **释义**： 关注实际结果或事实，而非理论或纯粹的想法。
-*   **例句**：
-    *   We need a **pragmatic** solution to this problem, not an idealistic one.
-    *   我们需要一个**务实的**解决方案，而不是空想的理想方案。
-*   **记忆技巧**： 联想 **pract-** (实践) + **-ic** (形容词后缀)。强调“实践”和“实用”性。
-
-### 3. resilient
-*   **音标**： /rɪˈzɪliənt/
-*   **词性**： adj. 有弹性的；能迅速恢复的；适应力强的
-*   **释义**： 指人或事物能从困境、创伤或变化中迅速恢复原状。
-*   **例句**：
-    *   Children are often surprisingly **resilient** and can bounce back from setbacks.
-    *   孩子们常常表现出惊人的**适应力**，能够从挫折中迅速恢复。
-*   **记忆技巧**： 词根 **re-** (回) + **sili-** (来自拉丁语 salire，“跳”) + **-ent**。像弹簧一样“跳回”原位，即“有弹性、能复原”。
-
-### 4. subtle
-*   **音标**： /ˈsʌtl/
-*   **词性**： adj. 微妙的；精妙的；敏锐的；隐蔽的
-*   **释义**： 需要仔细注意或思考才能察觉的。
-*   **例句**：
-    *   There was a **subtle** hint of criticism in her otherwise positive review.
-    *   在她原本积极的评价中，带有一丝**微妙的**批评意味。
-*   **记忆技巧**： 注意发音不发“b”。可以联想“sub”(下) + “tle”(轻声)。需要“潜下去”仔细听/看，才能发现的“细微之处”。
-
-### 5. ubiquitous
-*   **音标**： /juːˈbɪkwɪtəs/
-*   **词性**： adj. 无所不在的；普遍存在的
-*   **释义**： 似乎在任何地方同时出现或被找到。
-*   **例句**：
-    *   In the modern world, smartphones have become **ubiquitous**.
-    *   在现代社会，智能手机已经变得**无处不在**。
-*   **记忆技巧**： 联想 **u-** (你) + **biqui-** (像“必去”) + **-ous**。你去到任何地方(必去的地方)，它都在那里 → “无处不在”。
-
-### 6. augment
-*   **音标**： /ɔːɡˈment/
-*   **词性**： v. 增加；扩大；增强
-*   **释义**： 通过添加数量或质量来使某物变得更大或更好。
-*   **例句**：
-    *   He **augmented** his income by working as a freelance writer on weekends.
-    *   他通过周末做自由撰稿人来**增加**自己的收入。
-*   **记忆技巧**： 词根 **aug-** (同August八月，引申为“增长”) + **-ment**。核心是“使增长”。
-
-### 7. eloquent
-*   **音标**： /ˈeləkwənt/
-*   **词性**： adj. 雄辩的；有说服力的；意味深长的
-*   **释义**： 指语言表达清晰、有力、动人。
-*   **例句**：
-    *   The president gave an **eloquent** speech that moved the entire nation.
-    *   总统发表了一场**雄辩的**演讲，感动了全国人民。
-*   **记忆技巧**： 词根 **e-** (出) + **loqu-** (说话，如colloquial) + **-ent**。能把话说得“清晰流利”地表达出来，即“雄辩”。
-
-### 8. catalyst
-*   **音标**： /ˈkætəlɪst/
-*   **词性**： n. 催化剂；促进因素
-*   **释义**： 能加速化学反应的物质；比喻能引发或加速重大变化的人或事。
-*   **例句**：
-    *   The new policy acted as a **catalyst** for economic growth.
-    *   新政策成为了经济增长的**催化剂**。
-*   **记忆技巧**： 直接来自化学术语。联想 “Cat(猫) + alyst(分析)”。想象一只猫是引发一系列变化的“催化剂”。
-
-### 9. perpetuate
-*   **音标**： /pərˈpetʃueɪt/
-*   **词性**： v. 使永久化；使持续
-*   **释义**： 使某种状态、习俗或信念持续下去，通常带有负面含义。
-*   **例句**：
-    *   Social media can sometimes **perpetuate** stereotypes and misinformation.
-    *   社交媒体有时可能会**助长**刻板印象和错误信息的传播。
-*   **记忆技巧**： 词根 **per-** (贯穿，始终) + **pet-** (来自petere，“追求、寻求”) + **-uate**。始终在追求/维持 → “使永久化”。
-
-### 10. negligible
-*   **音标**： /ˈneɡlɪdʒəbl/
-*   **词性**： adj. 可以忽略不计的；微不足道的
-*   **释义**： 小到不值得考虑或注意的。
-*   **例句**：
-    *   The difference in their prices is **negligible**, so choose based on quality.
-    *   它们价格上的差异**微乎其微**，所以根据质量来选吧。
-*   **记忆技巧**： 词根 **neg-** (否定) + **-lig-** (选择，如intelligent) + **-ible** (能够…)。能够被“否定选择”的，即“可忽略的”。
-
-### 11. cumbersome
-*   **音标**： /ˈkʌmbərsəm/
-*   **词性**： adj. 笨重的；累赘的；手续繁琐的
-*   **释义**： 因体积、重量或复杂性而难以使用或处理。
-*   **例句**：
-    *   The old regulations were too **cumbersome** and needed to be simplified.
-    *   旧规定太**繁琐**了，需要简化。
-*   **记忆技巧**： 联想 **cumber** (阻碍) + **-some** (形容词后缀)。像负担一样“阻碍”行动的东西，即“笨重、繁琐”。
-
-### 12. retrospect
-*   **音标**： /ˈretrəspekt/
-*   **词性**： n. 回顾；追溯
-*   **释义**： 对过去事件的回顾。
-*   **例句**：
-    *   **In retrospect**, quitting my stable job to travel was the best decision I ever made.
-    *   **回想起来**，辞去稳定的工作去旅行是我做过的最好的决定。
-*   **记忆技巧**： 词根 **retro-** (向后) + **-spect** (看)。向后看，即“回顾”。
+## 1. **resilient**
+**音标** /rɪˈzɪliənt/  
+**词性** adj.  
+**释义** 韧性强的；能迅速恢复的；适应性强的  
+**例句**  
+- **English:** Children are often more **resilient** than adults and can adapt to changes quickly.  
+- **中文:** 儿童通常比成人更有**韧性**，能够快速适应变化。  
+**记忆技巧**  
+词根：`resili-`(回弹) + `-ent`(形容词后缀) → 能够回弹的 → 有韧性的
 
 ---
-**今日复习**：花5分钟，回顾以上词汇。尝试用 `ambivalent`, `pragmatic`, `catalyst` 三个词，自己造一个描述近期社会现象的句子。坚持就是胜利！📈
+
+## 2. **profound**
+**音标** /prəˈfaʊnd/  
+**词性** adj.  
+**释义** 深刻的；意义深远的；渊博的  
+**例句**  
+- **English:** The book has had a **profound** influence on my understanding of philosophy.  
+- **中文:** 这本书对我理解哲学产生了**深远**的影响。  
+**记忆技巧**  
+联想：`pro-(向前)` + `found(建立)` → 向前建立得更深 → 深刻的
+
+---
+
+## 3. **mitigate**
+**音标** /ˈmɪtɪɡeɪt/  
+**词性** v.  
+**释义** 缓和；减轻（严重性）  
+**例句**  
+- **English:** Steps must be taken to **mitigate** the effects of climate change.  
+- **中文:** 必须采取措施来**减轻**气候变化的影响。  
+**记忆技巧**  
+词根：`mitig-(柔和)` → 使变得柔和 → 缓和
+
+---
+
+## 4. **empirical**
+**音标** /ɪmˈpɪrɪkl/  
+**词性** adj.  
+**释义** 以经验为依据的；经验主义的  
+**例句**  
+- **English:** The theory needs to be supported by **empirical** evidence.  
+- **中文:** 这个理论需要**实证**证据的支持。  
+**记忆技巧**  
+词源：来自`experience(经验)` → 关于经验的 → 经验主义的
+
+---
+
+## 5. **paradigm**
+**音标** /ˈpærədaɪm/  
+**词性** n.  
+**释义** 范式；典范；模式  
+**例句**  
+- **English:** The discovery led to a **paradigm** shift in scientific thinking.  
+- **中文:** 这一发现导致了科学思维的**范式**转变。  
+**记忆技巧**  
+联想：`para-(旁边)` + `digm(显示)` → 在旁边显示出的模型 → 典范
+
+---
+
+## 6. **scrutiny**
+**音标** /ˈskruːtəni/  
+**词性** n.  
+**释义** 仔细检查；详细审查  
+**例句**  
+- **English:** The proposal came under intense **scrutiny** from the committee.  
+- **中文:** 该提案受到了委员会的严格**审查**。  
+**记忆技巧**  
+词根：`scrut-(仔细看)` → 仔细查看的行为 → 审查
+
+---
+
+## 7. **acquiesce**
+**音标** /ˌækwiˈes/  
+**词性** v.  
+**释义** 默认；默许；勉强同意  
+**例句**  
+- **English:** After much debate, she finally **acquiesced** to their demands.  
+- **中文:** 经过长时间的辩论，她最终**默许**了他们的要求。  
+**记忆技巧**  
+词根：`ac-(向)` + `quiesc-(安静)` → 变得安静 → 不再反对 → 默许
+
+---
+
+## 8. **volatile**
+**音标** /ˈvɒlətaɪl/  
+**词性** adj.  
+**释义** 不稳定的；易变的；易挥发的  
+**例句**  
+- **English:** The stock market has been extremely **volatile** recently.  
+- **中文:** 股市最近**波动**剧烈。  
+**记忆技巧**  
+词源：`volat-(飞)` → 像飞走一样不稳定 → 易变的
+
+---
+
+## 9. **pragmatic**
+**音标** /præɡˈmætɪk/  
+**词性** adj.  
+**释义** 务实的；实际的  
+**例句**  
+- **English:** We need a more **pragmatic** approach to solve this problem.  
+- **中文:** 我们需要更**务实**的方法来解决这个问题。  
+**记忆技巧**  
+联想：`prag-(实践)` → 注重实践的 → 务实的
+
+---
+
+## 10. **conundrum**
+**音标** /kəˈnʌndrəm/  
+**词性** n.  
+**释义** 难题；复杂的问题  
+**例句**  
+- **English:** Balancing economic growth and environmental protection is a real **conundrum**.  
+- **中文:** 平衡经济增长和环境保护确实是个**难题**。  
+**记忆技巧**  
+联想：`con-(一起)` + `undrum(想象为谜团)` → 凑在一起的谜团 → 难题
+
+---
+
+## 11. **deplete**
+**音标** /dɪˈpliːt/  
+**词性** v.  
+**释义** 耗尽；使枯竭  
+**例句**  
+- **English:** Overfishing has **depleted** the fish stocks in the ocean.  
+- **中文:** 过度捕捞**耗尽了**海洋中的鱼类资源。  
+**记忆技巧**  
+词根：`de-(向下)` + `plete(填满)` → 把填满的拿走 → 耗尽
+
+---
+
+## 12. **ubiquitous**
+**音标** /juːˈbɪkwɪtəs/  
+**词性** adj.  
+**释义** 无处不在的；普遍存在的  
+**例句**  
+- **English:** Smartphones have become **ubiquitous** in modern society.  
+- **中文:** 智能手机在现代社会已经**无处不在**。  
+**记忆技巧**  
+词根：`ubiquit-(在哪里)` + `-ous` → 在哪里都有的 → 无处不在的
+
+---
+
+**学习小贴士**：  
+1. 建议将每个词汇造句，加深印象  
+2. 可将相关词汇（如`resilient`和`volatile`）对比记忆  
+3. 每天复习前6天的内容，保持记忆连贯性
