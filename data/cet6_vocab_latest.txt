@@ -1,152 +1,121 @@
-# 六级高频词汇学习 (Day 73)
+# 📚 六级词汇每日一练（第74天）
+
+今天为你精选了12个六级高频核心词汇，涵盖名词、动词、形容词和副词。掌握它们将助你理解更复杂的文章和表达。
 
 ---
 
-## 1. **resilient**
-**音标** /rɪˈzɪliənt/  
-**词性** adj.  
-**释义** 韧性强的；能迅速恢复的；适应性强的  
-**例句**  
-- **English:** Children are often more **resilient** than adults and can adapt to changes quickly.  
-- **中文:** 儿童通常比成人更有**韧性**，能够快速适应变化。  
-**记忆技巧**  
-词根：`resili-`(回弹) + `-ent`(形容词后缀) → 能够回弹的 → 有韧性的
+### 1. profound
+- **音标**：[prəˈfaʊnd]
+- **词性**：adj.
+- **中文释义**：深刻的；意义深远的；知识渊博的
+- **例句**：
+  - The book had a **profound** influence on my worldview.
+  - 这本书对我的世界观产生了**深远的影响**。
+- **记忆技巧**：**pro-** (向前) + **found** (建立，基础) → 在基础上进一步向前 → 根基深厚 → **深刻的**。
+
+### 2. elaborate
+- **音标**：[ɪˈlæbərət]
+- **词性**：adj. / v.
+- **中文释义**：(adj.) 精心制作的；详细阐述的；(v.) 详细说明；精心制作
+- **例句**：
+  - Could you **elaborate** on your proposal?
+  - 你能**详细阐述**一下你的提案吗？
+- **记忆技巧**：**e-** (出) + **labor** (劳动) + **-ate** → 投入大量劳动做出来的 → **精心制作的**。
+
+### 3. scrutinize
+- **音标**：[ˈskruːtənaɪz]
+- **词性**：v.
+- **中文释义**：仔细检查；详细审查
+- **例句**：
+  - The committee will **scrutinize** the budget details.
+  - 委员会将**仔细审查**预算细节。
+- **记忆技巧**：联想 **scrutin-** (近似 “screen screen”，屏幕) + **-ize** → 像在屏幕上放大查看一样 → **仔细检查**。
+
+### 4. prevalent
+- **音标**：[ˈprevələnt]
+- **词性**：adj.
+- **中文释义**：流行的；普遍的；盛行的
+- **例句**：
+  - Misinformation is **prevalent** on social media.
+  - 虚假信息在社交媒体上**非常普遍**。
+- **记忆技巧**：**pre-** (在...前) + **val** (强壮，来自 *valiant*) + **-ent** → 在前面很强壮地存在 → **盛行的**。
+
+### 5. volatile
+- **音标**：[ˈvɑːlətl]
+- **词性**：adj.
+- **中文释义**：易变的；不稳定的；挥发性的
+- **例句**：
+  - The stock market has been extremely **volatile** recently.
+  - 最近股市**极不稳定**。
+- **记忆技巧**：来自拉丁语 *volatilis*，意为 “飞翔的”。像飞鸟一样**易变、不稳定**。
+
+### 6. exacerbate
+- **音标**：[ɪɡˈzæsərbeɪt]
+- **词性**：v.
+- **中文释义**：加剧；使恶化；激怒
+- **例句**：
+  - The drought **exacerbated** the food shortage.
+  - 干旱**加剧了**粮食短缺问题。
+- **记忆技巧**：**ex-** (出) + **acerb** (尖刻的，苦涩的，如 *acerbic*) + **-ate** → 把苦涩的东西释放出来 → 使情况**更糟**。
+
+### 7. eloquent
+- **音标**：[ˈeləkwənt]
+- **词性**：adj.
+- **中文释义**：雄辩的；有说服力的；意味深长的
+- **例句**：
+  - His silence was more **eloquent** than any speech.
+  - 他的沉默比任何言语都**更有说服力**。
+- **记忆技巧**：**e-** (出) + **loqu** (说，如 *colloquial*) + **-ent** → 说出来的话能打动人心 → **雄辩的**。
+
+### 8. redundant
+- **音标**：[rɪˈdʌndənt]
+- **词性**：adj.
+- **中文释义**：多余的；冗余的；被裁减的
+- **例句**：
+  - Please remove any **redundant** information from the report.
+  - 请从报告中删除所有**冗余**信息。
+- **记忆技巧**：**re-** (回) + **und** (溢出，如 *abundant*) + **-ant** → 东西多得溢出来又退回去 → **多余的**。
+
+### 9. meticulous
+- **音标**：[məˈtɪkjələs]
+- **词性**：adj.
+- **中文释义**：一丝不苟的；极其细致的；挑剔的
+- **例句**：
+  - She is **meticulous** about keeping records.
+  - 她在保存记录方面**一丝不苟**。
+- **记忆技巧**：来自拉丁语 *metus* (恐惧)。因为害怕出错而变得**极其小心、细致**。
+
+### 10. pragmatic
+- **音标**：[præɡˈmætɪk]
+- **词性**：adj.
+- **中文释义**：务实的；实用主义的
+- **例句**：
+  - We need a more **pragmatic** approach to solve this problem.
+  - 我们需要一种更**务实的**方法来解决这个问题。
+- **记忆技巧**：词根 **pragm-** (做，实践，如 *praxis*) + **-atic** → 注重实践和效果 → **务实的**。
+
+### 11. inadvertently
+- **音标**：[ˌɪnədˈvɜːrtəntli]
+- **词性**：adv.
+- **中文释义**：无意地；不注意地；不小心地
+- **例句**：
+  - He **inadvertently** offended his host.
+  - 他**无意中**冒犯了主人。
+- **记忆技巧**：**in-** (不) + **ad-** (向) + **vert** (转，如 *convert*) + **-ent** + **-ly** → 没有把心思转向某事 → **无心地**。
+
+### 12. resilient
+- **音标**：[rɪˈzɪliənt]
+- **词性**：adj.
+- **中文释义**：有弹性的；能恢复的；适应力强的
+- **例句**：
+  - Children are often more **resilient** than adults.
+  - 孩子们通常比成年人**适应力更强**。
+- **记忆技巧**：**re-** (回) + **sili** (跳，如 *salient*) + **-ent** → 跳回来 → **恢复原状的，有弹性的**。
 
 ---
+💡 **今日学习建议**：
+1. 重点理解每个词的**核心含义**和**常见搭配**。
+2. 尝试用每个词**口头造句**。
+3. 特别注意 **volatile, resilient** 这类带有对比含义的词，它们在论述类文章中很常见。
 
-## 2. **profound**
-**音标** /prəˈfaʊnd/  
-**词性** adj.  
-**释义** 深刻的；意义深远的；渊博的  
-**例句**  
-- **English:** The book has had a **profound** influence on my understanding of philosophy.  
-- **中文:** 这本书对我理解哲学产生了**深远**的影响。  
-**记忆技巧**  
-联想：`pro-(向前)` + `found(建立)` → 向前建立得更深 → 深刻的
-
----
-
-## 3. **mitigate**
-**音标** /ˈmɪtɪɡeɪt/  
-**词性** v.  
-**释义** 缓和；减轻（严重性）  
-**例句**  
-- **English:** Steps must be taken to **mitigate** the effects of climate change.  
-- **中文:** 必须采取措施来**减轻**气候变化的影响。  
-**记忆技巧**  
-词根：`mitig-(柔和)` → 使变得柔和 → 缓和
-
----
-
-## 4. **empirical**
-**音标** /ɪmˈpɪrɪkl/  
-**词性** adj.  
-**释义** 以经验为依据的；经验主义的  
-**例句**  
-- **English:** The theory needs to be supported by **empirical** evidence.  
-- **中文:** 这个理论需要**实证**证据的支持。  
-**记忆技巧**  
-词源：来自`experience(经验)` → 关于经验的 → 经验主义的
-
----
-
-## 5. **paradigm**
-**音标** /ˈpærədaɪm/  
-**词性** n.  
-**释义** 范式；典范；模式  
-**例句**  
-- **English:** The discovery led to a **paradigm** shift in scientific thinking.  
-- **中文:** 这一发现导致了科学思维的**范式**转变。  
-**记忆技巧**  
-联想：`para-(旁边)` + `digm(显示)` → 在旁边显示出的模型 → 典范
-
----
-
-## 6. **scrutiny**
-**音标** /ˈskruːtəni/  
-**词性** n.  
-**释义** 仔细检查；详细审查  
-**例句**  
-- **English:** The proposal came under intense **scrutiny** from the committee.  
-- **中文:** 该提案受到了委员会的严格**审查**。  
-**记忆技巧**  
-词根：`scrut-(仔细看)` → 仔细查看的行为 → 审查
-
----
-
-## 7. **acquiesce**
-**音标** /ˌækwiˈes/  
-**词性** v.  
-**释义** 默认；默许；勉强同意  
-**例句**  
-- **English:** After much debate, she finally **acquiesced** to their demands.  
-- **中文:** 经过长时间的辩论，她最终**默许**了他们的要求。  
-**记忆技巧**  
-词根：`ac-(向)` + `quiesc-(安静)` → 变得安静 → 不再反对 → 默许
-
----
-
-## 8. **volatile**
-**音标** /ˈvɒlətaɪl/  
-**词性** adj.  
-**释义** 不稳定的；易变的；易挥发的  
-**例句**  
-- **English:** The stock market has been extremely **volatile** recently.  
-- **中文:** 股市最近**波动**剧烈。  
-**记忆技巧**  
-词源：`volat-(飞)` → 像飞走一样不稳定 → 易变的
-
----
-
-## 9. **pragmatic**
-**音标** /præɡˈmætɪk/  
-**词性** adj.  
-**释义** 务实的；实际的  
-**例句**  
-- **English:** We need a more **pragmatic** approach to solve this problem.  
-- **中文:** 我们需要更**务实**的方法来解决这个问题。  
-**记忆技巧**  
-联想：`prag-(实践)` → 注重实践的 → 务实的
-
----
-
-## 10. **conundrum**
-**音标** /kəˈnʌndrəm/  
-**词性** n.  
-**释义** 难题；复杂的问题  
-**例句**  
-- **English:** Balancing economic growth and environmental protection is a real **conundrum**.  
-- **中文:** 平衡经济增长和环境保护确实是个**难题**。  
-**记忆技巧**  
-联想：`con-(一起)` + `undrum(想象为谜团)` → 凑在一起的谜团 → 难题
-
----
-
-## 11. **deplete**
-**音标** /dɪˈpliːt/  
-**词性** v.  
-**释义** 耗尽；使枯竭  
-**例句**  
-- **English:** Overfishing has **depleted** the fish stocks in the ocean.  
-- **中文:** 过度捕捞**耗尽了**海洋中的鱼类资源。  
-**记忆技巧**  
-词根：`de-(向下)` + `plete(填满)` → 把填满的拿走 → 耗尽
-
----
-
-## 12. **ubiquitous**
-**音标** /juːˈbɪkwɪtəs/  
-**词性** adj.  
-**释义** 无处不在的；普遍存在的  
-**例句**  
-- **English:** Smartphones have become **ubiquitous** in modern society.  
-- **中文:** 智能手机在现代社会已经**无处不在**。  
-**记忆技巧**  
-词根：`ubiquit-(在哪里)` + `-ous` → 在哪里都有的 → 无处不在的
-
----
-
-**学习小贴士**：  
-1. 建议将每个词汇造句，加深印象  
-2. 可将相关词汇（如`resilient`和`volatile`）对比记忆  
-3. 每天复习前6天的内容，保持记忆连贯性
+坚持就是胜利，第74天继续加油！🌟
