@@ -1,175 +1,149 @@
-# 六级高频词汇学习（第75天）
+# 六级高频词汇学习 - 第76天
 
-**今日词汇提示**：今天词汇涉及认知、行为与抽象概念，建议结合例句体会用法，注意词性转换。
-
----
-
-### 1. phenomenon
-**/fəˈnɑːmɪnɑːn/**
-**n.** 现象；非凡的人或事物
-
-**例句**：The Northern Lights are a natural **phenomenon** that attracts tourists from all over the world.
-**翻译**：北极光是一种吸引世界各地游客的自然现象。
-
-**记忆技巧**：词根 **phen-**（出现）+ **omenon**（类似“on”的结构），意为“显现出来的东西”→ 现象。
+今天为你准备了13个核心词汇，包含多个词性，请坚持积累！
 
 ---
 
-### 2. facilitate
-**/fəˈsɪlɪteɪt/**
-**v.** 促进；使便利
-
-**例句**：Technology has greatly **facilitated** communication between people in different countries.
-**翻译**：技术极大地促进了不同国家人们之间的沟通。
-
-**记忆技巧**：来自拉丁语 *facilis*（容易的），**-itate** 为动词后缀，意为“使变得容易” → 促进。
-
----
-
-### 3. comprehensive
-**/ˌkɑːmprɪˈhensɪv/**
-**adj.** 全面的；综合的
-
-**例句**：We need a **comprehensive** plan to solve this complex social issue.
-**翻译**：我们需要一个全面的计划来解决这个复杂的社会问题。
-
-**记忆技巧**：前缀 **com-**（一起）+ **prehens**（抓取，同“prehend”）→ 把所有东西抓在一起 → 全面的。
+### 1. **revenue** 
+*   **音标**：/ˈrevənuː/
+*   **词性**：n.
+*   **中文释义**：(公司、政府的)收入，税收收入
+*   **例句**：
+    *   The company's annual **revenue** exceeded $1 billion.
+    *   公司的年**收入**超过了10亿美元。
+*   **记忆技巧**：词根 `re-` (回) + `venue` (来)。想象钱从四面八方“回来”，就是**收入**。可以和“venue”(地点，场所)联想，在很多场所(venue)能赚到钱(revenue)。
 
 ---
 
-### 4. profound
-**/prəˈfaʊnd/**
-**adj.** 深远的；深奥的；深刻的
-
-**例句**：Her speech had a **profound** impact on my understanding of environmental protection.
-**翻译**：她的演讲对我理解环境保护产生了深远影响。
-
-**记忆技巧**：前缀 **pro-**（向前）+ **found**（基础，同“fundus”底部）→ 深入到底部 → 深刻的。
-
----
-
-### 5. ubiquitous
-**/juːˈbɪkwɪtəs/**
-**adj.** 无所不在的；普遍存在的
-
-**例句**：Smartphones have become **ubiquitous** in modern daily life.
-**翻译**：智能手机在现代日常生活中已无处不在。
-
-**记忆技巧**：源自拉丁语 *ubique*（到处），联想“u-bi-qui-teous” → “u（你）在哪里（qui）都能碰到（teous）” → 无处不在的。
+### 2. **phenomenon**
+*   **音标**：/fəˈnɑːmɪnɑːn/
+*   **词性**：n.
+*   **中文释义**：现象；非凡的人(或事物)
+*   **例句**：
+    *   The Northern Lights are a spectacular natural **phenomenon**.
+    *   北极光是一种壮观的自然**现象**。
+*   **记忆技巧**：词根 `phen-` (出现，显现) + `-omenon`。什么东西“显现”出来了，就是**现象**。注意复数形式是 **phenomena**。
 
 ---
 
-### 6. scrutinize
-**/ˈskruːtənaɪz/**
-**v.** 仔细检查；详细审查
-
-**例句**：The committee will **scrutinize** all the financial reports before making a decision.
-**翻译**：委员会将在做决定前仔细审查所有财务报告。
-
-**记忆技巧**：源自 *scrutiny*（细看），联想“scrutin”（发音似“search in”）+ -ize → 在里面搜索 → 仔细检查。
-
----
-
-### 7. plausible
-**/ˈplɔːzəbl/**
-**adj.** 似乎合理的；可信的
-
-**例句**：His explanation sounded **plausible**, but the evidence proved otherwise.
-**翻译**：他的解释听起来合理，但证据证明并非如此。
-
-**记忆技巧**：词根 **plaus-**（鼓掌，同“applaud”）→ 值得鼓掌的 → 听起来有道理的。
+### 3. **sentiment**
+*   **音标**：/ˈsentɪmənt/
+*   **词性**：n.
+*   **中文释义**：观点，意见；情绪，情感
+*   **例句**：
+    *   Public **sentiment** has shifted in favor of environmental protection.
+    *   公众**情绪**已转向支持环境保护。
+*   **记忆技巧**：词根 `sent-` (感觉) + `-ment` (名词后缀)。表达一种“感觉”或基于感觉的“观点”。联想 **sentence** (句子)也是表达思想(sentiment)的方式。
 
 ---
 
-### 8. exacerbate
-**/ɪɡˈzæsərbeɪt/**
-**v.** 使加剧；使恶化
-
-**例句**：The drought was **exacerbated** by the unusually high temperatures.
-**翻译**：干旱因异常高温而加剧。
-
-**记忆技巧**：前缀 **ex-**（出）+ **acerb**（尖锐，同“acrid”苦涩的）→ 变得更尖锐/苦涩 → 恶化。
-
----
-
-### 9. tangible
-**/ˈtændʒəbl/**
-**adj.** 有形的；可触摸的；切实的
-
-**例句**：We need to see some **tangible** results before we invest more money.
-**翻译**：在投入更多资金前，我们需要看到一些切实的成果。
-
-**记忆技巧**：词根 **tang-**（触摸，同“tactile”）→ 可触摸的 → 有形的。
+### 4. **comply**
+*   **音标**：/kəmˈplaɪ/
+*   **词性**：v.
+*   **中文释义**：服从，遵从
+*   **例句**：
+    *   All employees must **comply** with the company's safety regulations.
+    *   所有员工都必须**遵守**公司的安全规定。
+*   **记忆技巧**：词根 `com-` (一起) + `ply` (填充，折叠)。一起按照规则“折叠”自己，即**顺从**。常与 **with** 搭配：comply with sth。
 
 ---
 
-### 10. benevolent
-**/bəˈnevələnt/**
-**adj.** 仁慈的；慈善的
-
-**例句**：The **benevolent** organization provides free meals for the homeless.
-**翻译**：这个慈善机构为无家可归者提供免费餐食。
-
-**记忆技巧**：词根 **bene-**（好）+ **vol-**（意愿，同“volition”）→ 好的意愿 → 仁慈的。
-
----
-
-### 11. sporadic
-**/spəˈrædɪk/**
-**adj.** 零星的；断断续续的
-
-**例句**：There were **sporadic** outbreaks of violence during the protest.
-**翻译**：抗议期间发生了零星的暴力事件。
-
-**记忆技巧**：源自希腊语 *sporadikos*（分散的），联想“sport”（运动）+ “adic” → 运动是分散/零星进行的。
+### 5. **violate**
+*   **音标**：/ˈvaɪəleɪt/
+*   **词性**：v.
+*   **中文释义**：违反，违背(法律、协议等)；侵犯
+*   **例句**：
+    *   The company was fined for **violating** environmental laws.
+    *   该公司因**违反**环境法而被罚款。
+*   **记忆技巧**：词根 `viol-` (力量，暴力)。用“暴力”去对待规则，就是**违反**。联想名词 **violation**。
 
 ---
 
-### 12. pragmatic
-**/præɡˈmætɪk/**
-**adj.** 务实的；注重实效的
-
-**例句**：We need a **pragmatic** approach to solve this problem, not just idealistic theories.
-**翻译**：我们需要务实的方法来解决这个问题，而不仅仅是理想化的理论。
-
-**记忆技巧**：词根 **pragm-**（实践，同“practical”）→ 注重实践的 → 务实的。
-
----
-
-### 13. resilient
-**/rɪˈzɪliənt/**
-**adj.** 有弹性的；适应力强的；能恢复的
-
-**例句**：Children are often more **resilient** than adults in coping with setbacks.
-**翻译**：儿童在应对挫折时往往比成年人更具韧性。
-
-**记忆技巧**：词根 **resil-**（弹回，同“rebound”）→ 能弹回的 → 有恢复力的。
+### 6. **perceive**
+*   **音标**：/pərˈsiːv/
+*   **词性**：v.
+*   **中文释义**：察觉，感知；理解，领悟
+*   **例句**：
+    *   He **perceived** a subtle change in her attitude.
+    *   他**察觉**到她态度上细微的变化。
+*   **记忆技巧**：词根 `per-` (完全) + `ceive` (抓住，拿取)。完全把信息“抓住”了，就是**感知**到了。与 **conceive** (构思) 和 **receive** (接收) 同根。
 
 ---
 
-### 14. prolific
-**/prəˈlɪfɪk/**
-**adj.** 多产的；作品丰富的
-
-**例句**：She is a **prolific** writer who has published over 30 novels.
-**翻译**：她是一位多产的作家，已出版了30多部小说。
-
-**记忆技巧**：前缀 **pro-**（向前）+ **lif-**（生命，同“life”）→ 生命力向前迸发 → 多产的。
-
----
-
-### 15. arbitrary
-**/ˈɑːrbɪtreri/**
-**adj.** 任意的；武断的；专制的
-
-**例句**：The decision seemed **arbitrary** and was not based on any clear rules.
-**翻译**：这个决定看起来很武断，并非基于任何明确规则。
-
-**记忆技巧**：源自拉丁语 *arbitrarius*（依赖判断的），联想“arbitrator”（仲裁者）→ 由个人判断决定的 → 任意的。
+### 7. **controversial**
+*   **音标**：/ˌkɑːntrəˈvɜːrʃl/
+*   **词性**：adj.
+*   **中文释义**：引起争议的，有争论的
+*   **例句**：
+    *   The politician made a **controversial** statement about immigration.
+    *   这位政治家发表了关于移民问题的**有争议的**言论。
+*   **记忆技巧**：词根 `contra-` (相反) + `vers-` (转) + `-ial` (形容词后缀)。意见“转向相反”的方向，自然会引起**争议**。名词形式是 **controversy**。
 
 ---
 
-**学习建议**：
-- 尝试用今天学到的3个词造句。
-- 注意 **-ate**（动词）、**-ive/-ous**（形容词）等后缀的常见词性。
-- 复习前74天的词汇，重点回顾标记过多次的生词。
+### 8. **facilitate**
+*   **音标**：/fəˈsɪlɪteɪt/
+*   **词性**：v.
+*   **中文释义**：促进，使便利
+*   **例句**：
+    *   The new software will **facilitate** communication between team members.
+    *   这款新软件将**促进**团队成员之间的沟通。
+*   **记忆技巧**：词根 `facile` (容易的，熟练的) + `-itate` (动词后缀)。使事情变得“容易”，即**促进**。注意它的宾语通常是“事”，不是“人”。
+
+---
+
+### 9. **profoundly**
+*   **音标**：/prəˈfaʊndli/
+*   **词性**：adv.
+*   **中文释义**：深深地，深刻地；程度极深地
+*   **例句**：
+    *   This book has **profoundly** influenced my understanding of history.
+    *   这本书**深刻地**影响了我对历史的理解。
+*   **记忆技巧**：来自形容词 **profound** (深刻的)。`pro-` (向前) + `found` (基础)。找到事物“向前的、深层的基础”，就是**深刻的**。副词表示程度。
+
+---
+
+### 10. **spontaneous**
+*   **音标**：/spɑːnˈteɪniəs/
+*   **词性**：adj.
+*   **中文释义**：自发的，自然的；一时冲动的
+*   **例句**：
+    *   The audience broke into **spontaneous** applause.
+    *   观众爆发出**自发的**掌声。
+*   **记忆技巧**：词根 `spon-` (自己) + `-taneous`。形容“自己发生”的状态，即**自发的**。可以联想“sponsor”(赞助人)有时会发起自发活动。
+
+---
+
+### 11. **intensive**
+*   **音标**：/ɪnˈtensɪv/
+*   **词性**：adj.
+*   **中文释义**：密集的，集中的；加强的，深入细致的
+*   **例句**：
+    *   She is taking an **intensive** English course before the exam.
+    *   她正在考前参加一个**强化**英语课程。
+*   **记忆技巧**：词根 `intens-` (加强) + `-ive` (形容词后缀)。与 **extensive** (广泛的) 对比记忆：一个是“向内加强”，一个是“向外扩展”。
+
+---
+
+### 12. **testimony**
+*   **音标**：/ˈtestɪmoʊni/
+*   **词性**：n.
+*   **中文释义**：证词，证言；证据，证明
+*   **例句**：
+    *   The success of the project is a **testimony** to the team's hard work.
+    *   项目的成功是团队辛勤工作的**证明**。
+*   **记忆技巧**：词根 `test-` (见证) + `-mony` (名词后缀)。做“见证”的话就是**证词**。联想 **test** (测试) 也是一种证明知识的方式。
+
+---
+
+### 13. **provoke**
+*   **音标**：/prəˈvoʊk/
+*   **词性**：v.
+*   **中文释义**：激起，引起(强烈反应)；挑衅，激怒
+*   **例句**：
+    *   His remarks **prooked** anger among the audience.
+    *   他的言论**激起了**观众的愤怒。
+*   **记忆技巧**：词根 `pro-` (向前) + `voke` (声音，叫喊)。向前“喊话”挑衅，就是**激怒**。联想形容词 **provocative** (挑衅的)。
+
+---
+**学习建议**：可以先快速浏览一遍，重点记忆不熟悉的词。试着用每个词造一个与自己生活相关的句子，并大声朗读，加深印象。加油！
