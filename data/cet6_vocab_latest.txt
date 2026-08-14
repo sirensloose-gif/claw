@@ -1,149 +1,161 @@
-# 六级高频词汇学习 - 第76天
+# 六级词汇学习 - 第77天
 
-今天为你准备了13个核心词汇，包含多个词性，请坚持积累！
-
----
-
-### 1. **revenue** 
-*   **音标**：/ˈrevənuː/
-*   **词性**：n.
-*   **中文释义**：(公司、政府的)收入，税收收入
-*   **例句**：
-    *   The company's annual **revenue** exceeded $1 billion.
-    *   公司的年**收入**超过了10亿美元。
-*   **记忆技巧**：词根 `re-` (回) + `venue` (来)。想象钱从四面八方“回来”，就是**收入**。可以和“venue”(地点，场所)联想，在很多场所(venue)能赚到钱(revenue)。
+**今日学习目标**：掌握12个高频核心词汇，涵盖抽象概念与学术用语，提升阅读理解与写作表达能力。
 
 ---
 
-### 2. **phenomenon**
-*   **音标**：/fəˈnɑːmɪnɑːn/
-*   **词性**：n.
-*   **中文释义**：现象；非凡的人(或事物)
-*   **例句**：
-    *   The Northern Lights are a spectacular natural **phenomenon**.
-    *   北极光是一种壮观的自然**现象**。
-*   **记忆技巧**：词根 `phen-` (出现，显现) + `-omenon`。什么东西“显现”出来了，就是**现象**。注意复数形式是 **phenomena**。
+## 1. skepticism
+- **音标**：/ˈskeptɪsɪzəm/
+- **词性**：n.
+- **中文释义**：怀疑主义；怀疑态度
+- **例句**：
+  - Many scientists view these extraordinary claims with skepticism.
+    许多科学家对这些非同寻常的说法持怀疑态度。
+- **记忆技巧**：词根 *skept-*（思考）+ *-icism*（主义/态度）→ 思考后产生的怀疑 → 怀疑主义
 
 ---
 
-### 3. **sentiment**
-*   **音标**：/ˈsentɪmənt/
-*   **词性**：n.
-*   **中文释义**：观点，意见；情绪，情感
-*   **例句**：
-    *   Public **sentiment** has shifted in favor of environmental protection.
-    *   公众**情绪**已转向支持环境保护。
-*   **记忆技巧**：词根 `sent-` (感觉) + `-ment` (名词后缀)。表达一种“感觉”或基于感觉的“观点”。联想 **sentence** (句子)也是表达思想(sentiment)的方式。
+## 2. ambiguous
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：adj.
+- **中文释义**：模糊的；模棱两可的
+- **例句**：
+  - The statement was deliberately ambiguous, leaving room for multiple interpretations.
+    这份声明故意表述模糊，留有多种解释的空间。
+- **记忆技巧**：前缀 *ambi-*（两边）+ *-guous*（形容词后缀）→ 可以站在两边理解 → 模棱两可的
 
 ---
 
-### 4. **comply**
-*   **音标**：/kəmˈplaɪ/
-*   **词性**：v.
-*   **中文释义**：服从，遵从
-*   **例句**：
-    *   All employees must **comply** with the company's safety regulations.
-    *   所有员工都必须**遵守**公司的安全规定。
-*   **记忆技巧**：词根 `com-` (一起) + `ply` (填充，折叠)。一起按照规则“折叠”自己，即**顺从**。常与 **with** 搭配：comply with sth。
+## 3. profound
+- **音标**：/prəˈfaʊnd/
+- **词性**：adj.
+- **中文释义**：深刻的；意义深远的；渊博的
+- **例句**：
+  - The book had a profound impact on my understanding of history.
+    这本书对我理解历史产生了深刻的影响。
+- **记忆技巧**：前缀 *pro-*（向前）+ *found*（基础）→ 向下深入到基础 → 深刻的
 
 ---
 
-### 5. **violate**
-*   **音标**：/ˈvaɪəleɪt/
-*   **词性**：v.
-*   **中文释义**：违反，违背(法律、协议等)；侵犯
-*   **例句**：
-    *   The company was fined for **violating** environmental laws.
-    *   该公司因**违反**环境法而被罚款。
-*   **记忆技巧**：词根 `viol-` (力量，暴力)。用“暴力”去对待规则，就是**违反**。联想名词 **violation**。
+## 4. prevalent
+- **音标**：/ˈprevələnt/
+- **词性**：adj.
+- **中文释义**：流行的；普遍的；盛行的
+- **例句**：
+  - The use of smartphones has become prevalent among teenagers.
+    智能手机的使用在青少年中已变得普遍。
+- **记忆技巧**：词根 *preval-*（占优势）+ *-ent*（形容词后缀）→ 占优势的 → 普遍的
 
 ---
 
-### 6. **perceive**
-*   **音标**：/pərˈsiːv/
-*   **词性**：v.
-*   **中文释义**：察觉，感知；理解，领悟
-*   **例句**：
-    *   He **perceived** a subtle change in her attitude.
-    *   他**察觉**到她态度上细微的变化。
-*   **记忆技巧**：词根 `per-` (完全) + `ceive` (抓住，拿取)。完全把信息“抓住”了，就是**感知**到了。与 **conceive** (构思) 和 **receive** (接收) 同根。
+## 5. deteriorate
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：v.
+- **中文释义**：（使）恶化；变坏
+- **例句**：
+  - His health began to deteriorate rapidly after the diagnosis.
+    确诊后，他的健康状况开始迅速恶化。
+- **记忆技巧**：词根 *deterior-*（更坏的）+ *-ate*（动词后缀）→ 使变得更坏 → 恶化
 
 ---
 
-### 7. **controversial**
-*   **音标**：/ˌkɑːntrəˈvɜːrʃl/
-*   **词性**：adj.
-*   **中文释义**：引起争议的，有争论的
-*   **例句**：
-    *   The politician made a **controversial** statement about immigration.
-    *   这位政治家发表了关于移民问题的**有争议的**言论。
-*   **记忆技巧**：词根 `contra-` (相反) + `vers-` (转) + `-ial` (形容词后缀)。意见“转向相反”的方向，自然会引起**争议**。名词形式是 **controversy**。
+## 6. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：adj.
+- **中文释义**：务实的；实用的
+- **例句**：
+  - We need a pragmatic approach to solve this complex problem.
+    我们需要一种务实的方法来解决这个复杂问题。
+- **记忆技巧**：源于 *pragma*（实践、事务）+ *-tic*（形容词后缀）→ 关注实践的 → 务实的
 
 ---
 
-### 8. **facilitate**
-*   **音标**：/fəˈsɪlɪteɪt/
-*   **词性**：v.
-*   **中文释义**：促进，使便利
-*   **例句**：
-    *   The new software will **facilitate** communication between team members.
-    *   这款新软件将**促进**团队成员之间的沟通。
-*   **记忆技巧**：词根 `facile` (容易的，熟练的) + `-itate` (动词后缀)。使事情变得“容易”，即**促进**。注意它的宾语通常是“事”，不是“人”。
+## 7. resilient
+- **音标**：/rɪˈzɪliənt/
+- **词性**：adj.
+- **中文释义**：有韧性的；适应力强的；能恢复的
+- **例句**：
+  - Children are often more resilient than adults in coping with stress.
+    儿童在应对压力时通常比成年人更具韧性。
+- **记忆技巧**：词根 *resil-*（跳回）+ *-ient*（形容词后缀）→ 能跳回原状的 → 有韧性的
 
 ---
 
-### 9. **profoundly**
-*   **音标**：/prəˈfaʊndli/
-*   **词性**：adv.
-*   **中文释义**：深深地，深刻地；程度极深地
-*   **例句**：
-    *   This book has **profoundly** influenced my understanding of history.
-    *   这本书**深刻地**影响了我对历史的理解。
-*   **记忆技巧**：来自形容词 **profound** (深刻的)。`pro-` (向前) + `found` (基础)。找到事物“向前的、深层的基础”，就是**深刻的**。副词表示程度。
+## 8. scrutinize
+- **音标**：/ˈskruːtənaɪz/
+- **词性**：v.
+- **中文释义**：仔细检查；详细审查
+- **例句**：
+  - The committee will scrutinize every detail of the proposal before making a decision.
+    委员会在做出决定前将仔细审查提案的每一个细节。
+- **记忆技巧**：源于 *scrutiny*（仔细检查）→ 变成动词形式 → 仔细检查
 
 ---
 
-### 10. **spontaneous**
-*   **音标**：/spɑːnˈteɪniəs/
-*   **词性**：adj.
-*   **中文释义**：自发的，自然的；一时冲动的
-*   **例句**：
-    *   The audience broke into **spontaneous** applause.
-    *   观众爆发出**自发的**掌声。
-*   **记忆技巧**：词根 `spon-` (自己) + `-taneous`。形容“自己发生”的状态，即**自发的**。可以联想“sponsor”(赞助人)有时会发起自发活动。
+## 9. unprecedented
+- **音标**：/ʌnˈpresɪdentɪd/
+- **词性**：adj.
+- **中文释义**：史无前例的；前所未有的
+- **例句**：
+  - The country faced an unprecedented economic crisis.
+    这个国家面临着前所未有的经济危机。
+- **记忆技巧**：前缀 *un-*（不）+ *precedent*（先例）+ *-ed*（形容词后缀）→ 没有先例的 → 史无前例的
 
 ---
 
-### 11. **intensive**
-*   **音标**：/ɪnˈtensɪv/
-*   **词性**：adj.
-*   **中文释义**：密集的，集中的；加强的，深入细致的
-*   **例句**：
-    *   She is taking an **intensive** English course before the exam.
-    *   她正在考前参加一个**强化**英语课程。
-*   **记忆技巧**：词根 `intens-` (加强) + `-ive` (形容词后缀)。与 **extensive** (广泛的) 对比记忆：一个是“向内加强”，一个是“向外扩展”。
+## 10. substantiate
+- **音标**：/səbˈstænʃieɪt/
+- **词性**：v.
+- **中文释义**：证实；证明…有根据
+- **例句**：
+  - There is little evidence to substantiate these allegations.
+    几乎没有证据能证实这些指控。
+- **记忆技巧**：词根 *substant-*（实质）+ *-iate*（动词后缀）→ 使有实质 → 证实
 
 ---
 
-### 12. **testimony**
-*   **音标**：/ˈtestɪmoʊni/
-*   **词性**：n.
-*   **中文释义**：证词，证言；证据，证明
-*   **例句**：
-    *   The success of the project is a **testimony** to the team's hard work.
-    *   项目的成功是团队辛勤工作的**证明**。
-*   **记忆技巧**：词根 `test-` (见证) + `-mony` (名词后缀)。做“见证”的话就是**证词**。联想 **test** (测试) 也是一种证明知识的方式。
+## 11. paradox
+- **音标**：/ˈpærədɑːks/
+- **词性**：n.
+- **中文释义**：悖论；矛盾的人或事物
+- **例句**：
+  - It's a paradox that in a world of plenty, so many people go hungry.
+    在一个物质丰富的世界里却有那么多人挨饿，这是一个悖论。
+- **记忆技巧**：前缀 *para-*（超越）+ *dox*（观点）→ 超越普通观点 → 矛盾或悖论
 
 ---
 
-### 13. **provoke**
-*   **音标**：/prəˈvoʊk/
-*   **词性**：v.
-*   **中文释义**：激起，引起(强烈反应)；挑衅，激怒
-*   **例句**：
-    *   His remarks **prooked** anger among the audience.
-    *   他的言论**激起了**观众的愤怒。
-*   **记忆技巧**：词根 `pro-` (向前) + `voke` (声音，叫喊)。向前“喊话”挑衅，就是**激怒**。联想形容词 **provocative** (挑衅的)。
+## 12. meticulous
+- **音标**：/məˈtɪkjələs/
+- **词性**：adj.
+- **中文释义**：一丝不苟的；非常细致的
+- **例句**：
+  - The scientist kept meticulous records of all her experiments.
+    这位科学家对所有实验都做了非常细致的记录。
+- **记忆技巧**：源于拉丁语 *meticulosus*（胆小的、过分小心的）→ 引申为对细节过分小心 → 一丝不苟的
 
 ---
-**学习建议**：可以先快速浏览一遍，重点记忆不熟悉的词。试着用每个词造一个与自己生活相关的句子，并大声朗读，加深印象。加油！
+
+## 今日词汇总结表
+
+| 单词 | 词性 | 核心含义 |
+|------|------|----------|
+| skepticism | n. | 怀疑态度 |
+| ambiguous | adj. | 模棱两可的 |
+| profound | adj. | 深刻的 |
+| prevalent | adj. | 普遍的 |
+| deteriorate | v. | 恶化 |
+| pragmatic | adj. | 务实的 |
+| resilient | adj. | 有韧性的 |
+| scrutinize | v. | 仔细检查 |
+| unprecedented | adj. | 史无前例的 |
+| substantiate | v. | 证实 |
+| paradox | n. | 悖论 |
+| meticulous | adj. | 一丝不苟的 |
+
+**学习建议**：
+1. 尝试用每个单词造一个与自己生活相关的句子
+2. 重点关注形容词的同义词/反义词对比记忆（如：ambiguous-clear，pragmatic-idealistic）
+3. 抽查复习第75-76天的词汇，巩固长期记忆
+
+祝您学习愉快，备考顺利！
