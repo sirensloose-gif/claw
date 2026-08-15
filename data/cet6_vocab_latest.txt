@@ -1,161 +1,152 @@
-# 六级词汇学习 - 第77天
+# 📚 六级高频词汇学习 - 第78天
 
-**今日学习目标**：掌握12个高频核心词汇，涵盖抽象概念与学术用语，提升阅读理解与写作表达能力。
-
----
-
-## 1. skepticism
-- **音标**：/ˈskeptɪsɪzəm/
-- **词性**：n.
-- **中文释义**：怀疑主义；怀疑态度
-- **例句**：
-  - Many scientists view these extraordinary claims with skepticism.
-    许多科学家对这些非同寻常的说法持怀疑态度。
-- **记忆技巧**：词根 *skept-*（思考）+ *-icism*（主义/态度）→ 思考后产生的怀疑 → 怀疑主义
+今天为你准备了12个六级高频词汇，涵盖多种词性，助力高效备考。每天坚持，词汇量稳步提升！
 
 ---
 
-## 2. ambiguous
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：adj.
-- **中文释义**：模糊的；模棱两可的
-- **例句**：
-  - The statement was deliberately ambiguous, leaving room for multiple interpretations.
-    这份声明故意表述模糊，留有多种解释的空间。
-- **记忆技巧**：前缀 *ambi-*（两边）+ *-guous*（形容词后缀）→ 可以站在两边理解 → 模棱两可的
+### 1. crude /kruːd/
+*   **词性：** adj. / n.
+*   **中文释义：**
+    *   adj. 粗糙的，简陋的；粗略的；天然的，未加工的
+    *   n. 原油
+*   **例句：**
+    *   The report gave a **crude** estimate of the project cost.
+    *   报告对项目成本做了**粗略的**估算。
+    *   The country exports millions of barrels of **crude** every day.
+    *   该国每天出口数百万桶**原油**。
+*   **记忆技巧：**
+    *   **词源联想：** 来自拉丁语“crudus”，意为“生的、未成熟的”。想象一块“生”的、未经加工的木头，触感就是**粗糙的（crude）**。
+
+### 2. inherent /ɪnˈhɪrənt/
+*   **词性：** adj.
+*   **中文释义：** 固有的，内在的，天生的
+*   **例句：**
+    *   There are **inherent** risks in any investment.
+    *   任何投资都存在**固有的**风险。
+    *   He has an **inherent** talent for music.
+    *   他有**天生的**音乐才能。
+*   **记忆技巧：**
+    *   **词根词缀：** in-（在…内） + here（粘附） + -ent（形容词后缀） → 粘在里面的 → **内在的、固有的**。
+
+### 3. vulnerable /ˈvʌlnərəbl/
+*   **词性：** adj.
+*   **中文释义：** 脆弱的，易受伤的；（攻击、批评等的）易受伤害的
+*   **例句：**
+    *   The system is **vulnerable** to cyber attacks.
+    *   该系统容易受到网络攻击。
+    *   Children are particularly **vulnerable** to the effects of pollution.
+    *   儿童尤其容易受到污染的影响。
+*   **记忆技巧：**
+    *   **词根词缀：** vulner-（受伤，来自拉丁语“vulnerare”） + -able（能够…的） → 能够受伤的 → **脆弱的**。联想“Vulner”像“Venus（维纳斯）”，美丽但手臂是断的，很**脆弱**。
+
+### 4. speculate /ˈspekjəleɪt/
+*   **词性：** v.
+*   **中文释义：** 推测，猜测；投机，做投机买卖
+*   **例句：**
+    *   Experts are **speculating** about the reasons for the economic downturn.
+    *   专家们正在**推测**经济衰退的原因。
+    *   He made a fortune by **speculating** on the stock market.
+    *   他通过在股票市场**投机**赚了一大笔钱。
+*   **记忆技巧：**
+    *   **词源联想：** 来自拉丁语“speculatus”，意为“观察、眺望”。先**观察**市场动向，再进行**推测**或**投机**。
+
+### 5. accumulate /əˈkjuːmjəleɪt/
+*   **词性：** v.
+*   **中文释义：** 积累，积聚；堆积
+*   **例句：**
+    *   Dust had **accumulated** on the shelves while we were away.
+    *   我们不在时，架子上积了灰尘。
+    *   He worked hard to **accumulate** enough wealth for his retirement.
+    *   他努力工作，为退休**积累**了足够的财富。
+*   **记忆技巧：**
+    *   **词根词缀：** ac-（加强） + cumul-（堆积，如cumulus“积雨云”） + -ate（动词后缀） → 不断堆积 → **积累**。
+
+### 6. acknowledge /əkˈnɑːlɪdʒ/
+*   **词性：** v.
+*   **中文释义：** 承认；确认收到；致谢
+*   **例句：**
+    *   He finally **acknowledged** his mistake.
+    *   他最终**承认**了自己的错误。
+    *   Please **acknowledge** receipt of this email.
+    *   请确认收到此邮件。
+    *   The report **acknowledges** the help of many volunteers.
+    *   该报告**感谢**了许多志愿者的帮助。
+*   **记忆技巧：**
+    *   **词根词缀：** ac-（向，对） + knowledge（知识） → 对某事有了认知并表示认可 → **承认、确认**。
+
+### 7. elaborate /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
+*   **词性：** adj. / v.
+*   **中文释义：**
+    *   adj. 精心制作的，详尽的；复杂的
+    *   v. 详细说明，阐述
+*   **例句：**
+    *   She had prepared an **elaborate** plan for the party.
+    *   她为派对准备了一个**精心策划的**方案。
+    *   Could you **elaborate** on your proposal?
+    *   你能**详细说明**一下你的提案吗？
+*   **记忆技巧：**
+    *   **词根词缀：** e-（出） + labor（劳动） + -ate（动词/形容词后缀） → 通过大量劳动弄出来的 → **精心制作的、详尽的**。
+
+### 8. paradox /ˈpærədɑːks/
+*   **词性：** n.
+*   **中文释义：** 悖论，矛盾的事物/说法
+*   **例句：**
+    *   It's a **paradox** that he can be so kind to strangers but so cold to his family.
+    *   他对陌生人如此友善，对家人却如此冷漠，真是个**矛盾**。
+    *   The “paradox of thrift” suggests that if everyone saves more, overall spending falls and the economy worsens.
+    *   “节约悖论”认为，如果每个人都增加储蓄，总支出就会下降，经济就会恶化。
+*   **记忆技巧：**
+    *   **词源联想：** para-（超越） + dox（观点，教条） → 超越常规观点的、自相矛盾的 → **悖论**。
+
+### 9. hierarchy /ˈhaɪərɑːrki/
+*   **词性：** n.
+*   **中文释义：** 等级制度；阶层，等级体系
+*   **例句：**
+    *   In this company, decisions are made at the top of the **hierarchy**.
+    *   在这家公司，决策由**等级**最高层做出。
+    *   The social **hierarchy** of the ancient empire was very rigid.
+    *   古帝国的**社会阶层**非常固化。
+*   **记忆技巧：**
+    *   **词源联想：** hier-（神圣的） + archy（统治） → 神圣的统治秩序 → **等级制度**。联想“hier”像“higher（更高）”，表示地位**更高**的统治结构。
+
+### 10. compatible /kəmˈpætəbl/
+*   **词性：** adj.
+*   **中文释义：** 兼容的；合得来的，能和睦相处的
+*   **例句：**
+    *   Make sure the new software is **compatible** with your operating system.
+    *   确保新软件与你的操作系统**兼容**。
+    *   They seem very happy together and are highly **compatible**.
+    *   他们在一起看起来很开心，非常**合得来**。
+*   **记忆技巧：**
+    *   **词根词缀：** com-（共同） + pati-（承受，忍受） + -ible（能够…的） → 能够共同忍受的 → **兼容的、合得来的**。
+
+### 11. predominantly /prɪˈdɑːmɪnəntli/
+*   **词性：** adv.
+*   **中文释义：** 主要地，显著地；多数情况下
+*   **例句：**
+    *   The area is **predominantly** agricultural.
+    *   这个地区以农业**为主**。
+    *   The audience was **predominantly** female.
+    *   观众**绝大多数**是女性。
+*   **记忆技巧：**
+    *   **词根词缀：** pre-（前） + domin-（统治，如dominate） + -ant + -ly → 在前面占据统治地位地 → **主要地**。核心词是 **dominate（支配，占主导地位）**。
+
+### 12. arbitrary /ˈɑːrbətreri/
+*   **词性：** adj.
+*   **中文释义：** 任意的，武断的；专制的
+*   **例句：**
+    *   The decision seemed completely **arbitrary**.
+    *   这个决定看起来完全是**武断的**。
+    *   The law was applied in an **arbitrary** manner.
+    *   这项法律的实施方式很**专制**。
+*   **记忆技巧：**
+    *   **词源联想：** 来自拉丁语“arbitrarius”，意为“取决于仲裁者的”。仲裁者的决定有时会显得主观和**任意**。可以联想“arbiter（仲裁者）”来记忆。
 
 ---
 
-## 3. profound
-- **音标**：/prəˈfaʊnd/
-- **词性**：adj.
-- **中文释义**：深刻的；意义深远的；渊博的
-- **例句**：
-  - The book had a profound impact on my understanding of history.
-    这本书对我理解历史产生了深刻的影响。
-- **记忆技巧**：前缀 *pro-*（向前）+ *found*（基础）→ 向下深入到基础 → 深刻的
+**💡 学习建议：**
+*   **大声朗读**：熟悉单词发音，加强听觉记忆。
+*   **造句运用**：尝试用今天学的单词各造一个与自己生活相关的句子。
+*   **间隔复习**：将今天和前几天的单词放在一起回顾，巩固长期记忆。
 
----
-
-## 4. prevalent
-- **音标**：/ˈprevələnt/
-- **词性**：adj.
-- **中文释义**：流行的；普遍的；盛行的
-- **例句**：
-  - The use of smartphones has become prevalent among teenagers.
-    智能手机的使用在青少年中已变得普遍。
-- **记忆技巧**：词根 *preval-*（占优势）+ *-ent*（形容词后缀）→ 占优势的 → 普遍的
-
----
-
-## 5. deteriorate
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：v.
-- **中文释义**：（使）恶化；变坏
-- **例句**：
-  - His health began to deteriorate rapidly after the diagnosis.
-    确诊后，他的健康状况开始迅速恶化。
-- **记忆技巧**：词根 *deterior-*（更坏的）+ *-ate*（动词后缀）→ 使变得更坏 → 恶化
-
----
-
-## 6. pragmatic
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.
-- **中文释义**：务实的；实用的
-- **例句**：
-  - We need a pragmatic approach to solve this complex problem.
-    我们需要一种务实的方法来解决这个复杂问题。
-- **记忆技巧**：源于 *pragma*（实践、事务）+ *-tic*（形容词后缀）→ 关注实践的 → 务实的
-
----
-
-## 7. resilient
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.
-- **中文释义**：有韧性的；适应力强的；能恢复的
-- **例句**：
-  - Children are often more resilient than adults in coping with stress.
-    儿童在应对压力时通常比成年人更具韧性。
-- **记忆技巧**：词根 *resil-*（跳回）+ *-ient*（形容词后缀）→ 能跳回原状的 → 有韧性的
-
----
-
-## 8. scrutinize
-- **音标**：/ˈskruːtənaɪz/
-- **词性**：v.
-- **中文释义**：仔细检查；详细审查
-- **例句**：
-  - The committee will scrutinize every detail of the proposal before making a decision.
-    委员会在做出决定前将仔细审查提案的每一个细节。
-- **记忆技巧**：源于 *scrutiny*（仔细检查）→ 变成动词形式 → 仔细检查
-
----
-
-## 9. unprecedented
-- **音标**：/ʌnˈpresɪdentɪd/
-- **词性**：adj.
-- **中文释义**：史无前例的；前所未有的
-- **例句**：
-  - The country faced an unprecedented economic crisis.
-    这个国家面临着前所未有的经济危机。
-- **记忆技巧**：前缀 *un-*（不）+ *precedent*（先例）+ *-ed*（形容词后缀）→ 没有先例的 → 史无前例的
-
----
-
-## 10. substantiate
-- **音标**：/səbˈstænʃieɪt/
-- **词性**：v.
-- **中文释义**：证实；证明…有根据
-- **例句**：
-  - There is little evidence to substantiate these allegations.
-    几乎没有证据能证实这些指控。
-- **记忆技巧**：词根 *substant-*（实质）+ *-iate*（动词后缀）→ 使有实质 → 证实
-
----
-
-## 11. paradox
-- **音标**：/ˈpærədɑːks/
-- **词性**：n.
-- **中文释义**：悖论；矛盾的人或事物
-- **例句**：
-  - It's a paradox that in a world of plenty, so many people go hungry.
-    在一个物质丰富的世界里却有那么多人挨饿，这是一个悖论。
-- **记忆技巧**：前缀 *para-*（超越）+ *dox*（观点）→ 超越普通观点 → 矛盾或悖论
-
----
-
-## 12. meticulous
-- **音标**：/məˈtɪkjələs/
-- **词性**：adj.
-- **中文释义**：一丝不苟的；非常细致的
-- **例句**：
-  - The scientist kept meticulous records of all her experiments.
-    这位科学家对所有实验都做了非常细致的记录。
-- **记忆技巧**：源于拉丁语 *meticulosus*（胆小的、过分小心的）→ 引申为对细节过分小心 → 一丝不苟的
-
----
-
-## 今日词汇总结表
-
-| 单词 | 词性 | 核心含义 |
-|------|------|----------|
-| skepticism | n. | 怀疑态度 |
-| ambiguous | adj. | 模棱两可的 |
-| profound | adj. | 深刻的 |
-| prevalent | adj. | 普遍的 |
-| deteriorate | v. | 恶化 |
-| pragmatic | adj. | 务实的 |
-| resilient | adj. | 有韧性的 |
-| scrutinize | v. | 仔细检查 |
-| unprecedented | adj. | 史无前例的 |
-| substantiate | v. | 证实 |
-| paradox | n. | 悖论 |
-| meticulous | adj. | 一丝不苟的 |
-
-**学习建议**：
-1. 尝试用每个单词造一个与自己生活相关的句子
-2. 重点关注形容词的同义词/反义词对比记忆（如：ambiguous-clear，pragmatic-idealistic）
-3. 抽查复习第75-76天的词汇，巩固长期记忆
-
-祝您学习愉快，备考顺利！
+祝你学习愉快，备考顺利！
