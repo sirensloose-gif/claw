@@ -1,152 +1,132 @@
-# 📚 六级高频词汇学习 - 第78天
+# 六级高频词汇学习（第79天）
 
-今天为你准备了12个六级高频词汇，涵盖多种词性，助力高效备考。每天坚持，词汇量稳步提升！
-
----
-
-### 1. crude /kruːd/
-*   **词性：** adj. / n.
-*   **中文释义：**
-    *   adj. 粗糙的，简陋的；粗略的；天然的，未加工的
-    *   n. 原油
-*   **例句：**
-    *   The report gave a **crude** estimate of the project cost.
-    *   报告对项目成本做了**粗略的**估算。
-    *   The country exports millions of barrels of **crude** every day.
-    *   该国每天出口数百万桶**原油**。
-*   **记忆技巧：**
-    *   **词源联想：** 来自拉丁语“crudus”，意为“生的、未成熟的”。想象一块“生”的、未经加工的木头，触感就是**粗糙的（crude）**。
-
-### 2. inherent /ɪnˈhɪrənt/
-*   **词性：** adj.
-*   **中文释义：** 固有的，内在的，天生的
-*   **例句：**
-    *   There are **inherent** risks in any investment.
-    *   任何投资都存在**固有的**风险。
-    *   He has an **inherent** talent for music.
-    *   他有**天生的**音乐才能。
-*   **记忆技巧：**
-    *   **词根词缀：** in-（在…内） + here（粘附） + -ent（形容词后缀） → 粘在里面的 → **内在的、固有的**。
-
-### 3. vulnerable /ˈvʌlnərəbl/
-*   **词性：** adj.
-*   **中文释义：** 脆弱的，易受伤的；（攻击、批评等的）易受伤害的
-*   **例句：**
-    *   The system is **vulnerable** to cyber attacks.
-    *   该系统容易受到网络攻击。
-    *   Children are particularly **vulnerable** to the effects of pollution.
-    *   儿童尤其容易受到污染的影响。
-*   **记忆技巧：**
-    *   **词根词缀：** vulner-（受伤，来自拉丁语“vulnerare”） + -able（能够…的） → 能够受伤的 → **脆弱的**。联想“Vulner”像“Venus（维纳斯）”，美丽但手臂是断的，很**脆弱**。
-
-### 4. speculate /ˈspekjəleɪt/
-*   **词性：** v.
-*   **中文释义：** 推测，猜测；投机，做投机买卖
-*   **例句：**
-    *   Experts are **speculating** about the reasons for the economic downturn.
-    *   专家们正在**推测**经济衰退的原因。
-    *   He made a fortune by **speculating** on the stock market.
-    *   他通过在股票市场**投机**赚了一大笔钱。
-*   **记忆技巧：**
-    *   **词源联想：** 来自拉丁语“speculatus”，意为“观察、眺望”。先**观察**市场动向，再进行**推测**或**投机**。
-
-### 5. accumulate /əˈkjuːmjəleɪt/
-*   **词性：** v.
-*   **中文释义：** 积累，积聚；堆积
-*   **例句：**
-    *   Dust had **accumulated** on the shelves while we were away.
-    *   我们不在时，架子上积了灰尘。
-    *   He worked hard to **accumulate** enough wealth for his retirement.
-    *   他努力工作，为退休**积累**了足够的财富。
-*   **记忆技巧：**
-    *   **词根词缀：** ac-（加强） + cumul-（堆积，如cumulus“积雨云”） + -ate（动词后缀） → 不断堆积 → **积累**。
-
-### 6. acknowledge /əkˈnɑːlɪdʒ/
-*   **词性：** v.
-*   **中文释义：** 承认；确认收到；致谢
-*   **例句：**
-    *   He finally **acknowledged** his mistake.
-    *   他最终**承认**了自己的错误。
-    *   Please **acknowledge** receipt of this email.
-    *   请确认收到此邮件。
-    *   The report **acknowledges** the help of many volunteers.
-    *   该报告**感谢**了许多志愿者的帮助。
-*   **记忆技巧：**
-    *   **词根词缀：** ac-（向，对） + knowledge（知识） → 对某事有了认知并表示认可 → **承认、确认**。
-
-### 7. elaborate /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
-*   **词性：** adj. / v.
-*   **中文释义：**
-    *   adj. 精心制作的，详尽的；复杂的
-    *   v. 详细说明，阐述
-*   **例句：**
-    *   She had prepared an **elaborate** plan for the party.
-    *   她为派对准备了一个**精心策划的**方案。
-    *   Could you **elaborate** on your proposal?
-    *   你能**详细说明**一下你的提案吗？
-*   **记忆技巧：**
-    *   **词根词缀：** e-（出） + labor（劳动） + -ate（动词/形容词后缀） → 通过大量劳动弄出来的 → **精心制作的、详尽的**。
-
-### 8. paradox /ˈpærədɑːks/
-*   **词性：** n.
-*   **中文释义：** 悖论，矛盾的事物/说法
-*   **例句：**
-    *   It's a **paradox** that he can be so kind to strangers but so cold to his family.
-    *   他对陌生人如此友善，对家人却如此冷漠，真是个**矛盾**。
-    *   The “paradox of thrift” suggests that if everyone saves more, overall spending falls and the economy worsens.
-    *   “节约悖论”认为，如果每个人都增加储蓄，总支出就会下降，经济就会恶化。
-*   **记忆技巧：**
-    *   **词源联想：** para-（超越） + dox（观点，教条） → 超越常规观点的、自相矛盾的 → **悖论**。
-
-### 9. hierarchy /ˈhaɪərɑːrki/
-*   **词性：** n.
-*   **中文释义：** 等级制度；阶层，等级体系
-*   **例句：**
-    *   In this company, decisions are made at the top of the **hierarchy**.
-    *   在这家公司，决策由**等级**最高层做出。
-    *   The social **hierarchy** of the ancient empire was very rigid.
-    *   古帝国的**社会阶层**非常固化。
-*   **记忆技巧：**
-    *   **词源联想：** hier-（神圣的） + archy（统治） → 神圣的统治秩序 → **等级制度**。联想“hier”像“higher（更高）”，表示地位**更高**的统治结构。
-
-### 10. compatible /kəmˈpætəbl/
-*   **词性：** adj.
-*   **中文释义：** 兼容的；合得来的，能和睦相处的
-*   **例句：**
-    *   Make sure the new software is **compatible** with your operating system.
-    *   确保新软件与你的操作系统**兼容**。
-    *   They seem very happy together and are highly **compatible**.
-    *   他们在一起看起来很开心，非常**合得来**。
-*   **记忆技巧：**
-    *   **词根词缀：** com-（共同） + pati-（承受，忍受） + -ible（能够…的） → 能够共同忍受的 → **兼容的、合得来的**。
-
-### 11. predominantly /prɪˈdɑːmɪnəntli/
-*   **词性：** adv.
-*   **中文释义：** 主要地，显著地；多数情况下
-*   **例句：**
-    *   The area is **predominantly** agricultural.
-    *   这个地区以农业**为主**。
-    *   The audience was **predominantly** female.
-    *   观众**绝大多数**是女性。
-*   **记忆技巧：**
-    *   **词根词缀：** pre-（前） + domin-（统治，如dominate） + -ant + -ly → 在前面占据统治地位地 → **主要地**。核心词是 **dominate（支配，占主导地位）**。
-
-### 12. arbitrary /ˈɑːrbətreri/
-*   **词性：** adj.
-*   **中文释义：** 任意的，武断的；专制的
-*   **例句：**
-    *   The decision seemed completely **arbitrary**.
-    *   这个决定看起来完全是**武断的**。
-    *   The law was applied in an **arbitrary** manner.
-    *   这项法律的实施方式很**专制**。
-*   **记忆技巧：**
-    *   **词源联想：** 来自拉丁语“arbitrarius”，意为“取决于仲裁者的”。仲裁者的决定有时会显得主观和**任意**。可以联想“arbiter（仲裁者）”来记忆。
+今天是学习旅程的第79天，坚持就是胜利！我们继续保持节奏，攻克12个核心词汇。希望这些词汇和记忆技巧能成为你备考路上的得力助手。
 
 ---
 
-**💡 学习建议：**
-*   **大声朗读**：熟悉单词发音，加强听觉记忆。
-*   **造句运用**：尝试用今天学的单词各造一个与自己生活相关的句子。
-*   **间隔复习**：将今天和前几天的单词放在一起回顾，巩固长期记忆。
+### 1. meticulous
+**音标：** /məˈtɪkjələs/
+**词性：** adj. 一丝不苟的；极细致的
+**中文释义：** 形容做事非常细致，注重每一个细节。
+**例句：**
+- **英文：** She is meticulous about organizing her notes, using different colors for each subject.
+- **中文：** 她对于整理笔记一丝不苟，每个科目都用不同颜色。
+**记忆技巧：**
+- **词根词缀：** 来自拉丁语 *metus* (恐惧)，后引申为“谨慎的”。可以联想：做事“谨慎”到“恐惧”出错，自然就“一丝不苟”了。
 
-祝你学习愉快，备考顺利！
+### 2. proliferate
+**音标：** /prəˈlɪfəreɪt/
+**词性：** v. 激增；扩散；迅速繁殖
+**中文释义：** 数量上快速、大量地增加。
+**例句：**
+- **英文：** Fake news and misinformation proliferate rapidly on social media platforms.
+- **中文：** 假新闻和错误信息在社交媒体平台上迅速扩散。
+**记忆技巧：**
+- **词根词缀：** **pro-** (向前) + **lifer** (与“生命”life相关) + **-ate** (动词后缀)。联想：生命向前“迸发、繁殖”，即“激增”。
+
+### 3. tangible
+**音标：** /ˈtændʒəbl/
+**词性：** adj. 有形的；可触摸的；切实的
+**中文释义：** 指看得见、摸得着的实物，或实在的、可证明的成果。
+**例句：**
+- **英文：** The manager emphasized the need for tangible results rather than just theoretical plans.
+- **中文：** 经理强调需要的是切实的结果，而不仅仅是理论上的计划。
+**记忆技巧：**
+- **词根词缀：** **tang-** (触摸) + **-ible** (能够...的)。联想：能够被“触摸”到的，即“有形的、切实的”。
+
+### 4. resilient
+**音标：** /rɪˈzɪliənt/
+**词性：** adj. 有弹性的；能迅速恢复的；适应力强的
+**中文释义：** 物体受外力作用后能恢复原状，或人能从挫折中快速恢复。
+**例句：**
+- **英文：** Despite the setback, the company showed a resilient spirit and bounced back stronger.
+- **中文：** 尽管遭遇挫折，公司展现了坚韧的精神，更强势地恢复过来。
+**记忆技巧：**
+- **词根词缀：** **re-** (回) + **sili-** (跳) + **-ent** (形容词后缀)。联想：像弹簧一样“跳回”原来的状态，即“有弹性的、能复原的”。
+
+### 5. mitigate
+**音标：** /ˈmɪtɪɡeɪt/
+**词性：** v. 缓和；减轻（严重性）
+**中文释义：** 使负面事物（如痛苦、损害、风险）的程度减轻。
+**例句：**
+- **英文：** The government implemented measures to mitigate the economic impact of the crisis.
+- **中文：** 政府实施了措施来减轻危机对经济的影响。
+**记忆技巧：**
+- **联想记忆：** 发音类似“密题给它”。想象考试中遇到一道“难题(密题)”，你把它“给它”解决了，这大大“减轻”了你的压力。
+
+### 6. prevalent
+**音标：** /ˈprevələnt/
+**词性：** adj. 流行的；盛行的；普遍存在的
+**中文释义：** 在某个时期或地区广泛存在或流行。
+**例句：**
+- **英文：** The belief that success is solely due to hard work is prevalent in many cultures.
+- **中文：** 认为成功完全归功于努力工作的观念在许多文化中都很普遍。
+**记忆技巧：**
+- **词根词缀：** **pre-** (前) + **val-** (强大，如valid) + **-ent** (形容词后缀)。联想：在前面“占主导、很强大”的，即“盛行的、普遍的”。
+
+### 7. pragmatic
+**音标：** /præɡˈmætɪk/
+**词性：** adj. 务实的；实用主义的
+**中文释义：** 注重实际效果和可能性，而非理论或理想。
+**例句：**
+- **英文：** We need a pragmatic approach to solve this problem, not just an idealistic one.
+- **中文：** 我们需要一个务实的方法来解决这个问题，而不仅仅是理想化的方案。
+**记忆技巧：**
+- **词根词缀：** 源自 **pragma** (希腊语，意为“行动、实践”)。联想：强调“实践”和“行动”，即“务实的”。
+
+### 8. augment
+**音标：** /ɔːɡˈment/
+**词性：** v. 增加；增强；补充
+**中文释义：** 通过添加某物使规模、数量或价值增大。
+**例句：**
+- **英文：** He took a part-time job to augment his income while studying.
+- **中文：** 他在学习的同时做兼职工作来增加收入。
+**记忆技巧：**
+- **词根词缀：** **aug-** (增加，如augment, auction) + **-ment** (名词/动词后缀)。直接记住词根 **aug** 表示“增长”。
+
+### 9. ambiguous
+**音标：** /æmˈbɪɡjuəs/
+**词性：** adj. 模棱两可的；含混不清的
+**中文释义：** 有多种可能的解释，意思不明确。
+**例句：**
+- **英文：** The politician's ambiguous statement left the public confused about his stance.
+- **中文：** 这位政治家模棱两可的声明让公众对他的立场感到困惑。
+**记忆技巧：**
+- **词根词缀：** **ambi-** (两个，如ambition) + **gu-** (驱动) + **-ous** (形容词后缀)。联想：被“两个方向驱动”，不知道该往哪边走，即“模棱两可的”。
+
+### 10. perpetuate
+**音标：** /pərˈpetʃueɪt/
+**词性：** v. 使永久化；使持续
+**中文释义：** 让某种情况、传统或错误长期存在下去。
+**例句：**
+- **英文：** Social media algorithms can sometimes perpetuate stereotypes and biases.
+- **中文：** 社交媒体算法有时会助长刻板印象和偏见的持续存在。
+**记忆技巧：**
+- **词根词缀：** **per-** (贯穿) + **pet-** (追求，如petition) + **-ate** (动词后缀)。联想：从头到尾“追求”下去，即“使之永恒、持续”。
+
+### 11. meticulous (重复，此处替换为新词) **resurgence**
+**音标：** /rɪˈsɜːrdʒəns/
+**词性：** n. 复兴；再起；复苏
+**中文释义：** 消失或衰退后再次兴起、恢复。
+**例句：**
+- **英文：** There has been a resurgence of interest in traditional crafts among young people.
+- **中文：** 年轻人中对传统工艺的兴趣再次兴起。
+**记忆技巧：**
+- **词根词缀：** **re-** (再次) + **surg-** (升起，如surge) + **-ence** (名词后缀)。联想：再次“涌起、升起”，即“复兴”。
+
+### 12. scrutiny
+**音标：** /ˈskruːtəni/
+**词性：** n. 仔细审查；监视
+**中文释义：** 仔细、彻底的检查或观察。
+**例句：**
+- **英文：** The proposal came under intense scrutiny from the committee.
+- **中文：** 该提案受到了委员会的严格审查。
+**记忆技巧：**
+- **联想记忆：** **Scru** (联想“搜”) + **tiny** (微小的)。联想：“搜”寻每一个“微小的”细节，即“仔细审查”。
+
+---
+
+**今日学习小结：**
+今天涵盖了从 **形容词**（meticulous, tangible, resilient, prevalent, pragmatic, ambiguous）到 **动词**（proliferate, mitigate, augment, perpetuate）以及 **名词**（resurgence, scrutiny）的多样化词汇。记忆时，可以多关注词根词缀揭示的**核心概念**（如 `tang-` 触摸，`aug-` 增加），并结合例句体会其**使用语境**。
+
+继续加油，明天见！🌟
