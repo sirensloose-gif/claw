@@ -1,178 +1,139 @@
-# 📚 六级高频词汇 - 第80天学习计划
+# 📚 六级高频词汇学习 - Day 81
 
-以下是今天为您精选的 **15个六级高频词汇**，涵盖多种词性，附带详细解析与记忆技巧。
+## 1. **preliminary**
+- **音标**：/prɪˈlɪmɪneri/
+- **词性**：adj. / n.
+- **释义**：初步的；预备的；开端
+- **例句**：
+  - **英文**：The *preliminary* results of the experiment were promising.
+  - **中文**：实验的*初步*结果令人鼓舞。
+- **记忆技巧**：前缀 **pre-** (在…之前) + **limin** (门槛，起点) + **-ary** (形容词后缀) → 跨过门槛之前的 → 初步的、预备的。
 
----
+## 2. **hypothesis**
+- **音标**：/haɪˈpɑːθəsɪs/
+- **词性**：n.
+- **释义**：假设；假说
+- **例句**：
+  - **英文**：The scientist tested her *hypothesis* through a series of experiments.
+  - **中文**：那位科学家通过一系列实验检验了她的*假说*。
+- **记忆技巧**：**hypo-** (在…下面) + **thesis** (论点) → 放在论点之下的 → 尚待证明的*假设*。
 
-## 1. **ubiquitous**
-**音标**：/juːˈbɪkwɪtəs/  
-**词性**：形容词  
-**释义**：无处不在的；普遍存在的  
-**例句**：
-- *Smartphones have become **ubiquitous** in modern society.*  
-  （智能手机在现代社会已经变得无处不在。）
-- **记忆技巧**：词根“ubiqu”意为“到处”，来自拉丁语“ubique”（随处）。联想“Ubiquitous（无处不在的）”的Wi-Fi信号。
+## 3. **phenomenon**
+- **音标**：/fəˈnɑːmɪnɑːn/
+- **词性**：n.
+- **释义**；现象；杰出的人（或事物）
+- **例句**：
+  - **英文**：The Northern Lights are a natural *phenomenon*.
+  - **中文**：北极光是一种自然*现象*。
+- **记忆技巧**：复数形式为 **phenomena**。**pheno-** (出现) + **-menon** (被看见的东西) → 被看见出现的事物 → *现象*。
 
----
+## 4. **sustain**
+- **音标**：/səˈsteɪn/
+- **词性**：v.
+- **释义**：维持；支撑；遭受
+- **例句**：
+  - **英文**：The economy cannot *sustain* such rapid growth indefinitely.
+  - **中文**：经济无法无限期地*维持*如此快速的增长。
+- **记忆技巧**：**sus-** (= sub-, 在下) + **-tain** (保持，支撑，如 maintain) → 从下面支撑住 → *维持*、*支撑*。
 
-## 2. **resilient**
-**音标**：/rɪˈzɪliənt/  
-**词性**：形容词  
-**释义**：有弹性的；能迅速恢复的  
-**例句**：
-- *Children are often more **resilient** than adults think.*  
-  （孩子们通常比成年人想象的更有韧性。）
-- **记忆技巧**：词根“-sili-”意为“跳跃”（来自拉丁语salire），联想“弹簧一样弹回来”。
+## 5. **negotiate**
+- **音标**：/nɪˈɡoʊʃieɪt/
+- **词性**：v.
+- **释义**：谈判；协商；顺利通过
+- **例句**：
+  - **英文**：The union is *negotiating* with management for better working conditions.
+  - **中文**：工会正在与管理层*谈判*以争取更好的工作条件。
+- **记忆技巧**：来自拉丁语 **negotiari** (做生意)，**neg-** (不) + **otium** (闲暇) → 不闲着 → 从事商业活动 → 引申为*谈判*。
 
----
+## 6. **prosperous**
+- **音标**：/ˈprɑːspərəs/
+- **词性**：adj.
+- **释义**：繁荣的；兴旺的
+- **例句**：
+  - **英文**：The city became *prosperous* through international trade.
+  - **中文**：这座城市通过国际贸易变得*繁荣*。
+- **记忆技巧**：来自名词 **prosperity** (繁荣)，词根 **pro-** (向前) + **-sper** (希望，如 desperate) → 有向前希望的 → *繁荣的*。
 
-## 3. **paradigm**
-**音标**：/ˈpærədaɪm/  
-**词性**：名词  
-**释义**：范式；典范  
-**例句**：
-- *The discovery led to a new **paradigm** in physics.*  
-  （这一发现引发了物理学的新范式。）
-- **记忆技巧**：谐音“拍（pa）到（ra）代（di）亩（m）”——像在田里拍下典范照片。
+## 7. **resistant**
+- **音标**：/rɪˈzɪstənt/
+- **词性**：adj.
+- **释义**：有抵抗力的；抵抗的
+- **例句**：
+  - **英文**：This material is highly *resistant* to heat and corrosion.
+  - **中文**：这种材料非常*耐*热且*抗*腐蚀。
+- **记忆技巧**：动词 **resist** (抵抗) + **-ant** (形容词后缀) → 能够抵抗的 → *有抵抗力的*。
 
----
+## 8. **overwhelming**
+- **音标**：/ˌoʊvərˈwelmɪŋ/
+- **词性**：adj.
+- **释义**：压倒性的；势不可挡的
+- **例句**：
+  - **英文**：The evidence against him was *overwhelming*.
+  - **中文**：对他不利的证据是*压倒性的*。
+- **记忆技巧**：**over-** (超过) + **-whelm** (淹没，如whelm) → 淹没并超过 → *压倒性的*。
 
-## 4. **mitigate**
-**音标**：/ˈmɪtɪɡeɪt/  
-**词性**：动词  
-**释义**：减轻；缓和  
-**例句**：
-- *Measures were taken to **mitigate** the effects of the drought.*  
-  （已采取措施减轻干旱的影响。）
-- **记忆技巧**：词根“mit-”意为“发送”，“-igate”表“使…化”——把问题“送走”使其缓和。
+## 9. **controversial**
+- **音标**：/ˌkɑːntrəˈvɜːrʃəl/
+- **词性**：adj.
+- **释义**：引起争议的；有争议的
+- **例句**：
+  - **英文**：The politician made several *controversial* statements during the debate.
+  - **中文**：那位政治家在辩论中发表了数项*有争议的*言论。
+- **记忆技巧**：来自名词 **controversy** (争论)，**contra-** (相反) + **-vers-** (转，如 convert) + **-ial** (形容词后缀) → 转向相反方向的 → *引起争议的*。
 
----
+## 10. **substantial**
+- **音标**：/səbˈstænʃəl/
+- **词性**：adj.
+- **释义**：大量的；实质的；结实的
+- **例句**：
+  - **英文**：They made *substantial* progress in the negotiations.
+  - **中文**：他们在谈判中取得了*实质性*的进展。
+- **记忆技巧**：来自名词 **substance** (实质，物质)，**sub-** (在下) + **-stance** (站立) → 站在下面的东西 → 实质的、*大量的*。
 
-## 5. **pragmatic**
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词  
-**释义**：务实的；实用主义的  
-**例句**：
-- *She took a **pragmatic** approach to solving the problem.*  
-  （她采取了务实的方法解决问题。）
-- **记忆技巧**：词根“pragmat-”意为“实践”（来自希腊语pragma），联想“practical（实用的）”。
+## 11. **vulnerable**
+- **音标**：/ˈvʌlnərəbəl/
+- **词性**：adj.
+- **释义**：脆弱的；易受伤的；易受攻击的
+- **例句**：
+  - **英文**：Young children are particularly *vulnerable* to infectious diseases.
+  - **中文**：幼儿特别容易受到传染病的*影响*。
+- **记忆技巧**：词根 **vuln-** (伤，如 wound) + **-er-** + **-able** (能够…的) → 能够受伤的 → *脆弱的*。
 
----
+## 12. **subsequently**
+- **音标**：/ˈsʌbsɪkwəntli/
+- **词性**：adv.
+- **释义**：随后；后来
+- **例句**：
+  - **英文**：He accepted the job and *subsequently* moved to London.
+  - **中文**：他接受了这份工作，*随后*搬到了伦敦。
+- **记忆技巧**：形容词 **subsequent** (随后的) + **-ly** (副词后缀)。**sub-** (在…之后) + **-sequ-** (跟随，如 sequence) → 跟随其后的 → *随后*。
 
-## 6. **fluctuate**
-**音标**：/ˈflʌktʃueɪt/  
-**词性**：动词  
-**释义**：波动；涨落  
-**例句**：
-- *Oil prices **fluctuate** depending on global demand.*  
-  （石油价格随全球需求波动。）
-- **记忆技巧**：词根“flu-”意为“流动”，联想“河流般上下起伏”。
+## 13. **innovate**
+- **音标**：/ˈɪnəveɪt/
+- **词性**：v.
+- **释义**：创新；革新
+- **例句**：
+  - **英文**：Companies must *innovate* to stay competitive.
+  - **中文**：公司必须*创新*以保持竞争力。
+- **记忆技巧**：来自名词 **innovation** (创新)。**in-** (新的) + **-nov-** (新，如 novel) → 使变新 → *创新*。
 
----
+## 14. **legitimate**
+- **音标**：/ləˈdʒɪtɪmət/
+- **词性**：adj.
+- **释义**：合法的；正当的；合理的
+- **例句**：
+  - **英文**：He had a *legitimate* reason for being absent.
+  - **中文**：他缺席有一个*正当的*理由。
+- **记忆技巧**：来自拉丁语 **legitimare** (使合法)。词根 **leg-** (法律，如 legal) → 与法律相关的 → *合法的*、*正当的*。
 
-## 7. **ambiguous**
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：形容词  
-**释义**：模棱两可的；含糊不清的  
-**例句**：
-- *The instructions were **ambiguous** and confusing.*  
-  （说明书模棱两可，令人困惑。）
-- **记忆技巧**：前缀“ambi-”意为“两边”，“-guous”表“走”——在两边徘徊，难以抉择。
-
----
-
-## 8. **scrutiny**
-**音标**：/ˈskruːtəni/  
-**词性**：名词  
-**释义**：仔细审查；监督  
-**例句**：
-- *The report is under **scrutiny** by the committee.*  
-  （该报告正受到委员会的仔细审查。）
-- **记忆技巧**：谐音“四（s）古（cru）听（ti）你（ny）”——古代听证会仔细审查。
-
----
-
-## 9. **coherent**
-**音标**：/koʊˈhɪrənt/  
-**词性**：形容词  
-**释义**：连贯的；一致的  
-**例句**：
-- *She presented a **coherent** argument in the debate.*  
-  （她在辩论中提出了连贯的论点。）
-- **记忆技巧**：前缀“co-”意为“共同”，“-here”意为“粘”——粘在一起形成整体。
-
----
-
-## 10. **prospective**
-**音标**：/prəˈspektɪv/  
-**词性**：形容词  
-**释义**：未来的；预期的  
-**例句**：
-- *The company interviewed **prospective** employees.*  
-  （公司面试了未来的员工。）
-- **记忆技巧**：前缀“pro-”意为“向前”，“-spect”意为“看”——向前看的未来。
-
----
-
-## 11. **discrepancy**
-**音标**：/dɪˈskrepənsi/  
-**词性**：名词  
-**释义**：差异；矛盾  
-**例句**：
-- *There is a **discrepancy** between the two reports.*  
-  （两份报告之间存在差异。）
-- **记忆技巧**：前缀“dis-”意为“分开”，“crep”意为“断裂”——断裂开来产生差异。
-
----
-
-## 12. **volatile**
-**音标**：/ˈvɑːlətl/  
-**词性**：形容词  
-**释义**：不稳定的；易变的  
-**例句**：
-- *The **volatile** stock market worries many investors.*  
-  （波动的股市令许多投资者担忧。）
-- **记忆技巧**：词根“volat-”意为“飞”（来自拉丁语volare），联想“情绪像鸟一样飞来飞去”。
-
----
-
-## 13. **empirical**
-**音标**：/ɪmˈpɪrɪkl/  
-**词性**：形容词  
-**释义**：以经验为依据的；实证的  
-**例句**：
-- *The theory is based on **empirical** data.*  
-  （该理论基于实证数据。）
-- **记忆技巧**：前缀“em-”意为“使…”，“-pir”意为“尝试”——通过尝试获得的经验。
+## 15. **vociferous**
+- **音标**：/voʊˈsɪfərəs/
+- **词性**：adj.
+- **释义**：大声疾呼的；吵闹的
+- **例句**：
+  - **英文**：There were *vociferous* protests outside the parliament.
+  - **中文**：议会外有*大声疾呼的*抗议。
+- **记忆技巧**：**voci-** (声音，如 vocal) + **-fer-** (带来，如 transfer) + **-ous** (形容词后缀) → 带来声音的 → *大声疾呼的*。
 
 ---
-
-## 14. **concise**
-**音标**：/kənˈsaɪs/  
-**词性**：形容词  
-**释义**：简洁的；简明的  
-**例句**：
-- *Please give a **concise** summary of the article.*  
-  （请对这篇文章做个简明摘要。）
-- **记忆技巧**：前缀“con-”意为“共同”，“-cise”意为“切”——切掉多余部分，变得简洁。
-
----
-
-## 15. **exacerbate**
-**音标**：/ɪɡˈzæsərbeɪt/  
-**词性**：动词  
-**释义**：使加剧；使恶化  
-**例句**：
-- *The policy **exacerbated** the existing social tensions.*  
-  （该政策加剧了现存的社会矛盾。）
-- **记忆技巧**：前缀“ex-”意为“出”，“-acerb”意为“苦涩”——使苦涩感更突出，加剧问题。
-
----
-
-### 📌 今日学习小贴士：
-1. **反复朗读**：每个单词朗读3遍，注意发音细节。  
-2. **造句练习**：选择3个单词，仿照例句造自己的句子。  
-3. **记忆技巧**：结合词根词缀或联想，加深印象。  
-4. **复习回顾**：晚上睡觉前快速过一遍今天学的单词。
-
-坚持每天积累，六级高频词汇将逐渐成为你的“词汇库”！加油！ 📖✨
+**💡 今日学习小贴士**：学习新单词时，尝试用每个词自己造一个句子，并大声朗读。结合词根词缀记忆，不仅能记住词义，还能帮助你推测生词！
