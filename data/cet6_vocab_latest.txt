@@ -1,114 +1,125 @@
-# 📚 六级高频词汇学习 - 第82天
+# 六级高频词汇·第83天
 
-## 1. **substantial**
-- **音标**: /səbˈstænʃ(ə)l/
-- **词性**: 形容词
-- **中文释义**: 大量的；实质的；重要的
-- **例句**: The company made a substantial profit this quarter. (公司本季度获得了巨额利润。)
-- **记忆技巧**: 词根 **sub-**（在下面）+ **stant**（站立）+ **-ial**（形容词后缀）。可以联想“站在下面支撑的”→ 需要实质性的、大量的支撑。
-
-## 2. **prerequisite**
-- **音标**: /priˈrekwəzɪt/
-- **词性**: 名词/形容词
-- **中文释义**: 先决条件；前提（的）
-- **例句**: A good understanding of grammar is a prerequisite for learning a foreign language. (良好的语法理解是学习外语的前提。)
-- **记忆技巧**: **pre-**（预先）+ **requisite**（必需品）→ 预先需要的东西 → 前提、先决条件。
-
-## 3. **coherent**
-- **音标**: /koʊˈhɪrənt/
-- **词性**: 形容词
-- **中文释义**: 连贯的；有条理的；黏在一起的
-- **例句**: He presented a coherent argument in the debate. (他在辩论中提出了一个连贯的论点。)
-- **记忆技巧**: **co-**（一起）+ **her**（粘）+ **-ent**（形容词后缀）→ 粘在一起 → 连贯的、有条理的。
-
-## 4. **indispensable**
-- **音标**: /ˌɪndɪˈspensəb(ə)l/
-- **词性**: 形容词
-- **中文释义**: 不可或缺的；必不可少的
-- **例句**: Her expertise is indispensable to the success of the project. (她的专业知识对项目的成功是不可或缺的。)
-- **记忆技巧**: **in-**（不）+ **dis-**（分开）+ **pensable**（可分配的）→ 不能被分开分配的 → 不可缺少的。
-
-## 5. **advocate**
-- **音标**: /ˈædvəkeɪt/
-- **词性**: 动词 /ˈædvəkət/ 名词
-- **中文释义**: (v.) 提倡，主张；(n.) 提倡者
-- **例句**: She advocates for equal rights for all citizens. (她主张所有公民的平等权利。)
-- **记忆技巧**: **ad-**（去，向）+ **voc**（声音）+ **-ate**（动词后缀）→ 用声音去呼吁 → 提倡。
-
-## 6. **comprehensive**
-- **音标**: /ˌkɑːmprɪˈhensɪv/
-- **词性**: 形容词
-- **中文释义**: 综合的；全面的；广泛的
-- **例句**: The book provides a comprehensive overview of modern history. (这本书对现代史进行了全面的概述。)
-- **记忆技巧**: **com-**（一起）+ **prehens**（抓住，理解）+ **-ive**（形容词后缀）→ 全部抓住、理解 → 全面的、综合的。
-
-## 7. **substantive**
-- **音标**: /ˈsʌbstəntɪv/
-- **词性**: 形容词
-- **中文释义**: 实质性的；重要的；有内容的
-- **例句**: We need to move beyond talk and take substantive action. (我们需要超越空谈，采取实质性行动。)
-- **记忆技巧**: **substant**（实质）+ **-ive**（形容词后缀）。与 `substantial` 区分：`substantive` 强调“本质的、重要的”，`substantial` 强调“大量的”。
-
-## 8. **constraint**
-- **音标**: /kənˈstreɪnt/
-- **词性**: 名词
-- **中文释义**: 限制；约束；局限
-- **例句**: Budget constraints forced them to scale down the project. (预算限制迫使他们缩减了项目规模。)
-- **记忆技巧**: **con-**（一起）+ **strain**（拉紧）+ **-t** → 一起拉紧 → 约束、限制。
-
-## 9. **ambiguous**
-- **音标**: /æmˈbɪɡjuəs/
-- **词性**: 形容词
-- **中文释义**: 模棱两可的；含糊不清的
-- **例句**: His instructions were too ambiguous for me to follow. (他的指示太含糊，我无法遵循。)
-- **记忆技巧**: **ambi-**（两边）+ **-guous**（…性质的）→ 可以有两边理解 → 模棱两可的。
-
-## 10. **profound**
-- **音标**: /prəˈfaʊnd/
-- **词性**: 形容词
-- **中文释义**: 深刻的；深远的；渊博的
-- **例句**: The book had a profound influence on my thinking. (这本书对我的思想产生了深远的影响。)
-- **记忆技巧**: **pro-**（向前）+ **found**（底部）→ 向下到达底部 → 深刻的、深远的。
-
-## 11. **consensus**
-- **音标**: /kənˈsensəs/
-- **词性**: 名词
-- **中文释义**: 共识；一致意见
-- **例句**: After hours of debate, they finally reached a consensus. (经过数小时的辩论，他们最终达成了共识。)
-- **记忆技巧**: **con-**（一起）+ **sens**（感觉）+ **-us**（名词后缀）→ 大家感觉一致 → 共识。
-
-## 12. **elaborate**
-- **音标**: /ɪˈlæbəreɪt/ 动词 /ɪˈlæbərət/ 形容词
-- **中文释义**: (v.) 详细阐述；精心制作 (adj.) 精心的；复杂的
-- **例句**: Could you elaborate on your proposal? (你能详细阐述一下你的提案吗？)
-- **记忆技巧**: **e-**（出）+ **labor**（劳动）+ **-ate** → 付出大量劳动去做 → 精心制作、详细阐述。
-
-## 13. **discrepancy**
-- **音标**: /dɪsˈkrepənsi/
-- **词性**: 名词
-- **中文释义**: 差异；不一致；矛盾
-- **例句**: There is a significant discrepancy between the two reports. (这两份报告之间存在重大差异。)
-- **记忆技巧**: **dis-**（分开）+ **crep**（发出声音）+ **-ancy**（名词后缀）→ 发出不同的声音 → 不一致、差异。
-
-## 14. **empirical**
-- **音标**: /ɪmˈpɪrɪk(ə)l/
-- **词性**: 形容词
-- **中文释义**: 以经验为依据的；实证的
-- **例句**: The theory is based on empirical data rather than assumptions. (该理论基于实证数据，而非假设。)
-- **记忆技巧**: **em-**（在…之中）+ **pir**（尝试）+ **-ical**（形容词后缀）→ 在实践中尝试的 → 实证的。
-
-## 15. **feasible**
-- **音标**: /ˈfiːzəb(ə)l/
-- **词性**: 形容词
-- **中文释义**: 可行的；可能的
-- **例句**: The engineers determined that the construction plan was feasible. (工程师们确定该建筑计划是可行的。)
-- **记忆技巧**: **feas**（做）+ **-ible**（能够…的）→ 能够做成的 → 可行的。
+今天，我们将继续攻克13个高频词汇，涵盖名词、动词、形容词和副词。请结合例句和记忆技巧，加深理解。
 
 ---
-💡 **学习小贴士**：
-1. 建议每天回顾前一天的词汇。
-2. 尝试用新学的词汇造句。
-3. 关注词汇的常见搭配和使用语境。
-4. 可以通过阅读英文文章来巩固词汇理解。
 
-坚持就是胜利！祝您学习顺利！ ✨
+### 1. vulnerable
+- **音标**：/ˈvʌlnərəbl/
+- **词性**：形容词
+- **释义**：易受攻击的；脆弱的；易受影响的
+- **例句**：
+    - English：*Children are particularly vulnerable to the effects of air pollution.*
+    - 中文：儿童特别容易受到空气污染的影响。
+- **记忆技巧**：词根“vulner”（伤害）+ “-able”（能…的）。联想：一个人“能被伤害的”，就是“脆弱的”。
+
+### 2. scrutiny
+- **音标**：/ˈskruːtəni/
+- **词性**：名词
+- **释义**：仔细检查；详细审查；监视
+- **例句**：
+    - English：*The committee’s report will face intense scrutiny from the public.*
+    - 中文：委员会的报告将面临公众的严格审查。
+- **记忆技巧**：联想“scrut-”（仔细看，如 microscope 显微镜）+ “-iny”（名词后缀）。即“仔细看的行为”。
+
+### 3. deteriorate
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：动词
+- **释义**：恶化；变坏；退化
+- **例句**：
+    - English：*His health continued to deteriorate despite the new treatment.*
+    - 中文：尽管接受了新的治疗，他的健康状况还是继续恶化。
+- **记忆技巧**：词根“de-”（向下）+ “terior”（更坏的，比较级）+ “-ate”。即“变得更坏”。
+
+### 4. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：形容词
+- **释义**：务实的；注重实效的；实用主义的
+- **例句**：
+    - English：*We need a pragmatic approach to solve this complex problem.*
+    - 中文：我们需要一种务实的方法来解决这个复杂的问题。
+- **记忆技巧**：词根“pragmat-”（行动，实践，如pragmatism实用主义）+ “-ic”。强调“付诸实践的”。
+
+### 5. impede
+- **音标**：/ɪmˈpiːd/
+- **词性**：动词
+- **释义**：阻碍；妨碍；阻止
+- **例句**：
+    - English：*The construction of the new road will impede the flow of traffic in the area.*
+    - 中文：新道路的建设将阻碍该地区的交通流量。
+- **记忆技巧**：前缀“im-”（进入）+ “ped-”（脚，如 pedestrian 行人）。想象“脚伸进来挡路”，引申为“阻碍”。
+
+### 6. resilience
+- **音标**：/rɪˈzɪliəns/
+- **词性**：名词
+- **释义**：恢复力；韧性；适应能力
+- **例句**：
+    - English：*The community showed great resilience in rebuilding after the earthquake.*
+    - 中文：社区在地震后重建中展现出巨大的韧性。
+- **记忆技巧**：来自“resilient”（有弹性的，适应力强的）+ “-ence”（名词后缀）。联想：像弹簧一样“弹回来”的能力。
+
+### 7. profound
+- **音标**：/prəˈfaʊnd/
+- **词性**：形容词
+- **释义**：深刻的；深远的；(知识)渊博的
+- **例句**：
+    - English：*The book had a profound impact on my understanding of history.*
+    - 中文：这本书对我理解历史产生了深远的影响。
+- **记忆技巧**：前缀“pro-”（向前）+ “found”（基础，建立）。联想：深入到事物的“基础”之中，即“深刻的”。
+
+### 8. fluctuate
+- **音标**：/ˈflʌktʃueɪt/
+- **词性**：动词
+- **释义**：波动；变动；涨落
+- **例句**：
+    - English：*Stock prices fluctuate daily based on market conditions.*
+    - 中文：股票价格根据市场状况每日波动。
+- **记忆技巧**：词根“flu-”（流动，如 fluent 流利的）+ “-ctuate”。像水流一样“起伏不定”。
+
+### 9. substantiate
+- **音标**：/səbˈstænʃieɪt/
+- **词性**：动词
+- **释义**：证实；证明…有根据
+- **例句**：
+    - English：*She was unable to substantiate her accusations with any evidence.*
+    - 中文：她无法用任何证据来证实她的指控。
+- **记忆技巧**：来自“substance”（实质，事实）+ “-ate”。即“使…有事实依据”。
+
+### 10. alleviate
+- **音标**：/əˈliːvieɪt/
+- **词性**：动词
+- **释义**：减轻，缓和（痛苦、问题等）
+- **例句**：
+    - English：*The government introduced new measures to alleviate poverty in rural areas.*
+    - 中文：政府出台了新措施来减轻农村地区的贫困。
+- **记忆技巧**：前缀“al-”（加强）+ “lev-”（轻，举起，如 elevate 提升）+ “-iate”。使问题变“轻”，即“缓解”。
+
+### 11. arbitrary
+- **音标**：/ˈɑːrbɪtreri/
+- **词性**：形容词
+- **释义**：任意的；武断的；专制的
+- **例句**：
+    - English：*The decision seemed arbitrary and lacked a clear logical basis.*
+    - 中文：这个决定显得武断，缺乏清晰的逻辑基础。
+- **记忆技巧**：来自“arbitrate”（仲裁，裁决）。联想：仲裁者有时的决定可能看起来“随心所欲”，即“武断的”。
+
+### 12. tangible
+- **音标**：/ˈtændʒəbl/
+- **词性**：形容词
+- **释义**：确实的；可触摸的；有形的
+- **例句**：
+    - English：*We need to see tangible results from our investment.*
+    - 中文：我们需要看到我们投资的切实成果。
+- **记忆技巧**：词根“tang-”（触摸，如 tangible 触觉的）+ “-ible”（能…的）。即“能摸得到的”。
+
+### 13. predominantly
+- **音标**：/prɪˈdɒmɪnəntli/
+- **词性**：副词
+- **释义**：主要地；显著地；占主导地位地
+- **例句**：
+    - English：*The audience was predominantly made up of young adults.*
+    - 中文：观众主要由年轻人组成。
+- **记忆技巧**：来自“predominant”（占主导的，显著的）+ “-ly”。核心词是“dominate”（支配）。
+
+---
+**学习小贴士**：不要孤立地背单词，尝试用今天学到的词汇（例如 **vulnerable**, **tangible**, **alleviate**）自己造一两个句子，记忆效果会更好！坚持就是胜利，加油！
