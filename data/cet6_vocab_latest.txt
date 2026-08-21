@@ -1,125 +1,139 @@
-# 六级高频词汇·第83天
+# 六级高频词汇学习（第84天）
 
-今天，我们将继续攻克13个高频词汇，涵盖名词、动词、形容词和副词。请结合例句和记忆技巧，加深理解。
-
----
-
-### 1. vulnerable
-- **音标**：/ˈvʌlnərəbl/
-- **词性**：形容词
-- **释义**：易受攻击的；脆弱的；易受影响的
-- **例句**：
-    - English：*Children are particularly vulnerable to the effects of air pollution.*
-    - 中文：儿童特别容易受到空气污染的影响。
-- **记忆技巧**：词根“vulner”（伤害）+ “-able”（能…的）。联想：一个人“能被伤害的”，就是“脆弱的”。
-
-### 2. scrutiny
-- **音标**：/ˈskruːtəni/
-- **词性**：名词
-- **释义**：仔细检查；详细审查；监视
-- **例句**：
-    - English：*The committee’s report will face intense scrutiny from the public.*
-    - 中文：委员会的报告将面临公众的严格审查。
-- **记忆技巧**：联想“scrut-”（仔细看，如 microscope 显微镜）+ “-iny”（名词后缀）。即“仔细看的行为”。
-
-### 3. deteriorate
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：动词
-- **释义**：恶化；变坏；退化
-- **例句**：
-    - English：*His health continued to deteriorate despite the new treatment.*
-    - 中文：尽管接受了新的治疗，他的健康状况还是继续恶化。
-- **记忆技巧**：词根“de-”（向下）+ “terior”（更坏的，比较级）+ “-ate”。即“变得更坏”。
-
-### 4. pragmatic
-- **音标**：/præɡˈmætɪk/
-- **词性**：形容词
-- **释义**：务实的；注重实效的；实用主义的
-- **例句**：
-    - English：*We need a pragmatic approach to solve this complex problem.*
-    - 中文：我们需要一种务实的方法来解决这个复杂的问题。
-- **记忆技巧**：词根“pragmat-”（行动，实践，如pragmatism实用主义）+ “-ic”。强调“付诸实践的”。
-
-### 5. impede
-- **音标**：/ɪmˈpiːd/
-- **词性**：动词
-- **释义**：阻碍；妨碍；阻止
-- **例句**：
-    - English：*The construction of the new road will impede the flow of traffic in the area.*
-    - 中文：新道路的建设将阻碍该地区的交通流量。
-- **记忆技巧**：前缀“im-”（进入）+ “ped-”（脚，如 pedestrian 行人）。想象“脚伸进来挡路”，引申为“阻碍”。
-
-### 6. resilience
-- **音标**：/rɪˈzɪliəns/
-- **词性**：名词
-- **释义**：恢复力；韧性；适应能力
-- **例句**：
-    - English：*The community showed great resilience in rebuilding after the earthquake.*
-    - 中文：社区在地震后重建中展现出巨大的韧性。
-- **记忆技巧**：来自“resilient”（有弹性的，适应力强的）+ “-ence”（名词后缀）。联想：像弹簧一样“弹回来”的能力。
-
-### 7. profound
-- **音标**：/prəˈfaʊnd/
-- **词性**：形容词
-- **释义**：深刻的；深远的；(知识)渊博的
-- **例句**：
-    - English：*The book had a profound impact on my understanding of history.*
-    - 中文：这本书对我理解历史产生了深远的影响。
-- **记忆技巧**：前缀“pro-”（向前）+ “found”（基础，建立）。联想：深入到事物的“基础”之中，即“深刻的”。
-
-### 8. fluctuate
-- **音标**：/ˈflʌktʃueɪt/
-- **词性**：动词
-- **释义**：波动；变动；涨落
-- **例句**：
-    - English：*Stock prices fluctuate daily based on market conditions.*
-    - 中文：股票价格根据市场状况每日波动。
-- **记忆技巧**：词根“flu-”（流动，如 fluent 流利的）+ “-ctuate”。像水流一样“起伏不定”。
-
-### 9. substantiate
-- **音标**：/səbˈstænʃieɪt/
-- **词性**：动词
-- **释义**：证实；证明…有根据
-- **例句**：
-    - English：*She was unable to substantiate her accusations with any evidence.*
-    - 中文：她无法用任何证据来证实她的指控。
-- **记忆技巧**：来自“substance”（实质，事实）+ “-ate”。即“使…有事实依据”。
-
-### 10. alleviate
-- **音标**：/əˈliːvieɪt/
-- **词性**：动词
-- **释义**：减轻，缓和（痛苦、问题等）
-- **例句**：
-    - English：*The government introduced new measures to alleviate poverty in rural areas.*
-    - 中文：政府出台了新措施来减轻农村地区的贫困。
-- **记忆技巧**：前缀“al-”（加强）+ “lev-”（轻，举起，如 elevate 提升）+ “-iate”。使问题变“轻”，即“缓解”。
-
-### 11. arbitrary
-- **音标**：/ˈɑːrbɪtreri/
-- **词性**：形容词
-- **释义**：任意的；武断的；专制的
-- **例句**：
-    - English：*The decision seemed arbitrary and lacked a clear logical basis.*
-    - 中文：这个决定显得武断，缺乏清晰的逻辑基础。
-- **记忆技巧**：来自“arbitrate”（仲裁，裁决）。联想：仲裁者有时的决定可能看起来“随心所欲”，即“武断的”。
-
-### 12. tangible
-- **音标**：/ˈtændʒəbl/
-- **词性**：形容词
-- **释义**：确实的；可触摸的；有形的
-- **例句**：
-    - English：*We need to see tangible results from our investment.*
-    - 中文：我们需要看到我们投资的切实成果。
-- **记忆技巧**：词根“tang-”（触摸，如 tangible 触觉的）+ “-ible”（能…的）。即“能摸得到的”。
-
-### 13. predominantly
-- **音标**：/prɪˈdɒmɪnəntli/
-- **词性**：副词
-- **释义**：主要地；显著地；占主导地位地
-- **例句**：
-    - English：*The audience was predominantly made up of young adults.*
-    - 中文：观众主要由年轻人组成。
-- **记忆技巧**：来自“predominant”（占主导的，显著的）+ “-ly”。核心词是“dominate”（支配）。
+你好！今天是词汇学习的第84天，我们继续保持积累。以下是为你精选的13个六级高频词汇，涵盖了不同的词性，希望对你有帮助。
 
 ---
-**学习小贴士**：不要孤立地背单词，尝试用今天学到的词汇（例如 **vulnerable**, **tangible**, **alleviate**）自己造一两个句子，记忆效果会更好！坚持就是胜利，加油！
+
+### **1. pragmatic**
+*   **音标 (美式)：** /præɡˈmætɪk/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 务实的；实事求是的
+*   **例句：**
+    *   **英文：** We need a **pragmatic** approach to solve this complex problem.
+    *   **中文：** 我们需要一个**务实的**方法来解决这个复杂问题。
+*   **记忆技巧：**
+    *   词根联想：pragmat- (实践) + -ic (形容词后缀)。源于希腊语“pragma”（行动、实践），指注重实际、实践而非理论的。
+
+### **2. resilience**
+*   **音标 (美式)：** /rɪˈzɪliəns/
+*   **词性：** 名词 (n.)
+*   **中文释义：** 韧性，恢复力；适应力
+*   **例句：**
+    *   **英文：** Children often show remarkable **resilience** in the face of adversity.
+    *   **中文：** 孩子们在面对逆境时常常表现出惊人的**韧性**。
+*   **记忆技巧：**
+    *   词根拆分：re- (回) + sil (跳) + -ience (名词后缀)。联想“跳回原状”，引申为恢复力、韧性。
+
+### **3. scrutinize**
+*   **音标 (美式)：** /ˈskruːtənaɪz/
+*   **词性：** 动词 (v.)
+*   **中文释义：** 仔细检查，详审；细读
+*   **例句：**
+    *   **英文：** The police will **scrutinize** every piece of evidence from the crime scene.
+    *   **中文：** 警察将会**仔细检查**来自犯罪现场的每一件证据。
+*   **记忆技巧：**
+    *   词根联想：scrutin- (检查) + -ize (动词后缀)。源于拉丁语“scrutari”（搜查、检查），尤指像用筛子一样仔细筛查。
+
+### **4. convivial**
+*   **音标 (美式)：** /kənˈvɪviəl/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 欢乐的；爱交际的；友好和善的
+*   **例句：**
+    *   **英文：** The atmosphere at the family reunion was warm and **convivial**.
+    *   **中文：** 家庭聚会的气氛温馨而**欢乐**。
+*   **记忆技巧：**
+    *   词根拆分：con- (共同) + viv (生命，生活) + -ial (形容词后缀)。一起“活”得开心，即欢乐的、好交际的。
+
+### **5. discrepancy**
+*   **音标 (美式)：** /dɪsˈkrepənsi/
+*   **词性：** 名词 (n.)
+*   **中文释义：** 差异，不一致；矛盾
+*   **例句：**
+    *   **英文：** There is a significant **discrepancy** between the two reports.
+    *   **中文：** 这两份报告之间存在显著的**差异**。
+*   **记忆技巧：**
+    *   词根拆分：dis- (分开) + crep (破裂声) + -ancy (名词后缀)。声音“破裂”开，引申为意见、数据等出现不一致。
+
+### **6. permeate**
+*   **音标 (美式)：** /ˈpɜːrmieɪt/
+*   **词性：** 动词 (v.)
+*   **中文释义：** 渗透，弥漫；普及，遍布
+*   **例句：**
+    *   **英文：** The smell of freshly baked bread **permeated** the entire house.
+    *   **中文：** 新鲜出炉的面包香味**弥漫**了整个房子。
+*   **记忆技巧：**
+    *   词根联想：per- (贯穿) + mea (通过) + -te (动词后缀)。让事物“通过”并扩散开来，即渗透、弥漫。
+
+### **7. acrimony**
+*   **音标 (美式)：** /ˈækrɪmoʊni/
+*   **词性：** 名词 (n.)
+*   **中文释义：** （言词、争论等的）激烈，刻薄，尖刻
+*   **例句：**
+    *   **英文：** The debate became filled with **acrimony**, with both sides shouting at each other.
+    *   **中文：** 这场辩论充满了**火药味**，双方都在互相吼叫。
+*   **记忆技巧：**
+    *   词根联想：acr- (尖锐，辛辣，如 acid 酸) + -mony (名词后缀)。像尖锐或辛辣的东西，引申为言辞的尖刻。
+
+### **8. tangible**
+*   **音标 (美式)：** /ˈtændʒəbl/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 确实的，真实的；可触摸的，有形的
+*   **例句：**
+    *   **英文：** The policy has produced **tangible** benefits for the local community.
+    *   **中文：** 该政策为当地社区带来了**实实在在的**好处。
+*   **记忆技巧：**
+    *   词根拆分：tang- (触摸) + -ible (形容词后缀，可…的)。可以“触摸”到的，即有形的、实在的。
+
+### **9. relinquish**
+*   **音标 (美式)：** /rɪˈlɪŋkwɪʃ/
+*   **词性：** 动词 (v.)
+*   **中文释义：** 放弃（权力、职位等）；交出，让渡
+*   **例句：**
+    *   **英文：** He was forced to **relinquish** control of the company.
+    *   **中文：** 他被迫**放弃**了对公司的控制权。
+*   **记忆技巧：**
+    *   词根联想：re- (离开) + linqu- (离开，放弃，如 leave 离开) + -ish (动词后缀)。反复“离开”，即主动或被动地放弃。
+
+### **10. prolific**
+*   **音标 (美式)：** /prəˈlɪfɪk/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 多产的；丰富的
+*   **例句：**
+    *   **英文：** She is a **prolific** author, having published over 20 novels.
+    *   **中文：** 她是一位**多产的**作家，已出版了20多部小说。
+*   **记忆技巧：**
+    *   词根联想：prol- (后代，幼苗) + -ific (形容词后缀，产生…的)。能产生很多“后代”，即多产的。
+
+### **11. austere**
+*   **音标 (美式)：** /ɔːˈstɪr/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 严肃的；简朴的；艰苦的
+*   **例句：**
+    *   **英文：** The monks led an **austere** life, with simple food and plain clothes.
+    *   **中文：** 僧侣们过着**简朴的**生活，饮食简单，衣着朴素。
+*   **记忆技巧：**
+    *   词根联想：源自希腊语“austeros”（严厉的）。联想“严峻的”气候或环境，引申为严肃、简朴、不舒适。
+
+### **12. conversely**
+*   **音标 (美式)：** /ˈkɑːnvɜːrsli/
+*   **词性：** 副词 (adv.)
+*   **中文释义：** 相反地，另一方面
+*   **例句：**
+    *   **英文：** Hot weather can make people tired. **Conversely**, cold weather can make them feel energetic.
+    *   **中文：** 炎热的天气会使人疲惫。**相反地**，寒冷的天气则能让人感到精力充沛。
+*   **记忆技巧：**
+    *   词根拆分：con- (共同) + vers (转) + -ly (副词后缀)。将话题“转向”反面，表示相反的情况。
+
+### **13. ephemeral**
+*   **音标 (美式)：** /ɪˈfemərəl/
+*   **词性：** 形容词 (adj.)
+*   **中文释义：** 短暂的，转瞬即逝的
+*   **例句：**
+    *   **英文：** Fame in the modern world is often **ephemeral**.
+    *   **中文：** 现代世界的名声往往是**短暂的**。
+*   **记忆技巧：**
+    *   词根联想：源自希腊语“ephemeros”（仅持续一天的）。e- (在…中) + hemera (一天)。只存在于“一天”之中，即短暂的。可以联想到蜉蝣（ephemeral insect），生命只有一天。
+
+---
+**学习小贴士：**
+尝试用今天学到的词汇（例如：`pragmatic`， `resilience`， `scrutinize`）自己造几个句子，这样能加深记忆和理解。坚持就是胜利，祝你学习愉快！
