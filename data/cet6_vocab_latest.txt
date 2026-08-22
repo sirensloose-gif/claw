@@ -1,139 +1,163 @@
-# 六级高频词汇学习（第84天）
+# 六级高频词汇学习（第85天）
 
-你好！今天是词汇学习的第84天，我们继续保持积累。以下是为你精选的13个六级高频词汇，涵盖了不同的词性，希望对你有帮助。
+## 词汇列表
+
+### 1. ubiquitous
+- **音标**：/juːˈbɪkwɪtəs/
+- **词性**：形容词 (adj.)
+- **中文释义**：无处不在的，普遍存在的
+- **例句**：
+  - Smartphones have become **ubiquitous** in modern society.
+    （智能手机在现代社会已变得无处不在。）
+- **记忆技巧**：词根“ubiquit”来自拉丁语，意为“到处”。联想记忆：you（你）+ be（在）+ quiet（安静）→ 你在任何地方都安静地存在 = 无处不在。
+
+---
+
+### 2. resilient
+- **音标**：/rɪˈzɪliənt/
+- **词性**：形容词 (adj.)
+- **中文释义**：有弹性的；适应力强的；能恢复的
+- **例句**：
+  - Children are often more **resilient** than adults think.
+    （孩子们往往比成年人想象的更具适应力。）
+- **记忆技巧**：词根“-ili-”与“跳”有关（类似recoil），联想：像弹簧一样“反弹”的能力 = 有弹性、适应力强。
 
 ---
 
-### **1. pragmatic**
-*   **音标 (美式)：** /præɡˈmætɪk/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 务实的；实事求是的
-*   **例句：**
-    *   **英文：** We need a **pragmatic** approach to solve this complex problem.
-    *   **中文：** 我们需要一个**务实的**方法来解决这个复杂问题。
-*   **记忆技巧：**
-    *   词根联想：pragmat- (实践) + -ic (形容词后缀)。源于希腊语“pragma”（行动、实践），指注重实际、实践而非理论的。
-
-### **2. resilience**
-*   **音标 (美式)：** /rɪˈzɪliəns/
-*   **词性：** 名词 (n.)
-*   **中文释义：** 韧性，恢复力；适应力
-*   **例句：**
-    *   **英文：** Children often show remarkable **resilience** in the face of adversity.
-    *   **中文：** 孩子们在面对逆境时常常表现出惊人的**韧性**。
-*   **记忆技巧：**
-    *   词根拆分：re- (回) + sil (跳) + -ience (名词后缀)。联想“跳回原状”，引申为恢复力、韧性。
-
-### **3. scrutinize**
-*   **音标 (美式)：** /ˈskruːtənaɪz/
-*   **词性：** 动词 (v.)
-*   **中文释义：** 仔细检查，详审；细读
-*   **例句：**
-    *   **英文：** The police will **scrutinize** every piece of evidence from the crime scene.
-    *   **中文：** 警察将会**仔细检查**来自犯罪现场的每一件证据。
-*   **记忆技巧：**
-    *   词根联想：scrutin- (检查) + -ize (动词后缀)。源于拉丁语“scrutari”（搜查、检查），尤指像用筛子一样仔细筛查。
-
-### **4. convivial**
-*   **音标 (美式)：** /kənˈvɪviəl/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 欢乐的；爱交际的；友好和善的
-*   **例句：**
-    *   **英文：** The atmosphere at the family reunion was warm and **convivial**.
-    *   **中文：** 家庭聚会的气氛温馨而**欢乐**。
-*   **记忆技巧：**
-    *   词根拆分：con- (共同) + viv (生命，生活) + -ial (形容词后缀)。一起“活”得开心，即欢乐的、好交际的。
-
-### **5. discrepancy**
-*   **音标 (美式)：** /dɪsˈkrepənsi/
-*   **词性：** 名词 (n.)
-*   **中文释义：** 差异，不一致；矛盾
-*   **例句：**
-    *   **英文：** There is a significant **discrepancy** between the two reports.
-    *   **中文：** 这两份报告之间存在显著的**差异**。
-*   **记忆技巧：**
-    *   词根拆分：dis- (分开) + crep (破裂声) + -ancy (名词后缀)。声音“破裂”开，引申为意见、数据等出现不一致。
-
-### **6. permeate**
-*   **音标 (美式)：** /ˈpɜːrmieɪt/
-*   **词性：** 动词 (v.)
-*   **中文释义：** 渗透，弥漫；普及，遍布
-*   **例句：**
-    *   **英文：** The smell of freshly baked bread **permeated** the entire house.
-    *   **中文：** 新鲜出炉的面包香味**弥漫**了整个房子。
-*   **记忆技巧：**
-    *   词根联想：per- (贯穿) + mea (通过) + -te (动词后缀)。让事物“通过”并扩散开来，即渗透、弥漫。
-
-### **7. acrimony**
-*   **音标 (美式)：** /ˈækrɪmoʊni/
-*   **词性：** 名词 (n.)
-*   **中文释义：** （言词、争论等的）激烈，刻薄，尖刻
-*   **例句：**
-    *   **英文：** The debate became filled with **acrimony**, with both sides shouting at each other.
-    *   **中文：** 这场辩论充满了**火药味**，双方都在互相吼叫。
-*   **记忆技巧：**
-    *   词根联想：acr- (尖锐，辛辣，如 acid 酸) + -mony (名词后缀)。像尖锐或辛辣的东西，引申为言辞的尖刻。
-
-### **8. tangible**
-*   **音标 (美式)：** /ˈtændʒəbl/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 确实的，真实的；可触摸的，有形的
-*   **例句：**
-    *   **英文：** The policy has produced **tangible** benefits for the local community.
-    *   **中文：** 该政策为当地社区带来了**实实在在的**好处。
-*   **记忆技巧：**
-    *   词根拆分：tang- (触摸) + -ible (形容词后缀，可…的)。可以“触摸”到的，即有形的、实在的。
-
-### **9. relinquish**
-*   **音标 (美式)：** /rɪˈlɪŋkwɪʃ/
-*   **词性：** 动词 (v.)
-*   **中文释义：** 放弃（权力、职位等）；交出，让渡
-*   **例句：**
-    *   **英文：** He was forced to **relinquish** control of the company.
-    *   **中文：** 他被迫**放弃**了对公司的控制权。
-*   **记忆技巧：**
-    *   词根联想：re- (离开) + linqu- (离开，放弃，如 leave 离开) + -ish (动词后缀)。反复“离开”，即主动或被动地放弃。
-
-### **10. prolific**
-*   **音标 (美式)：** /prəˈlɪfɪk/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 多产的；丰富的
-*   **例句：**
-    *   **英文：** She is a **prolific** author, having published over 20 novels.
-    *   **中文：** 她是一位**多产的**作家，已出版了20多部小说。
-*   **记忆技巧：**
-    *   词根联想：prol- (后代，幼苗) + -ific (形容词后缀，产生…的)。能产生很多“后代”，即多产的。
-
-### **11. austere**
-*   **音标 (美式)：** /ɔːˈstɪr/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 严肃的；简朴的；艰苦的
-*   **例句：**
-    *   **英文：** The monks led an **austere** life, with simple food and plain clothes.
-    *   **中文：** 僧侣们过着**简朴的**生活，饮食简单，衣着朴素。
-*   **记忆技巧：**
-    *   词根联想：源自希腊语“austeros”（严厉的）。联想“严峻的”气候或环境，引申为严肃、简朴、不舒适。
-
-### **12. conversely**
-*   **音标 (美式)：** /ˈkɑːnvɜːrsli/
-*   **词性：** 副词 (adv.)
-*   **中文释义：** 相反地，另一方面
-*   **例句：**
-    *   **英文：** Hot weather can make people tired. **Conversely**, cold weather can make them feel energetic.
-    *   **中文：** 炎热的天气会使人疲惫。**相反地**，寒冷的天气则能让人感到精力充沛。
-*   **记忆技巧：**
-    *   词根拆分：con- (共同) + vers (转) + -ly (副词后缀)。将话题“转向”反面，表示相反的情况。
-
-### **13. ephemeral**
-*   **音标 (美式)：** /ɪˈfemərəl/
-*   **词性：** 形容词 (adj.)
-*   **中文释义：** 短暂的，转瞬即逝的
-*   **例句：**
-    *   **英文：** Fame in the modern world is often **ephemeral**.
-    *   **中文：** 现代世界的名声往往是**短暂的**。
-*   **记忆技巧：**
-    *   词根联想：源自希腊语“ephemeros”（仅持续一天的）。e- (在…中) + hemera (一天)。只存在于“一天”之中，即短暂的。可以联想到蜉蝣（ephemeral insect），生命只有一天。
+### 3. perpetuate
+- **音标**：/pərˈpetʃueɪt/
+- **词性**：动词 (v.)
+- **中文释义**：使永久化；使持续
+- **例句**：
+  - Social media can **perpetuate** stereotypes if not used carefully.
+    （如果不谨慎使用，社交媒体可能会固化刻板印象。）
+- **记忆技巧**：词根“per-”（完全）+ “petu-”（来自拉丁语“追求、持续”）。联想：per + pet（宠物）→ 宠物一直跟着你 = 持续存在。
 
 ---
-**学习小贴士：**
-尝试用今天学到的词汇（例如：`pragmatic`， `resilience`， `scrutinize`）自己造几个句子，这样能加深记忆和理解。坚持就是胜利，祝你学习愉快！
+
+### 4. detrimental
+- **音标**：/ˌdetrɪˈmentl/
+- **词性**：形容词 (adj.)
+- **中文释义**：有害的，不利的
+- **例句**：
+  - Lack of sleep can have a **detrimental** effect on your health.
+    （睡眠不足会对健康产生有害影响。）
+- **记忆技巧**：词根“detriment”意为“损害、损害物”。联想：de（向下）+ tri（三）+ mental（精神的）→ 精神向下垮三次 = 有害的。
+
+---
+
+### 5. meticulous
+- **音标**：/məˈtɪkjələs/
+- **词性**：形容词 (adj.)
+- **中文释义**：一丝不苟的；非常细致的
+- **例句**：
+  - The scientist kept **meticulous** records of her experiments.
+    （那位科学家对她的实验记录得一丝不苟。）
+- **记忆技巧**：联想：metic（来自拉丁语“胆怯的”，引申为“小心的”）→ 做事非常小心 = 一丝不苟。
+
+---
+
+### 6. conundrum
+- **音标**：/kəˈnʌndrəm/
+- **词性**：名词 (n.)
+- **中文释义**：难题；复杂的问题
+- **例句**：
+  - Finding a balance between growth and sustainability is a real **conundrum**.
+    （在增长与可持续性之间找到平衡是一个真正的难题。）
+- **记忆技巧**：谐音“可难抓摸”→ 问题很难抓住要领 = 难题。
+
+---
+
+### 7. ephemeral
+- **音标**：/ɪˈfemərəl/
+- **词性**：形容词 (adj.)
+- **中文释义**：短暂的，瞬息的
+- **例句**：
+  - The beauty of cherry blossoms is **ephemeral**, lasting only a few days.
+    （樱花的美丽是短暂的，只持续几天。）
+- **记忆技巧**：词根“ephem-”来自希腊语，意为“只活一天的”。联想：e（出）+ pher（携带）→ 被带出一天 = 短暂的。
+
+---
+
+### 8. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：形容词 (adj.)
+- **中文释义**：务实的；实用主义的
+- **例句**：
+  - We need a more **pragmatic** approach to solve this problem.
+    （我们需要一种更务实的方法来解决这个问题。）
+- **记忆技巧**：词根“pragma”意为“行动、实践”。联想：prag（实践）+ matic（形容词后缀）→ 注重实践的 = 务实的。
+
+---
+
+### 9. proliferate
+- **音标**：/prəˈlɪfəreɪt/
+- **词性**：动词 (v.)
+- **中文释义**：激增；扩散；繁殖
+- **例句**：
+  - Fake news stories continue to **proliferate** on social media platforms.
+    （虚假新闻在社交媒体平台上持续扩散。）
+- **记忆技巧**：词根“prolifer-”来自拉丁语“后代、嫩枝”。联想：pro（向前）+ life（生命）+ rate（比率）→ 生命向前加速 = 激增。
+
+---
+
+### 10. accolade
+- **音标**：/ˈækəleɪd/
+- **词性**：名词 (n.)
+- **中文释义**：荣誉；嘉奖；赞誉
+- **例句**：
+  - The film received numerous **accolades**, including an Academy Award.
+    （这部电影获得了无数荣誉，包括一项奥斯卡奖。）
+- **记忆技巧**：联想：ac（加强）+ col（共同）+ ade（喝彩）→ 共同喝彩 = 荣誉。
+
+---
+
+### 11. deteriorate
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：动词 (v.)
+- **中文释义**：恶化；变坏；退化
+- - **例句**：
+  - Without proper maintenance, the building's condition will **deteriorate** rapidly.
+    （如果没有适当的维护，建筑的状况会迅速恶化。）
+- **记忆技巧**：词根“deterior-”意为“更坏的”。联想：de（向下）+ terior（更差）→ 变得更差 = 恶化。
+
+---
+
+### 12. eloquent
+- **音标**：/ˈeləkwənt/
+- **词性**：形容词 (adj.)
+- **中文释义**：雄辩的；有说服力的
+- **例句**：
+  - She gave an **eloquent** speech about the importance of education.
+    （她做了一场关于教育重要性的雄辩演讲。）
+- **记忆技巧**：词根“eloqu-”来自拉丁语“e-”（出）+ “loqui”（说话）→ 能说出有力的话 = 雄辩的。
+
+---
+
+### 13. pragmatic（补充）— 副词形式
+- **音标**：/præɡˈmætɪkli/
+- **词性**：副词 (adv.)
+- **中文释义**：务实地；实际地
+- **例句**：
+  - The company decided to **pragmatically** adjust its strategy.
+    （公司决定务实地调整其战略。）
+
+---
+
+### 14. resilient（补充）— 名词形式
+- **音标**：/rɪˈzɪliəns/
+- **词性**：名词 (n.)
+- **中文释义**：韧性；恢复力
+- **例句**：
+  - **Resilience** is key to overcoming life's challenges.
+    （韧性是克服生活挑战的关键。）
+
+---
+
+## 学习建议
+1. **每日复习**：每天回顾前一天学过的词汇。
+2. **造句练习**：尝试用每个单词造一个新句子。
+3. **分类记忆**：按词性或主题分组记忆，比如把形容词放在一起。
+4. **听力结合**：通过听例句的发音来加深记忆。
+
+祝你学习顺利，坚持就是胜利！💪
