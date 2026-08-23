@@ -1,163 +1,124 @@
-# 六级高频词汇学习（第85天）
-
-## 词汇列表
-
-### 1. ubiquitous
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：形容词 (adj.)
-- **中文释义**：无处不在的，普遍存在的
-- **例句**：
-  - Smartphones have become **ubiquitous** in modern society.
-    （智能手机在现代社会已变得无处不在。）
-- **记忆技巧**：词根“ubiquit”来自拉丁语，意为“到处”。联想记忆：you（你）+ be（在）+ quiet（安静）→ 你在任何地方都安静地存在 = 无处不在。
+### **MiMo的六级词汇 · 第86天**
+**今日主题：学术探索与思维提升**
 
 ---
 
-### 2. resilient
-- **音标**：/rɪˈzɪliənt/
-- **词性**：形容词 (adj.)
-- **中文释义**：有弹性的；适应力强的；能恢复的
-- **例句**：
-  - Children are often more **resilient** than adults think.
-    （孩子们往往比成年人想象的更具适应力。）
-- **记忆技巧**：词根“-ili-”与“跳”有关（类似recoil），联想：像弹簧一样“反弹”的能力 = 有弹性、适应力强。
+#### 1. methodology
+*   **音标**：/ˌmeθəˈdɑːlədʒi/
+*   **词性**：n. 名词
+*   **释义**：方法论；（一套）方法体系
+*   **例句**：
+    *   The researchers used a mixed-methods **methodology** combining surveys and interviews.
+    *   （研究者采用了结合问卷调查和访谈的混合方法**方法论**。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`method` (方法) + `-ology` (…学，…论) → 方法论。
 
----
+#### 2. empirical
+*   **音标**：/ɪmˈpɪrɪkl/
+*   **词性**：adj. 形容词
+*   **释义**：以经验为依据的；实证的；经验主义的
+*   **例句**：
+    *   The theory lacks sufficient **empirical** evidence to support its claims.
+    *   （这一理论缺乏足够的**实证**证据来支持其论点。）
+*   **记忆技巧**：
+    *   **联想法**：`em-` (进入…状态) + `pir` (危险，尝试) + `-ical` → 像进入危险水域尝试一样，需要亲身“经验”验证。
 
-### 3. perpetuate
-- **音标**：/pərˈpetʃueɪt/
-- **词性**：动词 (v.)
-- **中文释义**：使永久化；使持续
-- **例句**：
-  - Social media can **perpetuate** stereotypes if not used carefully.
-    （如果不谨慎使用，社交媒体可能会固化刻板印象。）
-- **记忆技巧**：词根“per-”（完全）+ “petu-”（来自拉丁语“追求、持续”）。联想：per + pet（宠物）→ 宠物一直跟着你 = 持续存在。
+#### 3. paradigm
+*   **音标**：/ˈpærədaɪm/
+*   **词性**：n. 名词
+*   **释义**：典范；范式；（科学理论发展的）模型
+*   **例句**：
+    *   This discovery led to a fundamental **paradigm** shift in our understanding of the universe.
+    *   （这一发现导致了我们对宇宙理解的根本**范式**转变。）
+*   **记忆技巧**：
+    *   **谐音法**：“拍了呆木” → 一个经典的“范式”案例，让你看完拍案叫绝后呆若木鸡。
 
----
+#### 4. synthesize
+*   **音标**：/ˈsɪnθəsaɪz/
+*   **词性**：v. 动词
+*   **释义**：合成；综合；（用合成法）合成
+*   **例句**：
+    *   A good essay **synthesizes** information from multiple sources into a coherent argument.
+    *   （一篇好的文章将来自多个来源的信息**综合**成一个连贯的论点。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`syn-` (一起) + `the` (放置) + `-size` (动词后缀) → 放到一起 → 综合，合成。
 
-### 4. detrimental
-- **音标**：/ˌdetrɪˈmentl/
-- **词性**：形容词 (adj.)
-- **中文释义**：有害的，不利的
-- **例句**：
-  - Lack of sleep can have a **detrimental** effect on your health.
-    （睡眠不足会对健康产生有害影响。）
-- **记忆技巧**：词根“detriment”意为“损害、损害物”。联想：de（向下）+ tri（三）+ mental（精神的）→ 精神向下垮三次 = 有害的。
+#### 5. rigor
+*   **音标**：/ˈrɪɡər/
+*   **词性**：n. 名词
+*   **释义**：严格；严谨；严厉；精确
+*   **例句**：
+    *   The experiment was conducted with scientific **rigor** to ensure reliable results.
+    *   （该实验以科学**严谨性**进行，以确保结果可靠。）
+*   **记忆技巧**：
+    *   **联想法**：发音像“瑞格尔”（一个非常严苛的老师名字），代表“严格”。
 
----
+#### 6. formulate
+*   **音标**：/ˈfɔːrmjuleɪt/
+*   **词性**：v. 动词
+*   **释义**：构想出；明确表达；制定；用公式表示
+*   **例句**：
+    *   The committee is working to **formulate** a new policy on data privacy.
+    *   （委员会正在努力**制定**一项关于数据隐私的新政策。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`form` (形式，形成) + `-ulate` (动词后缀) → 使成形 → 制定，构想。
 
-### 5. meticulous
-- **音标**：/məˈtɪkjələs/
-- **词性**：形容词 (adj.)
-- **中文释义**：一丝不苟的；非常细致的
-- **例句**：
-  - The scientist kept **meticulous** records of her experiments.
-    （那位科学家对她的实验记录得一丝不苟。）
-- **记忆技巧**：联想：metic（来自拉丁语“胆怯的”，引申为“小心的”）→ 做事非常小心 = 一丝不苟。
+#### 7. plausible
+*   **音标**：/ˈplɔːzəbl/
+*   **词性**：adj. 形容词
+*   **释义**：似乎合理的；貌似可信的
+*   **例句**：
+    *   His explanation for being late sounded **plausible**, but I’m not sure I believe it.
+    *   （他迟到的解释听起来**似乎有理**，但我不确定是否相信。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`plaus-` (鼓掌，赞同) + `-ible` (可…的) → 可能会赢得赞同的 → 貌似合理的。
 
----
+#### 8. ambiguous
+*   **音标**：/æmˈbɪɡjuəs/
+*   **词性**：adj. 形容词
+*   **释义**：模棱两可的；含混不清的；不明确的
+*   **例句**：
+    *   The wording of the contract was deliberately **ambiguous**.
+    *   （合同的措辞故意写得**模棱两可**。）
+*   **记忆技巧**：
+    *   **联想法**：`ambi-` (两个) + `guous` (走) → 脚踩两条路，走向两边 → 模棱两可。
 
-### 6. conundrum
-- **音标**：/kəˈnʌndrəm/
-- **词性**：名词 (n.)
-- **中文释义**：难题；复杂的问题
-- **例句**：
-  - Finding a balance between growth and sustainability is a real **conundrum**.
-    （在增长与可持续性之间找到平衡是一个真正的难题。）
-- **记忆技巧**：谐音“可难抓摸”→ 问题很难抓住要领 = 难题。
+#### 9. coherent
+*   **音标**：/koʊˈhɪrənt/
+*   **词性**：adj. 形容词
+*   **释义**：连贯的；条理清楚的；粘在一起的
+*   **例句**：
+    *   Present your ideas in a clear and **coherent** manner.
+    *   （请以清晰、**连贯**的方式陈述你的观点。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`co-` (一起) + `her-` (粘附) + `-ent` (形容词后缀) → 粘在一起的 → 连贯的。
 
----
+#### 10. elucidate
+*   **音标**：/ɪˈluːsɪdeɪt/
+*   **词性**：v. 动词
+*   **释义**：阐明；解释；说明
+*   **例句**：
+    *   Could you **elucidate** the main points of your proposal?
+    *   （你能**阐明**一下你提案的要点吗？）
+*   **记忆技巧**：
+    *   **词根词缀法**：`e-` (出) + `lucid-` (明亮的，清晰的，如 `lucid` 清晰的梦) + `-ate` → 使变得清晰 → 阐明。
 
-### 7. ephemeral
-- **音标**：/ɪˈfemərəl/
-- **词性**：形容词 (adj.)
-- **中文释义**：短暂的，瞬息的
-- **例句**：
-  - The beauty of cherry blossoms is **ephemeral**, lasting only a few days.
-    （樱花的美丽是短暂的，只持续几天。）
-- **记忆技巧**：词根“ephem-”来自希腊语，意为“只活一天的”。联想：e（出）+ pher（携带）→ 被带出一天 = 短暂的。
+#### 11. discrepancy
+*   **音标**：/dɪsˈkrepənsi/
+*   **词性**：n. 名词
+*   **释义**：不一致；矛盾；差异
+*   **例句**：
+    *   There is a growing **discrepancy** between the official data and the actual situation.
+    *   （官方数据与实际情况之间存在着越来越大的**差异**。）
+*   **记忆技巧**：
+    *   **词根词缀法**：`dis-` (分开) + `crep-` (破裂声) + `-ancy` → 发出破裂声，分开 → 不一致。
 
----
-
-### 8. pragmatic
-- **音标**：/præɡˈmætɪk/
-- **词性**：形容词 (adj.)
-- **中文释义**：务实的；实用主义的
-- **例句**：
-  - We need a more **pragmatic** approach to solve this problem.
-    （我们需要一种更务实的方法来解决这个问题。）
-- **记忆技巧**：词根“pragma”意为“行动、实践”。联想：prag（实践）+ matic（形容词后缀）→ 注重实践的 = 务实的。
-
----
-
-### 9. proliferate
-- **音标**：/prəˈlɪfəreɪt/
-- **词性**：动词 (v.)
-- **中文释义**：激增；扩散；繁殖
-- **例句**：
-  - Fake news stories continue to **proliferate** on social media platforms.
-    （虚假新闻在社交媒体平台上持续扩散。）
-- **记忆技巧**：词根“prolifer-”来自拉丁语“后代、嫩枝”。联想：pro（向前）+ life（生命）+ rate（比率）→ 生命向前加速 = 激增。
-
----
-
-### 10. accolade
-- **音标**：/ˈækəleɪd/
-- **词性**：名词 (n.)
-- **中文释义**：荣誉；嘉奖；赞誉
-- **例句**：
-  - The film received numerous **accolades**, including an Academy Award.
-    （这部电影获得了无数荣誉，包括一项奥斯卡奖。）
-- **记忆技巧**：联想：ac（加强）+ col（共同）+ ade（喝彩）→ 共同喝彩 = 荣誉。
-
----
-
-### 11. deteriorate
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：动词 (v.)
-- **中文释义**：恶化；变坏；退化
-- - **例句**：
-  - Without proper maintenance, the building's condition will **deteriorate** rapidly.
-    （如果没有适当的维护，建筑的状况会迅速恶化。）
-- **记忆技巧**：词根“deterior-”意为“更坏的”。联想：de（向下）+ terior（更差）→ 变得更差 = 恶化。
-
----
-
-### 12. eloquent
-- **音标**：/ˈeləkwənt/
-- **词性**：形容词 (adj.)
-- **中文释义**：雄辩的；有说服力的
-- **例句**：
-  - She gave an **eloquent** speech about the importance of education.
-    （她做了一场关于教育重要性的雄辩演讲。）
-- **记忆技巧**：词根“eloqu-”来自拉丁语“e-”（出）+ “loqui”（说话）→ 能说出有力的话 = 雄辩的。
-
----
-
-### 13. pragmatic（补充）— 副词形式
-- **音标**：/præɡˈmætɪkli/
-- **词性**：副词 (adv.)
-- **中文释义**：务实地；实际地
-- **例句**：
-  - The company decided to **pragmatically** adjust its strategy.
-    （公司决定务实地调整其战略。）
-
----
-
-### 14. resilient（补充）— 名词形式
-- **音标**：/rɪˈzɪliəns/
-- **词性**：名词 (n.)
-- **中文释义**：韧性；恢复力
-- **例句**：
-  - **Resilience** is key to overcoming life's challenges.
-    （韧性是克服生活挑战的关键。）
-
----
-
-## 学习建议
-1. **每日复习**：每天回顾前一天学过的词汇。
-2. **造句练习**：尝试用每个单词造一个新句子。
-3. **分类记忆**：按词性或主题分组记忆，比如把形容词放在一起。
-4. **听力结合**：通过听例句的发音来加深记忆。
-
-祝你学习顺利，坚持就是胜利！💪
+#### 12. hypothesis
+*   **音标**：/haɪˈpɑːθəsɪs/
+*   **词性**：n. 名词
+*   **释义**：假设；假说；前提
+*   **例句**：
+    *   The scientist tested her **hypothesis** through a series of controlled experiments.
+    *   （这位科学家通过一系列对照实验检验了她的**假设**。）
+*   **记忆技巧**：
+    *   **联想法**：`hypo-` (在…之下，如 `hypothermia` 体温过低) + `thesis` (论题) → 在正式论题之下的基础 → 假设。
