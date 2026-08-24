@@ -1,124 +1,126 @@
-### **MiMo的六级词汇 · 第86天**
-**今日主题：学术探索与思维提升**
+# 六级高频词汇学习 · 第87天
+
+今天为您准备了12个精选的六级高频词汇，涵盖了名词、动词、形容词和副词。请结合例句和记忆技巧来加深理解。
 
 ---
 
-#### 1. methodology
-*   **音标**：/ˌmeθəˈdɑːlədʒi/
-*   **词性**：n. 名词
-*   **释义**：方法论；（一套）方法体系
-*   **例句**：
-    *   The researchers used a mixed-methods **methodology** combining surveys and interviews.
-    *   （研究者采用了结合问卷调查和访谈的混合方法**方法论**。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`method` (方法) + `-ology` (…学，…论) → 方法论。
+### 1. **benevolent**
+*   **音标**: /bəˈnevələnt/
+*   **词性**: `adj.`
+*   **中文释义**: 仁慈的，慈善的；有益的
+*   **例句**:
+    *   **英文**: The benevolent organization provides free meals for the homeless.
+    *   **中文**: 这个慈善组织为无家可归者提供免费餐食。
+*   **记忆技巧**: **词根词缀法**。`bene-` 意为 “好、善”（如 benefit 好处），`-vol-` 词根表示 “意愿”， `-ent` 是形容词后缀。合起来就是“有善意的”。
 
-#### 2. empirical
-*   **音标**：/ɪmˈpɪrɪkl/
-*   **词性**：adj. 形容词
-*   **释义**：以经验为依据的；实证的；经验主义的
-*   **例句**：
-    *   The theory lacks sufficient **empirical** evidence to support its claims.
-    *   （这一理论缺乏足够的**实证**证据来支持其论点。）
-*   **记忆技巧**：
-    *   **联想法**：`em-` (进入…状态) + `pir` (危险，尝试) + `-ical` → 像进入危险水域尝试一样，需要亲身“经验”验证。
+### 2. **procrastinate**
+*   **音标**: /proʊˈkræstɪneɪt/
+*   **词性**: `v.`
+*   **中文释义**: 拖延，耽搁
+*   **例句**:
+    *   **英文**: I always procrastinate on my homework until the night before the deadline.
+    *   **中文**: 我总把作业拖到截止日期的前一晚才做。
+*   **记忆技巧**: **联想记忆法**。可以拆分为 `pro-`（向前）+ `crastinate`（联想成“crast”类似“craz”，疯狂地玩）。意思是“把事情都推到‘疯狂’的明天”，就是拖延。
 
-#### 3. paradigm
-*   **音标**：/ˈpærədaɪm/
-*   **词性**：n. 名词
-*   **释义**：典范；范式；（科学理论发展的）模型
-*   **例句**：
-    *   This discovery led to a fundamental **paradigm** shift in our understanding of the universe.
-    *   （这一发现导致了我们对宇宙理解的根本**范式**转变。）
-*   **记忆技巧**：
-    *   **谐音法**：“拍了呆木” → 一个经典的“范式”案例，让你看完拍案叫绝后呆若木鸡。
+### 3. **deteriorate**
+*   **音标**: /dɪˈtɪriəreɪt/
+*   **词性**: `v.`
+*   **中文释义**: 恶化，变坏，退化
+*   **例句**:
+    *   **英文**: The patient's condition began to deteriorate rapidly after the surgery.
+    *   **中文**: 病人的病情在手术后开始迅速恶化。
+*   **记忆技巧**: **词根词缀法**。`de-`（向下）+ `terior`（比较级后缀，更…）+ `-ate`（动词后缀）。字面意思就是“变得更坏、更糟”。
 
-#### 4. synthesize
-*   **音标**：/ˈsɪnθəsaɪz/
-*   **词性**：v. 动词
-*   **释义**：合成；综合；（用合成法）合成
-*   **例句**：
-    *   A good essay **synthesizes** information from multiple sources into a coherent argument.
-    *   （一篇好的文章将来自多个来源的信息**综合**成一个连贯的论点。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`syn-` (一起) + `the` (放置) + `-size` (动词后缀) → 放到一起 → 综合，合成。
+### 4. **pragmatic**
+*   **音标**: /præɡˈmætɪk/
+*   **词性**: `adj.`
+*   **中文释义**: 务实的，注重实效的
+*   **例句**:
+    *   **英文**: We need a pragmatic approach to solve this complex economic issue.
+    *   **中文**: 我们需要一种务实的方法来解决这个复杂的经济问题。
+*   **记忆技巧**: **词根词缀法**。源自 `pragma`（希腊语，意为“行动、实践”）。`pragmatic` 就是“重实践的”，即务实的。
 
-#### 5. rigor
-*   **音标**：/ˈrɪɡər/
-*   **词性**：n. 名词
-*   **释义**：严格；严谨；严厉；精确
-*   **例句**：
-    *   The experiment was conducted with scientific **rigor** to ensure reliable results.
-    *   （该实验以科学**严谨性**进行，以确保结果可靠。）
-*   **记忆技巧**：
-    *   **联想法**：发音像“瑞格尔”（一个非常严苛的老师名字），代表“严格”。
+### 5. **unprecedented**
+*   **音标**: /ʌnˈpresɪdentɪd/
+*   **词性**: `adj.`
+*   **中文释义**: 史无前例的，空前的
+*   **例句**:
+    *   **英文**: The city is facing an unprecedented level of flooding due to the storm.
+    *   **中文**: 由于暴风雨，该市正面临前所未有的洪水水位。
+*   **记忆技巧**: **词根词缀法**。`un-`（不）+ `pre-`（在…之前）+ `ced-`（走，-ced-是词根“走”）+ `-ent` + `-ial`。合起来就是“没有先例（之前没走过）的”。
 
-#### 6. formulate
-*   **音标**：/ˈfɔːrmjuleɪt/
-*   **词性**：v. 动词
-*   **释义**：构想出；明确表达；制定；用公式表示
-*   **例句**：
-    *   The committee is working to **formulate** a new policy on data privacy.
-    *   （委员会正在努力**制定**一项关于数据隐私的新政策。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`form` (形式，形成) + `-ulate` (动词后缀) → 使成形 → 制定，构想。
+### 6. **scrutiny**
+*   **音标**: /ˈskruːtəni/
+*   **词性**: `n.`
+*   **中文释义**: 仔细检查，审查；监视
+*   **例句**:
+    *   **英文**: The politician's financial records came under intense public scrutiny.
+    *   **中文**: 该政治家的财务记录受到了公众的密切关注和审查。
+*   **记忆技巧**: **联想记忆法**。可以联想 `sc`（看，如 scan）+ `rutin`（类似 routine）+ `y`。意思是“像按常规流程一样仔细地看”，即审查。
 
-#### 7. plausible
-*   **音标**：/ˈplɔːzəbl/
-*   **词性**：adj. 形容词
-*   **释义**：似乎合理的；貌似可信的
-*   **例句**：
-    *   His explanation for being late sounded **plausible**, but I’m not sure I believe it.
-    *   （他迟到的解释听起来**似乎有理**，但我不确定是否相信。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`plaus-` (鼓掌，赞同) + `-ible` (可…的) → 可能会赢得赞同的 → 貌似合理的。
+### 7. **resilient**
+*   **音标**: /rɪˈzɪliənt/
+*   **词性**: `adj.`
+*   **中文释义**: 有弹性的；能迅速恢复的，适应性强的
+*   **例句**:
+    *   **英文**: Children are often more resilient than adults and adapt to changes quickly.
+    *   **中文**: 孩子们通常比成年人更有韧性，能快速适应变化。
+*   **记忆技巧**: **词根词缀法**。`re-`（回）+ `sili-`（跳跃，如 assail 攻击）+ `-ent`。意为“能跳回来的”，引申为“能恢复原状的”。
 
-#### 8. ambiguous
-*   **音标**：/æmˈbɪɡjuəs/
-*   **词性**：adj. 形容词
-*   **释义**：模棱两可的；含混不清的；不明确的
-*   **例句**：
-    *   The wording of the contract was deliberately **ambiguous**.
-    *   （合同的措辞故意写得**模棱两可**。）
-*   **记忆技巧**：
-    *   **联想法**：`ambi-` (两个) + `guous` (走) → 脚踩两条路，走向两边 → 模棱两可。
+### 8. **curtail**
+*   **音标**: /kɜːrˈteɪl/
+*   **词性**: `v.`
+*   **中文释义**: 缩减，削减；剥夺
+*   **例句**:
+    *   **英文**: The government plans to curtail spending on non-essential services.
+    *   **中文**: 政府计划削减在非必要服务上的开支。
+*   **记忆技巧**: **词根词缀法**。源自拉丁语 `curta-`（截短的）。联想 `curt`（短的，如 curtain 帘子拉短）+ `ail`（使人痛苦）。把东西“截短”或“削短”。
 
-#### 9. coherent
-*   **音标**：/koʊˈhɪrənt/
-*   **词性**：adj. 形容词
-*   **释义**：连贯的；条理清楚的；粘在一起的
-*   **例句**：
-    *   Present your ideas in a clear and **coherent** manner.
-    *   （请以清晰、**连贯**的方式陈述你的观点。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`co-` (一起) + `her-` (粘附) + `-ent` (形容词后缀) → 粘在一起的 → 连贯的。
+### 9. **conundrum**
+*   **音标**: /kəˈnʌndrəm/
+*   **词性**: `n.`
+*   **中文释义**: 难题，复杂的问题；谜语
+*   **例句**:
+    *   **英文**: How to balance economic growth with environmental protection is a global conundrum.
+    *   **中文**: 如何平衡经济增长与环境保护是一个全球性难题。
+*   **记忆技巧**: **谐音联想**。谐音“可难撞”——这个问题“可难撞开/解决”了，是个难题。
 
-#### 10. elucidate
-*   **音标**：/ɪˈluːsɪdeɪt/
-*   **词性**：v. 动词
-*   **释义**：阐明；解释；说明
-*   **例句**：
-    *   Could you **elucidate** the main points of your proposal?
-    *   （你能**阐明**一下你提案的要点吗？）
-*   **记忆技巧**：
-    *   **词根词缀法**：`e-` (出) + `lucid-` (明亮的，清晰的，如 `lucid` 清晰的梦) + `-ate` → 使变得清晰 → 阐明。
+### 10. **ostentatious**
+*   **音标**: /ˌɑːstenˈteɪʃəs/
+*   **词性**: `adj.`
+*   **中文释义**: 炫耀的，卖弄的；铺张的
+*   **例句**:
+    *   **英文**: He tried to impress everyone with his ostentatious display of wealth.
+    *   **中文**: 他试图通过炫耀财富来打动所有人。
+*   **记忆技巧**: **词根词缀法**。`ostent-`（展示，如 ostensible 表面上的）+ `-ation`（名词后缀）+ `-ous`（形容词后缀）。意为“倾向于展示的”，即爱炫耀的。
 
-#### 11. discrepancy
-*   **音标**：/dɪsˈkrepənsi/
-*   **词性**：n. 名词
-*   **释义**：不一致；矛盾；差异
-*   **例句**：
-    *   There is a growing **discrepancy** between the official data and the actual situation.
-    *   （官方数据与实际情况之间存在着越来越大的**差异**。）
-*   **记忆技巧**：
-    *   **词根词缀法**：`dis-` (分开) + `crep-` (破裂声) + `-ancy` → 发出破裂声，分开 → 不一致。
+### 11. **acquiesce**
+*   **音标**: /ˌækwiˈes/
+*   **词性**: `v.`
+*   **中文释义**: 默认，默许；顺从
+*   **例句**:
+    *   **英文**: After much debate, she reluctantly acquiesced to the board's decision.
+    *   **中文**: 经过激烈讨论后，她勉强默许了董事会的决定。
+*   **记忆技巧**: **词根词缀法**。`ac-`（向）+ `quiesce`（来自 `quies`，安静）。字面意思是“使安静下来”，引申为“不再反对，默许”。
 
-#### 12. hypothesis
-*   **音标**：/haɪˈpɑːθəsɪs/
-*   **词性**：n. 名词
-*   **释义**：假设；假说；前提
-*   **例句**：
-    *   The scientist tested her **hypothesis** through a series of controlled experiments.
-    *   （这位科学家通过一系列对照实验检验了她的**假设**。）
-*   **记忆技巧**：
-    *   **联想法**：`hypo-` (在…之下，如 `hypothermia` 体温过低) + `thesis` (论题) → 在正式论题之下的基础 → 假设。
+### 12. **paradigm**
+*   **音标**: /ˈpærədaɪm/
+*   **词性**: `n.`
+*   **中文释义**: 范式，典范；模式
+*   **例句**:
+    *   **英文**: The discovery of DNA opened up a new paradigm in biological research.
+    *   **中文**: DNA的发现开启了生物研究的新范式。
+*   **记忆技巧**: **词根词缀法**。`para-`（旁边）+ `deigma`（例子）。指“放在旁边作为模型的例子”，即典范、范式。
+
+---
+### 📝 今日复习要点
+*   **动词**: `procrastinate`, `deteriorate`, `curtail`, `acquiesce`
+*   **形容词**: `benevolent`, `pragmatic`, `unprecedented`, `resilient`, `ostentatious`
+*   **名词**: `scrutiny`, `conundrum`, `paradigm`
+
+### 💡 学习建议
+1.  **大声朗读**: 熟悉每个单词的发音和语调。
+2.  **造句练习**: 尝试用今天学到的词汇各造一个与自身生活相关的句子。
+3.  **情境联想**: 想象一个包含多个今天所学词汇的对话或短文场景。
+
+坚持就是胜利，祝您学习愉快！明天见！
