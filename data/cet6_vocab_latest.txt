@@ -1,170 +1,162 @@
-# 六级高频词汇学习 - 第88天
+# 📚 六级高频词汇学习 · 第89天
 
 ---
 
-## 1. ambiguous
-- **音标**: /æmˈbɪɡjuəs/
-- **词性**: adj. 模棱两可的，含糊不清的
-- **中文释义**: 有多种意思可解释的；不明确的
-- **例句**:
-  - The instructions were so ambiguous that nobody knew what to do.
-  （这些说明如此含糊，没人知道该怎么做。）
-- **记忆技巧**: 词根“ambi-”表示“两者”，加上“guous”联想到“guous”像“鬼雾”，让人困惑，两者都像在雾中，难以分辨。
+### 1. **predecessor**
+- **音标**: /ˈpriːdəsesər/
+- **词性**: n. (名词)
+- **中文释义**: 前任，前辈；前身
+- **例句**: 
+  - *My predecessor in this job taught me everything I know.*
+  （这份工作的前任教了我所有我知道的东西。）
+- **记忆技巧**: 词根 **pre-** (前) + **cessor** (行走的人) → 走在前面的人 → **前任**
 
 ---
 
-## 2. suppress
-- **音标**: /səˈpres/
-- **词性**: v. 压制，抑制；查禁
-- **中文释义**: 阻止（某事）发生或表达；镇压
-- **例句**:
-  - She struggled to suppress her anger.
-  （她努力抑制自己的愤怒。）
-- **记忆技巧**: 前缀“sup-”表示“在下”，词根“press”意为“按压”；合在一起即“向下按压”，引申为“压制”。
+### 2. **scrutinize**
+- **音标**: /ˈskruːtənaɪz/
+- **词性**: v. (动词)
+- **中文释义**: 仔细检查，详细审查
+- **例句**: 
+  - *The committee will scrutinize every detail of the proposal.*
+  （委员会将仔细审查提案的每个细节。）
+- **记忆技巧**: 联想 **"screw"** (螺丝) + **"eyes"** (眼睛) → 用眼睛像拧螺丝一样拧紧看 → **仔细审查**
 
 ---
 
-## 3. plausible
-- **音标**: /ˈplɔːzəbl/
-- **词性**: adj. 貌似合理的，可信的
-- **中文释义**: 看起来可能真实或正确的
-- **例句**:
-  - His explanation sounded plausible, but we weren't entirely convinced.
-  （他的解释听起来有理，但我们并未完全信服。）
-- **记忆技巧**: 词根“plaud-”意为“鼓掌”，联想“plausible”听起来能赢得掌声，说明是“可信的”。
+### 3. **substantial**
+- **音标**: /səbˈstænʃl/
+- **词性**: adj. (形容词)
+- **中文释义**: 大量的，实质的，重大的
+- **例句**: 
+  - *They made substantial progress in the negotiations.*
+  （他们在谈判中取得了重大进展。）
+- **记忆技巧**: 词根 **sub-** (下) + **stant** (站立) + **-ial** → 站得住脚的 → **实质的、大量的**
 
 ---
 
-## 4. resilient
+### 4. **paradox**
+- **音标**: /ˈpærədɑːks/
+- **词性**: n. (名词)
+- **中文释义**: 矛盾，悖论
+- **例句**: 
+  - *It's a paradox that more choices can make us less happy.*
+  （选择更多反而可能让我们不那么快乐，这是一个悖论。）
+- **记忆技巧**: 词根 **para-** (超越) + **dox** (观点) → 超越常规观点的 → **悖论**
+
+---
+
+### 5. **hierarchy**
+- **音标**: /ˈhaɪərɑːrki/
+- **词性**: n. (名词)
+- **中文释义**: 等级制度；层级
+- **例句**: 
+  - *The company has a rigid hierarchy of command.*
+  （公司有一个严格的指挥层级。）
+- **记忆技巧**: 词根 **hier-** (神圣) + **archy** (统治) → 神圣的统治顺序 → **等级制度**
+
+---
+
+### 6. **perpetuate**
+- **音标**: /pərˈpetʃueɪt/
+- **词性**: v. (动词)
+- **中文释义**: 使永存，使持续
+- **例句**: 
+  - *Media stereotypes can perpetuate social inequalities.*
+  （媒体的刻板印象可能使社会不平等持续存在。）
+- **记忆技巧**: 词根 **per-** (始终) + **pet** (追求) + **-uate** → 始终追求 → **使永存**
+
+---
+
+### 7. **resilient**
 - **音标**: /rɪˈzɪliənt/
-- **词性**: adj. 有弹性的；能迅速恢复的，适应力强的
-- **中文释义**: （人或物质）能迅速从困难或挫折中恢复的
-- **例句**:
-  - Children are often more resilient than adults when facing change.
-  （儿童在面对变化时通常比成年人更具适应力。）
-- **记忆技巧**: 词根“re-”表示“反复”，“sil”联想“跳”（类似rebound），后缀“-ient”表示“…的”，合起来“反复跳起的”，即“有弹性的、坚韧的”。
+- **词性**: adj. (形容词)
+- **中文释义**: 有弹性的，能恢复的；适应力强的
+- **例句**: 
+  - *Children are often more resilient than adults in adapting to change.*
+  （儿童在适应变化方面通常比成人更有韧性。）
+- **记忆技巧**: 词根 **re-** (回) + **sili** (跳) + **-ent** → 能跳回来的 → **有弹性的**
 
 ---
 
-## 5. fluctuate
-- **音标**: /ˈflʌktʃueɪt/
-- **词性**: v. 波动，起伏不定
-- **中文释义**: （数量、价格、水平等）不规则地上下变动
-- **例句**:
-  - Stock prices fluctuated wildly during the trading session.
-  （股票价格在交易时段内剧烈波动。）
-- **记忆技巧**: 词根“fluct-”与“flow”（流动）相关，联想像水流一样“起伏不定”。
+### 8. **pragmatic**
+- **音标**: /præɡˈmætɪk/
+- **词性**: adj. (形容词)
+- **中文释义**: 务实的，注重实效的
+- **例句**: 
+  - *We need a pragmatic approach to solve this problem.*
+  （我们需要用务实的方法来解决这个问题。）
+- **记忆技巧**: 词根 **prag-** (实践) + **-matic** → 与实践相关的 → **务实的**
 
 ---
 
-## 6. profound
-- **音标**: /prəˈfaʊnd/
-- **词性**: adj. 深刻的；深切的；深奥的
-- **中文释义**: 影响深远的；（程度）完全的；（思想）深邃的
-- **例句**:
-  - The book had a profound impact on his view of the world.
-  （这本书对他的世界观产生了深远影响。）
-- **记忆技巧**: 前缀“pro-”表示“向前”，词根“found”联想“基础”，合起来“向基础深处挖”，即“深刻的、深奥的”。
+### 9. **volatile**
+- **音标**: /ˈvɑːlətl/
+- **词性**: adj. (形容词)
+- **中文释义**: 不稳定的；易变的；挥发性的
+- **例句**: 
+  - *The stock market has been extremely volatile recently.*
+  （股市最近极不稳定。）
+- **记忆技巧**: 词根 **volat-** (飞) + **-ile** → 像会飞走一样 → **不稳定的**
 
 ---
 
-## 7. consent
-- **音标**: /kənˈsent/
-- **词性**: n./v. 同意，许可
-- **中文释义**: 允许或同意做某事；（对医学实验的）同意书
-- **例句**:
-  - The hospital requires written consent before performing the surgery.
-  （医院在手术前需要书面同意。）
-- **记忆技巧**: 前缀“con-”表示“共同”，词根“sent”意为“感觉”；“共同的感觉”即“同意”。
+### 10. **elaborate**
+- **音标**: /ɪˈlæbərət/
+- **词性**: 
+  - adj. 精心制作的，详尽的
+  - v. (使) 详细说明
+- **中文释义**: 精心的；详细阐述
+- **例句**: 
+  - *Could you elaborate on your proposal?*
+  （你能详细说明一下你的提议吗？）
+- **记忆技巧**: 词根 **e-** (出) + **labor** (劳动) + **-ate** → 花费大量劳动做出的 → **精心的**
 
 ---
 
-## 8. trivial
-- **音标**: /ˈtrɪviəl/
-- **词性**: adj. 琐碎的，不重要的
-- **中文释义**: 微不足道的，无关紧要的
-- **例句**:
-  - Don't waste time on such trivial matters.
-  （别在这些琐事上浪费时间。）
-- **记忆技巧**: 词根“tri-”（三）+ “via”（道路），古罗马用三条路交叉的地方指“公共市场”，引申为“普通的、平凡的”。
+### 11. **analogous**
+- **音标**: /əˈnæləɡəs/
+- **词性**: adj. (形容词)
+- **中文释义**: 类似的，可比拟的
+- **例句**: 
+  - *The human heart is analogous to a pump.*
+  （人的心脏类似于泵。）
+- **记忆技巧**: 词根 **ana-** (类似) + **log** (相似) + **-ous** → **类似的**
 
 ---
 
-## 9. articulate
-- **音标**: /ɑːrˈtɪkjuleɪt/
-- **词性**: v. 清晰表达；adj. 善于表达的
-- **中文释义**: 口齿清楚地说出；明确有力地表达
-- **例句**:
-  - She articulated her ideas clearly in the presentation.
-  （她在演讲中清晰地表达了自己的想法。）
-- **记忆技巧**: 词根“artic-”与“joint”（关节）相关，联想像关节一样“清晰连接”，引申为“表达清晰”。
+### 12. **unprecedented**
+- **音标**: /ʌnˈpresɪdentɪd/
+- **词性**: adj. (形容词)
+- **中文释义**: 史无前例的，空前的
+- **例句**: 
+  - *The pandemic caused an unprecedented global crisis.*
+  （这场大流行引发了史无前例的全球危机。）
+- **记忆技巧**: 前缀 **un-** (不) + **precedent** (先例) + **-ed** → 没有先例的 → **史无前例的**
 
 ---
 
-## 10. contemplate
-- **音标**: /ˈkɑːntəmpleɪt/
-- **词性**: v. 沉思，深思熟虑；打算
-- **中文释义**: 深思；注视；打算
-- **例句**:
-  - He sat quietly, contemplating his future career.
-  （他安静地坐着，思考着未来的事业。）
-- **记忆技巧**: 前缀“con-”表示“共同”，词根“templ-”联想“temple”（寺庙），在寺庙中“共同深思”。
+### 13. **complement**
+- **音标**: /ˈkɑːmplɪment/
+- **词性**: 
+  - v. 补充，补足
+  - n. 补充物
+- **中文释义**: 补充，补足
+- **例句**: 
+  - *Wine complements cheese perfectly.*
+  （葡萄酒和奶酪是绝配。）
+- **记忆技巧**: 词根 **com-** (一起) + **ple** (填满) + **-ment** → 一起填满 → **补充**
 
 ---
 
-## 11. subtle
-- **音标**: /ˈsʌtl/
-- **词性**: adj. 微妙的，精妙的；敏锐的；巧妙的
-- **中文释义**: 细微的，不明显的；需要仔细辨别的
-- **例句**:
-  - There was a subtle difference in their opinions.
-  （他们的意见中有微妙的差别。）
-- **记忆技巧**: 联想“sub-”（在下面）+ “tle”，像“在下面轻轻触动”，引申为“不明显的、精妙的”。
+## ✅ 今日学习小结
+- **词汇范围**: 名词4个，动词3个，形容词6个
+- **记忆重点**: 注意词根 **pre-** (前), **sub-** (下), **para-** (超越), **per-** (始终), **re-** (回) 等前缀的含义
+- **学习建议**: 
+  1. 尝试用每个词汇造一个与自己生活相关的句子
+  2. 重点复习 **paradox**, **volatile**, **unprecedented** 等高频词
+  3. 注意 **elaborate** 和 **complement** 的词性转换
 
 ---
 
-## 12. consecutive
-- **音标**: /kənˈsekjətɪv/
-- **词性**: adj. 连续的，不间断的
-- **中文释义**: 紧接着的，连续发生的
-- **例句**:
-  - It rained for five consecutive days.
-  （连续下了五天雨。）
-- **记忆技巧**: 前缀“con-”表示“一起”，词根“secut-”意为“跟随”（类似sequence），合起来“一起跟随”，即“连续的”。
-
----
-
-## 13. contemplate (补充：另一种常见释义)
-- **音标**: /ˈkɑːntəmpleɪt/
-- **词性**: v. 注视，凝视
-- **中文释义**: 长时间地看，沉思地注视
-- **例句**:
-  - She contemplated the painting for a long time.
-  （她长时间地凝视着这幅画。）
-- **记忆技巧**: 同上；联想在寺庙（temple）中“凝视”佛像沉思。
-
----
-
-## 14. subsequently
-- **音标**: /ˈsʌbsɪkwəntli/
-- **词性**: adv. 随后，之后
-- **中文释义**: 在…之后，接着
-- **例句**:
-  - He accepted the job and subsequently moved to London.
-  （他接受了那份工作，随后搬到了伦敦。）
-- **记忆技巧**: 前缀“sub-”表示“在下”，词根“sequ-”意为“跟随”（如sequence），后缀“-ent”表示形容词，“-ly”构成副词，合起来“在下面跟着”，即“随后”。
-
----
-
-## 15. conversely
-- **音标**: /ˈkɑːnvɜːrsli/
-- **词性**: adv. 相反地，另一方面
-- **中文释义**: 以相反的方式
-- **例句**:
-  - Cold weather slows chemical reactions; conversely, heat speeds them up.
-  （寒冷天气会减慢化学反应；相反，热则会加速它们。）
-- **记忆技巧**: 词根“converse”意为“相反的”，加上“-ly”构成副词“相反地”。
-
----
-
-**学习建议**：今日词汇中注意区分 **suppressive**（形容词）与 **suppressed**（过去式/过去分词），**subtle** 的发音为 /ˈsʌtl/（“b”不发音）。每天坚持记忆和复习，祝您备考顺利！ 💪
+坚持每日积累，六级词汇量稳步提升！💪
