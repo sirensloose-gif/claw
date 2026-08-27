@@ -1,162 +1,130 @@
-# 📚 六级高频词汇学习 · 第89天
+# 六级高频词汇学习（第90天）
 
 ---
 
-### 1. **predecessor**
-- **音标**: /ˈpriːdəsesər/
-- **词性**: n. (名词)
-- **中文释义**: 前任，前辈；前身
-- **例句**: 
-  - *My predecessor in this job taught me everything I know.*
-  （这份工作的前任教了我所有我知道的东西。）
-- **记忆技巧**: 词根 **pre-** (前) + **cessor** (行走的人) → 走在前面的人 → **前任**
+## 1. comprehensive
+**音标**：/ˌkɑːmprɪˈhensɪv/  
+**词性**：形容词  
+**释义**：综合的；全面的；广泛的  
+**例句**：The government has promised a comprehensive review of the education system.  
+（政府承诺对教育体系进行全面审查。）  
+**记忆技巧**：词根 **comprehend**（理解）+ **-ive**（形容词后缀），表示“全面理解的”→ **综合的**。
 
 ---
 
-### 2. **scrutinize**
-- **音标**: /ˈskruːtənaɪz/
-- **词性**: v. (动词)
-- **中文释义**: 仔细检查，详细审查
-- **例句**: 
-  - *The committee will scrutinize every detail of the proposal.*
-  （委员会将仔细审查提案的每个细节。）
-- **记忆技巧**: 联想 **"screw"** (螺丝) + **"eyes"** (眼睛) → 用眼睛像拧螺丝一样拧紧看 → **仔细审查**
+## 2. prevalent
+**音标**：/ˈprevələnt/  
+**词性**：形容词  
+**释义**：流行的；普遍存在的  
+**例句**：Smartphone addiction is prevalent among young people.  
+（智能手机成瘾在年轻人中很普遍。）  
+**记忆技巧**：词根 **preval-**（力量）+ **-ent**（形容词后缀），指“占主导力量的”→ **普遍的**。
 
 ---
 
-### 3. **substantial**
-- **音标**: /səbˈstænʃl/
-- **词性**: adj. (形容词)
-- **中文释义**: 大量的，实质的，重大的
-- **例句**: 
-  - *They made substantial progress in the negotiations.*
-  （他们在谈判中取得了重大进展。）
-- **记忆技巧**: 词根 **sub-** (下) + **stant** (站立) + **-ial** → 站得住脚的 → **实质的、大量的**
+## 3. contemplate
+**音标**：/ˈkɑːntəmpleɪt/  
+**词性**：动词  
+**释义**：沉思；考虑；打算  
+**例句**：She sat quietly, contemplating her future.  
+（她静静地坐着，沉思自己的未来。）  
+**记忆技巧**：联想 **con-**（共同）+ **temple**（寺庙），在寺庙中共同“沉思”。
 
 ---
 
-### 4. **paradox**
-- **音标**: /ˈpærədɑːks/
-- **词性**: n. (名词)
-- **中文释义**: 矛盾，悖论
-- **例句**: 
-  - *It's a paradox that more choices can make us less happy.*
-  （选择更多反而可能让我们不那么快乐，这是一个悖论。）
-- **记忆技巧**: 词根 **para-** (超越) + **dox** (观点) → 超越常规观点的 → **悖论**
+## 4. resilience
+**音标**：/rɪˈzɪliəns/  
+**词性**：名词  
+**释义**：恢复力；适应力；韧性  
+**例句**：The community showed great resilience after the earthquake.  
+（地震后，社区展现了巨大的韧性。）  
+**记忆技巧**：词根 **resil-**（弹回）+ **-ience**（名词后缀），像弹簧一样“弹回”。
 
 ---
 
-### 5. **hierarchy**
-- **音标**: /ˈhaɪərɑːrki/
-- **词性**: n. (名词)
-- **中文释义**: 等级制度；层级
-- **例句**: 
-  - *The company has a rigid hierarchy of command.*
-  （公司有一个严格的指挥层级。）
-- **记忆技巧**: 词根 **hier-** (神圣) + **archy** (统治) → 神圣的统治顺序 → **等级制度**
+## 5. pragmatic
+**音标**：/præɡˈmætɪk/  
+**词性**：形容词  
+**释义**：务实的；实用的  
+**例句**：We need a pragmatic approach to solve this problem.  
+（我们需要用务实的方法解决这个问题。）  
+**记忆技巧**：词根 **pragm-**（行动）+ **-atic**，强调“注重行动和实践”。
 
 ---
 
-### 6. **perpetuate**
-- **音标**: /pərˈpetʃueɪt/
-- **词性**: v. (动词)
-- **中文释义**: 使永存，使持续
-- **例句**: 
-  - *Media stereotypes can perpetuate social inequalities.*
-  （媒体的刻板印象可能使社会不平等持续存在。）
-- **记忆技巧**: 词根 **per-** (始终) + **pet** (追求) + **-uate** → 始终追求 → **使永存**
+## 6. scrutinize
+**音标**：/ˈskruːtənaɪz/  
+**词性**：动词  
+**释义**：仔细检查；详细审查  
+**例句**：The auditor scrutinized every financial record.  
+（审计员仔细审查了每一份财务记录。）  
+**记忆技巧**：联想 **screen**（屏幕）+ **-ize**，像在屏幕上“放大检查”每个细节。
 
 ---
 
-### 7. **resilient**
-- **音标**: /rɪˈzɪliənt/
-- **词性**: adj. (形容词)
-- **中文释义**: 有弹性的，能恢复的；适应力强的
-- **例句**: 
-  - *Children are often more resilient than adults in adapting to change.*
-  （儿童在适应变化方面通常比成人更有韧性。）
-- **记忆技巧**: 词根 **re-** (回) + **sili** (跳) + **-ent** → 能跳回来的 → **有弹性的**
+## 7. ambiguous
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：形容词  
+**释义**：模棱两可的；含糊不清的  
+**例句**：His ambiguous reply left us more confused.  
+（他模棱两可的回复让我们更困惑了。）  
+**记忆技巧**：词根 **ambi-**（两边）+ **-guous**，在两边摇摆不定→ **模糊的**。
 
 ---
 
-### 8. **pragmatic**
-- **音标**: /præɡˈmætɪk/
-- **词性**: adj. (形容词)
-- **中文释义**: 务实的，注重实效的
-- **例句**: 
-  - *We need a pragmatic approach to solve this problem.*
-  （我们需要用务实的方法来解决这个问题。）
-- **记忆技巧**: 词根 **prag-** (实践) + **-matic** → 与实践相关的 → **务实的**
+## 8. deteriorate
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：动词  
+**释义**：恶化；变坏；退化  
+**例句**：His health began to deteriorate rapidly.  
+（他的健康状况开始迅速恶化。）  
+**记忆技巧**：词根 **deterior-**（更坏的）+ **-ate**，表示“变得更坏”。
 
 ---
 
-### 9. **volatile**
-- **音标**: /ˈvɑːlətl/
-- **词性**: adj. (形容词)
-- **中文释义**: 不稳定的；易变的；挥发性的
-- **例句**: 
-  - *The stock market has been extremely volatile recently.*
-  （股市最近极不稳定。）
-- **记忆技巧**: 词根 **volat-** (飞) + **-ile** → 像会飞走一样 → **不稳定的**
+## 9. consensus
+**音标**：/kənˈsensəs/  
+**词性**：名词  
+**释义**：一致意见；共识  
+**例句**：The committee finally reached a consensus.  
+（委员会最终达成了一致意见。）  
+**记忆技巧**：词根 **con-**（共同）+ **sensus**（感觉），共同“感觉”到一致。
 
 ---
 
-### 10. **elaborate**
-- **音标**: /ɪˈlæbərət/
-- **词性**: 
-  - adj. 精心制作的，详尽的
-  - v. (使) 详细说明
-- **中文释义**: 精心的；详细阐述
-- **例句**: 
-  - *Could you elaborate on your proposal?*
-  （你能详细说明一下你的提议吗？）
-- **记忆技巧**: 词根 **e-** (出) + **labor** (劳动) + **-ate** → 花费大量劳动做出的 → **精心的**
+## 10. tenacious
+**音标**：/tɪˈneɪʃəs/  
+**词性**：形容词  
+**释义**：顽强的；坚韧不拔的  
+**例句**：She is a tenacious negotiator who never gives up.  
+（她是个顽强的谈判者，从不放弃。）  
+**记忆技巧**：词根 **ten-**（保持）+ **-acious**，保持坚持→ **坚韧的**。
 
 ---
 
-### 11. **analogous**
-- **音标**: /əˈnæləɡəs/
-- **词性**: adj. (形容词)
-- **中文释义**: 类似的，可比拟的
-- **例句**: 
-  - *The human heart is analogous to a pump.*
-  （人的心脏类似于泵。）
-- **记忆技巧**: 词根 **ana-** (类似) + **log** (相似) + **-ous** → **类似的**
+## 11. inherently
+**音标**：/ɪnˈhɪrəntli/  
+**词性**：副词  
+**释义**：内在地；天生地；固有地  
+**例句**：All humans are inherently flawed.  
+（所有人天生都有缺陷。）  
+**记忆技巧**：词根 **in-**（内部）+ **here-**（粘附）+ **-ent + -ly**，内部固有的。
 
 ---
 
-### 12. **unprecedented**
-- **音标**: /ʌnˈpresɪdentɪd/
-- **词性**: adj. (形容词)
-- **中文释义**: 史无前例的，空前的
-- **例句**: 
-  - *The pandemic caused an unprecedented global crisis.*
-  （这场大流行引发了史无前例的全球危机。）
-- **记忆技巧**: 前缀 **un-** (不) + **precedent** (先例) + **-ed** → 没有先例的 → **史无前例的**
+## 12. supplement
+**音标**：/ˈsʌplɪment/  
+**词性**：名词/动词  
+**释义**：补充；增补；附加物  
+**例句**：He supplements his income by teaching part-time.  
+（他通过兼职教学来补充收入。）  
+**记忆技巧**：词根 **supple-**（下面）+ **ment**，从下面“添补”上去。
 
 ---
 
-### 13. **complement**
-- **音标**: /ˈkɑːmplɪment/
-- **词性**: 
-  - v. 补充，补足
-  - n. 补充物
-- **中文释义**: 补充，补足
-- **例句**: 
-  - *Wine complements cheese perfectly.*
-  （葡萄酒和奶酪是绝配。）
-- **记忆技巧**: 词根 **com-** (一起) + **ple** (填满) + **-ment** → 一起填满 → **补充**
+### 今日复习建议  
+1. **分组记忆**：将动词与名词配对，例如 **contemplate**（沉思）和 **consensus**（共识）。  
+2. **造句练习**：用新词汇写2-3个与生活相关的句子。  
+3. **词根串联**：复习含 **ambi-**、**pre-**、**com-** 的同根词。  
 
----
-
-## ✅ 今日学习小结
-- **词汇范围**: 名词4个，动词3个，形容词6个
-- **记忆重点**: 注意词根 **pre-** (前), **sub-** (下), **para-** (超越), **per-** (始终), **re-** (回) 等前缀的含义
-- **学习建议**: 
-  1. 尝试用每个词汇造一个与自己生活相关的句子
-  2. 重点复习 **paradox**, **volatile**, **unprecedented** 等高频词
-  3. 注意 **elaborate** 和 **complement** 的词性转换
-
----
-
-坚持每日积累，六级词汇量稳步提升！💪
+坚持就是胜利，第90天，继续加油！ 📚✨
