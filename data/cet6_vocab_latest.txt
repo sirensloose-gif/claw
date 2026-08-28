@@ -1,130 +1,143 @@
-# 六级高频词汇学习（第90天）
+# 🎓 六级词汇学习（第91天）
+
+今天，我们继续攻克高频词汇。请放轻松，我们像朋友一样，一起理解并记住它们。
 
 ---
 
-## 1. comprehensive
-**音标**：/ˌkɑːmprɪˈhensɪv/  
-**词性**：形容词  
-**释义**：综合的；全面的；广泛的  
-**例句**：The government has promised a comprehensive review of the education system.  
-（政府承诺对教育体系进行全面审查。）  
-**记忆技巧**：词根 **comprehend**（理解）+ **-ive**（形容词后缀），表示“全面理解的”→ **综合的**。
+## 1. abrupt
+**音标**：/əˈbrʌpt/
+**词性**：adj.
+**释义**：突然的，意外的；（言语、行为）唐突的，生硬的
+**例句**：
+- The meeting came to an **abrupt** end when the fire alarm went off.
+  当火警响起时，会议**突然**结束了。
+- His **abrupt** reply offended everyone present.
+  他**生硬的**回答冒犯了在场的所有人。
+**记忆技巧**：词根 **rupt** 意为“打破”（如 disrupt 破坏）。ab- (离开) + rupt (破) = 突然打破（平静），即“突然的”。
+
+## 2. ambiguity
+**音标**：/ˌæmbɪˈɡjuːəti/
+**词性**：n.
+**释义**：歧义，模棱两可；不明确
+**例句**：
+- The **ambiguity** of the contract led to a legal dispute.
+  合同的**模棱两可**导致了一场法律纠纷。
+- There is some **ambiguity** in his statement.
+  他的陈述中存在一些**歧义**。
+**记忆技巧**：来自形容词 ambiguous (模棱两可的)。ambi- (两者都) + guous (走) = 可以走向两种理解，即“有歧义”。
+
+## 3. convey
+**音标**：/kənˈveɪ/
+**词性**：v.
+**释义**：传达，表达；运送，输送
+**例句**：
+- Words cannot **convey** how grateful I am for your help.
+  言语无法**表达**我对您帮助的感激之情。
+- The paintings **convey** a sense of peace and tranquility.
+  这些画作**传达出**一种平和与宁静感。
+**记忆技巧**：con- (一起) + vey (路) = 一起在路上“运输”信息或物品，即“传达、运送”。
+
+## 4. compel
+**音标**：/kəmˈpel/
+**词性**：v.
+**释义**：强迫，迫使；引起，使发生
+**例句**：
+- The evidence **compelled** the jury to reach a guilty verdict.
+  证据**迫使**陪审团做出有罪裁决。
+- She felt **compelled** to speak out against the injustice.
+  她感到**不得不**站出来反对不公。
+**记忆技巧**：com- (一起) + pel (驱动，推) = 一起推着你，即“强迫、迫使”。
+
+## 5. deteriorate
+**音标**：/dɪˈtɪriəreɪt/
+**词性**：v.
+**释义**：恶化，变坏；变质，退化
+**例句**：
+- His health began to **deteriorate** rapidly after the diagnosis.
+  确诊后，他的健康状况开始迅速**恶化**。
+- The weather is expected to **deteriorate** later today.
+  预计今天晚些时候天气会**变坏**。
+**记忆技巧**：词根 **terior** 意为“更坏的”（如 interior 内部）。de- (向下) + terior (更坏) = 向更坏的方向发展，即“恶化”。
+
+## 6. temporarily
+**音标**：/ˈtempərərəli/
+**词性**：adv.
+**释义**：暂时地，临时地
+**例句**：
+- The bridge is **temporarily** closed for repairs.
+  这座桥梁因维修而**暂时**关闭。
+- He is **temporarily** living with his parents.
+  他**暂时**和父母住在一起。
+**记忆技巧**：来自形容词 temporary (暂时的)。tempor- (时间) + ary (…的) = 与时间有关的，即“暂时的”，加 -ly 变副词。
+
+## 7. pragmatic
+**音标**：/præɡˈmætɪk/
+**词性**：adj.
+**释义**：务实的，注重实效的；实用主义的
+**例句**：
+- We need a more **pragmatic** approach to solve this problem.
+  我们需要一种更**务实的**方法来解决这个问题。
+- She is a **pragmatic** leader who focuses on results.
+  她是一位**务实的**领导者，注重结果。
+**记忆技巧**：pragma (实践，行动) + tic (形容词后缀) = 关于实践的，即“务实的”。
+
+## 8. resilient
+**音标**：/rɪˈzɪliənt/
+**词性**：adj.
+**释义**：有弹性的；能迅速恢复的，适应性强的
+**例句**：
+- Children are often more **resilient** than adults think.
+  孩子们通常比成年人认为的更**有适应力**。
+- The economy has proven to be remarkably **resilient**.
+  经济已证明具有非凡的**韧性**。
+**记忆技巧**：re- (回) + sili (跳，弹) + ent (形容词后缀) = 能够弹回来的，即“有弹性、能恢复的”。
+
+## 9. susceptible
+**音标**：/səˈseptəbl/
+**词性**：adj.
+**释义**：易受影响的，易感的；过敏的
+**例句**：
+- He is **susceptible** to persuasion and can be easily convinced.
+  他**容易**被说服。
+- Some people are more **susceptible** to allergies than others.
+  有些人比其他人更容易**过敏**。
+**记忆技巧**：sus- (在…下面) + cept (拿，取) + ible (能够) = 能够被拿走、受影响的，即“易受影响的”。
+
+## 10. disposition
+**音标**：/ˌdɪspəˈzɪʃn/
+**词性**：n.
+**释义**：性情，性格；意向，倾向；处置，处理
+**例句**：
+- She has a cheerful **disposition** and is always smiling.
+  她**性情**开朗，总是面带微笑。
+- The government announced the **disposition** of the funds.
+  政府宣布了资金的**处置**方案。
+**记忆技巧**：dis- (分开) + posit (放置) + ion (名词后缀) = 分别放置的态度/方式，即“性情、处置”。
+
+## 11. obligation
+**音标**：/ˌɑːblɪˈɡeɪʃn/
+**词性**：n.
+**释义**：义务，责任；职责
+**例句**：
+- Parents have a legal **obligation** to send their children to school.
+  父母有送子女上学的法定**义务**。
+- I feel a strong moral **obligation** to help those in need.
+  我感到有强烈的道德**责任**去帮助那些需要帮助的人。
+**记忆技巧**：来自动词 oblige (强迫，使负义务)。ob- (朝向) + lig (绑) + ation = 用义务“绑住”某人，即“义务”。
+
+## 12. sustain
+**音标**：/səˈsteɪn/
+**词性**：v.
+**释义**：维持，保持；承受，经受；支持
+**例句**：
+- The company struggled to **sustain** its growth momentum.
+  公司艰难地**维持**着其增长势头。
+- She couldn't **sustain** the pressure and eventually quit.
+  她无法**承受**压力，最终辞职了。
+- The pillar alone cannot **sustain** the weight of the entire roof.
+  这根柱子无法单独**支撑**整个屋顶的重量。
+**记忆技巧**：sus- (在…下面) + tain (保持) = 在下面保持住，即“支撑、维持”。
 
 ---
-
-## 2. prevalent
-**音标**：/ˈprevələnt/  
-**词性**：形容词  
-**释义**：流行的；普遍存在的  
-**例句**：Smartphone addiction is prevalent among young people.  
-（智能手机成瘾在年轻人中很普遍。）  
-**记忆技巧**：词根 **preval-**（力量）+ **-ent**（形容词后缀），指“占主导力量的”→ **普遍的**。
-
----
-
-## 3. contemplate
-**音标**：/ˈkɑːntəmpleɪt/  
-**词性**：动词  
-**释义**：沉思；考虑；打算  
-**例句**：She sat quietly, contemplating her future.  
-（她静静地坐着，沉思自己的未来。）  
-**记忆技巧**：联想 **con-**（共同）+ **temple**（寺庙），在寺庙中共同“沉思”。
-
----
-
-## 4. resilience
-**音标**：/rɪˈzɪliəns/  
-**词性**：名词  
-**释义**：恢复力；适应力；韧性  
-**例句**：The community showed great resilience after the earthquake.  
-（地震后，社区展现了巨大的韧性。）  
-**记忆技巧**：词根 **resil-**（弹回）+ **-ience**（名词后缀），像弹簧一样“弹回”。
-
----
-
-## 5. pragmatic
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词  
-**释义**：务实的；实用的  
-**例句**：We need a pragmatic approach to solve this problem.  
-（我们需要用务实的方法解决这个问题。）  
-**记忆技巧**：词根 **pragm-**（行动）+ **-atic**，强调“注重行动和实践”。
-
----
-
-## 6. scrutinize
-**音标**：/ˈskruːtənaɪz/  
-**词性**：动词  
-**释义**：仔细检查；详细审查  
-**例句**：The auditor scrutinized every financial record.  
-（审计员仔细审查了每一份财务记录。）  
-**记忆技巧**：联想 **screen**（屏幕）+ **-ize**，像在屏幕上“放大检查”每个细节。
-
----
-
-## 7. ambiguous
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：形容词  
-**释义**：模棱两可的；含糊不清的  
-**例句**：His ambiguous reply left us more confused.  
-（他模棱两可的回复让我们更困惑了。）  
-**记忆技巧**：词根 **ambi-**（两边）+ **-guous**，在两边摇摆不定→ **模糊的**。
-
----
-
-## 8. deteriorate
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：动词  
-**释义**：恶化；变坏；退化  
-**例句**：His health began to deteriorate rapidly.  
-（他的健康状况开始迅速恶化。）  
-**记忆技巧**：词根 **deterior-**（更坏的）+ **-ate**，表示“变得更坏”。
-
----
-
-## 9. consensus
-**音标**：/kənˈsensəs/  
-**词性**：名词  
-**释义**：一致意见；共识  
-**例句**：The committee finally reached a consensus.  
-（委员会最终达成了一致意见。）  
-**记忆技巧**：词根 **con-**（共同）+ **sensus**（感觉），共同“感觉”到一致。
-
----
-
-## 10. tenacious
-**音标**：/tɪˈneɪʃəs/  
-**词性**：形容词  
-**释义**：顽强的；坚韧不拔的  
-**例句**：She is a tenacious negotiator who never gives up.  
-（她是个顽强的谈判者，从不放弃。）  
-**记忆技巧**：词根 **ten-**（保持）+ **-acious**，保持坚持→ **坚韧的**。
-
----
-
-## 11. inherently
-**音标**：/ɪnˈhɪrəntli/  
-**词性**：副词  
-**释义**：内在地；天生地；固有地  
-**例句**：All humans are inherently flawed.  
-（所有人天生都有缺陷。）  
-**记忆技巧**：词根 **in-**（内部）+ **here-**（粘附）+ **-ent + -ly**，内部固有的。
-
----
-
-## 12. supplement
-**音标**：/ˈsʌplɪment/  
-**词性**：名词/动词  
-**释义**：补充；增补；附加物  
-**例句**：He supplements his income by teaching part-time.  
-（他通过兼职教学来补充收入。）  
-**记忆技巧**：词根 **supple-**（下面）+ **ment**，从下面“添补”上去。
-
----
-
-### 今日复习建议  
-1. **分组记忆**：将动词与名词配对，例如 **contemplate**（沉思）和 **consensus**（共识）。  
-2. **造句练习**：用新词汇写2-3个与生活相关的句子。  
-3. **词根串联**：复习含 **ambi-**、**pre-**、**com-** 的同根词。  
-
-坚持就是胜利，第90天，继续加油！ 📚✨
+### 📅 学习小贴士
+今天的词汇涵盖了**社会评论、经济描述、人物评价**等多个场景。试着用每个新词各造一个句子，或者把它们串联成一个小故事，记忆效果会更好！坚持就是胜利，明天见！ 💪
