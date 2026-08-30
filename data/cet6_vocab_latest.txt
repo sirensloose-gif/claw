@@ -1,163 +1,130 @@
-# 六级高频词汇学习（第92天）
+# 六级高频词汇学习（第93天）
 
 ---
 
-### 1. abundant
-**音标**: /əˈbʌndənt/
-**词性**: adj.
-**中文释义**: 丰富的；充裕的
-**例句**:
-- The region has abundant natural resources, which contribute to its economic growth.
-  该地区拥有丰富的自然资源，这促进了其经济增长。
-**记忆技巧**: 词根 `abund`（溢出） + 形容词后缀 `-ant` → 像水一样“满溢出来” → **丰富的**。
+### 1. **alleviate**  
+**音标**：[əˈliːvieɪt]  
+**词性**：v.  
+**释义**：减轻，缓解（痛苦、问题等）  
+**例句**：The government has introduced new measures to alleviate poverty in rural areas.  
+翻译：政府已出台新措施以减轻农村地区的贫困。  
+**记忆技巧**：词根“allevi”（轻）+ -ate（动词后缀）→ 使变轻 → 缓解。
 
 ---
 
-### 2. accommodate
-**音标**: /əˈkɑːmədeɪt/
-**词性**: v.
-**中文释义**: 容纳；提供住宿；适应；迁就
-**例句**:
-- The new hotel can accommodate up to 500 guests.
-  这家新酒店最多可容纳500位客人。
-- We must accommodate ourselves to changing circumstances.
-  我们必须适应不断变化的环境。
-**记忆技巧**: 词根 `com`（共同） + `mod`（适合） → 使某人/某物“适合共处” → **容纳；适应**。
+### 2. **pragmatic**  
+**音标**：[præɡˈmætɪk]  
+**词性**：adj.  
+**释义**：务实的，注重实效的  
+**例句**：She takes a pragmatic approach to problem-solving rather than relying on theory alone.  
+翻译：她解决问题采取务实的方法，而不仅仅依赖理论。  
+**记忆技巧**：联想“pragmatic”发音类似“拍个马蹄克” → 做事像马蹄一样扎实 → 务实。
 
 ---
 
-### 3. vulnerable
-**音标**: /ˈvʌlnərəbl/
-**词性**: adj.
-**中文释义**: 易受攻击的；脆弱的；易受伤的
-**例句**:
-- Children and the elderly are particularly vulnerable to the disease.
-  儿童和老年人尤其容易感染这种疾病。
-**记忆技巧**: 词根 `vuln`（伤口，如`vulnerable`意为“易受伤害的”）+ 形容词后缀 `-able` → 容易产生“伤口”的 → **脆弱的**。
+### 3. **resilient**  
+**音标**：[rɪˈzɪliənt]  
+**词性**：adj.  
+**释义**：有弹性的；能迅速恢复的；适应力强的  
+**例句**：Children are often more resilient than adults when facing unexpected changes.  
+翻译：面对意外变化时，孩子们通常比成年人更具适应力。  
+**记忆技巧**：词根“resil”（弹回）+ -ient → 能反弹的 → 韧性强的。
 
 ---
 
-### 4. profound
-**音标**: /prəˈfaʊnd/
-**词性**: adj.
-**中文释义**: 深刻的；深远的；渊博的；完全的
-**例句**:
-- The book had a profound influence on his thinking.
-  这本书对他的思想产生了深远的影响。
-**记忆技巧**: 词根 `found`（底部，基础） + `pro-`（向前） → 一直挖到“底部” → **深刻的，深远的**。
+### 4. **scrutiny**  
+**音标**：[ˈskruːtəni]  
+**词性**：n.  
+**释义**：仔细检查，审查  
+**例句**：The report will be subject to close scrutiny by the committee.  
+翻译：该报告将受到委员会的仔细审查。  
+**记忆技巧**：联想“scru”（看）+ tiny（细微的）→ 看细节 → 仔细检查。
 
 ---
 
-### 5. elaborate
-**音标**: /ɪˈlæbəreɪt/
-**词性**: v./adj.
-**中文释义**: (v.) 详细阐述，精心制作 (adj.) 精心制作的，复杂的
-**例句**:
-- Could you elaborate on your proposal?
-  你能详细阐述一下你的提议吗？
-- The plan was too elaborate and difficult to implement.
-  这个计划过于复杂，难以实施。
-**记忆技巧**: 词根 `labor`（劳动） + 前缀 `e-`（出） + 后缀 `-ate` → 通过大量“劳动”做出来的 → **精心制作的**；**详细阐述**。
+### 5. **imperative**  
+**音标**：[ɪmˈperətɪv]  
+**词性**：adj./n.  
+**释义**：adj. 必要的，紧迫的；n. 必要的事；命令  
+**例句**：It is imperative that we finish the project before the deadline.  
+翻译：我们必须在截止日期前完成这个项目，这是当务之急。  
+**记忆技巧**：词根“imper”（命令）+ -ative → 带有命令性质的 → 必须做的。
 
 ---
 
-### 6. inevitable
-**音标**: /ɪnˈevɪtəbl/
-**词性**: adj.
-**中文释义**: 不可避免的；必然的
-**例句**:
-- Change is an inevitable part of life.
-  变化是生命中不可避免的一部分。
-**记忆技巧**: 前缀 `in-`（不） + 词根 `evit`（避免，如`evitable`可避免的）+ 形容词后缀 `-able` → 不可以避免的 → **不可避免的**。
+### 6. **discrepancy**  
+**音标**：[dɪˈskrepənsi]  
+**词性**：n.  
+**释义**：差异，不一致  
+**例句**：There is a significant discrepancy between the survey results and actual data.  
+翻译：调查结果与实际数据之间存在显著差异。  
+**记忆技巧**：词根“dis”（分离）+ -crep（破裂）→ 分裂开 → 不一致。
 
 ---
 
-### 7. resilient
-**音标**: /rɪˈzɪliənt/
-**词性**: adj.
-**中文释义**: 有弹性的；适应力强的；能迅速恢复的
-**例句**:
-- The economy has proven to be more resilient than expected.
-  经济已经证明比预期更具韧性。
-**记忆技巧**: 词根 `re-`（再） + `sili`（跳跃，来自拉丁语`salire`） + 形容词后缀 `-ent` → 可以“再次跳起来”的 → **有弹性的，坚韧的**。
+### 7. **fluctuate**  
+**音标**：[ˈflʌktʃueɪt]  
+**词性**：v.  
+**释义**：波动，起伏  
+**例句**：Oil prices have fluctuated wildly over the past few months.  
+翻译：过去几个月里油价剧烈波动。  
+**记忆技巧**：词根“fluctu”（波浪）+ -ate → 像波浪一样 → 波动。
 
 ---
 
-### 8. trivial
-**音标**: /ˈtrɪviəl/
-**词性**: adj.
-**中文释义**: 琐碎的；微不足道的；不重要的
-**例句**:
-- They argued over some trivial matters.
-  他们为一些琐事争吵。
-**记忆技巧**: 词根 `tri-`（三） + `via`（路，交叉路口） → 在三个路口都能遇到的 → 到处都是的 → **琐碎的**。
+### 8. **profound**  
+**音标**：[prəˈfaʊnd]  
+**词性**：adj.  
+**释义**：深刻的；深奥的；深远的  
+**例句**：The book had a profound impact on her understanding of philosophy.  
+翻译：这本书对她理解哲学产生了深远影响。  
+**记忆技巧**：词根“pro-”（向前）+ “found”（基础）→ 向深处扎根 → 深刻的。
 
 ---
 
-### 9. deteriorate
-**音标**: /dɪˈtɪriəreɪt/
-**词性**: v.
-**中文释义**: （使）变坏；（使）恶化；退化
-**例句**:
-- The patient’s condition began to deteriorate rapidly.
-  病人的状况开始迅速恶化。
-**记忆技巧**: 词根 `de-`（向下） + `terior`（比较级后缀，表示更坏） + 动词后缀 `-ate` → 使变得更坏 → **恶化**。
+### 9. **hierarchy**  
+**音标**：[ˈhaɪərɑːrki]  
+**词性**：n.  
+**释义**：等级制度；层级结构  
+**例句**：In a traditional company, the hierarchy is clearly defined.  
+翻译：在传统公司中，等级制度是明确界定的。  
+**记忆技巧**：词根“hier”（神圣）+ “archy”（统治）→ 神圣的统治阶层 → 等级制度。
 
 ---
 
-### 10. prevalent
-**音标**: /ˈprevələnt/
-**词性**: adj.
-**中文释义**: 流行的；普遍的；盛行的
-**例句**:
-- The disease is particularly prevalent among the elderly.
-  这种疾病在老年人中尤为普遍。
-**记忆技巧**: 词根 `preva`（来自拉丁语`praevalere`，意为“占优势”） + 形容词后缀 `-ent` → 占优势的 → **盛行的，普遍的**。
+### 10. **spontaneous**  
+**音标**：[spɑːnˈteɪniəs]  
+**词性**：adj.  
+**释义**：自发的，自然产生的；无意识的  
+**例句**：The crowd broke into spontaneous applause after the performance.  
+翻译：演出结束后，人群自发地鼓起掌来。  
+**记忆技巧**：联想“spon”（自己）+ “taneous” → 自己发生 → 自发的。
 
 ---
 
-### 11. subtle
-**音标**: /ˈsʌtl/
-**词性**: adj.
-**中文释义**: 微妙的；精巧的；敏锐的；不明显的
-**例句**:
-- There are subtle differences in meaning between these two words.
-  这两个词的含义有微妙的差别。
-**记忆技巧**: 来自拉丁语`subtilis`，意为“精细的、编织紧密的” → 像细线一样“细密”的 → **微妙的，精巧的**。
+### 11. **aggregate**  
+**音标**：[ˈæɡrɪɡeɪt]  
+**词性**：v./adj./n.  
+**释义**：v. 聚集；adj. 总计的；n. 总数  
+**例句**：We need to aggregate the data from all sources before analyzing it.  
+翻译：我们需要在分析之前汇总所有来源的数据。  
+**记忆技巧**：词根“ag-”（加强）+ “greg”（群）→ 聚成一群 → 聚集。
 
 ---
 
-### 12. arbitrary
-**音标**: /ˈɑːrbɪtreri/
-**词性**: adj.
-**中文释义**: 任意的；武断的；专横的
-**例句**:
-- The decision seemed arbitrary and unfair.
-  这个决定看起来既武断又不公平。
-**记忆技巧**: 词根 `arbitr`（判断，裁决） + 形容词后缀 `-ary` → 仅凭个人“判断”做出的 → **武断的，任意的**。
+### 12. **volatile**  
+**音标**：[ˈvɑːlətl]  
+**词性**：adj.  
+**释义**：不稳定的；易挥发的；易变的  
+**例句**：The stock market has been highly volatile in recent weeks.  
+翻译：近几周股票市场一直极不稳定。  
+**记忆技巧**：词根“volat”（飞）+ -ile → 像飞一样易逝 → 不稳定的。
 
 ---
 
-### 13. indispensable
-**音标**: /ˌɪndɪˈspensəbl/
-**词性**: adj.
-**中文释义**: 不可缺少的；必需的
-**例句**:
-- Clean water is indispensable for human survival.
-  清洁的水是人类生存不可或缺的。
-**记忆技巧**: 前缀 `in-`（不） + 词根 `dis-`（分开） + `pens`（花费） + 形容词后缀 `-able` → 不可以分开花费掉的 → **必不可少的**。
+**学习建议**：  
+- 每日坚持复习，将词汇放入句子中记忆。  
+- 关注词根词缀，举一反三，例如“aggregate”中的“greg”群组概念。  
+- 结合真题语境理解词汇的实际用法。
 
----
-
-### 14. comply
-**音标**: /kəmˈplaɪ/
-**词性**: v.
-**中文释义**: 遵从；服从；顺从
-**例句**:
-- All students must comply with the school rules.
-  所有学生都必须遵守校规。
-**记忆技巧**: 词根 `com-`（共同，完全） + `ply`（折叠，来自`pleat`） → 使自己“完全折叠”起来，表示顺从 → **遵从，服从**。
-
----
-**今日学习小结**：
-这些词汇涵盖了形容词、动词等不同词性，在阅读和写作中出现频率很高。建议重点掌握 **profound, vulnerable, inevitable, resilient** 等抽象且用法灵活的词汇。通过词根词缀拆解记忆，可以更高效地理解并记住它们。
+明日预告：第94天将学习“**elaborate / feasible / subordinate**”等词汇。
