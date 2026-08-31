@@ -1,130 +1,107 @@
-# 六级高频词汇学习（第93天）
+# 六级高频词汇学习（第94天）
+
+以下是为今日准备的15个六级高频词汇，涵盖不同词性，附详细解析与记忆技巧。
 
 ---
 
-### 1. **alleviate**  
-**音标**：[əˈliːvieɪt]  
-**词性**：v.  
-**释义**：减轻，缓解（痛苦、问题等）  
-**例句**：The government has introduced new measures to alleviate poverty in rural areas.  
-翻译：政府已出台新措施以减轻农村地区的贫困。  
-**记忆技巧**：词根“allevi”（轻）+ -ate（动词后缀）→ 使变轻 → 缓解。
+## 1. **paradox**  
+/pˈærədɑːks/  
+**n.** 矛盾；悖论；自相矛盾的人或事  
+**例句**：It's a **paradox** that people who are very rich often complain about having no money. （非常富有的人却常常抱怨没钱，这真是个悖论。）  
+**记忆技巧**：para-（相反）+ dox（观点）→ 相反的观点 → 悖论
+
+## 2. **ambiguous**  
+/æmˈbɪɡjuəs/  
+**adj.** 模棱两可的；含糊不清的  
+**例句**：His **ambiguous** response made it difficult for us to understand his true intention. （他模棱两可的回答让我们难以理解他的真实意图。）  
+**记忆技巧**：ambi-（两边）+ guous（…的）→ 两边都靠 → 模棱两可
+
+## 3. **scrutiny**  
+/ˈskruːtəni/  
+**n.** 仔细检查；详细审查  
+**例句**：The proposal is currently under careful **scrutiny** by the committee. （该提案正受到委员会的仔细审查。）  
+**记忆技巧**：联想“scruit”像“screw it”（拧紧它），需要仔细检查
+
+## 4. **feasible**  
+/ˈfiːzəbl/  
+**adj.** 可行的；可能的  
+**例句**：The engineer proposed a **feasible** solution to the energy crisis. （工程师提出了解决能源危机的可行方案。）  
+**记忆技巧**：feas-（做）+ -ible（能够）→ 能够做成的 → 可行的
+
+## 5. **coherent**  
+/koʊˈhɪrənt/  
+**adj.** 连贯的；一致的；条理清楚的  
+**例句**：She presented a **coherent** argument that convinced the jury. （她提出了一个连贯的论点，说服了陪审团。）  
+**记忆技巧**：co-（一起）+ her（粘）+ ent → 粘在一起 → 连贯的
+
+## 6. **elaborate**  
+/ɪˈlæbərət/  
+**adj.** 精心制作的；详细阐述的  
+**v.** 详细说明；精心制作  
+**例句**：The host asked him to **elaborate** on his theory. （主持人请他详细阐述他的理论。）  
+**记忆技巧**：e-（出）+ labor（劳动）+ ate → 做了大量工作 → 精心制作的
+
+## 7. **contempt**  
+/kənˈtempt/  
+**n.** 蔑视；轻视；藐视  
+**例句**：He showed **contempt** for the rules, which led to his punishment. （他藐视规则，导致受到惩罚。）  
+**记忆技巧**：con-（加强）+ tempt（尝试/引诱）→ 引诱他犯错后蔑视他
+
+## 8. **spontaneous**  
+/spɑːnˈteɪniəs/  
+**adj.** 自发的；自然的；即兴的  
+**例句**：The audience broke into **spontaneous** applause after the performance. （表演结束后，观众自发地鼓起掌来。）  
+**记忆技巧**：spon-（自己）+ taneous → 自己发生的 → 自发的
+
+## 9. **aggregate**  
+/ˈæɡrɪɡeɪt/  
+**v.** 聚集；总计  
+**adj.** 总计的；合计的  
+**n.** 总数；合计  
+**例句**：The **aggregate** score of the two exams will determine your final grade. （两次考试的总分将决定你的最终成绩。）  
+**记忆技巧**：ag-（加强）+ greg（聚集）+ ate → 聚集在一起 → 总计
+
+## 10. **redundant**  
+/rɪˈdʌndənt/  
+**adj.** 多余的；冗余的；被解雇的  
+**例句**：After the merger, many employees were made **redundant**. （合并后，许多员工被裁员了。）  
+**记忆技巧**：red-（再次）+ undant（溢出）→ 再次溢出 → 多余的
+
+## 11. **profound**  
+/prəˈfaʊnd/  
+**adj.** 深刻的；渊博的；深远的  
+**例句**：The book had a **profound** impact on my view of history. （这本书对我历史观产生了深远影响。）  
+**记忆技巧**：pro-（向前）+ found（基础）→ 向前深入基础 → 深刻的
+
+## 12. **prospective**  
+/prəˈspektɪv/  
+**adj.** 预期的；未来的；潜在的  
+**例句**：We are interviewing **prospective** candidates for the position. （我们正在面试该职位的潜在候选人。）  
+**记忆技巧**：pro-（向前）+ spect（看）+ ive → 向前看的 → 未来的
+
+## 13. **substantial**  
+/səbˈstænʃəl/  
+**adj.** 大量的；实质的；重要的  
+**例句**：The research made a **substantial** contribution to the field. （这项研究对该领域做出了重大贡献。）  
+**记忆技巧**：sub-（下面）+ stant（站）+ ial → 站在下面支撑的 → 实质的
+
+## 14. **resilient**  
+/rɪˈzɪliənt/  
+**adj.** 有弹性的；能恢复的；适应力强的  
+**例句**：Children are often more **resilient** than adults think. （孩子们通常比成年人想象的更具适应力。）  
+**记忆技巧**：re-（再次）+ sil（跳）+ ient → 能再次跳起来 → 有弹性的
+
+## 15. **discrepancy**  
+/dɪˈskrepənsi/  
+**n.** 差异；不一致；矛盾  
+**例句**：There is a **discrepancy** between his report and the actual data. （他的报告与实际数据存在差异。）  
+**记忆技巧**：dis-（分开）+ crep（断裂）+ ancy → 分开断裂 → 差异
 
 ---
 
-### 2. **pragmatic**  
-**音标**：[præɡˈmætɪk]  
-**词性**：adj.  
-**释义**：务实的，注重实效的  
-**例句**：She takes a pragmatic approach to problem-solving rather than relying on theory alone.  
-翻译：她解决问题采取务实的方法，而不仅仅依赖理论。  
-**记忆技巧**：联想“pragmatic”发音类似“拍个马蹄克” → 做事像马蹄一样扎实 → 务实。
+**学习建议**：
+- 今日词汇侧重 **抽象概念与形容词**，建议结合例句理解用法
+- 可尝试用新词写一段短文，强化记忆
+- 注意 **paradox, scrutiny, discrepancy** 等词的拼写易错点
 
----
-
-### 3. **resilient**  
-**音标**：[rɪˈzɪliənt]  
-**词性**：adj.  
-**释义**：有弹性的；能迅速恢复的；适应力强的  
-**例句**：Children are often more resilient than adults when facing unexpected changes.  
-翻译：面对意外变化时，孩子们通常比成年人更具适应力。  
-**记忆技巧**：词根“resil”（弹回）+ -ient → 能反弹的 → 韧性强的。
-
----
-
-### 4. **scrutiny**  
-**音标**：[ˈskruːtəni]  
-**词性**：n.  
-**释义**：仔细检查，审查  
-**例句**：The report will be subject to close scrutiny by the committee.  
-翻译：该报告将受到委员会的仔细审查。  
-**记忆技巧**：联想“scru”（看）+ tiny（细微的）→ 看细节 → 仔细检查。
-
----
-
-### 5. **imperative**  
-**音标**：[ɪmˈperətɪv]  
-**词性**：adj./n.  
-**释义**：adj. 必要的，紧迫的；n. 必要的事；命令  
-**例句**：It is imperative that we finish the project before the deadline.  
-翻译：我们必须在截止日期前完成这个项目，这是当务之急。  
-**记忆技巧**：词根“imper”（命令）+ -ative → 带有命令性质的 → 必须做的。
-
----
-
-### 6. **discrepancy**  
-**音标**：[dɪˈskrepənsi]  
-**词性**：n.  
-**释义**：差异，不一致  
-**例句**：There is a significant discrepancy between the survey results and actual data.  
-翻译：调查结果与实际数据之间存在显著差异。  
-**记忆技巧**：词根“dis”（分离）+ -crep（破裂）→ 分裂开 → 不一致。
-
----
-
-### 7. **fluctuate**  
-**音标**：[ˈflʌktʃueɪt]  
-**词性**：v.  
-**释义**：波动，起伏  
-**例句**：Oil prices have fluctuated wildly over the past few months.  
-翻译：过去几个月里油价剧烈波动。  
-**记忆技巧**：词根“fluctu”（波浪）+ -ate → 像波浪一样 → 波动。
-
----
-
-### 8. **profound**  
-**音标**：[prəˈfaʊnd]  
-**词性**：adj.  
-**释义**：深刻的；深奥的；深远的  
-**例句**：The book had a profound impact on her understanding of philosophy.  
-翻译：这本书对她理解哲学产生了深远影响。  
-**记忆技巧**：词根“pro-”（向前）+ “found”（基础）→ 向深处扎根 → 深刻的。
-
----
-
-### 9. **hierarchy**  
-**音标**：[ˈhaɪərɑːrki]  
-**词性**：n.  
-**释义**：等级制度；层级结构  
-**例句**：In a traditional company, the hierarchy is clearly defined.  
-翻译：在传统公司中，等级制度是明确界定的。  
-**记忆技巧**：词根“hier”（神圣）+ “archy”（统治）→ 神圣的统治阶层 → 等级制度。
-
----
-
-### 10. **spontaneous**  
-**音标**：[spɑːnˈteɪniəs]  
-**词性**：adj.  
-**释义**：自发的，自然产生的；无意识的  
-**例句**：The crowd broke into spontaneous applause after the performance.  
-翻译：演出结束后，人群自发地鼓起掌来。  
-**记忆技巧**：联想“spon”（自己）+ “taneous” → 自己发生 → 自发的。
-
----
-
-### 11. **aggregate**  
-**音标**：[ˈæɡrɪɡeɪt]  
-**词性**：v./adj./n.  
-**释义**：v. 聚集；adj. 总计的；n. 总数  
-**例句**：We need to aggregate the data from all sources before analyzing it.  
-翻译：我们需要在分析之前汇总所有来源的数据。  
-**记忆技巧**：词根“ag-”（加强）+ “greg”（群）→ 聚成一群 → 聚集。
-
----
-
-### 12. **volatile**  
-**音标**：[ˈvɑːlətl]  
-**词性**：adj.  
-**释义**：不稳定的；易挥发的；易变的  
-**例句**：The stock market has been highly volatile in recent weeks.  
-翻译：近几周股票市场一直极不稳定。  
-**记忆技巧**：词根“volat”（飞）+ -ile → 像飞一样易逝 → 不稳定的。
-
----
-
-**学习建议**：  
-- 每日坚持复习，将词汇放入句子中记忆。  
-- 关注词根词缀，举一反三，例如“aggregate”中的“greg”群组概念。  
-- 结合真题语境理解词汇的实际用法。
-
-明日预告：第94天将学习“**elaborate / feasible / subordinate**”等词汇。
+坚持每日积累，祝你备考顺利！ 📚✨
