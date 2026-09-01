@@ -1,107 +1,116 @@
-# 六级高频词汇学习（第94天）
+# 📚 CET-6 高频词汇学习 (Day 95)
 
-以下是为今日准备的15个六级高频词汇，涵盖不同词性，附详细解析与记忆技巧。
-
----
-
-## 1. **paradox**  
-/pˈærədɑːks/  
-**n.** 矛盾；悖论；自相矛盾的人或事  
-**例句**：It's a **paradox** that people who are very rich often complain about having no money. （非常富有的人却常常抱怨没钱，这真是个悖论。）  
-**记忆技巧**：para-（相反）+ dox（观点）→ 相反的观点 → 悖论
-
-## 2. **ambiguous**  
-/æmˈbɪɡjuəs/  
-**adj.** 模棱两可的；含糊不清的  
-**例句**：His **ambiguous** response made it difficult for us to understand his true intention. （他模棱两可的回答让我们难以理解他的真实意图。）  
-**记忆技巧**：ambi-（两边）+ guous（…的）→ 两边都靠 → 模棱两可
-
-## 3. **scrutiny**  
-/ˈskruːtəni/  
-**n.** 仔细检查；详细审查  
-**例句**：The proposal is currently under careful **scrutiny** by the committee. （该提案正受到委员会的仔细审查。）  
-**记忆技巧**：联想“scruit”像“screw it”（拧紧它），需要仔细检查
-
-## 4. **feasible**  
-/ˈfiːzəbl/  
-**adj.** 可行的；可能的  
-**例句**：The engineer proposed a **feasible** solution to the energy crisis. （工程师提出了解决能源危机的可行方案。）  
-**记忆技巧**：feas-（做）+ -ible（能够）→ 能够做成的 → 可行的
-
-## 5. **coherent**  
-/koʊˈhɪrənt/  
-**adj.** 连贯的；一致的；条理清楚的  
-**例句**：She presented a **coherent** argument that convinced the jury. （她提出了一个连贯的论点，说服了陪审团。）  
-**记忆技巧**：co-（一起）+ her（粘）+ ent → 粘在一起 → 连贯的
-
-## 6. **elaborate**  
-/ɪˈlæbərət/  
-**adj.** 精心制作的；详细阐述的  
-**v.** 详细说明；精心制作  
-**例句**：The host asked him to **elaborate** on his theory. （主持人请他详细阐述他的理论。）  
-**记忆技巧**：e-（出）+ labor（劳动）+ ate → 做了大量工作 → 精心制作的
-
-## 7. **contempt**  
-/kənˈtempt/  
-**n.** 蔑视；轻视；藐视  
-**例句**：He showed **contempt** for the rules, which led to his punishment. （他藐视规则，导致受到惩罚。）  
-**记忆技巧**：con-（加强）+ tempt（尝试/引诱）→ 引诱他犯错后蔑视他
-
-## 8. **spontaneous**  
-/spɑːnˈteɪniəs/  
-**adj.** 自发的；自然的；即兴的  
-**例句**：The audience broke into **spontaneous** applause after the performance. （表演结束后，观众自发地鼓起掌来。）  
-**记忆技巧**：spon-（自己）+ taneous → 自己发生的 → 自发的
-
-## 9. **aggregate**  
-/ˈæɡrɪɡeɪt/  
-**v.** 聚集；总计  
-**adj.** 总计的；合计的  
-**n.** 总数；合计  
-**例句**：The **aggregate** score of the two exams will determine your final grade. （两次考试的总分将决定你的最终成绩。）  
-**记忆技巧**：ag-（加强）+ greg（聚集）+ ate → 聚集在一起 → 总计
-
-## 10. **redundant**  
-/rɪˈdʌndənt/  
-**adj.** 多余的；冗余的；被解雇的  
-**例句**：After the merger, many employees were made **redundant**. （合并后，许多员工被裁员了。）  
-**记忆技巧**：red-（再次）+ undant（溢出）→ 再次溢出 → 多余的
-
-## 11. **profound**  
-/prəˈfaʊnd/  
-**adj.** 深刻的；渊博的；深远的  
-**例句**：The book had a **profound** impact on my view of history. （这本书对我历史观产生了深远影响。）  
-**记忆技巧**：pro-（向前）+ found（基础）→ 向前深入基础 → 深刻的
-
-## 12. **prospective**  
-/prəˈspektɪv/  
-**adj.** 预期的；未来的；潜在的  
-**例句**：We are interviewing **prospective** candidates for the position. （我们正在面试该职位的潜在候选人。）  
-**记忆技巧**：pro-（向前）+ spect（看）+ ive → 向前看的 → 未来的
-
-## 13. **substantial**  
-/səbˈstænʃəl/  
-**adj.** 大量的；实质的；重要的  
-**例句**：The research made a **substantial** contribution to the field. （这项研究对该领域做出了重大贡献。）  
-**记忆技巧**：sub-（下面）+ stant（站）+ ial → 站在下面支撑的 → 实质的
-
-## 14. **resilient**  
-/rɪˈzɪliənt/  
-**adj.** 有弹性的；能恢复的；适应力强的  
-**例句**：Children are often more **resilient** than adults think. （孩子们通常比成年人想象的更具适应力。）  
-**记忆技巧**：re-（再次）+ sil（跳）+ ient → 能再次跳起来 → 有弹性的
-
-## 15. **discrepancy**  
-/dɪˈskrepənsi/  
-**n.** 差异；不一致；矛盾  
-**例句**：There is a **discrepancy** between his report and the actual data. （他的报告与实际数据存在差异。）  
-**记忆技巧**：dis-（分开）+ crep（断裂）+ ancy → 分开断裂 → 差异
+今天为你精选了12个六级核心高频词汇，涵盖不同词性，希望能助你备考一臂之力！
 
 ---
 
-**学习建议**：
-- 今日词汇侧重 **抽象概念与形容词**，建议结合例句理解用法
-- 可尝试用新词写一段短文，强化记忆
-- 注意 **paradox, scrutiny, discrepancy** 等词的拼写易错点
+### 1. **curb** /kɜːrb/
+**词性：** v. / n.
+**中文释义：**
+- v. 控制，抑制
+- n. 路边，路缘；控制，约束
+**例句：**
+- The government is trying to **curb** inflation by raising interest rates. (政府正试图通过提高利率来抑制通货膨胀。)
+**记忆技巧：**
+- **联想记忆**：把“curb”想成“路边石”，路边石的作用就是“约束、限制”车辆，引申为“控制、抑制”。
 
-坚持每日积累，祝你备考顺利！ 📚✨
+### 2. **deteriorate** /dɪˈtɪriəreɪt/
+**词性：** v.
+**中文释义：** 恶化，变坏，退化
+**例句：**
+- His health began to **deteriorate** rapidly after the diagnosis was confirmed. (确诊后，他的健康状况开始迅速恶化。)
+**记忆技巧：**
+- **词根词缀**：`de-`（向下）+ `terior`（比较级，更坏的）+ `-ate`（动词后缀）→ 使变得更坏 → 恶化。
+
+### 3. **coherent** /koʊˈhɪrənt/
+**词性：** adj.
+**中文释义：** 连贯的，条理清楚的；粘在一起的
+**例句：**
+- She presented a well-**coherent** argument that convinced the jury. (她提出了一个逻辑连贯的论点，说服了陪审团。)
+**记忆技巧：**
+- **词根词缀**：`co-`（一起）+ `her-`（粘，引申为“坚持”）+ `-ent`（形容词后缀）→ 粘在一起的 → 连贯的。
+
+### 4. **prospective** /prəˈspektɪv/
+**词性：** adj.
+**中文释义：** 预期的，未来的；有望的，可能的
+**例句：**
+- The company is interviewing several **prospective** candidates for the manager position. (公司正在面试几位经理职位的潜在候选人。)
+**记忆技巧：**
+- **词根词缀**：`pro-`（向前）+ `spect-`（看）+ `-ive`（形容词后缀）→ 向前看的 → 未来的，预期的。
+
+### 5. **fluctuate** /ˈflʌktʃueɪt/
+**词性：** v.
+**中文释义：** 波动，起伏，变动
+**例句：**
+- Stock prices have **fluctuated** wildly over the past week. (过去一周，股价剧烈波动。)
+**记忆技巧：**
+- **词根词缀**：`flu-`（流）+ `-ctuate`（动词后缀）→ 像流水一样变动 → 波动。
+
+### 6. **prerequisite** /priːˈrekwəzɪt/
+**词性：** n.
+**中文释义：** 先决条件，前提；必备条件
+**例句：**
+- A strong foundation in mathematics is a **prerequisite** for this advanced physics course. (扎实的数学基础是学习这门高级物理课程的先决条件。)
+**记忆技巧：**
+- **词根词缀**：`pre-`（在…之前）+ `require`（要求）+ `-ment`（名词后缀，此处为-t）→ 之前就被要求的东西 → 前提。
+
+### 7. **resilient** /rɪˈzɪliənt/
+**词性：** adj.
+**中文释义：** 有弹性的；能迅速恢复的，适应性强的
+**例句：**
+- Children are often more **resilient** than adults and adapt to change more easily. (孩子们通常比成年人更有韧性，更容易适应变化。)
+**记忆技巧：**
+- **词根词缀**：`re-`（回）+ `sili-`（跳跃）+ `-ent`（形容词后缀）→ 能跳回来的 → 有弹性的，能恢复的。
+
+### 8. **advocate** /ˈædvəkeɪt/
+**词性：** v. / n.
+**中文释义：**
+- v. 提倡，主张，拥护
+- n. 提倡者，拥护者；辩护者
+**例句：**
+- Many scientists now **advocate** for stronger measures to combat climate change. (现在许多科学家都提倡采取更有力的措施来应对气候变化。)
+**记忆技巧：**
+- **词根词缀**：`ad-`（加强）+ `voc-`（声音，喊叫）+ `-ate`（动词后缀）→ 大声喊叫以支持 → 提倡，拥护。
+
+### 9. **commodity** /kəˈmɑːdəti/
+**词性：** n.
+**中文释义：** 商品，货物；有用的东西
+**例句：**
+- In today’s digital age, personal data has become a highly valuable **commodity**. (在当今的数字时代，个人数据已成为一种极具价值的商品。)
+**记忆技巧：**
+- **词根词缀**：来自拉丁语 `commoditatem`，意为“效用、便利”。`com-`（共同）+ `mod-`（方式、合适）→ 以合适的方式提供给众人 → 商品。
+
+### 10. **elaborate** /ɪˈlæbəreɪt/
+**词性：** adj. / v.
+**中文释义：**
+- adj. 精心制作的；详尽的；复杂的
+- v. 详尽阐述；详细说明
+**例句：**
+- Could you **elaborate** on your proposal? The basic idea is good, but I need more details. (你能详细说明一下你的提案吗？基本想法不错，但我需要更多细节。)
+**记忆技巧：**
+- **词根词缀**：`e-`（出）+ `labor-`（劳动）+ `-ate`（动词/形容词后缀）→ 精心劳动出来的 → 精心制作的；详尽阐述。
+
+### 11. **scrutiny** /ˈskruːtəni/
+**词性：** n.
+**中文释义：** 仔细检查，详细审查；监视
+**例句：**
+- The government’s policies are under intense **scrutiny** from the media. (政府的政策正受到媒体的密切关注和审查。)
+**记忆技巧：**
+- **联想记忆**：`scrutiny` 与 `screen`（屏幕、检查）有关联。想象在显微镜屏幕上仔细“检查”细节。
+
+### 12. **integrity** /ɪnˈteɡrəti/
+**词性：** n.
+**中文释义：** 正直，诚实；完整，完善
+**例句：**
+- He is a man of great **integrity** and would never betray your trust. (他是一个非常正直的人，绝不会辜负你的信任。)
+**记忆技巧：**
+- **词根词缀**：`integr-`（完整的，未受损的）+ `-ity`（名词后缀）→ 保持完整无缺的品质 → 正直；完整性。
+
+---
+
+**💡 学习小贴士：**
+*   **重复是记忆之母**：建议每天花10-15分钟复习本日词汇，并尝试在写作或口语中使用它们。
+*   **结合语境**：大声朗读例句，感受单词在句子中的真实用法。
+*   **构建联系**：可以用今天学到的几个词（如 `advocate`, `curb`, `integrity`）自己编一个小故事或观点段落，加深理解和记忆。
+
+祝你学习高效，考试顺利！ 🎯
