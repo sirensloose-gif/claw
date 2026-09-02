@@ -1,116 +1,130 @@
-# 📚 CET-6 高频词汇学习 (Day 95)
+# 📚 六级词汇学习 · 第96天
 
-今天为你精选了12个六级核心高频词汇，涵盖不同词性，希望能助你备考一臂之力！
-
----
-
-### 1. **curb** /kɜːrb/
-**词性：** v. / n.
-**中文释义：**
-- v. 控制，抑制
-- n. 路边，路缘；控制，约束
-**例句：**
-- The government is trying to **curb** inflation by raising interest rates. (政府正试图通过提高利率来抑制通货膨胀。)
-**记忆技巧：**
-- **联想记忆**：把“curb”想成“路边石”，路边石的作用就是“约束、限制”车辆，引申为“控制、抑制”。
-
-### 2. **deteriorate** /dɪˈtɪriəreɪt/
-**词性：** v.
-**中文释义：** 恶化，变坏，退化
-**例句：**
-- His health began to **deteriorate** rapidly after the diagnosis was confirmed. (确诊后，他的健康状况开始迅速恶化。)
-**记忆技巧：**
-- **词根词缀**：`de-`（向下）+ `terior`（比较级，更坏的）+ `-ate`（动词后缀）→ 使变得更坏 → 恶化。
-
-### 3. **coherent** /koʊˈhɪrənt/
-**词性：** adj.
-**中文释义：** 连贯的，条理清楚的；粘在一起的
-**例句：**
-- She presented a well-**coherent** argument that convinced the jury. (她提出了一个逻辑连贯的论点，说服了陪审团。)
-**记忆技巧：**
-- **词根词缀**：`co-`（一起）+ `her-`（粘，引申为“坚持”）+ `-ent`（形容词后缀）→ 粘在一起的 → 连贯的。
-
-### 4. **prospective** /prəˈspektɪv/
-**词性：** adj.
-**中文释义：** 预期的，未来的；有望的，可能的
-**例句：**
-- The company is interviewing several **prospective** candidates for the manager position. (公司正在面试几位经理职位的潜在候选人。)
-**记忆技巧：**
-- **词根词缀**：`pro-`（向前）+ `spect-`（看）+ `-ive`（形容词后缀）→ 向前看的 → 未来的，预期的。
-
-### 5. **fluctuate** /ˈflʌktʃueɪt/
-**词性：** v.
-**中文释义：** 波动，起伏，变动
-**例句：**
-- Stock prices have **fluctuated** wildly over the past week. (过去一周，股价剧烈波动。)
-**记忆技巧：**
-- **词根词缀**：`flu-`（流）+ `-ctuate`（动词后缀）→ 像流水一样变动 → 波动。
-
-### 6. **prerequisite** /priːˈrekwəzɪt/
-**词性：** n.
-**中文释义：** 先决条件，前提；必备条件
-**例句：**
-- A strong foundation in mathematics is a **prerequisite** for this advanced physics course. (扎实的数学基础是学习这门高级物理课程的先决条件。)
-**记忆技巧：**
-- **词根词缀**：`pre-`（在…之前）+ `require`（要求）+ `-ment`（名词后缀，此处为-t）→ 之前就被要求的东西 → 前提。
-
-### 7. **resilient** /rɪˈzɪliənt/
-**词性：** adj.
-**中文释义：** 有弹性的；能迅速恢复的，适应性强的
-**例句：**
-- Children are often more **resilient** than adults and adapt to change more easily. (孩子们通常比成年人更有韧性，更容易适应变化。)
-**记忆技巧：**
-- **词根词缀**：`re-`（回）+ `sili-`（跳跃）+ `-ent`（形容词后缀）→ 能跳回来的 → 有弹性的，能恢复的。
-
-### 8. **advocate** /ˈædvəkeɪt/
-**词性：** v. / n.
-**中文释义：**
-- v. 提倡，主张，拥护
-- n. 提倡者，拥护者；辩护者
-**例句：**
-- Many scientists now **advocate** for stronger measures to combat climate change. (现在许多科学家都提倡采取更有力的措施来应对气候变化。)
-**记忆技巧：**
-- **词根词缀**：`ad-`（加强）+ `voc-`（声音，喊叫）+ `-ate`（动词后缀）→ 大声喊叫以支持 → 提倡，拥护。
-
-### 9. **commodity** /kəˈmɑːdəti/
-**词性：** n.
-**中文释义：** 商品，货物；有用的东西
-**例句：**
-- In today’s digital age, personal data has become a highly valuable **commodity**. (在当今的数字时代，个人数据已成为一种极具价值的商品。)
-**记忆技巧：**
-- **词根词缀**：来自拉丁语 `commoditatem`，意为“效用、便利”。`com-`（共同）+ `mod-`（方式、合适）→ 以合适的方式提供给众人 → 商品。
-
-### 10. **elaborate** /ɪˈlæbəreɪt/
-**词性：** adj. / v.
-**中文释义：**
-- adj. 精心制作的；详尽的；复杂的
-- v. 详尽阐述；详细说明
-**例句：**
-- Could you **elaborate** on your proposal? The basic idea is good, but I need more details. (你能详细说明一下你的提案吗？基本想法不错，但我需要更多细节。)
-**记忆技巧：**
-- **词根词缀**：`e-`（出）+ `labor-`（劳动）+ `-ate`（动词/形容词后缀）→ 精心劳动出来的 → 精心制作的；详尽阐述。
-
-### 11. **scrutiny** /ˈskruːtəni/
-**词性：** n.
-**中文释义：** 仔细检查，详细审查；监视
-**例句：**
-- The government’s policies are under intense **scrutiny** from the media. (政府的政策正受到媒体的密切关注和审查。)
-**记忆技巧：**
-- **联想记忆**：`scrutiny` 与 `screen`（屏幕、检查）有关联。想象在显微镜屏幕上仔细“检查”细节。
-
-### 12. **integrity** /ɪnˈteɡrəti/
-**词性：** n.
-**中文释义：** 正直，诚实；完整，完善
-**例句：**
-- He is a man of great **integrity** and would never betray your trust. (他是一个非常正直的人，绝不会辜负你的信任。)
-**记忆技巧：**
-- **词根词缀**：`integr-`（完整的，未受损的）+ `-ity`（名词后缀）→ 保持完整无缺的品质 → 正直；完整性。
+今天为你精选了12个六级核心高频词汇，包含动词、名词、形容词和副词，助你冲刺高分！
 
 ---
 
-**💡 学习小贴士：**
-*   **重复是记忆之母**：建议每天花10-15分钟复习本日词汇，并尝试在写作或口语中使用它们。
-*   **结合语境**：大声朗读例句，感受单词在句子中的真实用法。
-*   **构建联系**：可以用今天学到的几个词（如 `advocate`, `curb`, `integrity`）自己编一个小故事或观点段落，加深理解和记忆。
+### 1. profound
+**音标**：/prəˈfaʊnd/  
+**词性**：adj.  
+**中文释义**：深刻的；深奥的；（影响）深切的  
+**例句**：The book had a **profound** impact on his worldview.  
+这本书对他的世界观产生了**深远的影响**。  
+**记忆技巧**：前缀 `pro-`（向前） + 词根 `found`（基础），意为“深入基础”，引申为“深刻的”。
 
-祝你学习高效，考试顺利！ 🎯
+---
+
+### 2. constrain
+**音标**：/kənˈstreɪn/  
+**词性**：v.  
+**中文释义**：约束；限制；强迫  
+**例句**：Budget cuts have **constrained** the growth of the project.  
+预算削减**限制**了项目的增长。  
+**记忆技巧**：前缀 `con-`（共同） + `strain`（拉紧），意为“共同拉紧”，引申为“约束”。
+
+---
+
+### 3. prestige
+**音标**：/preˈstiːʒ/  
+**词性**：n.  
+**中文释义**：声望；威信；威望  
+**例句**：Working for that company brings great **prestige**.  
+为那家公司工作会带来很高的**声望**。  
+**记忆技巧**：源自拉丁语“幻觉、欺骗”，后引申为“虚幻的光芒”，即“声望带来的光环”。
+
+---
+
+### 4. unprecedented
+**音标**：/ʌnˈpresɪdentɪd/  
+**词性**：adj.  
+**中文释义**：史无前例的；空前的  
+**例句**：The country faces **unprecedented** economic challenges.  
+这个国家面临着**空前的**经济挑战。  
+**记忆技巧**：前缀 `un-`（不） + `precedent`（先例） + `-ed`（形容词后缀），即“没有先例的”。
+
+---
+
+### 5. alleviate
+**音标**：/əˈliːvieɪt/  
+**词性**：v.  
+**中文释义**：减轻（痛苦、困难）；缓和  
+**例句**：The medicine helped to **alleviate** her pain.  
+这种药帮助**减轻**了她的疼痛。  
+**记忆技巧**：前缀 `al-`（向） + 词根 `levi`（轻） + `-ate`（动词后缀），意为“使其变轻”，即“减轻”。
+
+---
+
+### 6. fluctuation
+**音标**：/ˌflʌktʃuˈeɪʃn/  
+**词性**：n.  
+**中文释义**：波动；起伏；变动  
+**例句**：There are significant **fluctuations** in the stock market.  
+股票市场存在着剧烈的**波动**。  
+**记忆技巧**：词根 `fluctu-`（波浪） + `-ation`（名词后缀），意为“像波浪一样起伏”。
+
+---
+
+### 7. robust
+**音标**：/roʊˈbʌst/  
+**词性**：adj.  
+**中文释义**：强健的；坚固的；稳健的  
+**例句**：We need a more **robust** security system.  
+我们需要一个更**稳固的**安全系统。  
+**记忆技巧**：源自拉丁语 `robustus`（橡木做的），橡木坚固，引申为“强健的、稳固的”。
+
+---
+
+### 8. discrepancy
+**音标**：/dɪsˈkrepənsi/  
+**词性**：n.  
+**中文释义**：差异；不一致；矛盾  
+**例句**：There is a major **discrepancy** between his words and actions.  
+他的言行之间存在巨大的**差异**。  
+**记忆技巧**：前缀 `dis-`（分开） + 词根 `crep`（咔嗒声），引申为“声音不一致”，即“差异”。
+
+---
+
+### 9. relinquish
+**音标**：/rɪˈlɪŋkwɪʃ/  
+**词性**：v.  
+**中文释义**：放弃；交出；让渡  
+**例句**：He reluctantly **relinquished** his claim to the property.  
+他不情愿地**放弃了**对那处房产的所有权。  
+**记忆技巧**：前缀 `re-`（向后） + 词根 `linqu`（离开） + `-ish`（动词后缀），意为“向后离开”，即“放弃”。
+
+---
+
+### 10. discreet
+**音标**：/dɪˈskriːt/  
+**词性**：adj.  
+**中文释义**：谨慎的；慎重的；不引人注目的  
+**例句**：Please be **discreet** about this matter; don't tell anyone.  
+请对这件事**谨慎**一些，不要告诉任何人。  
+**记忆技巧**：与 `discrete`（分离的）同源。可以联想：在处理敏感信息时，需要将自己“分开”考虑，即“谨慎”。
+
+---
+
+### 11. undermine
+**音标**：/ˌʌndərˈmaɪn/  
+**词性**：v.  
+**中文释义**：暗中破坏；逐渐削弱；损害  
+**例句**：Constant criticism can **undermine** a child's confidence.  
+不断的批评会**削弱**孩子的自信。  
+**记忆技巧**：`under`（在下面） + `mine`（采矿），意为“在下面挖矿”，引申为“从根基上破坏”。
+
+---
+
+### 12. resilient
+**音标**：/rɪˈzɪliənt/  
+**词性**：adj.  
+**中文释义**：有韧性的；能恢复的；适应力强的  
+**例句**：Children are often more **resilient** than adults.  
+孩子们通常比成年人更**有韧性**。  
+**记忆技巧**：前缀 `re-`（回） + 词根 `sili`（跳跃） + `-ent`（形容词后缀），意为“能跳回来的”，即“有恢复力的”。
+
+---
+
+**✨ 今日学习小结**：
+今天学习的词汇在六级阅读、听力和写作中都非常实用。特别注意 **discreet**（谨慎的）和 **discrete**（分离的）拼写相近但含义不同，以及 **unprecedented** 和 **resilient** 等词在议论文中的高频用法。
+
+**明天预告**：第97天将继续涵盖 `endeavor`、`volatile`、`scrutiny` 等核心词汇。坚持就是胜利！💪
