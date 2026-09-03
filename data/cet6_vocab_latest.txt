@@ -1,130 +1,144 @@
-# 📚 六级词汇学习 · 第96天
+# 六级高频词汇 · 第97天
 
-今天为你精选了12个六级核心高频词汇，包含动词、名词、形容词和副词，助你冲刺高分！
-
----
-
-### 1. profound
-**音标**：/prəˈfaʊnd/  
-**词性**：adj.  
-**中文释义**：深刻的；深奥的；（影响）深切的  
-**例句**：The book had a **profound** impact on his worldview.  
-这本书对他的世界观产生了**深远的影响**。  
-**记忆技巧**：前缀 `pro-`（向前） + 词根 `found`（基础），意为“深入基础”，引申为“深刻的”。
+以下是为今日（第97天）准备的15个六级高频词汇，涵盖不同词性，适合系统化复习与积累。
 
 ---
 
-### 2. constrain
-**音标**：/kənˈstreɪn/  
-**词性**：v.  
-**中文释义**：约束；限制；强迫  
-**例句**：Budget cuts have **constrained** the growth of the project.  
-预算削减**限制**了项目的增长。  
-**记忆技巧**：前缀 `con-`（共同） + `strain`（拉紧），意为“共同拉紧”，引申为“约束”。
+## 1. **prevalent**
+- **音标**：/ˈprevələnt/
+- **词性**：形容词
+- **释义**：流行的；普遍存在的
+- **例句**：
+  - *Misinformation on social media has become **prevalent** in recent years.*  
+    近年来，社交媒体上的错误信息已变得**普遍存在**。
+- **记忆技巧**：词根 `preval-`（意为“占优势、流行”）+ `-ent`（形容词后缀）。联想：信息“pre”（在…之前）就“val”（有力），说明它很**流行**。
+
+## 2. **rigorous**
+- **音标**：/ˈrɪɡərəs/
+- **词性**：形容词
+- **释义**：严格的；缜密的
+- **例句**：
+  - *The experiment was conducted under **rigorous** conditions to ensure data accuracy.*  
+    该实验在**严格的**条件下进行，以确保数据准确性。
+- **记忆技巧**：词根 `rigor`（严酷、严格）+ `-ous`（形容词后缀）。直接联想“rigor”本身表示严格。
+
+## 3. **prosperity**
+- **音标**：/prɑːˈsperəti/
+- **词性**：名词
+- **释义**：繁荣；成功
+- **例句**：
+  - *Education is key to long-term economic **prosperity**.*  
+    教育是实现长期经济**繁荣**的关键。
+- **记忆技巧**：词根 `prosper-`（繁荣）+ `-ity`（名词后缀）。联想：公司“pro”（向前）发展就会“sper”（繁荣）。
+
+## 4. **contempt**
+- **音标**：/kənˈtempt/
+- **词性**：名词
+- **释义**：轻视；藐视
+- **例句**：
+  - *He showed **contempt** for those who did not share his views.*  
+    他**蔑视**那些与他观点不同的人。
+- **记忆技巧**：前缀 `con-`（加强）+ `tempt`（引申为“试探、贬低”）。联想：共同（con）去贬低（tempt）就是**轻视**。
+
+## 5. **elaborate**
+- **音标**：/ɪˈlæbəreɪt/
+- **词性**：动词
+- **释义**：详细阐述；精心制作
+- **例句**：
+  - *Could you **elaborate** on your proposal during the meeting?*  
+    你能在会议上**详细阐述**你的提案吗？
+- **记忆技巧**：前缀 `e-`（出）+ `labor`（劳动）+ `-ate`。联想：通过劳动（labor）把想法“做出来”（e-），就是**精心阐述**。
+
+## 6. **impartial**
+- **音标**：/ɪmˈpɑːrʃəl/
+- **词性**：形容词
+- **释义**：公正的；不偏不倚的
+- **例句**：
+  - *A judge must remain **impartial** when making decisions.*  
+    法官在做裁决时必须保持**公正**。
+- **记忆技巧**：前缀 `im-`（不）+ `partial`（部分的、偏袒的）。联想：不（im）偏袒（partial）任何一方就是**公正**。
+
+## 7. **alleviate**
+- **音标**：/əˈliːvieɪt/
+- **词性**：动词
+- **释义**：减轻；缓和
+- **例句**：
+  - *The new policy aims to **alleviate** poverty in rural areas.*  
+    新政策旨在**减轻**农村地区的贫困。
+- **记忆技巧**：前缀 `al-`（同 ad-，表方向）+ `levi`（轻，如 lever 杠杆）+ `-ate`。联想：让事物变轻（levi），就是**减轻**。
+
+## 8. **deteriorate**
+- **音标**：/dɪˈtɪriəreɪt/
+- **词性**：动词
+- **释义**：恶化；变坏
+- **例句**：
+  - *Without proper maintenance, the building's condition will **deteriorate** rapidly.*  
+    如果没有适当的维护，建筑物的状况会迅速**恶化**。
+- **记忆技巧**：词根 `deterior`（更坏的，比较级）+ `-ate`。直接联想：情况变得“更坏”（deterior）就是**恶化**。
+
+## 9. **stereotype**
+- **音标**：/ˈsteriətaɪp/
+- **词性**：名词/动词
+- **释义**：刻板印象；对…形成刻板看法
+- **例句**：
+  - *We should avoid **stereotyping** people based on their appearance.*  
+    我们应避免根据外貌对人形成**刻板印象**。
+- **记忆技巧**：词根 `stereo-`（固定的，如 stereo 立体声）+ `type`（类型）。联想：固定（stereo）的类型（type）就是**刻板印象**。
+
+## 10. **advocate**
+- **音标**：/ˈædvəkeɪt/
+- **词性**：动词/名词
+- **释义**：提倡；拥护者
+- **例句**：
+  - *Many scientists **advocate** for stronger climate policies.*  
+    许多科学家**提倡**制定更严格的气候政策。
+- **记忆技巧**：词根 `advoc-`（呼唤、支持）+ `-ate`。联想：公开呼吁（advoc）支持某事就是**提倡**。
+
+## 11. **scrutiny**
+- **音标**：/ˈskruːtəni/
+- **词性**：名词
+- **释义**：仔细检查；监督
+- **例句**：
+  - *The report will be subject to public **scrutiny**.*  
+    该报告将接受公众的**仔细审查**。
+- **记忆技巧**：词根 `scrut-`（检查）+ `-iny`（名词后缀）。联想：与“scroll”（卷轴）相关，古代检查卷轴就是**仔细审查**。
+
+## 12. **fervent**
+- **音标**：/ˈfɜːrvənt/
+- **词性**：形容词
+- **释义**：热情的；强烈的
+- **例句**：
+  - *She is a **fervent** supporter of children's education.*  
+    她是儿童教育**热情的**支持者。
+- **记忆技巧**：词根 `ferv-`（沸腾、发热）+ `-ent`。联想：内心“沸腾”（ferv）的状态就是**热情的**。
+
+## 13. **resilient**
+- **音标**：/rɪˈzɪliənt/
+- **词性**：形容词
+- **释义**：有弹性的；恢复力强的
+- **例句**：
+  - *Children are often more **resilient** than adults in facing setbacks.*  
+    孩子们在面对挫折时往往比成年人更具**恢复力**。
+- **记忆技巧**：词根 `resil-`（反弹、恢复）+ `-ient`。联想：像弹簧一样能“反弹”（resil）就是**有恢复力的**。
+
+## 14. **perpetuate**
+- **音标**：/pərˈpetʃueɪt/
+- **词性**：动词
+- **释义**：使永久化；使延续
+- **例句**：
+  - *Misinformation can **perpetuate** harmful stereotypes.*  
+    错误信息可能会**使**有害的刻板印象**永久化**。
+- **记忆技巧**：词根 `perpetu-`（永久的，如 perpetual）+ `-ate`。联想：让某状态变得“永久”（perpetu）就是**使永久化**。
+
+## 15. **ambiguous**
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：形容词
+- **释义**：模棱两可的；含糊不清的
+- **例句**：
+  - *The manager's **ambiguous** response left everyone confused.*  
+    经理**模棱两可的**回应让所有人都感到困惑。
+- **记忆技巧**：前缀 `ambi-`（两者）+ `guous`（走）。联想：在两者之间“摇摆不定”（ambi-…guous）就是**模棱两可的**。
 
 ---
 
-### 3. prestige
-**音标**：/preˈstiːʒ/  
-**词性**：n.  
-**中文释义**：声望；威信；威望  
-**例句**：Working for that company brings great **prestige**.  
-为那家公司工作会带来很高的**声望**。  
-**记忆技巧**：源自拉丁语“幻觉、欺骗”，后引申为“虚幻的光芒”，即“声望带来的光环”。
-
----
-
-### 4. unprecedented
-**音标**：/ʌnˈpresɪdentɪd/  
-**词性**：adj.  
-**中文释义**：史无前例的；空前的  
-**例句**：The country faces **unprecedented** economic challenges.  
-这个国家面临着**空前的**经济挑战。  
-**记忆技巧**：前缀 `un-`（不） + `precedent`（先例） + `-ed`（形容词后缀），即“没有先例的”。
-
----
-
-### 5. alleviate
-**音标**：/əˈliːvieɪt/  
-**词性**：v.  
-**中文释义**：减轻（痛苦、困难）；缓和  
-**例句**：The medicine helped to **alleviate** her pain.  
-这种药帮助**减轻**了她的疼痛。  
-**记忆技巧**：前缀 `al-`（向） + 词根 `levi`（轻） + `-ate`（动词后缀），意为“使其变轻”，即“减轻”。
-
----
-
-### 6. fluctuation
-**音标**：/ˌflʌktʃuˈeɪʃn/  
-**词性**：n.  
-**中文释义**：波动；起伏；变动  
-**例句**：There are significant **fluctuations** in the stock market.  
-股票市场存在着剧烈的**波动**。  
-**记忆技巧**：词根 `fluctu-`（波浪） + `-ation`（名词后缀），意为“像波浪一样起伏”。
-
----
-
-### 7. robust
-**音标**：/roʊˈbʌst/  
-**词性**：adj.  
-**中文释义**：强健的；坚固的；稳健的  
-**例句**：We need a more **robust** security system.  
-我们需要一个更**稳固的**安全系统。  
-**记忆技巧**：源自拉丁语 `robustus`（橡木做的），橡木坚固，引申为“强健的、稳固的”。
-
----
-
-### 8. discrepancy
-**音标**：/dɪsˈkrepənsi/  
-**词性**：n.  
-**中文释义**：差异；不一致；矛盾  
-**例句**：There is a major **discrepancy** between his words and actions.  
-他的言行之间存在巨大的**差异**。  
-**记忆技巧**：前缀 `dis-`（分开） + 词根 `crep`（咔嗒声），引申为“声音不一致”，即“差异”。
-
----
-
-### 9. relinquish
-**音标**：/rɪˈlɪŋkwɪʃ/  
-**词性**：v.  
-**中文释义**：放弃；交出；让渡  
-**例句**：He reluctantly **relinquished** his claim to the property.  
-他不情愿地**放弃了**对那处房产的所有权。  
-**记忆技巧**：前缀 `re-`（向后） + 词根 `linqu`（离开） + `-ish`（动词后缀），意为“向后离开”，即“放弃”。
-
----
-
-### 10. discreet
-**音标**：/dɪˈskriːt/  
-**词性**：adj.  
-**中文释义**：谨慎的；慎重的；不引人注目的  
-**例句**：Please be **discreet** about this matter; don't tell anyone.  
-请对这件事**谨慎**一些，不要告诉任何人。  
-**记忆技巧**：与 `discrete`（分离的）同源。可以联想：在处理敏感信息时，需要将自己“分开”考虑，即“谨慎”。
-
----
-
-### 11. undermine
-**音标**：/ˌʌndərˈmaɪn/  
-**词性**：v.  
-**中文释义**：暗中破坏；逐渐削弱；损害  
-**例句**：Constant criticism can **undermine** a child's confidence.  
-不断的批评会**削弱**孩子的自信。  
-**记忆技巧**：`under`（在下面） + `mine`（采矿），意为“在下面挖矿”，引申为“从根基上破坏”。
-
----
-
-### 12. resilient
-**音标**：/rɪˈzɪliənt/  
-**词性**：adj.  
-**中文释义**：有韧性的；能恢复的；适应力强的  
-**例句**：Children are often more **resilient** than adults.  
-孩子们通常比成年人更**有韧性**。  
-**记忆技巧**：前缀 `re-`（回） + 词根 `sili`（跳跃） + `-ent`（形容词后缀），意为“能跳回来的”，即“有恢复力的”。
-
----
-
-**✨ 今日学习小结**：
-今天学习的词汇在六级阅读、听力和写作中都非常实用。特别注意 **discreet**（谨慎的）和 **discrete**（分离的）拼写相近但含义不同，以及 **unprecedented** 和 **resilient** 等词在议论文中的高频用法。
-
-**明天预告**：第97天将继续涵盖 `endeavor`、`volatile`、`scrutiny` 等核心词汇。坚持就是胜利！💪
+**学习建议**：今日词汇中，动词和形容词占比较高，建议在例句语境中反复体会其用法，并尝试用每个词造句以加深记忆。坚持积累，量变必将引起质变！加油！
