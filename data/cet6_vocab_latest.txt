@@ -1,144 +1,225 @@
-# 六级高频词汇 · 第97天
+# 📚 六级高频词汇学习 Day 98
 
-以下是为今日（第97天）准备的15个六级高频词汇，涵盖不同词性，适合系统化复习与积累。
-
----
-
-## 1. **prevalent**
-- **音标**：/ˈprevələnt/
-- **词性**：形容词
-- **释义**：流行的；普遍存在的
-- **例句**：
-  - *Misinformation on social media has become **prevalent** in recent years.*  
-    近年来，社交媒体上的错误信息已变得**普遍存在**。
-- **记忆技巧**：词根 `preval-`（意为“占优势、流行”）+ `-ent`（形容词后缀）。联想：信息“pre”（在…之前）就“val”（有力），说明它很**流行**。
-
-## 2. **rigorous**
-- **音标**：/ˈrɪɡərəs/
-- **词性**：形容词
-- **释义**：严格的；缜密的
-- **例句**：
-  - *The experiment was conducted under **rigorous** conditions to ensure data accuracy.*  
-    该实验在**严格的**条件下进行，以确保数据准确性。
-- **记忆技巧**：词根 `rigor`（严酷、严格）+ `-ous`（形容词后缀）。直接联想“rigor”本身表示严格。
-
-## 3. **prosperity**
-- **音标**：/prɑːˈsperəti/
-- **词性**：名词
-- **释义**：繁荣；成功
-- **例句**：
-  - *Education is key to long-term economic **prosperity**.*  
-    教育是实现长期经济**繁荣**的关键。
-- **记忆技巧**：词根 `prosper-`（繁荣）+ `-ity`（名词后缀）。联想：公司“pro”（向前）发展就会“sper”（繁荣）。
-
-## 4. **contempt**
-- **音标**：/kənˈtempt/
-- **词性**：名词
-- **释义**：轻视；藐视
-- **例句**：
-  - *He showed **contempt** for those who did not share his views.*  
-    他**蔑视**那些与他观点不同的人。
-- **记忆技巧**：前缀 `con-`（加强）+ `tempt`（引申为“试探、贬低”）。联想：共同（con）去贬低（tempt）就是**轻视**。
-
-## 5. **elaborate**
-- **音标**：/ɪˈlæbəreɪt/
-- **词性**：动词
-- **释义**：详细阐述；精心制作
-- **例句**：
-  - *Could you **elaborate** on your proposal during the meeting?*  
-    你能在会议上**详细阐述**你的提案吗？
-- **记忆技巧**：前缀 `e-`（出）+ `labor`（劳动）+ `-ate`。联想：通过劳动（labor）把想法“做出来”（e-），就是**精心阐述**。
-
-## 6. **impartial**
-- **音标**：/ɪmˈpɑːrʃəl/
-- **词性**：形容词
-- **释义**：公正的；不偏不倚的
-- **例句**：
-  - *A judge must remain **impartial** when making decisions.*  
-    法官在做裁决时必须保持**公正**。
-- **记忆技巧**：前缀 `im-`（不）+ `partial`（部分的、偏袒的）。联想：不（im）偏袒（partial）任何一方就是**公正**。
-
-## 7. **alleviate**
-- **音标**：/əˈliːvieɪt/
-- **词性**：动词
-- **释义**：减轻；缓和
-- **例句**：
-  - *The new policy aims to **alleviate** poverty in rural areas.*  
-    新政策旨在**减轻**农村地区的贫困。
-- **记忆技巧**：前缀 `al-`（同 ad-，表方向）+ `levi`（轻，如 lever 杠杆）+ `-ate`。联想：让事物变轻（levi），就是**减轻**。
-
-## 8. **deteriorate**
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：动词
-- **释义**：恶化；变坏
-- **例句**：
-  - *Without proper maintenance, the building's condition will **deteriorate** rapidly.*  
-    如果没有适当的维护，建筑物的状况会迅速**恶化**。
-- **记忆技巧**：词根 `deterior`（更坏的，比较级）+ `-ate`。直接联想：情况变得“更坏”（deterior）就是**恶化**。
-
-## 9. **stereotype**
-- **音标**：/ˈsteriətaɪp/
-- **词性**：名词/动词
-- **释义**：刻板印象；对…形成刻板看法
-- **例句**：
-  - *We should avoid **stereotyping** people based on their appearance.*  
-    我们应避免根据外貌对人形成**刻板印象**。
-- **记忆技巧**：词根 `stereo-`（固定的，如 stereo 立体声）+ `type`（类型）。联想：固定（stereo）的类型（type）就是**刻板印象**。
-
-## 10. **advocate**
-- **音标**：/ˈædvəkeɪt/
-- **词性**：动词/名词
-- **释义**：提倡；拥护者
-- **例句**：
-  - *Many scientists **advocate** for stronger climate policies.*  
-    许多科学家**提倡**制定更严格的气候政策。
-- **记忆技巧**：词根 `advoc-`（呼唤、支持）+ `-ate`。联想：公开呼吁（advoc）支持某事就是**提倡**。
-
-## 11. **scrutiny**
-- **音标**：/ˈskruːtəni/
-- **词性**：名词
-- **释义**：仔细检查；监督
-- **例句**：
-  - *The report will be subject to public **scrutiny**.*  
-    该报告将接受公众的**仔细审查**。
-- **记忆技巧**：词根 `scrut-`（检查）+ `-iny`（名词后缀）。联想：与“scroll”（卷轴）相关，古代检查卷轴就是**仔细审查**。
-
-## 12. **fervent**
-- **音标**：/ˈfɜːrvənt/
-- **词性**：形容词
-- **释义**：热情的；强烈的
-- **例句**：
-  - *She is a **fervent** supporter of children's education.*  
-    她是儿童教育**热情的**支持者。
-- **记忆技巧**：词根 `ferv-`（沸腾、发热）+ `-ent`。联想：内心“沸腾”（ferv）的状态就是**热情的**。
-
-## 13. **resilient**
-- **音标**：/rɪˈzɪliənt/
-- **词性**：形容词
-- **释义**：有弹性的；恢复力强的
-- **例句**：
-  - *Children are often more **resilient** than adults in facing setbacks.*  
-    孩子们在面对挫折时往往比成年人更具**恢复力**。
-- **记忆技巧**：词根 `resil-`（反弹、恢复）+ `-ient`。联想：像弹簧一样能“反弹”（resil）就是**有恢复力的**。
-
-## 14. **perpetuate**
-- **音标**：/pərˈpetʃueɪt/
-- **词性**：动词
-- **释义**：使永久化；使延续
-- **例句**：
-  - *Misinformation can **perpetuate** harmful stereotypes.*  
-    错误信息可能会**使**有害的刻板印象**永久化**。
-- **记忆技巧**：词根 `perpetu-`（永久的，如 perpetual）+ `-ate`。联想：让某状态变得“永久”（perpetu）就是**使永久化**。
-
-## 15. **ambiguous**
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：形容词
-- **释义**：模棱两可的；含糊不清的
-- **例句**：
-  - *The manager's **ambiguous** response left everyone confused.*  
-    经理**模棱两可的**回应让所有人都感到困惑。
-- **记忆技巧**：前缀 `ambi-`（两者）+ `guous`（走）。联想：在两者之间“摇摆不定”（ambi-…guous）就是**模棱两可的**。
+以下是今日的15个六级高频词汇，涵盖不同词性，适合日常积累。
 
 ---
 
-**学习建议**：今日词汇中，动词和形容词占比较高，建议在例句语境中反复体会其用法，并尝试用每个词造句以加深记忆。坚持积累，量变必将引起质变！加油！
+### 1. **elaborate**
+- **音标**: /ɪˈlæbərət/
+- **词性**:  
+  - *adj.* 精心制作的；详尽的  
+  - *v.* 详细说明；精心制作
+- **中文释义**:  
+  adj. 复杂而精细的；v. 阐述，展开
+- **例句**:  
+  - She gave an elaborate plan for the project, covering every possible detail.  
+    她为项目制定了一个详尽的计划，涵盖了每一个可能的细节。  
+  - Could you elaborate on your proposal?  
+    你能详细说明一下你的提案吗？
+- **记忆技巧**:  
+  词根 *labor*（劳动）+ 前缀 *e-*（加强）→ 花费大量劳动 → 精心制作/详述。
+
+---
+
+### 2. **vulnerable**
+- **音标**: /ˈvʌlnərəbl/
+- **词性**: *adj.* 脆弱的；易受伤害的
+- **中文释义**: 易受攻击的，有弱点的
+- **例句**:  
+  - Children are particularly vulnerable to infections during winter.  
+    儿童在冬季尤其容易受到感染。  
+  - The system is vulnerable to cyber attacks if not properly updated.  
+    如果系统不及时更新，很容易受到网络攻击。
+- **记忆技巧**:  
+  词根 *vuln*（伤害）+ 后缀 *-able*（能被…的）→ 能被伤害的 → 脆弱的。
+
+---
+
+### 3. **resilient**
+- **音标**: /rɪˈzɪliənt/
+- **词性**: *adj.* 有弹性的；能恢复的；适应力强的
+- **中文释义**: 坚韧的，可迅速恢复的
+- **例句**:  
+  - She showed great resilience after the loss and rebuilt her life.  
+    她在失去后表现出极大的韧性，重建了自己的生活。  
+  - This material is highly resilient to heat and pressure.  
+    这种材料对热和压力有很强的耐受性。
+- **记忆技巧**:  
+  词根 *resilire*（弹回，拉丁语）→ 像弹簧一样弹回 → 韧性强的。
+
+---
+
+### 4. **profound**
+- **音标**: /prəˈfaʊnd/
+- **词性**: *adj.* 深刻的；意义深远的；渊博的
+- **中文释义**: 深切的，极深刻的
+- **例句**:  
+  - The discovery had a profound impact on modern medicine.  
+    这一发现对现代医学产生了深远的影响。  
+  - He has a profound understanding of philosophy.  
+    他对哲学有深刻的理解。
+- **记忆技巧**:  
+  前缀 *pro-*（向前）+ 词根 *found*（底部）→ 深入到底部 → 深刻的。
+
+---
+
+### 5. **contemplate**
+- **音标**: /ˈkɑːntəmpleɪt/
+- **词性**: *v.* 沉思；考虑；注视
+- **中文释义**: 深思熟虑，打算
+- **例句**:  
+  - He sat quietly, contemplating his future.  
+    他静静地坐着，沉思着自己的未来。  
+  - The committee is contemplating new policy changes.  
+    委员会正在考虑新的政策变动。
+- **记忆技巧**:  
+  词根 *con-*（一起）+ *templum*（观察，古罗马占卜场所）→ 在神殿中一起观察思索 → 沉思。
+
+---
+
+### 6. **ambiguous**
+- **音标**: /æmˈbɪɡjuəs/
+- **词性**: *adj.* 模棱两可的；含糊不清的
+- **中文释义**: 含混的，有歧义的
+- **例句**:  
+  - The wording of the contract is rather ambiguous.  
+    合同的措辞相当含糊。  
+  - He gave an ambiguous answer, leaving everyone confused.  
+    他给了一个模棱两可的答案，让大家都很困惑。
+- **记忆技巧**:  
+  词根 *ambi-*（两边）+ *agere*（驱动）→ 同时驱动两边 → 含糊不清。
+
+---
+
+### 7. **scrutinize**
+- **音标**: /ˈskruːtənaɪz/
+- **词性**: *v.* 仔细检查；详细审查
+- **中文释义**: 细察，审查
+- **例句**:  
+  - The inspector scrutinized every detail of the report.  
+    检查员仔细审查了报告的每一个细节。  
+  - All financial records will be scrutinized by auditors.  
+    所有财务记录都将受到审计人员的详细审查。
+- **记忆技巧**:  
+  词根 *scrutinium*（搜查，拉丁语）→ 像侦探一样仔细搜索 → 细致审查。
+
+---
+
+### 8. **nostalgia**
+- **音标**: /nɑːˈstældʒə/
+- **词性**: *n.* 怀旧；乡愁
+- **中文释义**: 对往事的怀念
+- **例句**:  
+  - The old photograph filled her with nostalgia for her childhood.  
+    这张老照片让她充满了对童年的怀旧之情。  
+  - There's a growing sense of nostalgia for traditional values.  
+    人们对传统价值观的怀旧情绪日益增强。
+- **记忆技巧**:  
+  希腊语 *nostos*（回家）+ *algos*（疼痛）→ 想回家而痛 → 怀旧。
+
+---
+
+### 9. **fluctuate**
+- **音标**: /ˈflʌktʃueɪt/
+- **词性**: *v.* 波动；涨落
+- **中文释义**: 起伏不定，动摇
+- **例句**:  
+  - Stock prices fluctuate daily based on market demand.  
+    股价根据市场需求每天波动。  
+  - His mood fluctuates between optimism and pessimism.  
+    他的情绪在乐观和悲观之间摇摆不定。
+- **记忆技巧**:  
+  词根 *flux*（流动）+ 后缀 *-uate* → 不断流动 → 波动。
+
+---
+
+### 10. **ubiquitous**
+- **音标**: /juːˈbɪkwɪtəs/
+- **词性**: *adj.* 无所不在的；普遍存在的
+- **中文释义**: 无处不在的，普及的
+- **例句**:  
+  - Smartphones have become ubiquitous in modern life.  
+    智能手机在现代生活中已无处不在。  
+  - The internet is now a ubiquitous part of society.  
+    互联网现在已成为社会中无处不在的一部分。
+- **记忆技巧**:  
+  词根 *ubique*（到处，拉丁语）→ 在任何地方 → 无所不在。
+
+---
+
+### 11. **tangible**
+- **音标**: /ˈtændʒəbl/
+- **词性**: *adj.* 有形的；可触摸的；确实的
+- **中文释义**: 实际的，可感知的
+- **例句**:  
+  - We need tangible evidence to support our theory.  
+    我们需要确凿的证据来支持我们的理论。  
+  - The company hopes to show tangible results by next quarter.  
+    公司希望下季度能展示出切实的成果。
+- **记忆技巧**:  
+  词根 *tangere*（触摸，拉丁语）→ 可触摸到的 → 有形的。
+
+---
+
+### 12. **procrastinate**
+- **音标**: /prəˈkræstɪneɪt/
+- **词性**: *v.* 拖延；耽搁
+- **中文释义**: 拖延时间，耽搁
+- **例句**:  
+  - Stop procrastinating and start working on your assignment.  
+    别再拖延了，开始做你的作业吧。  
+  - Procrastination often leads to unnecessary stress.  
+    拖延往往会导致不必要的压力。
+- **记忆技巧**:  
+  前缀 *pro-*（向前）+ *crastinus*（明天的，拉丁语）→ 把事情推到明天 → 拖延。
+
+---
+
+### 13. **resilience**
+- **音标**: /rɪˈzɪliəns/
+- **词性**: *n.* 韧性；恢复力；适应力
+- **中文释义**: 弹回力，适应能力
+- **例句**:  
+  - The community showed great resilience after the natural disaster.  
+    社区在自然灾害后表现出极大的韧性。  
+  - Building resilience is key to coping with life's challenges.  
+    培养韧性是应对生活挑战的关键。
+- **记忆技巧**:  
+  来自 *resilient*（坚韧的） → 名词形式，强调“具有弹性的能力”。
+
+---
+
+### 14. **eloquent**
+- **音标**: /ˈeləkwənt/
+- **词性**: *adj.* 雄辩的；有说服力的；意味深长的
+- **中文释义**: 口才流利的，有口才的
+- **例句**:  
+  - She gave an eloquent speech that moved the audience to tears.  
+    她发表了一场雄辩的演讲，感动得观众落泪。  
+  - The painting is an eloquent expression of the artist's feelings.  
+    这幅画是艺术家情感的深刻表达。
+- **记忆技巧**:  
+  词根 *loqui*（说话）+ 前缀 *e-*（出）→ 说出有力量的话 → 雄辩的。
+
+---
+
+### 15. **paradox**
+- **音标**: /ˈpærədɑːks/
+- **词性**: *n.* 矛盾；悖论；似是而非的观点
+- **中文释义**: 矛盾的说法，悖论
+- **例句**:  
+  - It's a paradox that wealth can sometimes bring unhappiness.  
+    财富有时会带来不幸，这真是个矛盾。  
+  - The grandfather paradox is a famous concept in time travel theories.  
+    “祖父悖论”是时间旅行理论中一个著名的概念。
+- **记忆技巧**:  
+  希腊语 *para-*（超越）+ *doxa*（意见）→ 超越常规的意见 → 矛盾/悖论。
+
+---
+
+### 📌 今日复习要点  
+1. 注意 **ambiguous** 与 **vague** 的区别：ambiguous 强调“歧义”，vague 强调“模糊不清”。  
+2. **profound** 和 **deep** 均可表示“深”，但 profound 更强调“意义深远”。  
+3. **ubiquitous** 通常用于正式语境，形容事物“无处不在”。
+
+坚持积累，词汇量会稳步提升！💪
