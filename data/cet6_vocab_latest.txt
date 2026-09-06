@@ -1,139 +1,186 @@
-# 六级高频词汇学习 - 第99天
-
-## 1. ubiquitous
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：adj.
-- **中文释义**：无所不在的，普遍存在的
-- **例句**：
-  - Smartphones have become **ubiquitous** in modern society.
-    （智能手机在现代社会已经无处不在。）
-- **记忆技巧**：词根“ubiquit”（拉丁语“在哪里”），后缀“-ous”表示形容词→“无论在哪里都有的”→无处不在
-
-## 2. paradigm
-- **音标**：/ˈpærədaɪm/
-- **词性**：n.
-- **中文释义**：范式，典范，模式
-- **例句**：
-  - The discovery created a new **paradigm** in physics.
-    （这一发现在物理学中创造了一个新范式。）
-- **记忆技巧**：源自希腊语“paradeigma”（示例），para（旁边）+ deiknunai（展示）→展示出来供参考的模式
-
-## 3. exacerbate
-- **音标**：/ɪɡˈzæsərbeɪt/
-- **词性**：v.
-- **中文释义**：加剧，使恶化
-- **例句**：
-  - The drought **exacerbated** the food shortage.
-    （干旱加剧了粮食短缺。）
-- **记忆技巧**：ex-（加强）+ acerb（尖锐的）+ -ate（动词）→使更加尖锐→使恶化
-
-## 4. ephemeral
-- **音标**：/ɪˈfemərəl/
-- **词性**：adj.
-- **中文释义**：短暂的，瞬息的
-- **例句**：
-  - Fame is often **ephemeral**.
-    （名声往往是短暂的。）
-- **记忆技巧**：源自希腊语“ephemeros”（一天的）→epi（在…上）+ hemera（日）→仅持续一天
-
-## 5. alleviate
-- **音标**：/əˈliːvieɪt/
-- **词性**：v.
-- **中文释义**：减轻，缓和
-- **例句**：
-  - The medicine helped to **alleviate** the pain.
-    （这种药有助于减轻疼痛。）
-- **记忆技巧**：al-（加强）+ levi（轻的，源自levitate漂浮）+ -ate（动词）→使变轻→减轻
-
-## 6. pragmatic
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.
-- **中文释义**：务实的，注重实效的
-- **例句**：
-  - We need a more **pragmatic** approach to this problem.
-    （我们需要一种更务实的方法来解决这个问题。）
-- **记忆技巧**：源自希腊语“pragmatikos”（关于行动的）→pragma（行动）→注重实际行动的
-
-## 7. resilient
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.
-- **中文释义**：有弹性的，适应力强的
-- **例句**：
-  - Children are often more **resilient** than adults.
-    （儿童通常比成年人更有韧性。）
-- **记忆技巧**：re-（回）+ sil（跳跃，源自salire）+ -ient（形容词）→能跳回原状→有弹性的
-
-## 8. meticulous
-- **音标**：/məˈtɪkjələs/
-- **词性**：adj.
-- **中文释义**：一丝不苟的，细致的
-- **例句**：
-  - She is **meticulous** in her research.
-    （她的研究非常细致入微。）
-- **记忆技巧**：源自拉丁语“meticulosus”（胆小的）→引申为过分小心→细致认真
-
-## 9. proliferation
-- **音标**：/prəˌlɪfəˈreɪʃn/
-- **词性**：n.
-- **中文释义**：激增，扩散，增殖
-- **例句**：
-  - The **proliferation** of social media has changed communication.
-    （社交媒体的激增改变了人们的沟通方式。）
-- **记忆技巧**：pro-（向前）+ lifer（生命，源自life）+ -ation（名词）→生命向前扩散→增殖
-
-## 10. arbitrary
-- **音标**：/ˈɑːrbɪtreri/
-- **词性**：adj.
-- **中文释义**：任意的，武断的
-- **例句**：
-  - The decision seemed completely **arbitrary**.
-    （这个决定看起来完全是武断的。）
-- **记忆技巧**：源自拉丁语“arbitrarius”（依赖于判断的）→由个人判断决定→武断的
-
-## 11. conundrum
-- **音标**：/kəˈnʌndrəm/
-- **词性**：n.
-- **中文释义**：难题，复杂问题
-- **例句**：
-  - This presents a real **conundrum** for policymakers.
-    （这对政策制定者来说真是个难题。）
-- **记忆技巧**：可能与拉丁语“conundrum”（玩笑）有关→需要动脑筋解决的问题→难题
-
-## 12. exacerbate
-- **音标**：/ɪɡˈzæsərbeɪt/
-- **词性**：v.
-- **中文释义**：加剧，使恶化
-- **例句**：
-  - His comments only served to **exacerbate** the situation.
-    （他的评论只会使情况恶化。）
-- **记忆技巧**：ex-（加强）+ acerb（尖锐）+ -ate → 使更尖锐 → 使恶化
-
-## 13. ubiquitous
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：adj.
-- **中文释义**：无处不在的
-- **例句**：
-  - Coffee shops are **ubiquitous** in this neighborhood.
-    （这个街区到处都是咖啡馆。）
-- **记忆技巧**：u-bi-quit-ous → “you be quit us” → 你离不开我们 → 无处不在
-
-## 14. paradigm
-- **音标**：/ˈpærədaɪm/
-- **词性**：n.
-- **中文释义**：范例，模式
-- **例句**：
-  - This represents a new **paradigm** in education.
-    （这代表了教育领域的新模式。）
-- **记忆技巧**：pair-a-dime → 一对硬币 → 成为标准 → 范例
-
-## 15. meticulous
-- **音标**：/məˈtɪkjələs/
-- **词性**：adj.
-- **中文释义**：一丝不苟的
-- **例句**：
-  - His **meticulous** attention to detail is impressive.
-    （他对细节一丝不苟的关注令人印象深刻。）
-- **记忆技巧**：me-tic-u-lous → “我踢哭了” → 踢到细节到哭 → 一丝不苟
+# 六级高频词汇学习 | 第100天
 
 ---
-**学习提示**：建议结合例句反复朗读，并尝试用这些词汇造句，以加深记忆和理解。
+
+### 1. **abandon**
+**音标**: /əˈbændən/  
+**词性**: v.  
+**释义**: 放弃；抛弃；遗弃  
+**例句**:  
+- The crew had to **abandon** the sinking ship in the freezing ocean.  
+  船员们不得不在冰冷的海洋中弃船逃生。  
+**记忆技巧**:  
+  联想“一帮人”(谐音)都放弃了这项任务。  
+
+---
+
+### 2. **abstract**
+**音标**: /ˈæbstrækt/  
+**词性**: adj./n.  
+**释义**: 抽象的；摘要；抽象概念  
+**例句**:  
+- The professor asked us to write an **abstract** for our research paper.  
+  教授要求我们为研究论文撰写一份摘要。  
+**记忆技巧**:  
+  词根 *abs-* (脱离) + *tract* (拖拽) → 从具体事物中“拖拽”出来的概念，即抽象。  
+
+---
+
+### 3. **ambiguous**
+**音标**: /æmˈbɪɡjuəs/  
+**词性**: adj.  
+**释义**: 模棱两可的；含混不清的  
+**例句**:  
+- His **ambiguous** reply left everyone confused about his true intentions.  
+  他模棱两可的回复让大家对他真实意图感到困惑。  
+**记忆技巧**:  
+  前缀 *ambi-* (两边) + *guous* (…的) → 在两边摇摆不定，即含糊。  
+
+---
+
+### 4. **anticipate**
+**音标**: /ænˈtɪsɪpeɪt/  
+**词性**: v.  
+**释义**: 预料；期望；抢先行动  
+**例句**:  
+- We **anticipate** a significant increase in demand during the holiday season.  
+  我们预计在假期期间需求将大幅增长。  
+**记忆技巧**:  
+  词根 *anti-* (前) + *cip* (抓) + *ate* → 提前抓住（趋势），即预料。  
+
+---
+
+### 5. **apparatus**
+**音标**: /ˌæpəˈreɪtəs/  
+**词性**: n.  
+**释义**: 器械；设备；机构  
+**例句**:  
+- The laboratory is equipped with advanced scientific **apparatus**.  
+  实验室配备了先进的科学仪器。  
+**记忆技巧**:  
+  联想 *appar-* (出现) + *atus* (名词后缀) → 让事物“出现”的工具。  
+
+---
+
+### 6. **bias**
+**音标**: /ˈbaɪəs/  
+**词性**: n./v.  
+**释义**: 偏见；偏袒；使有偏见  
+**例句**:  
+- Media coverage can sometimes introduce **bias** into public opinion.  
+  媒体报道有时会给公众舆论带来偏见。  
+**记忆技巧**:  
+  联想“拜”(bài) 他，说明有偏爱，引申为偏见。  
+
+---
+
+### 7. **candid**
+**音标**: /ˈkændɪd/  
+**词性**: adj.  
+**释义**: 坦率的；直言不讳的  
+**例句**:  
+- She gave a **candid** assessment of the project’s shortcomings.  
+  她对项目的缺点进行了坦率的评估。  
+**记忆技巧**:  
+  联想 *can* (能) + *did* (做) → 能做到坦诚直率。  
+
+---
+
+### 8. **chronic**
+**音标**: /ˈkrɑːnɪk/  
+**词性**: adj.  
+**释义**: 慢性的；长期的；习惯性的  
+**例句**:  
+- He suffers from **chronic** back pain that limits his mobility.  
+  他患有慢性背痛，行动受限。  
+**记忆技巧**:  
+  词根 *chron-* (时间) → 长时间持续的，即慢性。  
+
+---
+
+### 9. **coherent**
+**音标**: /koʊˈhɪrənt/  
+**词性**: adj.  
+**释义**: 连贯的；有条理的  
+**例句**:  
+- The essay presents a **coherent** argument supported by evidence.  
+  这篇文章提出了一个有证据支持的连贯论点。  
+**记忆技巧**:  
+  词根 *co-* (共同) + *here* (粘) → 粘在一起，即连贯。  
+
+---
+
+### 10. **consensus**
+**音标**: /kənˈsensəs/  
+**词性**: n.  
+**释义**: 共识；一致意见  
+**例句**:  
+- After hours of debate, the committee finally reached a **consensus**.  
+  经过数小时的辩论，委员会最终达成了一致意见。  
+**记忆技巧**:  
+  词根 *con-* (共同) + *sensus* (感觉) → 共同感觉，即共识。  
+
+---
+
+### 11. **controversial**
+**音标**: /ˌkɑːntrəˈvɜːrʃl/  
+**词性**: adj.  
+**释义**: 有争议的；引发争论的  
+**例句**:  
+- The new policy has sparked a **controversial** debate among citizens.  
+  新政策在公民中引发了一场有争议的辩论。  
+**记忆技巧**:  
+  词根 *contra-* (相反) + *vers* (转) + *ial* → 向相反方向转，即引发争论。  
+
+---
+
+### 12. **dilemma**
+**音标**: /dɪˈlemə/  
+**词性**: n.  
+**释义**: 困境；进退两难  
+**例句**:  
+- She faced a **dilemma** between accepting the job or staying in school.  
+  她面临接受工作还是继续上学的两难境地。  
+**记忆技巧**:  
+  联想 *di-* (两个) + *lemma* (问题) → 两个问题同时出现，进退两难。  
+
+---
+
+### 13. **elaborate**
+**音标**: /ɪˈlæbəreɪt/  
+**词性**: adj./v.  
+**释义**: 精心制作的；详细阐述  
+**例句**:  
+- Could you **elaborate** on your proposal? The details aren’t clear.  
+  你能详细阐述一下你的提案吗？细节还不清楚。  
+**记忆技巧**:  
+  词根 *e-* (出) + *labor* (劳动) + *ate* → 花费大量劳动做出来的，即精心制作。  
+
+---
+
+### 14. **enhance**
+**音标**: /ɪnˈhæns/  
+**词性**: v.  
+**释义**: 增强；提高；改善  
+**例句**:  
+- Adding spices can **enhance** the flavor of the dish.  
+  添加香料可以增强菜肴的风味。  
+**记忆技巧**:  
+  联想 *en-* (使) + *hance* (高) → 使变高，即增强。  
+
+---
+
+### 15. **feasible**
+**音标**: /ˈfiːzəbl/  
+**词性**: adj.  
+**释义**: 可行的；可能的  
+**例句**:  
+- The engineers confirmed that the design was technically **feasible**.  
+  工程师确认该设计在技术上是可行的。  
+**记忆技巧**:  
+  词根 *feas-* (做) + *ible* (能…的) → 能够做成的，即可行。  
+
+---
+
+📌 **今日学习提示**：  
+建议结合例句朗读单词，并尝试用每个新词造一个与自己生活相关的句子，加深记忆。坚持第100天，你的词汇量已有显著积累，继续加油！
