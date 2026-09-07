@@ -1,186 +1,175 @@
-# 六级高频词汇学习 | 第100天
+# 六级高频词汇学习 - 第101天
 
 ---
 
-### 1. **abandon**
-**音标**: /əˈbændən/  
-**词性**: v.  
-**释义**: 放弃；抛弃；遗弃  
-**例句**:  
-- The crew had to **abandon** the sinking ship in the freezing ocean.  
-  船员们不得不在冰冷的海洋中弃船逃生。  
-**记忆技巧**:  
-  联想“一帮人”(谐音)都放弃了这项任务。  
+## 1. **ambiguous**
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：形容词 (adj.)  
+**中文释义**：模糊不清的；模棱两可的  
+**例句**：  
+- The instructions were so ambiguous that nobody understood them.  
+  （说明书写得如此模糊，以至于没人看懂。）  
+**记忆技巧**：词根“ambi-”表示“两者之间”，加上“guous”联想为“故意含糊其辞”，即“模棱两可的”。
 
 ---
 
-### 2. **abstract**
-**音标**: /ˈæbstrækt/  
-**词性**: adj./n.  
-**释义**: 抽象的；摘要；抽象概念  
-**例句**:  
-- The professor asked us to write an **abstract** for our research paper.  
-  教授要求我们为研究论文撰写一份摘要。  
-**记忆技巧**:  
-  词根 *abs-* (脱离) + *tract* (拖拽) → 从具体事物中“拖拽”出来的概念，即抽象。  
+## 2. **pragmatic**
+**音标**：/præɡˈmætɪk/  
+**词性**：形容词 (adj.)  
+**中文释义**：务实的；实用主义的  
+**例句**：  
+- She took a pragmatic approach to solving the budget crisis.  
+  （她采取务实的方法解决预算危机。）  
+**记忆技巧**：源自“pragma”（实际事务），联想“pragmatic的人总是先考虑现实问题”。
 
 ---
 
-### 3. **ambiguous**
-**音标**: /æmˈbɪɡjuəs/  
-**词性**: adj.  
-**释义**: 模棱两可的；含混不清的  
-**例句**:  
-- His **ambiguous** reply left everyone confused about his true intentions.  
-  他模棱两可的回复让大家对他真实意图感到困惑。  
-**记忆技巧**:  
-  前缀 *ambi-* (两边) + *guous* (…的) → 在两边摇摆不定，即含糊。  
+## 3. **resilient**
+**音标**：/rɪˈzɪliənt/  
+**词性**：形容词 (adj.)  
+**中文释义**：有弹性的；能恢复的；适应力强的  
+**例句**：  
+- Children are often more resilient than adults in coping with stress.  
+  （儿童在应对压力时往往比成人更有韧性。）  
+**记忆技巧**：词根“sili-”表示“跳跃”，联想“能从挫折中跳起来恢复” → 韧性强。
 
 ---
 
-### 4. **anticipate**
-**音标**: /ænˈtɪsɪpeɪt/  
-**词性**: v.  
-**释义**: 预料；期望；抢先行动  
-**例句**:  
-- We **anticipate** a significant increase in demand during the holiday season.  
-  我们预计在假期期间需求将大幅增长。  
-**记忆技巧**:  
-  词根 *anti-* (前) + *cip* (抓) + *ate* → 提前抓住（趋势），即预料。  
+## 4. **curtail**
+**音标**：/kɜːrˈteɪl/  
+**词性**：动词 (v.)  
+**中文释义**：削减；缩短；剥夺  
+**例句**：  
+- The government plans to curtail spending on defense.  
+  （政府计划削减国防开支。）  
+**记忆技巧**：联想“curtain（窗帘）拉上” → 缩短了视野 → 削减。
 
 ---
 
-### 5. **apparatus**
-**音标**: /ˌæpəˈreɪtəs/  
-**词性**: n.  
-**释义**: 器械；设备；机构  
-**例句**:  
-- The laboratory is equipped with advanced scientific **apparatus**.  
-  实验室配备了先进的科学仪器。  
-**记忆技巧**:  
-  联想 *appar-* (出现) + *atus* (名词后缀) → 让事物“出现”的工具。  
+## 5. **eloquent**
+**音标**：/ˈeləkwənt/  
+**词性**：形容词 (adj.)  
+**中文释义**：雄辩的；有说服力的；意味深长的  
+**例句**：  
+- She gave an eloquent speech that moved the audience to tears.  
+  （她发表了雄辩的演讲，感动得观众落泪。）  
+**记忆技巧**：词根“loqu”表示“说话”，e（出）+ loquent → 说出精彩的话 → 雄辩的。
 
 ---
 
-### 6. **bias**
-**音标**: /ˈbaɪəs/  
-**词性**: n./v.  
-**释义**: 偏见；偏袒；使有偏见  
-**例句**:  
-- Media coverage can sometimes introduce **bias** into public opinion.  
-  媒体报道有时会给公众舆论带来偏见。  
-**记忆技巧**:  
-  联想“拜”(bài) 他，说明有偏爱，引申为偏见。  
+## 6. **proliferate**
+**音标**：/prəˈlɪfəreɪt/  
+**词性**：动词 (v.)  
+**中文释义**：激增；扩散；繁殖  
+**例句**：  
+- Fake news proliferates rapidly on social media.  
+  （假新闻在社交媒体上迅速扩散。）  
+**记忆技巧**：词根“pro-”（向前）+ “lifer”（生命） → 生命向前扩展 → 激增。
 
 ---
 
-### 7. **candid**
-**音标**: /ˈkændɪd/  
-**词性**: adj.  
-**释义**: 坦率的；直言不讳的  
-**例句**:  
-- She gave a **candid** assessment of the project’s shortcomings.  
-  她对项目的缺点进行了坦率的评估。  
-**记忆技巧**:  
-  联想 *can* (能) + *did* (做) → 能做到坦诚直率。  
+## 7. **scrutiny**
+**音标**：/ˈskruːtəni/  
+**词性**：名词 (n.)  
+**中文释义**：仔细审查；监督；监视  
+**例句**：  
+- The financial records of the company are under close scrutiny.  
+  （公司的财务记录正受到严密审查。）  
+**记忆技巧**：联想“screen（屏幕）+ tiny（微小）” → 在屏幕上仔细检查每个细节 → 审查。
 
 ---
 
-### 8. **chronic**
-**音标**: /ˈkrɑːnɪk/  
-**词性**: adj.  
-**释义**: 慢性的；长期的；习惯性的  
-**例句**:  
-- He suffers from **chronic** back pain that limits his mobility.  
-  他患有慢性背痛，行动受限。  
-**记忆技巧**:  
-  词根 *chron-* (时间) → 长时间持续的，即慢性。  
+## 8. **vulnerable**
+**音标**：/ˈvʌlnərəbl/  
+**词性**：形容词 (adj.)  
+**中文释义**：脆弱的；易受伤的；易受攻击的  
+**例句**：  
+- The software is vulnerable to cyberattacks.  
+  （这个软件容易受到网络攻击。）  
+**记忆技巧**：词根“vulner”（伤口），+ “able”（能够） → 容易受伤的。
 
 ---
 
-### 9. **coherent**
-**音标**: /koʊˈhɪrənt/  
-**词性**: adj.  
-**释义**: 连贯的；有条理的  
-**例句**:  
-- The essay presents a **coherent** argument supported by evidence.  
-  这篇文章提出了一个有证据支持的连贯论点。  
-**记忆技巧**:  
-  词根 *co-* (共同) + *here* (粘) → 粘在一起，即连贯。  
+## 9. **lethargic**
+**音标**：/ləˈθɑːrdʒɪk/  
+**词性**：形容词 (adj.)  
+**中文释义**：昏昏欲睡的；无精打采的；懒散的  
+**例句**：  
+- After the heavy meal, he felt lethargic and unable to focus.  
+  （饱餐一顿后，他昏昏欲睡，无法集中注意力。）  
+**记忆技巧**：联想“lethal（致命的）+ energetic（精力充沛的）”的反义 → 没精打采的。
 
 ---
 
-### 10. **consensus**
-**音标**: /kənˈsensəs/  
-**词性**: n.  
-**释义**: 共识；一致意见  
-**例句**:  
-- After hours of debate, the committee finally reached a **consensus**.  
-  经过数小时的辩论，委员会最终达成了一致意见。  
-**记忆技巧**:  
-  词根 *con-* (共同) + *sensus* (感觉) → 共同感觉，即共识。  
+## 10. **acumen**
+**音标**：/ˈækjəmən/  
+**词性**：名词 (n.)  
+**中文释义**：敏锐；精明；聪明  
+**例句**：  
+- Her business acumen helped the company grow rapidly.  
+  （她的商业敏锐度帮助公司迅速发展。）  
+**记忆技巧**：联想“acu-（尖锐）”+ “men” → 思维尖锐的人 → 敏锐。
 
 ---
 
-### 11. **controversial**
-**音标**: /ˌkɑːntrəˈvɜːrʃl/  
-**词性**: adj.  
-**释义**: 有争议的；引发争论的  
-**例句**:  
-- The new policy has sparked a **controversial** debate among citizens.  
-  新政策在公民中引发了一场有争议的辩论。  
-**记忆技巧**:  
-  词根 *contra-* (相反) + *vers* (转) + *ial* → 向相反方向转，即引发争论。  
+## 11. **subsidize**
+**音标**：/ˈsʌbsɪdaɪz/  
+**词性**：动词 (v.)  
+**中文释义**：资助；补贴；给予津贴  
+**例句**：  
+- The government subsidizes renewable energy projects.  
+  （政府为可再生能源项目提供补贴。）  
+**记忆技巧**：联想“sub-（下面）+ side（旁边）” → 在下面给予支持 → 资助。
 
 ---
 
-### 12. **dilemma**
-**音标**: /dɪˈlemə/  
-**词性**: n.  
-**释义**: 困境；进退两难  
-**例句**:  
-- She faced a **dilemma** between accepting the job or staying in school.  
-  她面临接受工作还是继续上学的两难境地。  
-**记忆技巧**:  
-  联想 *di-* (两个) + *lemma* (问题) → 两个问题同时出现，进退两难。  
+## 12. **meticulous**
+**音标**：/məˈtɪkjələs/  
+**词性**：形容词 (adj.)  
+**中文释义**：一丝不苟的；细致的；挑剔的  
+**例句**：  
+- He is meticulous about keeping his workspace clean.  
+  （他对保持工作台整洁一丝不苟。）  
+**记忆技巧**：联想“metro（米）+ lic” → 测量精确到米 → 一丝不苟。
 
 ---
 
-### 13. **elaborate**
-**音标**: /ɪˈlæbəreɪt/  
-**词性**: adj./v.  
-**释义**: 精心制作的；详细阐述  
-**例句**:  
-- Could you **elaborate** on your proposal? The details aren’t clear.  
-  你能详细阐述一下你的提案吗？细节还不清楚。  
-**记忆技巧**:  
-  词根 *e-* (出) + *labor* (劳动) + *ate* → 花费大量劳动做出来的，即精心制作。  
+## 13. **sporadic**
+**音标**：/spəˈrædɪk/  
+**词性**：形容词 (adj.)  
+**中文释义**：零星的；断断续续的；偶尔发生的  
+**例句**：  
+- There were sporadic outbreaks of violence during the protest.  
+  （抗议活动期间发生了零星的暴力事件。）  
+**记忆技巧**：联想“spore（孢子）” → 像孢子一样散落、不连续 → 零星的。
 
 ---
 
-### 14. **enhance**
-**音标**: /ɪnˈhæns/  
-**词性**: v.  
-**释义**: 增强；提高；改善  
-**例句**:  
-- Adding spices can **enhance** the flavor of the dish.  
-  添加香料可以增强菜肴的风味。  
-**记忆技巧**:  
-  联想 *en-* (使) + *hance* (高) → 使变高，即增强。  
+## 14. **conducive**
+**音标**：/kənˈduːsɪv/  
+**词性**：形容词 (adj.)  
+**中文释义**：有助于……的；有利于……的  
+**例句**：  
+- A quiet environment is conducive to studying.  
+  （安静的环境有助于学习。）  
+**记忆技巧**：词根“con-”（共同）+ “duc”（引导） → 引导走向好的结果 → 有利于的。
 
 ---
 
-### 15. **feasible**
-**音标**: /ˈfiːzəbl/  
-**词性**: adj.  
-**释义**: 可行的；可能的  
-**例句**:  
-- The engineers confirmed that the design was technically **feasible**.  
-  工程师确认该设计在技术上是可行的。  
-**记忆技巧**:  
-  词根 *feas-* (做) + *ible* (能…的) → 能够做成的，即可行。  
+## 15. **overwhelm**
+**音标**：/ˌoʊvərˈwelm/  
+**词性**：动词 (v.)  
+**中文释义**：压倒；使应接不暇；使不知所措  
+**例句**：  
+- The amount of work on the first day overwhelmed her.  
+  （第一天的工作量让她应接不暇。）  
+**记忆技巧**：联想“over（过度）+ whelm（淹没）” → 被淹没 → 不知所措。
 
 ---
 
-📌 **今日学习提示**：  
-建议结合例句朗读单词，并尝试用每个新词造一个与自己生活相关的句子，加深记忆。坚持第100天，你的词汇量已有显著积累，继续加油！
+**学习建议**：  
+1. 每天坚持复习，结合例句加深印象。  
+2. 使用单词本记录难词，并定期回顾。  
+3. 尝试在写作或口语中主动使用这些词汇。  
+
+祝你备考顺利！ 📚✨
