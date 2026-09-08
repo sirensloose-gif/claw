@@ -1,175 +1,109 @@
-# 六级高频词汇学习 - 第101天
+# 📚 六级词汇每日打卡：第102天
+
+坚持就是胜利！又到了今天的学习时间，为你精选了12个六级高频词汇，涵盖多种词性。请大声朗读，用心记忆，并尝试用它们造句哦！
 
 ---
 
-## 1. **ambiguous**
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：形容词 (adj.)  
-**中文释义**：模糊不清的；模棱两可的  
-**例句**：  
-- The instructions were so ambiguous that nobody understood them.  
-  （说明书写得如此模糊，以至于没人看懂。）  
-**记忆技巧**：词根“ambi-”表示“两者之间”，加上“guous”联想为“故意含糊其辞”，即“模棱两可的”。
+### 1. **contemplate** /ˈkɑːntəmpleɪt/
+*   **词性**：v.
+*   **中文释义**：沉思，深思熟虑；打算，考虑；注视，凝视。
+*   **例句**：
+    *   *She sat by the window, **contemplating** the meaning of life.* （她坐在窗边，**沉思**着人生的意义。）
+    *   *We are **contemplating** a major restructuring of the company.* （我们正在**考虑**对公司进行重大重组。）
+*   **记忆技巧**：词根 `templ`（寺庙，引申为“供思考的地方”） + `con-`（共同） + `-ate`。可以联想：在寺庙（templ）里共同（con-）静坐思考（contemplate）。
+
+### 2. **fluctuate** /ˈflʌktʃueɪt/
+*   **词性**：v.
+*   **中文释义**：波动，起伏不定；动摇，涨落。
+*   **例句**：
+    *   *Oil prices **fluctuate** depending on the global supply and demand.* （石油价格根据全球供需关系而**波动**。）
+    *   *His confidence **fluctuated** throughout the long interview.* （在漫长的面试中，他的自信心**时有时无**。）
+*   **记忆技巧**：词根 `flu`（流） + `-ctu-` + `-ate`。像水流（flu）一样**起伏不定**。
+
+### 3. **integrity** /ɪnˈteɡrəti/
+*   **词性**：n.
+*   **中文释义**：正直，诚实；完整，完善。
+*   **例句**：
+    *   *A journalist must maintain both professional **integrity** and accuracy.* （记者必须保持职业**操守**和准确性。）
+    *   *The **integrity** of the ancient building was remarkably well-preserved.* （这座古建筑的**完整性**保存得非常好。）
+*   **记忆技巧**：形容词 `integrate`（整合，使完整）的名词形式。一个**正直**的人，其人格是**完整**的。
+
+### 4. **prerequisite** /priːˈrekwəzɪt/
+*   **词性**：n.
+*   **中文释义**：先决条件，前提。
+*   **例句**：
+    *   *Basic computer literacy is a **prerequisite** for this job.* （基本的计算机应用能力是这份工作的**先决条件**。）
+    *   *Trust is a **prerequisite** for a healthy relationship.* （信任是健康关系的**前提**。）
+*   **记忆技巧**：`pre-`（预先） + `requisite`（必需品）。预先必需的东西，即**前提**。
+
+### 5. **vulnerable** /ˈvʌlnərəbl/
+*   **词性**：adj.
+*   **中文释义**：脆弱的，易受伤的；易受攻击的，易受伤害的。
+*   **例句**：
+    *   *Children and the elderly are especially **vulnerable** to extreme weather.* （儿童和老人尤其容易受到极端天气的**伤害**。）
+    *   *He felt emotionally **vulnerable** after the breakup.* （分手后他感到情感上**很脆弱**。）
+*   **记忆技巧**：词根 `vulner`（伤口，来自拉丁语 `vulnus`）。有“伤口”的，自然是**脆弱的**。
+
+### 6. **negotiate** /nɪˈɡoʊʃieɪt/
+*   **词性**：v.
+*   **中文释义**：谈判，协商；成功越过，成功应对。
+*   **例句**：
+    *   *The union is **negotiating** with management for higher wages.* （工会正在与管理层**谈判**以争取更高工资。）
+    *   *She skillfully **negotiated** the difficult terrain in her car.* （她熟练地**驾车通过**了崎岖的地形。）
+*   **记忆技巧**：来自拉丁语 `negotiatus`（从事商业）。商业活动离不开**谈判**。
+
+### 7. **phenomenon** /fəˈnɑːmɪnɑːn/
+*   **词性**：n.
+*   **中文释义**：现象；杰出的人（或事物）。
+*   **例句**：
+    *   *The Northern Lights are a spectacular natural **phenomenon**.* （北极光是一种壮观的自然**现象**。）
+    *   *The young pianist is considered a musical **phenomenon**.* （这位年轻的钢琴家被认为是音乐界的**奇才**。）
+*   **记忆技巧**：复数形式为 `phenomena`。`pheno-`（显示） + `-menon`（被…的东西）。显示出来的东西，即**现象**。
+
+### 8. **resilient** /rɪˈzɪliənt/
+*   **词性**：adj.
+*   **中文释义**：有弹性的；能迅速恢复的，适应性强的。
+*   **例句**：
+    *   *Children are often more **resilient** than adults in adapting to change.* （孩子在适应变化方面往往比成人更有**韧性**。）
+    *   *This material is **resilient** and can withstand high pressure.* （这种材料**有弹性**，能承受高压。）
+*   **记忆技巧**：词根 `sali`（跳） + `re-`（回） + `-ient`。能“跳回来”，即**有恢复力的**。
+
+### 9. **subtle** /ˈsʌtl/
+*   **词性**：adj.
+*   **中文释义**：微妙的，细微的；精巧的，巧妙的；敏感的，敏锐的。
+*   **例句**：
+    *   *There is a **subtle** difference between “envy” and “jealousy”.* （“羡慕”和“嫉妒”之间有**微妙的**差别。）
+    *   *He gave a **subtle** hint that it was time to leave.* （他**巧妙地**暗示是时候离开了。）
+*   **记忆技巧**：注意 `b` 不发音。可以联想：需要“**sub**”（潜入）到细节中才能发现的东西，是**微妙的**。
+
+### 10. **terminate** /ˈtɜːrmɪneɪt/
+*   **词性**：v.
+*   **中文释义**：终止，结束；解雇。
+*   **例句**：
+    *   *The company decided to **terminate** the contract due to a breach of terms.* （由于对方违约，公司决定**终止**合同。）
+    *   *He was **terminated** from his position for poor performance.* （他因表现不佳被**解雇**了。）
+*   **记忆技巧**：词根 `termin`（界限，终点，如 `terminal` 终端）。到达**终点**，即**结束**。
+
+### 11. **arduous** /ˈɑːrdʒuəs/
+*   **词性**：adj.
+*   **中文释义**：艰巨的，困难的；努力的，费力的。
+*   **例句**：
+    *   *The climb to the summit was long and **arduous**.* （通往顶峰的攀登漫长而**艰苦**。）
+    *   *Writing a thesis is an **arduous** task that requires dedication.* （写论文是一项需要奉献精神的**艰巨任务**。）
+*   **记忆技巧**：词根 `ard-`（燃烧，如 `ardent` 热烈的）。像在火中行走一样**艰苦**。
+
+### 12. **simultaneously** /ˌsaɪmlˈteɪniəsli/
+*   **词性**：adv.
+*   **中文释义**：同时地。
+*   **例句**：
+    *   *The two events occurred **simultaneously**, causing confusion.* （两起事件**同时**发生，引起了混乱。）
+    *   *She was speaking French and German **simultaneously**.* （她**同时**说法语和德语。）
+*   **记忆技巧**：形容词 `simultaneous` 的副词形式。`simul-`（相同，如 `similar`） + `-aneous`。在**相同时间**发生的，即**同时地**。
 
 ---
+> **今日学习小贴士**：
+> 1.  **尝试造句**：选2-3个新词，结合自己的生活造句，记忆会更深刻。
+> 2.  **词族拓展**：学习一个词时，顺带了解它的派生词，例如 `integrity` (n.) -> `integral` (adj.)。
+> 3.  **定期复习**：今天的词可以和前几天（如第101天）的词一起回顾，强化记忆曲线。
 
-## 2. **pragmatic**
-**音标**：/præɡˈmætɪk/  
-**词性**：形容词 (adj.)  
-**中文释义**：务实的；实用主义的  
-**例句**：  
-- She took a pragmatic approach to solving the budget crisis.  
-  （她采取务实的方法解决预算危机。）  
-**记忆技巧**：源自“pragma”（实际事务），联想“pragmatic的人总是先考虑现实问题”。
-
----
-
-## 3. **resilient**
-**音标**：/rɪˈzɪliənt/  
-**词性**：形容词 (adj.)  
-**中文释义**：有弹性的；能恢复的；适应力强的  
-**例句**：  
-- Children are often more resilient than adults in coping with stress.  
-  （儿童在应对压力时往往比成人更有韧性。）  
-**记忆技巧**：词根“sili-”表示“跳跃”，联想“能从挫折中跳起来恢复” → 韧性强。
-
----
-
-## 4. **curtail**
-**音标**：/kɜːrˈteɪl/  
-**词性**：动词 (v.)  
-**中文释义**：削减；缩短；剥夺  
-**例句**：  
-- The government plans to curtail spending on defense.  
-  （政府计划削减国防开支。）  
-**记忆技巧**：联想“curtain（窗帘）拉上” → 缩短了视野 → 削减。
-
----
-
-## 5. **eloquent**
-**音标**：/ˈeləkwənt/  
-**词性**：形容词 (adj.)  
-**中文释义**：雄辩的；有说服力的；意味深长的  
-**例句**：  
-- She gave an eloquent speech that moved the audience to tears.  
-  （她发表了雄辩的演讲，感动得观众落泪。）  
-**记忆技巧**：词根“loqu”表示“说话”，e（出）+ loquent → 说出精彩的话 → 雄辩的。
-
----
-
-## 6. **proliferate**
-**音标**：/prəˈlɪfəreɪt/  
-**词性**：动词 (v.)  
-**中文释义**：激增；扩散；繁殖  
-**例句**：  
-- Fake news proliferates rapidly on social media.  
-  （假新闻在社交媒体上迅速扩散。）  
-**记忆技巧**：词根“pro-”（向前）+ “lifer”（生命） → 生命向前扩展 → 激增。
-
----
-
-## 7. **scrutiny**
-**音标**：/ˈskruːtəni/  
-**词性**：名词 (n.)  
-**中文释义**：仔细审查；监督；监视  
-**例句**：  
-- The financial records of the company are under close scrutiny.  
-  （公司的财务记录正受到严密审查。）  
-**记忆技巧**：联想“screen（屏幕）+ tiny（微小）” → 在屏幕上仔细检查每个细节 → 审查。
-
----
-
-## 8. **vulnerable**
-**音标**：/ˈvʌlnərəbl/  
-**词性**：形容词 (adj.)  
-**中文释义**：脆弱的；易受伤的；易受攻击的  
-**例句**：  
-- The software is vulnerable to cyberattacks.  
-  （这个软件容易受到网络攻击。）  
-**记忆技巧**：词根“vulner”（伤口），+ “able”（能够） → 容易受伤的。
-
----
-
-## 9. **lethargic**
-**音标**：/ləˈθɑːrdʒɪk/  
-**词性**：形容词 (adj.)  
-**中文释义**：昏昏欲睡的；无精打采的；懒散的  
-**例句**：  
-- After the heavy meal, he felt lethargic and unable to focus.  
-  （饱餐一顿后，他昏昏欲睡，无法集中注意力。）  
-**记忆技巧**：联想“lethal（致命的）+ energetic（精力充沛的）”的反义 → 没精打采的。
-
----
-
-## 10. **acumen**
-**音标**：/ˈækjəmən/  
-**词性**：名词 (n.)  
-**中文释义**：敏锐；精明；聪明  
-**例句**：  
-- Her business acumen helped the company grow rapidly.  
-  （她的商业敏锐度帮助公司迅速发展。）  
-**记忆技巧**：联想“acu-（尖锐）”+ “men” → 思维尖锐的人 → 敏锐。
-
----
-
-## 11. **subsidize**
-**音标**：/ˈsʌbsɪdaɪz/  
-**词性**：动词 (v.)  
-**中文释义**：资助；补贴；给予津贴  
-**例句**：  
-- The government subsidizes renewable energy projects.  
-  （政府为可再生能源项目提供补贴。）  
-**记忆技巧**：联想“sub-（下面）+ side（旁边）” → 在下面给予支持 → 资助。
-
----
-
-## 12. **meticulous**
-**音标**：/məˈtɪkjələs/  
-**词性**：形容词 (adj.)  
-**中文释义**：一丝不苟的；细致的；挑剔的  
-**例句**：  
-- He is meticulous about keeping his workspace clean.  
-  （他对保持工作台整洁一丝不苟。）  
-**记忆技巧**：联想“metro（米）+ lic” → 测量精确到米 → 一丝不苟。
-
----
-
-## 13. **sporadic**
-**音标**：/spəˈrædɪk/  
-**词性**：形容词 (adj.)  
-**中文释义**：零星的；断断续续的；偶尔发生的  
-**例句**：  
-- There were sporadic outbreaks of violence during the protest.  
-  （抗议活动期间发生了零星的暴力事件。）  
-**记忆技巧**：联想“spore（孢子）” → 像孢子一样散落、不连续 → 零星的。
-
----
-
-## 14. **conducive**
-**音标**：/kənˈduːsɪv/  
-**词性**：形容词 (adj.)  
-**中文释义**：有助于……的；有利于……的  
-**例句**：  
-- A quiet environment is conducive to studying.  
-  （安静的环境有助于学习。）  
-**记忆技巧**：词根“con-”（共同）+ “duc”（引导） → 引导走向好的结果 → 有利于的。
-
----
-
-## 15. **overwhelm**
-**音标**：/ˌoʊvərˈwelm/  
-**词性**：动词 (v.)  
-**中文释义**：压倒；使应接不暇；使不知所措  
-**例句**：  
-- The amount of work on the first day overwhelmed her.  
-  （第一天的工作量让她应接不暇。）  
-**记忆技巧**：联想“over（过度）+ whelm（淹没）” → 被淹没 → 不知所措。
-
----
-
-**学习建议**：  
-1. 每天坚持复习，结合例句加深印象。  
-2. 使用单词本记录难词，并定期回顾。  
-3. 尝试在写作或口语中主动使用这些词汇。  
-
-祝你备考顺利！ 📚✨
+加油，今天的努力是未来成功的基石！祝你学习愉快！ 🎯
