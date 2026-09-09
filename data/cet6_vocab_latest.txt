@@ -1,109 +1,114 @@
-# 📚 六级词汇每日打卡：第102天
-
-坚持就是胜利！又到了今天的学习时间，为你精选了12个六级高频词汇，涵盖多种词性。请大声朗读，用心记忆，并尝试用它们造句哦！
+# 六级高频词汇学习 - 第103天
 
 ---
 
-### 1. **contemplate** /ˈkɑːntəmpleɪt/
-*   **词性**：v.
-*   **中文释义**：沉思，深思熟虑；打算，考虑；注视，凝视。
+### 1. **elaborate**
+*   **音标**：/ɪˈlæbərət/
+*   **词性**：`adj.` 精心制作的；详尽的；复杂的 / `v.` 详细说明
+*   **中文释义**：(adj.) 精心设计的，详尽的；(v.) 详细阐述，进一步发挥
 *   **例句**：
-    *   *She sat by the window, **contemplating** the meaning of life.* （她坐在窗边，**沉思**着人生的意义。）
-    *   *We are **contemplating** a major restructuring of the company.* （我们正在**考虑**对公司进行重大重组。）
-*   **记忆技巧**：词根 `templ`（寺庙，引申为“供思考的地方”） + `con-`（共同） + `-ate`。可以联想：在寺庙（templ）里共同（con-）静坐思考（contemplate）。
+    *   (adj.) She had prepared an **elaborate** dinner for her guests. (她为客人们准备了一顿精心烹制的晚餐。)
+    *   (v.) Could you **elaborate** on your proposal? (你能详细说明一下你的提案吗？)
+*   **记忆技巧**：词根 **labor** (劳动) + **e-** (加强) + **-ate** (形容词/动词后缀)。需要“投入大量劳动”才能做出的，自然是“精心制作的、详尽的”。
 
-### 2. **fluctuate** /ˈflʌktʃueɪt/
-*   **词性**：v.
-*   **中文释义**：波动，起伏不定；动摇，涨落。
-*   **例句**：
-    *   *Oil prices **fluctuate** depending on the global supply and demand.* （石油价格根据全球供需关系而**波动**。）
-    *   *His confidence **fluctuated** throughout the long interview.* （在漫长的面试中，他的自信心**时有时无**。）
-*   **记忆技巧**：词根 `flu`（流） + `-ctu-` + `-ate`。像水流（flu）一样**起伏不定**。
+### 2. **substantive**
+*   **音标**：/ˈsʌbstəntɪv/
+*   **词性**：`adj.` 实质的；重大的；大量的
+*   **中文释义**：实质性的，重要的；内容充实的
+*   **例句**：The two sides finally reached a **substantive** agreement. (双方最终达成了实质性协议。)
+*   **记忆技巧**：来自 **substance** (物质，实质)。抓住了“实质”的，就是“实质性的”。
 
-### 3. **integrity** /ɪnˈteɡrəti/
-*   **词性**：n.
-*   **中文释义**：正直，诚实；完整，完善。
-*   **例句**：
-    *   *A journalist must maintain both professional **integrity** and accuracy.* （记者必须保持职业**操守**和准确性。）
-    *   *The **integrity** of the ancient building was remarkably well-preserved.* （这座古建筑的**完整性**保存得非常好。）
-*   **记忆技巧**：形容词 `integrate`（整合，使完整）的名词形式。一个**正直**的人，其人格是**完整**的。
+### 3. **consensus**
+*   **音标**：/kənˈsensəs/
+*   **词性**：`n.` 共识，一致意见
+*   **中文释义**：舆论；一致同意
+*   **例句**：There is a growing **consensus** that action is needed urgently. (人们越来越一致地认为，需要立即采取行动。)
+*   **记忆技巧**：词根 **con-** (共同) + **sensus** (感觉，来自 *sentire* 感觉)。大家“共同的感觉”，即“共识”。
 
-### 4. **prerequisite** /priːˈrekwəzɪt/
-*   **词性**：n.
-*   **中文释义**：先决条件，前提。
-*   **例句**：
-    *   *Basic computer literacy is a **prerequisite** for this job.* （基本的计算机应用能力是这份工作的**先决条件**。）
-    *   *Trust is a **prerequisite** for a healthy relationship.* （信任是健康关系的**前提**。）
-*   **记忆技巧**：`pre-`（预先） + `requisite`（必需品）。预先必需的东西，即**前提**。
+### 4. **pragmatic**
+*   **音标**：/præɡˈmætɪk/
+*   **词性**：`adj.` 务实的；实用主义的
+*   **中文释义**：注重实效的，实用的
+*   **例句**：We need a **pragmatic** approach to solve this problem. (我们需要一种务实的方法来解决这个问题。)
+*   **记忆技巧**：来自 **pragma** (事务，事实)。关注“事务”本身的，就是“务实的”。
 
-### 5. **vulnerable** /ˈvʌlnərəbl/
-*   **词性**：adj.
-*   **中文释义**：脆弱的，易受伤的；易受攻击的，易受伤害的。
-*   **例句**：
-    *   *Children and the elderly are especially **vulnerable** to extreme weather.* （儿童和老人尤其容易受到极端天气的**伤害**。）
-    *   *He felt emotionally **vulnerable** after the breakup.* （分手后他感到情感上**很脆弱**。）
-*   **记忆技巧**：词根 `vulner`（伤口，来自拉丁语 `vulnus`）。有“伤口”的，自然是**脆弱的**。
+### 5. **incentive**
+*   **音标**：/ɪnˈsentɪv/
+*   **词性**：`n.` 刺激；鼓励；动机
+*   **中文释义**：激励，刺激因素
+*   **例句**：The company offers bonuses as an **incentive** for high performance. (公司提供奖金作为高绩效的激励。)
+*   **记忆技巧**：词根 **in-** (进入) + **cent** (唱，来自 *cantare*) + **-ive**。像“唱入人心”的东西，能激发动力。
 
-### 6. **negotiate** /nɪˈɡoʊʃieɪt/
-*   **词性**：v.
-*   **中文释义**：谈判，协商；成功越过，成功应对。
-*   **例句**：
-    *   *The union is **negotiating** with management for higher wages.* （工会正在与管理层**谈判**以争取更高工资。）
-    *   *She skillfully **negotiated** the difficult terrain in her car.* （她熟练地**驾车通过**了崎岖的地形。）
-*   **记忆技巧**：来自拉丁语 `negotiatus`（从事商业）。商业活动离不开**谈判**。
+### 6. **comply**
+*   **音标**：/kəmˈplaɪ/
+*   **词性**：`v.` 遵从；服从
+*   **中文释义**：依从，遵守
+*   **例句**：All employees must **comply** with the company’s safety regulations. (所有员工必须遵守公司的安全规章。)
+*   **记忆技巧**：词根 **com-** (共同，加强) + **ply** (折叠，填充)。可以联想为“把规则折叠好，放在心里并填充行动”，即“遵从”。
 
-### 7. **phenomenon** /fəˈnɑːmɪnɑːn/
-*   **词性**：n.
-*   **中文释义**：现象；杰出的人（或事物）。
-*   **例句**：
-    *   *The Northern Lights are a spectacular natural **phenomenon**.* （北极光是一种壮观的自然**现象**。）
-    *   *The young pianist is considered a musical **phenomenon**.* （这位年轻的钢琴家被认为是音乐界的**奇才**。）
-*   **记忆技巧**：复数形式为 `phenomena`。`pheno-`（显示） + `-menon`（被…的东西）。显示出来的东西，即**现象**。
+### 7. **ambiguous**
+*   **音标**：/æmˈbɪɡjuəs/
+*   **词性**：`adj.` 模棱两可的；含糊不清的
+*   **中文释义**：不明确的，含混的
+*   **例句**：The instructions were so **ambiguous** that nobody understood them. (说明太含糊了，没人看得懂。)
+*   **记忆技巧**：词根 **ambi-** (两者，周围) + **guous** (形容词后缀)。在“两者之间”摇摆不定，自然“模棱两可”。
 
-### 8. **resilient** /rɪˈzɪliənt/
-*   **词性**：adj.
-*   **中文释义**：有弹性的；能迅速恢复的，适应性强的。
-*   **例句**：
-    *   *Children are often more **resilient** than adults in adapting to change.* （孩子在适应变化方面往往比成人更有**韧性**。）
-    *   *This material is **resilient** and can withstand high pressure.* （这种材料**有弹性**，能承受高压。）
-*   **记忆技巧**：词根 `sali`（跳） + `re-`（回） + `-ient`。能“跳回来”，即**有恢复力的**。
+### 8. **prevalent**
+*   **音标**：/ˈprevələnt/
+*   **词性**：`adj.` 流行的；盛行的；普遍的
+*   **中文释义**：盛行的，流行的
+*   **例句**：Smartphone usage is **prevalent** among teenagers. (智能手机在青少年中使用很普遍。)
+*   **记忆技巧**：词根 **pre-** (在…之前) + **val** (强大的，来自 *valere*)。在前面占主导地位的，即“盛行的”。
 
-### 9. **subtle** /ˈsʌtl/
-*   **词性**：adj.
-*   **中文释义**：微妙的，细微的；精巧的，巧妙的；敏感的，敏锐的。
-*   **例句**：
-    *   *There is a **subtle** difference between “envy” and “jealousy”.* （“羡慕”和“嫉妒”之间有**微妙的**差别。）
-    *   *He gave a **subtle** hint that it was time to leave.* （他**巧妙地**暗示是时候离开了。）
-*   **记忆技巧**：注意 `b` 不发音。可以联想：需要“**sub**”（潜入）到细节中才能发现的东西，是**微妙的**。
+### 9. **negligible**
+*   **音标**：/ˈneɡlɪdʒəbl/
+*   **词性**：`adj.` 可以忽略的；微不足道的
+*   **中文释义**：微不足道的，可以忽略不计的
+*   **例句**：The cost of the upgrade is **negligible** compared to the benefits. (与收益相比，升级的成本微不足道。)
+*   **记忆技巧**：来自 **neglect** (忽略)。值得“忽略”的，就是“微不足道的”。
 
-### 10. **terminate** /ˈtɜːrmɪneɪt/
-*   **词性**：v.
-*   **中文释义**：终止，结束；解雇。
-*   **例句**：
-    *   *The company decided to **terminate** the contract due to a breach of terms.* （由于对方违约，公司决定**终止**合同。）
-    *   *He was **terminated** from his position for poor performance.* （他因表现不佳被**解雇**了。）
-*   **记忆技巧**：词根 `termin`（界限，终点，如 `terminal` 终端）。到达**终点**，即**结束**。
+### 10. **scrutinize**
+*   **音标**：/ˈskruːtənaɪz/
+*   **词性**：`v.` 仔细检查；详细审查
+*   **中文释义**：细察，详审
+*   **例句**：The committee will **scrutinize** every detail of the budget proposal. (委员会将仔细审查预算提案的每一个细节。)
+*   **记忆技巧**：词根 **scrut** (检查) + **-inize** (动词后缀)。与 **scrutiny** (审查) 同源，动作更强烈。
 
-### 11. **arduous** /ˈɑːrdʒuəs/
-*   **词性**：adj.
-*   **中文释义**：艰巨的，困难的；努力的，费力的。
-*   **例句**：
-    *   *The climb to the summit was long and **arduous**.* （通往顶峰的攀登漫长而**艰苦**。）
-    *   *Writing a thesis is an **arduous** task that requires dedication.* （写论文是一项需要奉献精神的**艰巨任务**。）
-*   **记忆技巧**：词根 `ard-`（燃烧，如 `ardent` 热烈的）。像在火中行走一样**艰苦**。
+### 11. **resilient**
+*   **音标**：/rɪˈzɪliənt/
+*   **词性**：`adj.` 有弹性的；恢复力强的；适应性强的
+*   **中文释义**：能迅速恢复的，适应力强的
+*   **例句**：Children are often more **resilient** than adults think. (孩子们往往比成人想象的更坚韧。)
+*   **记忆技巧**：来自 **resile** (回弹，恢复)。像弹簧一样能“回弹”的，就是“有恢复力的”。
 
-### 12. **simultaneously** /ˌsaɪmlˈteɪniəsli/
-*   **词性**：adv.
-*   **中文释义**：同时地。
-*   **例句**：
-    *   *The two events occurred **simultaneously**, causing confusion.* （两起事件**同时**发生，引起了混乱。）
-    *   *She was speaking French and German **simultaneously**.* （她**同时**说法语和德语。）
-*   **记忆技巧**：形容词 `simultaneous` 的副词形式。`simul-`（相同，如 `similar`） + `-aneous`。在**相同时间**发生的，即**同时地**。
+### 12. **underlying**
+*   **音标**：/ˌʌndərˈlaɪɪŋ/
+*   **词性**：`adj.` 潜在的；根本的；基础的
+*   **中文释义**：在下面的，根本的，潜在的
+*   **例句**：What is the **underlying** cause of the conflict? (冲突的根本原因是什么？)
+*   **记忆技巧**：来自 **underlie** (位于…之下，构成…的基础)。位于表面之下的，即“潜在的、根本的”。
+
+### 13. **paradox**
+*   **音标**：/ˈpærədɑːks/
+*   **词性**：`n.` 悖论；矛盾的事物/人
+*   **中文释义**：矛盾；悖论
+*   **例句**：It’s a **paradox** that in the richest country, some people are still starving. (在最富有的国家，有些人仍在挨饿，这是个矛盾。)
+*   **记忆技巧**：词根 **para-** (在…旁边，超越) + **dox** (观点，来自 *dokein*)。超越或对立于一般观点的，即“悖论”。
+
+### 14. **aggregate**
+*   **音标**：/ˈæɡrɪɡət/
+*   **词性**：`n.` 总计，合计 / `adj.` 总计的 / `v.` 聚集，合计
+*   **中文释义**：(n./adj.) 总数，合计的；(v.) (使)聚集，总计
+*   **例句**：(v.) The total cost **aggregates** to $500. (总费用合计为500美元。)
+*   **记忆技巧**：词根 **ag-** (向) + **greg** (群，来自 *grex*) + **-ate**。把东西“聚向一个群体”，即“聚集、合计”。
+
+### 15. **coherent**
+*   **音标**：/koʊˈhɪrənt/
+*   **词性**：`adj.` 连贯的；条理清楚的；有粘性的
+*   **中文释义**：连贯的，一致的，有条理的
+*   **例句**：Please present your ideas in a more **coherent** way. (请以更连贯的方式阐述你的观点。)
+*   **记忆技巧**：词根 **co-** (一起) + **her** (粘，来自 *haerere*) + **-ent** (形容词后缀)。能“粘在一起”的，自然是“连贯的、有条理的”。
 
 ---
-> **今日学习小贴士**：
-> 1.  **尝试造句**：选2-3个新词，结合自己的生活造句，记忆会更深刻。
-> 2.  **词族拓展**：学习一个词时，顺带了解它的派生词，例如 `integrity` (n.) -> `integral` (adj.)。
-> 3.  **定期复习**：今天的词可以和前几天（如第101天）的词一起回顾，强化记忆曲线。
 
-加油，今天的努力是未来成功的基石！祝你学习愉快！ 🎯
+**学习提示**：建议将这些词汇放入具体语境中记忆，并尝试用它们来造句。反复在阅读和听力中识别它们，能极大提升记忆效果。祝你学习顺利！ 💪
