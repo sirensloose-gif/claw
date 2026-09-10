@@ -1,114 +1,142 @@
-# 六级高频词汇学习 - 第103天
+# 六级词汇学习 · 第104天
+
+## 今日高频词汇（12个）
 
 ---
 
-### 1. **elaborate**
-*   **音标**：/ɪˈlæbərət/
-*   **词性**：`adj.` 精心制作的；详尽的；复杂的 / `v.` 详细说明
-*   **中文释义**：(adj.) 精心设计的，详尽的；(v.) 详细阐述，进一步发挥
-*   **例句**：
-    *   (adj.) She had prepared an **elaborate** dinner for her guests. (她为客人们准备了一顿精心烹制的晚餐。)
-    *   (v.) Could you **elaborate** on your proposal? (你能详细说明一下你的提案吗？)
-*   **记忆技巧**：词根 **labor** (劳动) + **e-** (加强) + **-ate** (形容词/动词后缀)。需要“投入大量劳动”才能做出的，自然是“精心制作的、详尽的”。
-
-### 2. **substantive**
-*   **音标**：/ˈsʌbstəntɪv/
-*   **词性**：`adj.` 实质的；重大的；大量的
-*   **中文释义**：实质性的，重要的；内容充实的
-*   **例句**：The two sides finally reached a **substantive** agreement. (双方最终达成了实质性协议。)
-*   **记忆技巧**：来自 **substance** (物质，实质)。抓住了“实质”的，就是“实质性的”。
-
-### 3. **consensus**
-*   **音标**：/kənˈsensəs/
-*   **词性**：`n.` 共识，一致意见
-*   **中文释义**：舆论；一致同意
-*   **例句**：There is a growing **consensus** that action is needed urgently. (人们越来越一致地认为，需要立即采取行动。)
-*   **记忆技巧**：词根 **con-** (共同) + **sensus** (感觉，来自 *sentire* 感觉)。大家“共同的感觉”，即“共识”。
-
-### 4. **pragmatic**
-*   **音标**：/præɡˈmætɪk/
-*   **词性**：`adj.` 务实的；实用主义的
-*   **中文释义**：注重实效的，实用的
-*   **例句**：We need a **pragmatic** approach to solve this problem. (我们需要一种务实的方法来解决这个问题。)
-*   **记忆技巧**：来自 **pragma** (事务，事实)。关注“事务”本身的，就是“务实的”。
-
-### 5. **incentive**
-*   **音标**：/ɪnˈsentɪv/
-*   **词性**：`n.` 刺激；鼓励；动机
-*   **中文释义**：激励，刺激因素
-*   **例句**：The company offers bonuses as an **incentive** for high performance. (公司提供奖金作为高绩效的激励。)
-*   **记忆技巧**：词根 **in-** (进入) + **cent** (唱，来自 *cantare*) + **-ive**。像“唱入人心”的东西，能激发动力。
-
-### 6. **comply**
-*   **音标**：/kəmˈplaɪ/
-*   **词性**：`v.` 遵从；服从
-*   **中文释义**：依从，遵守
-*   **例句**：All employees must **comply** with the company’s safety regulations. (所有员工必须遵守公司的安全规章。)
-*   **记忆技巧**：词根 **com-** (共同，加强) + **ply** (折叠，填充)。可以联想为“把规则折叠好，放在心里并填充行动”，即“遵从”。
-
-### 7. **ambiguous**
-*   **音标**：/æmˈbɪɡjuəs/
-*   **词性**：`adj.` 模棱两可的；含糊不清的
-*   **中文释义**：不明确的，含混的
-*   **例句**：The instructions were so **ambiguous** that nobody understood them. (说明太含糊了，没人看得懂。)
-*   **记忆技巧**：词根 **ambi-** (两者，周围) + **guous** (形容词后缀)。在“两者之间”摇摆不定，自然“模棱两可”。
-
-### 8. **prevalent**
-*   **音标**：/ˈprevələnt/
-*   **词性**：`adj.` 流行的；盛行的；普遍的
-*   **中文释义**：盛行的，流行的
-*   **例句**：Smartphone usage is **prevalent** among teenagers. (智能手机在青少年中使用很普遍。)
-*   **记忆技巧**：词根 **pre-** (在…之前) + **val** (强大的，来自 *valere*)。在前面占主导地位的，即“盛行的”。
-
-### 9. **negligible**
-*   **音标**：/ˈneɡlɪdʒəbl/
-*   **词性**：`adj.` 可以忽略的；微不足道的
-*   **中文释义**：微不足道的，可以忽略不计的
-*   **例句**：The cost of the upgrade is **negligible** compared to the benefits. (与收益相比，升级的成本微不足道。)
-*   **记忆技巧**：来自 **neglect** (忽略)。值得“忽略”的，就是“微不足道的”。
-
-### 10. **scrutinize**
-*   **音标**：/ˈskruːtənaɪz/
-*   **词性**：`v.` 仔细检查；详细审查
-*   **中文释义**：细察，详审
-*   **例句**：The committee will **scrutinize** every detail of the budget proposal. (委员会将仔细审查预算提案的每一个细节。)
-*   **记忆技巧**：词根 **scrut** (检查) + **-inize** (动词后缀)。与 **scrutiny** (审查) 同源，动作更强烈。
-
-### 11. **resilient**
-*   **音标**：/rɪˈzɪliənt/
-*   **词性**：`adj.` 有弹性的；恢复力强的；适应性强的
-*   **中文释义**：能迅速恢复的，适应力强的
-*   **例句**：Children are often more **resilient** than adults think. (孩子们往往比成人想象的更坚韧。)
-*   **记忆技巧**：来自 **resile** (回弹，恢复)。像弹簧一样能“回弹”的，就是“有恢复力的”。
-
-### 12. **underlying**
-*   **音标**：/ˌʌndərˈlaɪɪŋ/
-*   **词性**：`adj.` 潜在的；根本的；基础的
-*   **中文释义**：在下面的，根本的，潜在的
-*   **例句**：What is the **underlying** cause of the conflict? (冲突的根本原因是什么？)
-*   **记忆技巧**：来自 **underlie** (位于…之下，构成…的基础)。位于表面之下的，即“潜在的、根本的”。
-
-### 13. **paradox**
-*   **音标**：/ˈpærədɑːks/
-*   **词性**：`n.` 悖论；矛盾的事物/人
-*   **中文释义**：矛盾；悖论
-*   **例句**：It’s a **paradox** that in the richest country, some people are still starving. (在最富有的国家，有些人仍在挨饿，这是个矛盾。)
-*   **记忆技巧**：词根 **para-** (在…旁边，超越) + **dox** (观点，来自 *dokein*)。超越或对立于一般观点的，即“悖论”。
-
-### 14. **aggregate**
-*   **音标**：/ˈæɡrɪɡət/
-*   **词性**：`n.` 总计，合计 / `adj.` 总计的 / `v.` 聚集，合计
-*   **中文释义**：(n./adj.) 总数，合计的；(v.) (使)聚集，总计
-*   **例句**：(v.) The total cost **aggregates** to $500. (总费用合计为500美元。)
-*   **记忆技巧**：词根 **ag-** (向) + **greg** (群，来自 *grex*) + **-ate**。把东西“聚向一个群体”，即“聚集、合计”。
-
-### 15. **coherent**
-*   **音标**：/koʊˈhɪrənt/
-*   **词性**：`adj.` 连贯的；条理清楚的；有粘性的
-*   **中文释义**：连贯的，一致的，有条理的
-*   **例句**：Please present your ideas in a more **coherent** way. (请以更连贯的方式阐述你的观点。)
-*   **记忆技巧**：词根 **co-** (一起) + **her** (粘，来自 *haerere*) + **-ent** (形容词后缀)。能“粘在一起”的，自然是“连贯的、有条理的”。
+### 1. **contemplate**
+- **音标**： /ˈkɑːntəmpleɪt/
+- **词性**： v.
+- **释义**：沉思；深思熟虑；考虑
+- **例句**：
+  - *He sat quietly, contemplating the meaning of life.*
+  - 他静静地坐着，思考生命的意义。
+- **记忆技巧**： 词根 **con-（共同）+ templ（看）+ -ate** → 深入地“看” → 沉思。
 
 ---
 
-**学习提示**：建议将这些词汇放入具体语境中记忆，并尝试用它们来造句。反复在阅读和听力中识别它们，能极大提升记忆效果。祝你学习顺利！ 💪
+### 2. **resilient**
+- **音标**： /rɪˈzɪliənt/
+- **词性**： adj.
+- **释义**：有弹性的；能恢复的；适应力强的
+- **例句**：
+  - *Children are often more resilient than adults in adapting to change.*
+  - 孩子在适应变化方面往往比成年人更有韧性。
+- **记忆技巧**： 联想 **re-（再）+ sil（跳）+ -ient** → 反复“跳”起来 → 有弹性的、恢复力强的。
+
+---
+
+### 3. **paradigm**
+- **音标**： /ˈpærədaɪm/
+- **词性**： n.
+- **释义**：典范；范例；模式；范式
+- **例句**：
+  - *The discovery led to a paradigm shift in the field of biology.*
+  - 这一发现导致了生物学领域的范式转变。
+- **记忆技巧**： 谐音“**排**一**待**遇”→ 工作中按“**标准模式**”排待遇 → 范式、模式。
+
+---
+
+### 4. **elaborate**
+- **音标**： /ɪˈlæbərət/
+- **词性**： adj. / v.
+- **释义**：adj. 精心制作的；详尽的 v. 详细说明；精心制作
+- **例句**：
+  - *Could you elaborate on your proposal?*
+  - 你能详细说明一下你的提案吗？
+- **记忆技巧**： 词根 **e-（出）+ labor（劳动）+ -ate** → 通过“劳动”做出来的 → 精心制作的。
+
+---
+
+### 5. **pragmatic**
+- **音标**： /præɡˈmætɪk/
+- **词性**： adj.
+- **释义**：务实的；实用主义的
+- **例句**：
+  - *She takes a pragmatic approach to solving problems.*
+  - 她采取务实的方法来解决问题。
+- **记忆技巧**： 联想 **prag（实践）+ matic** → 注重“实践”的 → 务实的。
+
+---
+
+### 6. **ambiguous**
+- **音标**： /æmˈbɪɡjuəs/
+- **词性**： adj.
+- **释义**：模糊的；有歧义的；不明确的
+- **例句**：
+  - *The instructions were ambiguous and caused confusion.*
+  - 这些指示含糊不清，引起了混淆。
+- **记忆技巧**： 词根 **ambi-（两边）+ guous（…的）** → 可以有“两种理解”的 → 歧义的。
+
+---
+
+### 7. **profound**
+- **音标**： /prəˈfaʊnd/
+- **词性**： adj.
+- **释义**：深刻的；深奥的；深远的
+- **例句**：
+  - *The book had a profound impact on my worldview.*
+  - 这本书对我的世界观产生了深远影响。
+- **记忆技巧**： 联想 **pro-（向前）+ found（基础）** → 向前深入“基础” → 深刻的。
+
+---
+
+### 8. **scarcity**
+- **音标**： /ˈskersəti/
+- **词性**： n.
+- **释义**：不足；缺乏；稀少
+- **例句**：
+  - *The scarcity of clean water is a global issue.*
+  - 清洁水的短缺是一个全球性问题。
+- **记忆技巧**： 由形容词 **scarce（缺乏的）** 加 **-ity** 变名词，可联想“**scar（疤痕）** 留下后资源 **缺乏**”。
+
+---
+
+### 9. **curtail**
+- **音标**： /kɜːrˈteɪl/
+- **词性**： v.
+- **释义**：削减；缩减；缩短
+- **例句**：
+  - *They had to curtail spending due to the budget deficit.*
+  - 由于预算赤字，他们不得不削减开支。
+- **记忆技巧**： 联想 **cur-（跑）+ tail（尾巴）** → 把尾巴“**跑短了**” → 削减、缩短。
+
+---
+
+### 10. **nuance**
+- **音标**： /ˈnuːɑːns/
+- **词性**： n.
+- **释义**：细微差别；微妙之处
+- **例句**：
+  - *She understood the cultural nuances that others missed.*
+  - 她理解了其他人忽略的文化细微差别。
+- **记忆技巧**： 谐音“**牛**/**拗**恩斯” → 连牛都“**拗**”不过来的细节 → 细微差别。
+
+---
+
+### 11. **aggregate**
+- **音标**： /ˈæɡrɪɡət/
+- **词性**： n. / adj. / v.
+- **释义**：n. 总计 adj. 总计的 v. 合计；总计
+- **例句**：
+  - *In aggregate, the results were positive.*
+  - 总的来说，结果是积极的。
+- **记忆技巧**： 词根 **ag-（向）+ greg（聚集）+ -ate** → 把东西“**聚到一起**” → 总计。
+
+---
+
+### 12. **discrepancy**
+- **音标**： /dɪˈskrepənsi/
+- **词性**： n.
+- **释义**：差异；矛盾；不一致
+- **例句**：
+  - *There is a discrepancy between the report and the actual data.*
+  - 报告与实际数据之间存在差异。
+- **记忆技巧**： 联想 **dis-（分开）+ crep（破裂）+ -ancy** → 数据“**破裂**”分开 → 差异、不一致。
+
+---
+
+## 📅 明日预告
+第105天将继续涵盖高频词汇，包括：
+**provision, resilient (复习), consensus, deteriorate** 等。  
+祝你学习愉快，坚持就是胜利！ 💪
