@@ -1,142 +1,144 @@
-# 六级词汇学习 · 第104天
+# 六级高频词汇学习 Day 105
 
-## 今日高频词汇（12个）
-
----
-
-### 1. **contemplate**
-- **音标**： /ˈkɑːntəmpleɪt/
-- **词性**： v.
-- **释义**：沉思；深思熟虑；考虑
-- **例句**：
-  - *He sat quietly, contemplating the meaning of life.*
-  - 他静静地坐着，思考生命的意义。
-- **记忆技巧**： 词根 **con-（共同）+ templ（看）+ -ate** → 深入地“看” → 沉思。
+以下是今天为你精选的12个六级高频词汇，涵盖不同词性，适合日常积累和考前冲刺。
 
 ---
 
-### 2. **resilient**
-- **音标**： /rɪˈzɪliənt/
-- **词性**： adj.
-- **释义**：有弹性的；能恢复的；适应力强的
-- **例句**：
-  - *Children are often more resilient than adults in adapting to change.*
-  - 孩子在适应变化方面往往比成年人更有韧性。
-- **记忆技巧**： 联想 **re-（再）+ sil（跳）+ -ient** → 反复“跳”起来 → 有弹性的、恢复力强的。
+### 1. ambiguous
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：形容词 (adj.)  
+**中文释义**：模棱两可的；含糊不清的  
+**例句**：  
+- His ambiguous reply made it difficult to know his true intentions.  
+  他模棱两可的回复让人很难知道他的真实意图。  
+**记忆技巧**：前缀 `ambi-`（意为“两边”）+ `guous`（联想“go us”），合起来就是“两边都走，不确定去哪”，引申为“模棱两可”。
 
 ---
 
-### 3. **paradigm**
-- **音标**： /ˈpærədaɪm/
-- **词性**： n.
-- **释义**：典范；范例；模式；范式
-- **例句**：
-  - *The discovery led to a paradigm shift in the field of biology.*
-  - 这一发现导致了生物学领域的范式转变。
-- **记忆技巧**： 谐音“**排**一**待**遇”→ 工作中按“**标准模式**”排待遇 → 范式、模式。
+### 2. bureaucracy
+**音标**：/bjʊˈrɑːkrəsi/  
+**词性**：名词 (n.)  
+**中文释义**：官僚主义；官僚机构  
+**例句**：  
+- The project was delayed by endless bureaucracy.  
+  这个项目因无休止的官僚主义而被拖延。  
+**记忆技巧**：源自法语 `bureau`（办公室）+ `cracy`（统治），合起来就是“办公室统治”，即“官僚体系”。
 
 ---
 
-### 4. **elaborate**
-- **音标**： /ɪˈlæbərət/
-- **词性**： adj. / v.
-- **释义**：adj. 精心制作的；详尽的 v. 详细说明；精心制作
-- **例句**：
-  - *Could you elaborate on your proposal?*
-  - 你能详细说明一下你的提案吗？
-- **记忆技巧**： 词根 **e-（出）+ labor（劳动）+ -ate** → 通过“劳动”做出来的 → 精心制作的。
+### 3. comprehensive
+**音标**：/ˌkɑːmprɪˈhensɪv/  
+**词性**：形容词 (adj.)  
+**中文释义**：综合的；全面的  
+**例句**：  
+- This book provides a comprehensive guide to English grammar.  
+  这本书提供了一本全面的英语语法指南。  
+**记忆技巧**：词根 `com-`（一起）+ `prehens`（抓住），即“全部抓住”，引申为“全面的、综合的”。
 
 ---
 
-### 5. **pragmatic**
-- **音标**： /præɡˈmætɪk/
-- **词性**： adj.
-- **释义**：务实的；实用主义的
-- **例句**：
-  - *She takes a pragmatic approach to solving problems.*
-  - 她采取务实的方法来解决问题。
-- **记忆技巧**： 联想 **prag（实践）+ matic** → 注重“实践”的 → 务实的。
+### 4. confidential
+**音标**：/ˌkɑːnfɪˈdenʃl/  
+**词性**：形容词 (adj.)  
+**中文释义**：机密的；信任的  
+**例句**：  
+- Please keep this information confidential for now.  
+  目前请对这些信息保密。  
+**记忆技巧**：来自 `confide`（信任、倾诉）+ `-al`（形容词后缀），指“值得信任的、需保密的”。
 
 ---
 
-### 6. **ambiguous**
-- **音标**： /æmˈbɪɡjuəs/
-- **词性**： adj.
-- **释义**：模糊的；有歧义的；不明确的
-- **例句**：
-  - *The instructions were ambiguous and caused confusion.*
-  - 这些指示含糊不清，引起了混淆。
-- **记忆技巧**： 词根 **ambi-（两边）+ guous（…的）** → 可以有“两种理解”的 → 歧义的。
+### 5. consolidate
+**音标**：/kənˈsɑːlɪdeɪt/  
+**词性**：动词 (v.)  
+**中文释义**：巩固；合并  
+**例句**：  
+- The company plans to consolidate its market position through mergers.  
+  公司计划通过合并巩固其市场地位。  
+**记忆技巧**：前缀 `con-`（加强）+ `solid`（坚固），即“使更坚固”，引申为“巩固”。
 
 ---
 
-### 7. **profound**
-- **音标**： /prəˈfaʊnd/
-- **词性**： adj.
-- **释义**：深刻的；深奥的；深远的
-- **例句**：
-  - *The book had a profound impact on my worldview.*
-  - 这本书对我的世界观产生了深远影响。
-- **记忆技巧**： 联想 **pro-（向前）+ found（基础）** → 向前深入“基础” → 深刻的。
+### 6. controversy
+**音标**：/ˈkɑːntrəvɜːrsi/  
+**词性**：名词 (n.)  
+**中文释义**：争论；争议  
+**例句**：  
+- The policy sparked a fierce controversy among the public.  
+  该政策在公众中引发了激烈争议。  
+**记忆技巧**：词根 `contra-`（相反）+ `vers`（转），即“转向相反方向”，引申为“争论”。
 
 ---
 
-### 8. **scarcity**
-- **音标**： /ˈskersəti/
-- **词性**： n.
-- **释义**：不足；缺乏；稀少
-- **例句**：
-  - *The scarcity of clean water is a global issue.*
-  - 清洁水的短缺是一个全球性问题。
-- **记忆技巧**： 由形容词 **scarce（缺乏的）** 加 **-ity** 变名词，可联想“**scar（疤痕）** 留下后资源 **缺乏**”。
+### 7. criteria
+**音标**：/kraɪˈtɪriə/  
+**词性**：名词 (n.)  
+**中文释义**：标准（复数形式，单数为 criterion）  
+**例句**：  
+- What are the criteria for selecting a winner?  
+  选拔获胜者的标准是什么？  
+**记忆技巧**：来自希腊语 `kritērion`（判断依据），可联想“critic”（评论家）使用标准来评判。
 
 ---
 
-### 9. **curtail**
-- **音标**： /kɜːrˈteɪl/
-- **词性**： v.
-- **释义**：削减；缩减；缩短
-- **例句**：
-  - *They had to curtail spending due to the budget deficit.*
-  - 由于预算赤字，他们不得不削减开支。
-- **记忆技巧**： 联想 **cur-（跑）+ tail（尾巴）** → 把尾巴“**跑短了**” → 削减、缩短。
+### 8. deficit
+**音标**：/ˈdefɪsɪt/  
+**词性**：名词 (n.)  
+**中文释义**：赤字；不足  
+**例句**：  
+- The country is facing a serious trade deficit.  
+  该国正面临严重的贸易赤字。  
+**记忆技巧**：词根 `de-`（向下）+ `fic`（做），即“做得不够”，引申为“不足、赤字”。
 
 ---
 
-### 10. **nuance**
-- **音标**： /ˈnuːɑːns/
-- **词性**： n.
-- **释义**：细微差别；微妙之处
-- **例句**：
-  - *She understood the cultural nuances that others missed.*
-  - 她理解了其他人忽略的文化细微差别。
-- **记忆技巧**： 谐音“**牛**/**拗**恩斯” → 连牛都“**拗**”不过来的细节 → 细微差别。
+### 9. demolish
+**音标**：/dɪˈmɑːlɪʃ/  
+**词性**：动词 (v.)  
+**中文释义**：拆除；推翻  
+**例句**：  
+- The old building will be demolished to make way for a new park.  
+  这座旧建筑将被拆除，为新建公园腾出空间。  
+**记忆技巧**：前缀 `de-`（向下）+ `mol`（建造），即“把建造的东西推倒”，引申为“拆除”。
 
 ---
 
-### 11. **aggregate**
-- **音标**： /ˈæɡrɪɡət/
-- **词性**： n. / adj. / v.
-- **释义**：n. 总计 adj. 总计的 v. 合计；总计
-- **例句**：
-  - *In aggregate, the results were positive.*
-  - 总的来说，结果是积极的。
-- **记忆技巧**： 词根 **ag-（向）+ greg（聚集）+ -ate** → 把东西“**聚到一起**” → 总计。
+### 10. determinant
+**音标**：/dɪˈtɜːrmɪnənt/  
+**词性**：名词 (n.) / 形容词 (adj.)  
+**中文释义**：决定因素；决定性的  
+**例句**：  
+- Price is often the determinant of consumer choice.  
+  价格往往是消费者选择的决定因素。  
+**记忆技巧**：来自 `determine`（决定）+ `-ant`（表“…的事物”），即“起决定作用的东西”。
 
 ---
 
-### 12. **discrepancy**
-- **音标**： /dɪˈskrepənsi/
-- **词性**： n.
-- **释义**：差异；矛盾；不一致
-- **例句**：
-  - *There is a discrepancy between the report and the actual data.*
-  - 报告与实际数据之间存在差异。
-- **记忆技巧**： 联想 **dis-（分开）+ crep（破裂）+ -ancy** → 数据“**破裂**”分开 → 差异、不一致。
+### 11. deteriorate
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：动词 (v.)  
+**中文释义**：恶化；变坏  
+**例句**：  
+- His health continued to deteriorate after the surgery.  
+  手术后他的健康状况持续恶化。  
+**记忆技巧**：词根 `deterior`（更坏的）+ `-ate`（动词后缀），可联想“degree”（程度）越来越“差”。
 
 ---
 
-## 📅 明日预告
-第105天将继续涵盖高频词汇，包括：
-**provision, resilient (复习), consensus, deteriorate** 等。  
-祝你学习愉快，坚持就是胜利！ 💪
+### 12. diagnose
+**音标**：/ˈdaɪəɡnoʊz/  
+**词性**：动词 (v.)  
+**中文释义**：诊断；判断  
+**例句**：  
+- The doctor diagnosed the illness as a rare autoimmune disease.  
+  医生诊断这种病为一种罕见的自身免疫性疾病。  
+**记忆技巧**：前缀 `dia-`（穿过）+ `gnos`（知道），即“通过检查知道病症”，引申为“诊断”。
+
+---
+
+**学习建议**：  
+1. 每天可分组记忆，比如上午6个，下午6个。  
+2. 尝试用每个词造一个句子，加深理解。  
+3. 定期回顾，结合真题阅读巩固记忆。
+
+坚持就是胜利，祝你备考顺利！📚✨
