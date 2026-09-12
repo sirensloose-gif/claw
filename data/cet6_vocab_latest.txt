@@ -1,144 +1,140 @@
-# 六级高频词汇学习 Day 105
-
-以下是今天为你精选的12个六级高频词汇，涵盖不同词性，适合日常积累和考前冲刺。
+# 🎯 六级高频词汇 · 第106天
 
 ---
 
-### 1. ambiguous
+## 1. **ambiguous**  
 **音标**：/æmˈbɪɡjuəs/  
-**词性**：形容词 (adj.)  
-**中文释义**：模棱两可的；含糊不清的  
+**词性**：adj.  
+**释义**：模棱两可的；含糊不清的  
 **例句**：  
-- His ambiguous reply made it difficult to know his true intentions.  
-  他模棱两可的回复让人很难知道他的真实意图。  
-**记忆技巧**：前缀 `ambi-`（意为“两边”）+ `guous`（联想“go us”），合起来就是“两边都走，不确定去哪”，引申为“模棱两可”。
+- The instructions were so ambiguous that no one could understand them.  
+  这些说明如此含糊，以至于没人能理解。  
+**记忆技巧**：前缀 *ambi-* 表示“两边”，如 *ambidextrous*（双手灵巧的）→ 含糊不清意味着“两边都像”。
 
 ---
 
-### 2. bureaucracy
-**音标**：/bjʊˈrɑːkrəsi/  
-**词性**：名词 (n.)  
-**中文释义**：官僚主义；官僚机构  
+## 2. **spontaneous**  
+**音标**：/spɑːnˈteɪniəs/  
+**词性**：adj.  
+**释义**：自发的；自然的；即兴的  
 **例句**：  
-- The project was delayed by endless bureaucracy.  
-  这个项目因无休止的官僚主义而被拖延。  
-**记忆技巧**：源自法语 `bureau`（办公室）+ `cracy`（统治），合起来就是“办公室统治”，即“官僚体系”。
+- The crowd broke into spontaneous applause.  
+  人群自发地鼓起掌来。  
+**记忆技巧**：词根 *spont-*（来自拉丁语“自己的”）→ 由自己产生 → 自发的。
 
 ---
 
-### 3. comprehensive
-**音标**：/ˌkɑːmprɪˈhensɪv/  
-**词性**：形容词 (adj.)  
-**中文释义**：综合的；全面的  
-**例句**：  
-- This book provides a comprehensive guide to English grammar.  
-  这本书提供了一本全面的英语语法指南。  
-**记忆技巧**：词根 `com-`（一起）+ `prehens`（抓住），即“全部抓住”，引申为“全面的、综合的”。
-
----
-
-### 4. confidential
-**音标**：/ˌkɑːnfɪˈdenʃl/  
-**词性**：形容词 (adj.)  
-**中文释义**：机密的；信任的  
-**例句**：  
-- Please keep this information confidential for now.  
-  目前请对这些信息保密。  
-**记忆技巧**：来自 `confide`（信任、倾诉）+ `-al`（形容词后缀），指“值得信任的、需保密的”。
-
----
-
-### 5. consolidate
-**音标**：/kənˈsɑːlɪdeɪt/  
-**词性**：动词 (v.)  
-**中文释义**：巩固；合并  
-**例句**：  
-- The company plans to consolidate its market position through mergers.  
-  公司计划通过合并巩固其市场地位。  
-**记忆技巧**：前缀 `con-`（加强）+ `solid`（坚固），即“使更坚固”，引申为“巩固”。
-
----
-
-### 6. controversy
-**音标**：/ˈkɑːntrəvɜːrsi/  
-**词性**：名词 (n.)  
-**中文释义**：争论；争议  
-**例句**：  
-- The policy sparked a fierce controversy among the public.  
-  该政策在公众中引发了激烈争议。  
-**记忆技巧**：词根 `contra-`（相反）+ `vers`（转），即“转向相反方向”，引申为“争论”。
-
----
-
-### 7. criteria
-**音标**：/kraɪˈtɪriə/  
-**词性**：名词 (n.)  
-**中文释义**：标准（复数形式，单数为 criterion）  
-**例句**：  
-- What are the criteria for selecting a winner?  
-  选拔获胜者的标准是什么？  
-**记忆技巧**：来自希腊语 `kritērion`（判断依据），可联想“critic”（评论家）使用标准来评判。
-
----
-
-### 8. deficit
-**音标**：/ˈdefɪsɪt/  
-**词性**：名词 (n.)  
-**中文释义**：赤字；不足  
-**例句**：  
-- The country is facing a serious trade deficit.  
-  该国正面临严重的贸易赤字。  
-**记忆技巧**：词根 `de-`（向下）+ `fic`（做），即“做得不够”，引申为“不足、赤字”。
-
----
-
-### 9. demolish
-**音标**：/dɪˈmɑːlɪʃ/  
-**词性**：动词 (v.)  
-**中文释义**：拆除；推翻  
-**例句**：  
-- The old building will be demolished to make way for a new park.  
-  这座旧建筑将被拆除，为新建公园腾出空间。  
-**记忆技巧**：前缀 `de-`（向下）+ `mol`（建造），即“把建造的东西推倒”，引申为“拆除”。
-
----
-
-### 10. determinant
-**音标**：/dɪˈtɜːrmɪnənt/  
-**词性**：名词 (n.) / 形容词 (adj.)  
-**中文释义**：决定因素；决定性的  
-**例句**：  
-- Price is often the determinant of consumer choice.  
-  价格往往是消费者选择的决定因素。  
-**记忆技巧**：来自 `determine`（决定）+ `-ant`（表“…的事物”），即“起决定作用的东西”。
-
----
-
-### 11. deteriorate
+## 3. **deteriorate**  
 **音标**：/dɪˈtɪriəreɪt/  
-**词性**：动词 (v.)  
-**中文释义**：恶化；变坏  
+**词性**：v.  
+**释义**：恶化；变坏；退化  
 **例句**：  
-- His health continued to deteriorate after the surgery.  
-  手术后他的健康状况持续恶化。  
-**记忆技巧**：词根 `deterior`（更坏的）+ `-ate`（动词后缀），可联想“degree”（程度）越来越“差”。
+- Her health began to deteriorate rapidly.  
+  她的健康状况开始迅速恶化。  
+**记忆技巧**：词根 *deterior-*（更坏的）→ *deteriorate*（变得更坏）→ 恶化。
 
 ---
 
-### 12. diagnose
-**音标**：/ˈdaɪəɡnoʊz/  
-**词性**：动词 (v.)  
-**中文释义**：诊断；判断  
+## 4. **prosperous**  
+**音标**：/ˈprɑːspərəs/  
+**词性**：adj.  
+**释义**：繁荣的；成功的；兴旺的  
 **例句**：  
-- The doctor diagnosed the illness as a rare autoimmune disease.  
-  医生诊断这种病为一种罕见的自身免疫性疾病。  
-**记忆技巧**：前缀 `dia-`（穿过）+ `gnos`（知道），即“通过检查知道病症”，引申为“诊断”。
+- The city became prosperous through international trade.  
+  这座城市通过国际贸易变得繁荣。  
+**记忆技巧**：词根 *prosper-*（繁荣，如 *prosperity*）+ *-ous*（形容词后缀）→ 繁荣的。
 
 ---
 
-**学习建议**：  
-1. 每天可分组记忆，比如上午6个，下午6个。  
-2. 尝试用每个词造一个句子，加深理解。  
-3. 定期回顾，结合真题阅读巩固记忆。
+## 5. **restrain**  
+**音标**：/rɪˈstreɪn/  
+**词性**：v.  
+**释义**：抑制；阻止；约束  
+**例句**：  
+- She could hardly restrain her laughter.  
+  她几乎忍不住笑出声来。  
+**记忆技巧**：前缀 *re-*（向后）+ *strain*（拉紧）→ 向后拉紧 → 抑制。
 
-坚持就是胜利，祝你备考顺利！📚✨
+---
+
+## 6. **substantial**  
+**音标**：/səbˈstænʃəl/  
+**词性**：adj.  
+**释义**：大量的；实质的；坚固的  
+**例句**：  
+- They made substantial progress in the negotiation.  
+  他们在谈判中取得了重大进展。  
+**记忆技巧**：词根 *substant-*（实体，实质）+ *-ial*（形容词后缀）→ 有实质的 → 大量的。
+
+---
+
+## 7. **contempt**  
+**音标**：/kənˈtempt/  
+**词性**：n.  
+**释义**：轻视；蔑视；耻辱  
+**例句**：  
+- He showed contempt for the rules.  
+  他蔑视这些规则。  
+**记忆技巧**：前缀 *con-*（完全）+ *tempt*（尝试，引申为“试探”）→ 完全不值得试探 → 轻视。
+
+---
+
+## 8. **profound**  
+**音标**：/prəˈfaʊnd/  
+**词性**：adj.  
+**释义**：深刻的；渊博的；极度的  
+**例句**：  
+- The book had a profound impact on my thinking.  
+  这本书对我的思想产生了深远影响。  
+**记忆技巧**：前缀 *pro-*（向前）+ *found*（基础）→ 向前深入基础 → 深刻的。
+
+---
+
+## 9. **feasible**  
+**音标**：/ˈfiːzəbl/  
+**词性**：adj.  
+**释义**：可行的；可能的；合理的  
+**例句**：  
+- Is it feasible to complete the project in one week?  
+  一周内完成这个项目可行吗？  
+**记忆技巧**：词根 *feas-*（做，如 *factory*）+ *-ible*（能够…的）→ 能够做的 → 可行的。
+
+---
+
+## 10. **negligible**  
+**音标**：/ˈneɡlɪdʒəbl/  
+**词性**：adj.  
+**释义**：微不足道的；可以忽略的  
+**例句**：  
+- The risk to public health is negligible.  
+  对公共健康的风险可以忽略不计。  
+**记忆技巧**：词根 *neg-*（否定）+ *lig-*（选择）→ 不值得选择的 → 微不足道的。
+
+---
+
+## 11. **fluctuate**  
+**音标**：/ˈflʌktʃueɪt/  
+**词性**：v.  
+**释义**：波动；涨落；动摇  
+**例句**：  
+- Prices fluctuate according to market demand.  
+  价格根据市场需求波动。  
+**记忆技巧**：词根 *flu-*（流动）→ 像水一样流动 → 波动。
+
+---
+
+## 12. **impartial**  
+**音标**：/ɪmˈpɑːrʃəl/  
+**词性**：adj.  
+**释义**：公正的；不偏不倚的  
+**例句**：  
+- A judge must be impartial.  
+  法官必须公正无私。  
+**记忆技巧**：前缀 *im-*（不）+ *partial*（偏袒的）→ 不偏袒的 → 公正的。
+
+---
+
+**✨ 今日学习提示**  
+建议结合例句朗读3遍，并尝试用每个单词造句。可将易混淆词（如 *feasible* 和 *possible*）对比记忆。
+
+**坚持就是胜利！明天见！** 🌟
