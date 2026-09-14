@@ -1,140 +1,156 @@
-# 🎯 六级高频词汇 · 第106天
+# 六级高频词汇学习 - 第107天
 
 ---
 
-## 1. **ambiguous**  
-**音标**：/æmˈbɪɡjuəs/  
-**词性**：adj.  
-**释义**：模棱两可的；含糊不清的  
-**例句**：  
-- The instructions were so ambiguous that no one could understand them.  
-  这些说明如此含糊，以至于没人能理解。  
-**记忆技巧**：前缀 *ambi-* 表示“两边”，如 *ambidextrous*（双手灵巧的）→ 含糊不清意味着“两边都像”。
+## 1. **abstain**
+   - **音标**: /əbˈsteɪn/
+   - **词性**: 动词 (v.)
+   - **释义**: 戒除；弃权；避开
+   - **例句**: He decided to abstain from alcohol during the month of Ramadan.
+    （他在斋月期间决定戒酒。）
+   - **记忆技巧**: 词根“ab-”（远离）+ “-stain”（站住），联想“站住不动，远离诱惑”。
 
 ---
 
-## 2. **spontaneous**  
-**音标**：/spɑːnˈteɪniəs/  
-**词性**：adj.  
-**释义**：自发的；自然的；即兴的  
-**例句**：  
-- The crowd broke into spontaneous applause.  
-  人群自发地鼓起掌来。  
-**记忆技巧**：词根 *spont-*（来自拉丁语“自己的”）→ 由自己产生 → 自发的。
+## 2. **benevolent**
+   - **音标**: /bəˈnevələnt/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 仁慈的；慈善的；和蔼的
+   - **例句**: The benevolent organization provides free meals for the homeless.
+    （这个慈善组织为无家可归者提供免费餐食。）
+   - **记忆技巧**: 词根“bene-”（好）+ “-volent”（意为“意愿的”），即“有善意的”。
 
 ---
 
-## 3. **deteriorate**  
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：v.  
-**释义**：恶化；变坏；退化  
-**例句**：  
-- Her health began to deteriorate rapidly.  
-  她的健康状况开始迅速恶化。  
-**记忆技巧**：词根 *deterior-*（更坏的）→ *deteriorate*（变得更坏）→ 恶化。
+## 3. **conundrum**
+   - **音标**: /kəˈnʌndrəm/
+   - **词性**: 名词 (n.)
+   - **释义**: 难题；复杂的问题；令人困惑的谜题
+   - **例句**: The environmental pollution poses a conundrum for policymakers.
+    （环境污染对决策者来说是一个难题。）
+   - **记忆技巧**: 谐音“可难抓”，联想“这个问题可真难抓住要点”。
 
 ---
 
-## 4. **prosperous**  
-**音标**：/ˈprɑːspərəs/  
-**词性**：adj.  
-**释义**：繁荣的；成功的；兴旺的  
-**例句**：  
-- The city became prosperous through international trade.  
-  这座城市通过国际贸易变得繁荣。  
-**记忆技巧**：词根 *prosper-*（繁荣，如 *prosperity*）+ *-ous*（形容词后缀）→ 繁荣的。
+## 4. **discrepancy**
+   - **音标**: /dɪˈskrepənsi/
+   - **词性**: 名词 (n.)
+   - **释义**: 差异；不一致；矛盾
+   - **例句**: There is a discrepancy between his words and his actions.
+    （他的言行不一。）
+   - **记忆技巧**: 词根“dis-”（分开）+ “-crep”（破裂），联想“分开后出现的裂痕”。
 
 ---
 
-## 5. **restrain**  
-**音标**：/rɪˈstreɪn/  
-**词性**：v.  
-**释义**：抑制；阻止；约束  
-**例句**：  
-- She could hardly restrain her laughter.  
-  她几乎忍不住笑出声来。  
-**记忆技巧**：前缀 *re-*（向后）+ *strain*（拉紧）→ 向后拉紧 → 抑制。
+## 5. **elusive**
+   - **音标**: /ɪˈluːsɪv/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 难以捉摸的；易被遗忘的；逃避的
+   - **例句**: The solution to the problem remains elusive.
+    （这个问题的解决方案仍然难以捉摸。）
+   - **记忆技巧**: 词根“e-”（出）+ “-lus”（游戏）+ “-ive”，联想“在游戏里跑出来，抓不住”。
 
 ---
 
-## 6. **substantial**  
-**音标**：/səbˈstænʃəl/  
-**词性**：adj.  
-**释义**：大量的；实质的；坚固的  
-**例句**：  
-- They made substantial progress in the negotiation.  
-  他们在谈判中取得了重大进展。  
-**记忆技巧**：词根 *substant-*（实体，实质）+ *-ial*（形容词后缀）→ 有实质的 → 大量的。
+## 6. **fluctuate**
+   - **音标**: /ˈflʌktʃueɪt/
+   - **词性**: 动词 (v.)
+   - **释义**: 波动；变动；涨落
+   - **例句**: The stock market prices fluctuate daily.
+    （股票市场价格每天都在波动。）
+   - **记忆技巧**: 词根“-flu-”（流动），联想“像水流一样上下波动”。
 
 ---
 
-## 7. **contempt**  
-**音标**：/kənˈtempt/  
-**词性**：n.  
-**释义**：轻视；蔑视；耻辱  
-**例句**：  
-- He showed contempt for the rules.  
-  他蔑视这些规则。  
-**记忆技巧**：前缀 *con-*（完全）+ *tempt*（尝试，引申为“试探”）→ 完全不值得试探 → 轻视。
+## 7. **gregarious**
+   - **音标**: /ɡrɪˈɡeriəs/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 爱交际的；群居的；合群的
+   - **例句**: She is a gregarious person who enjoys parties.
+    （她是个爱交际的人，喜欢参加聚会。）
+   - **记忆技巧**: 词根“greg-”（群体）+ “-arious”，联想“喜欢在群体中活动的”。
 
 ---
 
-## 8. **profound**  
-**音标**：/prəˈfaʊnd/  
-**词性**：adj.  
-**释义**：深刻的；渊博的；极度的  
-**例句**：  
-- The book had a profound impact on my thinking.  
-  这本书对我的思想产生了深远影响。  
-**记忆技巧**：前缀 *pro-*（向前）+ *found*（基础）→ 向前深入基础 → 深刻的。
+## 8. **hinder**
+   - **音标**: /ˈhɪndər/
+   - **词性**: 动词 (v.)
+   - **释义**: 阻碍；妨碍；阻挡
+   - **例句**: Heavy rain hindered the rescue efforts.
+    （大雨阻碍了救援工作。）
+   - **记忆技巧**: 词根“hind-”（后面），联想“把人拖在后面，阻碍前进”。
 
 ---
 
-## 9. **feasible**  
-**音标**：/ˈfiːzəbl/  
-**词性**：adj.  
-**释义**：可行的；可能的；合理的  
-**例句**：  
-- Is it feasible to complete the project in one week?  
-  一周内完成这个项目可行吗？  
-**记忆技巧**：词根 *feas-*（做，如 *factory*）+ *-ible*（能够…的）→ 能够做的 → 可行的。
+## 9. **meticulous**
+   - **音标**: /məˈtɪkjələs/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 一丝不苟的；细致的；挑剔的
+   - **例句**: She is meticulous about her research methodology.
+    （她对自己的研究方法一丝不苟。）
+   - **记忆技巧**: 联想“meticulous”发音像“每题考乐思”，考试时每道题都仔细思考。
 
 ---
 
-## 10. **negligible**  
-**音标**：/ˈneɡlɪdʒəbl/  
-**词性**：adj.  
-**释义**：微不足道的；可以忽略的  
-**例句**：  
-- The risk to public health is negligible.  
-  对公共健康的风险可以忽略不计。  
-**记忆技巧**：词根 *neg-*（否定）+ *lig-*（选择）→ 不值得选择的 → 微不足道的。
+## 10. **nominal**
+   - **音标**: /ˈnɑːmɪnl/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 名义上的；有名无实的；象征性的
+   - **例句**: He holds a nominal position in the company.
+    （他在公司只是个挂名职位。）
+   - **记忆技巧**: 词根“-nom-”（名字）+ “-ial”，联想“只有名字，没有实权”。
 
 ---
 
-## 11. **fluctuate**  
-**音标**：/ˈflʌktʃueɪt/  
-**词性**：v.  
-**释义**：波动；涨落；动摇  
-**例句**：  
-- Prices fluctuate according to market demand.  
-  价格根据市场需求波动。  
-**记忆技巧**：词根 *flu-*（流动）→ 像水一样流动 → 波动。
+## 11. **paradigm**
+   - **音标**: /ˈpærədaɪm/
+   - **词性**: 名词 (n.)
+   - **释义**: 范式；典范；模式
+   - **例句**: The discovery led to a new paradigm in physics.
+    （这一发现引发了物理学的新范式。）
+   - **记忆技巧**: 联想“para-”（旁边）+ “-digm”（显示），即“在旁边展示的标准模型”。
 
 ---
 
-## 12. **impartial**  
-**音标**：/ɪmˈpɑːrʃəl/  
-**词性**：adj.  
-**释义**：公正的；不偏不倚的  
-**例句**：  
-- A judge must be impartial.  
-  法官必须公正无私。  
-**记忆技巧**：前缀 *im-*（不）+ *partial*（偏袒的）→ 不偏袒的 → 公正的。
+## 12. **quandary**
+   - **音标**: /ˈkwɑːndəri/
+   - **词性**: 名词 (n.)
+   - **释义**: 困境；进退两难；困惑
+   - **例句**: She was in a quandary about whether to accept the job offer.
+    （她对于是否接受这份工作感到进退两难。）
+   - **记忆技巧**: 谐音“困得瑞”，联想“困得不知如何是好”。
 
 ---
 
-**✨ 今日学习提示**  
-建议结合例句朗读3遍，并尝试用每个单词造句。可将易混淆词（如 *feasible* 和 *possible*）对比记忆。
+## 13. **resilient**
+   - **音标**: /rɪˈzɪliənt/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 有弹性的；能恢复的；适应力强的
+   - **例句**: Children are often more resilient than adults think.
+    （孩子们往往比成年人想象的更有适应力。）
+   - **记忆技巧**: 词根“re-”（回）+ “-sil-”（跳）+ “-ient”，联想“跳回原位，恢复原状”。
 
-**坚持就是胜利！明天见！** 🌟
+---
+
+## 14. **substantiate**
+   - **音标**: /səbˈstænʃieɪt/
+   - **词性**: 动词 (v.)
+   - **释义**: 证实；证明；使具体化
+   - **例句**: Can you substantiate your claims with evidence?
+    （你能用证据证实你的说法吗？）
+   - **记忆技巧**: 词根“sub-”（下）+ “-stant-”（站立）+ “-iate”，联想“站在下面支撑，使其稳固”。
+
+---
+
+## 15. **volatile**
+   - **音标**: /ˈvɑːlətl/
+   - **词性**: 形容词 (adj.)
+   - **释义**: 不稳定的；易变的；易挥发的
+   - **例句**: The political situation in the region is highly volatile.
+    （该地区的政治局势极不稳定。）
+   - **记忆技巧**: 词根“-vol-”（飞）+ “-atile”，联想“像挥发物一样容易飞走”。
+
+---
+
+**今日学习小贴士**：  
+建议结合例句大声朗读，尝试用每个新词造句，并在语境中加深记忆。坚持每日积累，六级高频词汇将逐渐内化为你的一部分！
