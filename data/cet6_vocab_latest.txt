@@ -1,156 +1,124 @@
-# 六级高频词汇学习 - 第107天
+# 六级词汇每日学习 (第108天)
+
+今天为你准备了12个核心六级高频词汇，涵盖了名词、动词、形容词和副词，并配上了记忆方法和实用例句。
 
 ---
 
-## 1. **abstain**
-   - **音标**: /əbˈsteɪn/
-   - **词性**: 动词 (v.)
-   - **释义**: 戒除；弃权；避开
-   - **例句**: He decided to abstain from alcohol during the month of Ramadan.
-    （他在斋月期间决定戒酒。）
-   - **记忆技巧**: 词根“ab-”（远离）+ “-stain”（站住），联想“站住不动，远离诱惑”。
+### 1. disposition
+*   **音标**：/ˌdɪspəˈzɪʃn/
+*   **词性**：n.
+*   **中文释义**：①性情，性格；②倾向，意向；③处置，安排
+*   **例句**：
+    *   She has a cheerful **disposition**.
+    *   她性情开朗。
+    *   The company’s **disposition** of assets is still under review.
+    *   公司对资产的处置方案仍在审议中。
+*   **记忆技巧**：词根 `dis-` (分开) + `position` (位置) → “不在原来的位置” → 可以引申为“性格的倾向”或“物品的安置/处置”。
+
+### 2. prevalent
+*   **音标**：/ˈprevələnt/
+*   **词性**：adj.
+*   **中文释义**：流行的，盛行的；普遍存在的
+*   **例句**：
+    *   This is a **prevalent** problem in urban areas.
+    *   这是城市地区一个普遍存在的问题。
+*   **记忆技巧**：词根 `pre-` (前面) + `val` (强壮，如 value) + `-ent` → “在前面很有力量的” → 流行的、盛行的。
+
+### 3. erratic
+*   **音标**：/ɪˈrætɪk/
+*   **词性**：adj.
+*   **中文释义**：不稳定的；古怪的，难以预测的
+*   **例句**：
+    *   His **erratic** behavior has worried his friends.
+    *   他古怪的行为让他的朋友们很担心。
+*   **记忆技巧**：联想记忆：`err` (错误，出错) → 一个人总是“出错”，行为就很“不稳定、古怪”。
+
+### 4. mitigate
+*   **音标**：/ˈmɪtɪɡeɪt/
+*   **词性**：v.
+*   **中文释义**：使减轻；使缓解
+*   **例句**：
+    *   Steps were taken to **mitigate** the effects of the drought.
+    *   已采取措施来缓解旱灾的影响。
+*   **记忆技巧**：词根 `mit` (温和，柔和，如 mild) + `-igate` → 使其变得温和 → 缓解、减轻。
+
+### 5. substantiate
+*   **音标**：/səbˈstænʃieɪt/
+*   **词性**：v.
+*   **中文释义**：证实，证明...有根据
+*   **例句**：
+    *   Do you have any evidence to **substantiate** your claim?
+    *   你有任何证据来支持你的主张吗？
+*   **记忆技巧**：词根 `substant` (实体，实质，如 substance) + `-iate` → 使其成为实体 → 用事实或证据来证实。
+
+### 6. paradox
+*   **音标**：/ˈpærədɑːks/
+*   **词性**：n.
+*   **中文释义**：悖论；矛盾的人或事物
+*   **例句**：
+    *   It’s a **paradox** that a cure can also be a poison.
+    *   药物能治病也能致毒，这真是一个悖论。
+*   **记忆技巧**：词根 `para-` (超越，在旁边) + `dox` (观点) → 超越了常规观点 → 悖论。
+
+### 7. resilient
+*   **音标**：/rɪˈzɪliənt/
+*   **词性**：adj.
+*   **中文释义**：有弹性的；能迅速恢复的，适应力强的
+*   **例句**：
+    *   Children are often more **resilient** than adults.
+    *   孩子们通常比成年人适应力更强。
+*   **记忆技巧**：词根 `resil` (跳回，反弹) + `-ient` → 能跳回来的 → 有弹性的、恢复力强的。
+
+### 8. deteriorate
+*   **音标**：/dɪˈtɪriəreɪt/
+*   **词性**：v.
+*   **中文释义**：变坏，恶化；变质
+*   **例句**：
+    *   His health began to **deteriorate** rapidly.
+    *   他的健康状况开始迅速恶化。
+*   **记忆技巧**：词根 `deterior` (更坏的，低劣的，比较级形式) + `-ate` → 使其变得更坏 → 恶化。
+
+### 9. eloquent
+*   **音标**：/ˈeləkwənt/
+*   **词性**：adj.
+*   **中文释义**：雄辩的，有说服力的；意味深长的
+*   **例句**：
+    *   She is an **eloquent** speaker who can move any audience.
+    *   她是一位雄辩的演讲者，能打动任何听众。
+*   **记忆技巧**：词根 `e-` (出) + `loqu` (说话，如 colloquial) + `-ent` → 把话“说出来且说得好” → 雄辩的。
+
+### 10. tangible
+*   **音标**：/ˈtændʒəbl/
+*   **词性**：adj.
+*   **中文释义**：切实的，有形的；可触摸的
+*   **例句**：
+    *   We need **tangible** proof before we can proceed.
+    *   在我们采取行动之前，需要切实的证据。
+*   **记忆技巧**：词根 `tang` (触摸，如 touch) + `-ible` → 可以触摸到的 → 有形的、切实的。
+
+### 11. augment
+*   **音标**：/ɔːɡˈment/
+*   **词性**：v.
+*   **中文释义**：增加，增大；补充
+*   **例句**：
+    *   He **augments** his income by teaching on weekends.
+    *   他通过周末教课来增加收入。
+*   **记忆技巧**：联想记忆：`aug` (像 August 八月，象征丰收) → 让东西像八月的庄稼一样“增加” → 增加、补充。
+
+### 12. ubiquitous
+*   **音标**：/juːˈbɪkwɪtəs/
+*   **词性**：adj.
+*   **中文释义**：普遍存在的，无处不在的
+*   **例句**：
+    *   Smartphones have become **ubiquitous** in modern life.
+    *   智能手机在现代生活中已经无处不在。
+*   **记忆技巧**：拆分联想：`u` (你) + `bi` (必) + `qui` (去) + `tous` (都) → “你必须去任何地方都有” → 无处不在的。
 
 ---
 
-## 2. **benevolent**
-   - **音标**: /bəˈnevələnt/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 仁慈的；慈善的；和蔼的
-   - **例句**: The benevolent organization provides free meals for the homeless.
-    （这个慈善组织为无家可归者提供免费餐食。）
-   - **记忆技巧**: 词根“bene-”（好）+ “-volent”（意为“意愿的”），即“有善意的”。
+### 今日学习小结：
+*   **词性分布**：名词2个，动词4个，形容词5个，副词0个（今日副词较少，可关注形容词和动词的用法）。
+*   **记忆建议**：重点理解词根词缀的逻辑，并尝试用**联想记忆法**将单词与你熟悉的画面或场景联系起来。例如，将 `ubiquitous` 和手机在生活中的无处不在联系起来。
+*   **实践应用**：建议从今天的词汇中挑选3-5个，尝试造句或在写作中使用，加深记忆。
 
----
-
-## 3. **conundrum**
-   - **音标**: /kəˈnʌndrəm/
-   - **词性**: 名词 (n.)
-   - **释义**: 难题；复杂的问题；令人困惑的谜题
-   - **例句**: The environmental pollution poses a conundrum for policymakers.
-    （环境污染对决策者来说是一个难题。）
-   - **记忆技巧**: 谐音“可难抓”，联想“这个问题可真难抓住要点”。
-
----
-
-## 4. **discrepancy**
-   - **音标**: /dɪˈskrepənsi/
-   - **词性**: 名词 (n.)
-   - **释义**: 差异；不一致；矛盾
-   - **例句**: There is a discrepancy between his words and his actions.
-    （他的言行不一。）
-   - **记忆技巧**: 词根“dis-”（分开）+ “-crep”（破裂），联想“分开后出现的裂痕”。
-
----
-
-## 5. **elusive**
-   - **音标**: /ɪˈluːsɪv/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 难以捉摸的；易被遗忘的；逃避的
-   - **例句**: The solution to the problem remains elusive.
-    （这个问题的解决方案仍然难以捉摸。）
-   - **记忆技巧**: 词根“e-”（出）+ “-lus”（游戏）+ “-ive”，联想“在游戏里跑出来，抓不住”。
-
----
-
-## 6. **fluctuate**
-   - **音标**: /ˈflʌktʃueɪt/
-   - **词性**: 动词 (v.)
-   - **释义**: 波动；变动；涨落
-   - **例句**: The stock market prices fluctuate daily.
-    （股票市场价格每天都在波动。）
-   - **记忆技巧**: 词根“-flu-”（流动），联想“像水流一样上下波动”。
-
----
-
-## 7. **gregarious**
-   - **音标**: /ɡrɪˈɡeriəs/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 爱交际的；群居的；合群的
-   - **例句**: She is a gregarious person who enjoys parties.
-    （她是个爱交际的人，喜欢参加聚会。）
-   - **记忆技巧**: 词根“greg-”（群体）+ “-arious”，联想“喜欢在群体中活动的”。
-
----
-
-## 8. **hinder**
-   - **音标**: /ˈhɪndər/
-   - **词性**: 动词 (v.)
-   - **释义**: 阻碍；妨碍；阻挡
-   - **例句**: Heavy rain hindered the rescue efforts.
-    （大雨阻碍了救援工作。）
-   - **记忆技巧**: 词根“hind-”（后面），联想“把人拖在后面，阻碍前进”。
-
----
-
-## 9. **meticulous**
-   - **音标**: /məˈtɪkjələs/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 一丝不苟的；细致的；挑剔的
-   - **例句**: She is meticulous about her research methodology.
-    （她对自己的研究方法一丝不苟。）
-   - **记忆技巧**: 联想“meticulous”发音像“每题考乐思”，考试时每道题都仔细思考。
-
----
-
-## 10. **nominal**
-   - **音标**: /ˈnɑːmɪnl/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 名义上的；有名无实的；象征性的
-   - **例句**: He holds a nominal position in the company.
-    （他在公司只是个挂名职位。）
-   - **记忆技巧**: 词根“-nom-”（名字）+ “-ial”，联想“只有名字，没有实权”。
-
----
-
-## 11. **paradigm**
-   - **音标**: /ˈpærədaɪm/
-   - **词性**: 名词 (n.)
-   - **释义**: 范式；典范；模式
-   - **例句**: The discovery led to a new paradigm in physics.
-    （这一发现引发了物理学的新范式。）
-   - **记忆技巧**: 联想“para-”（旁边）+ “-digm”（显示），即“在旁边展示的标准模型”。
-
----
-
-## 12. **quandary**
-   - **音标**: /ˈkwɑːndəri/
-   - **词性**: 名词 (n.)
-   - **释义**: 困境；进退两难；困惑
-   - **例句**: She was in a quandary about whether to accept the job offer.
-    （她对于是否接受这份工作感到进退两难。）
-   - **记忆技巧**: 谐音“困得瑞”，联想“困得不知如何是好”。
-
----
-
-## 13. **resilient**
-   - **音标**: /rɪˈzɪliənt/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 有弹性的；能恢复的；适应力强的
-   - **例句**: Children are often more resilient than adults think.
-    （孩子们往往比成年人想象的更有适应力。）
-   - **记忆技巧**: 词根“re-”（回）+ “-sil-”（跳）+ “-ient”，联想“跳回原位，恢复原状”。
-
----
-
-## 14. **substantiate**
-   - **音标**: /səbˈstænʃieɪt/
-   - **词性**: 动词 (v.)
-   - **释义**: 证实；证明；使具体化
-   - **例句**: Can you substantiate your claims with evidence?
-    （你能用证据证实你的说法吗？）
-   - **记忆技巧**: 词根“sub-”（下）+ “-stant-”（站立）+ “-iate”，联想“站在下面支撑，使其稳固”。
-
----
-
-## 15. **volatile**
-   - **音标**: /ˈvɑːlətl/
-   - **词性**: 形容词 (adj.)
-   - **释义**: 不稳定的；易变的；易挥发的
-   - **例句**: The political situation in the region is highly volatile.
-    （该地区的政治局势极不稳定。）
-   - **记忆技巧**: 词根“-vol-”（飞）+ “-atile”，联想“像挥发物一样容易飞走”。
-
----
-
-**今日学习小贴士**：  
-建议结合例句大声朗读，尝试用每个新词造句，并在语境中加深记忆。坚持每日积累，六级高频词汇将逐渐内化为你的一部分！
+坚持每天积累，量变终将引起质变！祝你学习愉快！
