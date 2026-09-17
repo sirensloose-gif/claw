@@ -1,144 +1,177 @@
-# 六级高频词汇学习 | Day 109
-
-以下是今日的12个六级高频词汇，涵盖不同词性，适合日常积累与巩固。
+### 📚 六级高频词汇学习 · 第110天
 
 ---
 
-## 1. **contemplate**
-- **音标**：/ˈkɑːntəmpleɪt/
-- **词性**：v.  
-- **中文释义**：沉思；考虑；注视
-- **例句**：
-  - *She sat quietly, contemplating the meaning of life.*
-  - 她静静地坐着，思索生命的意义。
-- **记忆技巧**：词根 *contempl-*（思考）+ *-ate*（动词后缀）→ 深入思考。
+#### 1. **scrutinize**
+**音标**：/ˈskruːtənaɪz/  
+**词性**：v.  
+**释义**：仔细检查；细读  
+**例句**：  
+The report was **scrutinized** by the committee before it was approved.  
+（这份报告在批准前经过委员会的仔细审查。）  
+**记忆技巧**：词根 *scrutin-* 来自拉丁语“scrutari”（翻找），联想“用放大镜翻找细节”。
 
 ---
 
-## 2. **perceptive**
-- **音标**：/pərˈseptɪv/
-- **词性**：adj.  
-- **中文释义**：敏锐的；有洞察力的
-- **例句**：
-  - *The manager is very perceptive about employees' needs.*
-  - 这位经理对员工的需求很有洞察力。
-- **记忆技巧**：来自 *perceive*（感知）+ *-ive*（形容词后缀）→ 善于感知的。
+#### 2. **profound**
+**音标**：/prəˈfaʊnd/  
+**词性**：adj.  
+**释义**：深刻的；深远的；渊博的  
+**例句**：  
+The book had a **profound** impact on my understanding of history.  
+（这本书对我理解历史产生了深远影响。）  
+**记忆技巧**：前缀 *pro-*（向前）+ *found*（基础）→ 向深处挖掘基础 → 深刻的。
 
 ---
 
-## 3. **resilient**
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.  
-- **中文释义**：有弹性的；能恢复的；适应力强的
-- **例句**：
-  - *Children are often more resilient than adults after setbacks.*
-  - 孩子们在受挫后通常比成年人恢复得更快。
-- **记忆技巧**：词根 *resil-*（弹回）+ *-ient*（形容词后缀）→ 像弹簧一样恢复。
+#### 3. **quota**
+**音标**：/ˈkwoʊtə/  
+**词性**：n.  
+**释义**：配额；定额；限额  
+**例句**：  
+The sales team exceeded their monthly **quota** by 15%.  
+（销售团队超额完成了15%的月度配额。）  
+**记忆技巧**：谐音“阔他” → 他超额完成定额很阔气。
 
 ---
 
-## 4. **unprecedented**
-- **音标**：/ʌnˈpresɪdentɪd/
-- **词性**：adj.  
-- **中文释义**：史无前例的；空前的
-- **例句**：
-  - *The world faced an unprecedented health crisis in 2020.*
-  - 2020年世界面临一场史无前例的健康危机。
-- **记忆技巧**：前缀 *un-*（不）+ *precedented*（有先例的）→ 无先例可循。
+#### 4. **emphasize**
+**音标**：/ˈemfəsaɪz/  
+**词性**：v.  
+**释义**：强调；着重  
+**例句**：  
+The teacher **emphasized** the importance of regular review.  
+（老师强调了定期复习的重要性。）  
+**记忆技巧**：词根 *emph-*（显著）+ *-size*（动词后缀）→ 使其显著 → 强调。
 
 ---
 
-## 5. **advocate**
-- **音标**：/ˈædvəkeɪt/
-- **词性**：v./n.  
-- **中文释义**：提倡；支持；倡导者
-- **例句**：
-  - *Many scientists advocate for immediate action on climate change.*
-  - 许多科学家呼吁立即采取行动应对气候变化。
-- **记忆技巧**：词根 *advoc-*（呼吁）+ *-ate* → 为某事呼吁。
+#### 5. **vulnerable**
+**音标**：/ˈvʌlnərəbl/  
+**词性**：adj.  
+**释义**：脆弱的；易受伤害的  
+**例句**：  
+Children are particularly **vulnerable** to respiratory infections.  
+（儿童特别容易受到呼吸道感染。）  
+**记忆技巧**：词根 *vulner-*（伤害）+ *-able*（易…的）→ 易受伤害的。
 
 ---
 
-## 6. **diminish**
-- **音标**：/dɪˈmɪnɪʃ/
-- **词性**：v.  
-- **中文释义**：减少；缩小；贬低
-- **例句**：
-  - *The importance of this issue should not be diminished.*
-  - 这个问题的重要性不应被贬低。
-- **记忆技巧**：前缀 *di-*（分开）+ *minish*（减少）→ 逐渐减少。
+#### 6. **surveillance**
+**音标**：/sɜːrˈveɪləns/  
+**词性**：n.  
+**释义**：监视；监控  
+**例句**：  
+The area is under 24-hour **surveillance** by security cameras.  
+（该区域受到监控摄像头24小时监控。）  
+**记忆技巧**：前缀 *sur-*（上方）+ *veil*（看）→ 从上方看守 → 监控。
 
 ---
 
-## 7. **pragmatic**
-- **音标**：/præɡˈmætɪk/
-- **词性**：adj.  
-- **中文释义**：务实的；实用主义的
-- **例句**：
-  - *We need a pragmatic approach to solve this problem.*
-  - 我们需要一个务实的方法来解决这个问题。
-- **记忆技巧**：来自 *pragmat-*（实践）+ *-ic*（形容词后缀）→ 重实践的。
+#### 7. **preliminary**
+**音标**：/prɪˈlɪmɪneri/  
+**词性**：adj./n.  
+**释义**：初步的；预备的；初试  
+**例句**：  
+The **preliminary** results suggest the new drug is effective.  
+（初步结果表明新药是有效的。）  
+**记忆技巧**：前缀 *pre-*（前）+ *limin*（门槛）→ 进门前 → 初步的。
 
 ---
 
-## 8. **substantial**
-- **音标**：/səbˈstænʃəl/
-- **词性**：adj.  
-- **中文释义**：大量的；实质的；重要的
-- **例句**：
-  - *The company made substantial profits last quarter.*
-  - 公司上季度获得了可观的利润。
-- **记忆技巧**：词根 *substant-*（实体）+ *-ial*（形容词后缀）→ 有实体分量的。
+#### 8. **contempt**
+**音标**：/kənˈtempt/  
+**词性**：n.  
+**释义**：轻视；蔑视；不顾  
+**例句**：  
+She showed **contempt** for those who cheated in the exam.  
+（她蔑视考试作弊的人。）  
+**记忆技巧**：前缀 *con-*（完全）+ *tempt*（尝试）→ 完全尝试无视 → 蔑视。
 
 ---
 
-## 9. **compelling**
-- **音标**：/kəmˈpelɪŋ/
-- **词性**：adj.  
-- **中文释义**：引人注目的；令人信服的；强制性的
-- **例句**：
-  - *The documentary provides compelling evidence of climate change.*
-  - 这部纪录片提供了气候变化令人信服的证据。
-- **记忆技巧**：来自动词 *compel*（强制）+ *-ing* → 有强制吸引力的。
+#### 9. **henceforth**
+**音标**：/ˌhensˈfɔːrθ/  
+**词性**：adv.  
+**释义**：从此以后  
+**例句**：  
+**Henceforth**, the company will operate under new guidelines.  
+（从今以后，公司将按照新准则运营。）  
+**记忆技巧**：*hence*（从现在）+ *forth*（向前）→ 从现在向前 → 今后。
 
 ---
 
-## 10. **hierarchical**
-- **音标**：/ˌhaɪəˈrɑːrkɪkəl/
-- **词性**：adj.  
-- **中文释义**：等级制度的；层级的
-- **例句**：
-  - *Traditional companies often have a hierarchical structure.*
-  - 传统公司往往有等级分明的结构。
-- **记忆技巧**：词根 *hierarch-*（等级）+ *-ical*（形容词后缀）→ 按等级划分的。
+#### 10. **resilient**
+**音标**：/rɪˈzɪliənt/  
+**词性**：adj.  
+**释义**：有弹性的；适应力强的  
+**例句**：  
+The economy showed **resilient** growth despite the recession.  
+（尽管经济衰退，经济仍显示出坚韧的增长。）  
+**记忆技巧**：词根 *resil-*（反弹）+ *-ient* → 能反弹的 → 有韧性的。
 
 ---
 
-## 11. **volatile**
-- **音标**：/ˈvɑːlətl/
-- **词性**：adj.  
-- **中文释义**：不稳定的；易变的；易挥发的
-- **例句**：
-  - *The stock market has been very volatile recently.*
-  - 股市最近非常不稳定。
-- **记忆技巧**：词根 *volat-*（飞）+ *-ile*（易…的）→ 像风一样容易变化。
+#### 11. **ambiguous**
+**音标**：/æmˈbɪɡjuəs/  
+**词性**：adj.  
+**释义**：模糊的；有歧义的  
+**例句**：  
+The wording of the contract was deliberately **ambiguous**.  
+（合同的措辞故意含糊不清。）  
+**记忆技巧**：前缀 *ambi-*（两边）+ *guous*（驱动）→ 驱向两边 → 歧义。
 
 ---
 
-## 12. **apparently**
-- **音标**：/əˈpærəntli/
-- **词性**：adv.  
-- **中文释义**：显然地；表面上；据说
-- **例句**：
-  - *Apparently, the meeting has been postponed indefinitely.*
-  - 据说会议已被无限期推迟。
-- **记忆技巧**：来自形容词 *apparent*（明显的）+ *-ly*（副词后缀）→ 看起来明显的。
+#### 12. **deplete**
+**音标**：/dɪˈpliːt/  
+**词性**：v.  
+**释义**：耗尽；使枯竭  
+**例句**：  
+Overfishing has **depleted** the ocean’s fish stocks.  
+（过度捕捞耗尽了海洋鱼类资源。）  
+**记忆技巧**：前缀 *de-*（向下）+ *plete*（充满）→ 使向下充满 → 耗尽。
 
 ---
 
-### 📅 学习建议：
-1. 尝试用每个词汇造句，加深理解。
-2. 结合阅读材料巩固记忆。
-3. 每周复习本周所有词汇，避免遗忘。
+#### 13. **conceal**
+**音标**：/kənˈsiːl/  
+**词性**：v.  
+**释义**：隐藏；隐瞒  
+**例句**：  
+He tried to **conceal** his disappointment from his family.  
+（他试图向家人隐瞒自己的失望。）  
+**记忆技巧**：前缀 *con-*（完全）+ *ceal*（隐藏）→ 完全藏起 → 隐瞒。
 
-祝学习顺利！ 📚✨
+---
+
+#### 14. **elaborate**
+**音标**：/ɪˈlæbəreɪt/  
+**词性**：adj./v.  
+**释义**：精心制作的；详细阐述  
+**例句**：  
+Could you **elaborate** on your proposal?  
+（你能详细阐述一下你的提案吗？）  
+**记忆技巧**：前缀 *e-*（出）+ *labor*（工作）→ 做出细致工作 → 精心制作。
+
+---
+
+#### 15. **paradigm**
+**音标**：/ˈpærədaɪm/  
+**词性**：n.  
+**释义**：范例；典范；模式  
+**例句**：  
+The discovery led to a new **paradigm** in scientific thinking.  
+（这一发现导致了科学思维的新范式。）  
+**记忆技巧**：词根 *para-*（旁边）+ *deixis*（显示）→ 作为参照显示 → 范例。
+
+---
+
+✨ **学习建议**：  
+1. 例句可尝试跟读模仿，注意重音与语调。  
+2. 结合记忆技巧拆分词汇，加深印象。  
+3. 每日复习前日词汇，利用间隔重复巩固记忆。
+
+**今日挑战**：用 **scrutinize** 和 **profound** 造一个复合句，例如：  
+“*The critic scrutinized the painting, revealing its profound symbolism.*”  
+（评论家仔细审视了这幅画，揭示了其深刻的象征意义。）
