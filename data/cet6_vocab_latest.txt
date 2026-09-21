@@ -1,150 +1,92 @@
-# 📚 六级高频词汇 | 第113天
+# 六级高频词汇学习 (第114天)
 
-## 今日词汇（12个）
+今天为你准备了12个六级高频核心词汇，涵盖动词、名词、形容词和副词，并附有详细的解析与记忆方法。坚持积累，祝你备考顺利！
 
 ---
 
-### 1. perpetuate
-*   **音标**：/pərˈpetʃueɪt/
+### 1. complement
+*   **音标**：/ˈkɑːmplɪmənt/
+*   **词性**：n./v.
+*   **释义**：n. 补充物；补足语 v. 补充，补足
+*   **例句**：The wine **complements** the cheese perfectly. (这款葡萄酒与奶酪**搭配得**恰到好处。)
+*   **记忆技巧**：词根 **com-**（共同）+ **ple**（填满，满的）+ **-ment**（名词后缀）。原意为“使填满、使完整”，即补充、补足。注意与 **compliment**（n./v. 称赞）区分，后者词根为“完成、恭维”。
+
+### 2. compulsory
+*   **音标**：/kəmˈpʌlsəri/
+*   **词性**：adj.
+*   **释义**：强制的，必修的；义务的
+*   **例句**：Attendance at the meeting is **compulsory** for all managers. (所有经理**必须**参加会议。)
+*   **记忆技巧**：词根 **compuls-**（强迫），来自拉丁语 *compellere*（强迫）。后缀 **-ory** 表示“与…有关的”。联想：**compel**（v. 强迫）+ **sory**（像“sorry”），因“强迫”而感到“抱歉”，说明是“强制的”。
+
+### 3. compensate
+*   **音标**：/ˈkɑːmpenseɪt/
 *   **词性**：v.
-*   **中文释义**：使永久化；使持续
-*   **例句**：
-    *   **英文**：The myth that natural resources are infinite helps to **perpetuate** unsustainable consumption patterns.
-    *   **中文**：自然资源无限的这一观念，助长了不可持续的消费模式。
-*   **记忆技巧**：
-    *   **词根**：per-（贯穿）+ pet（寻求）+ -uate（动词后缀）。意为“贯穿始终地寻求/保持”，引申为“使永久化”。
+*   **释义**：补偿，赔偿；弥补
+*   **例句**：The company **compensated** the workers for their injuries. (公司对工人的受伤**进行了赔偿**。)
+*   **记忆技巧**：词根 **com-**（共同，加强）+ **pens**（支付）+ **-ate**（动词后缀）。核心意思是“一起支付”，即“补偿、赔偿”。同根词：**pension**（n. 养老金）。
 
----
+### 4. comprehensive
+*   **音标**：/ˌkɑːmprɪˈhensɪv/
+*   **词性**：adj.
+*   **释义**：综合的；全面的；有理解力的
+*   **例句**：We need a **comprehensive** plan to solve this problem. (我们需要一个**全面的**计划来解决这个问题。)
+*   **记忆技巧**：词根 **comprehens-**（抓住，理解），来自拉丁语 *comprehendere*（抓住）。引申为“将所有部分都抓住”，即“全面的”。同根词：**comprehend**（v. 理解）。
 
-### 2. scrutiny
-*   **音标**：/ˈskruːtəni/
-*   **词性**：n.
-*   **中文释义**：详细审查；监视；监督
-*   **例句**：
-    *   **英文**：The government's new policy has come under intense **scrutiny** from the media and the public.
-    *   **中文**：政府的新政策受到了媒体和公众的密切关注与严格审视。
-*   **记忆技巧**：
-    *   **联想**：联想单词 **screen**（屏幕）。把文件放在“屏幕”下放大细看，就是“审查”。
-
----
-
-### 3. paradox
-*   **音标**：/ˈpærədɑːks/
-*   **词性**：n.
-*   **中文释义**：悖论；矛盾的人或事物
-*   **例句**：
-    *   **英文**：It’s a **paradox** that in a world of greater connectivity, some people feel more isolated.
-    *   **中文**：这是一个悖论：在一个联系更紧密的世界里，有些人却感到更加孤立。
-*   **记忆技巧**：
-    *   **词根**：para-（超越/相反）+ dox（观点/意见）。观点“相反”或“超越常规”，即“悖论”。
-
----
-
-### 4. reconcile
-*   **音标**：/ˈrekənsaɪl/
+### 5. conceive
+*   **音标**：/kənˈsiːv/
 *   **词性**：v.
-*   **中文释义**：调和；使和解；使顺从（于）
-*   **例句**：
-    *   **英文**：He could never **reconcile** himself to the loss of his beloved dog.
-    *   **中文**：他始终无法接受失去爱犬的事实。
-*   **记忆技巧**：
-    *   **词根**：re-（再次）+ concile（召集/和睦）。再次使双方“和睦”相处，即“调和、和解”。
+*   **释义**：构想，想出；怀孕；认为
+*   **例句**：She **conceived** a brilliant idea for the new project. (她为新项目**构想**了一个绝妙的主意。)
+*   **记忆技巧**：词根 **con-**（共同）+ **ceive**（拿，取）。原意是“一起抓取”，引申为“在头脑中构想出一个想法”。同根词：**receive**（v. 接收），**perceive**（v. 感知）。
 
----
+### 6. confine
+*   **音标**：/kənˈfaɪn/
+*   **词性**：v.
+*   **释义**：限制，局限；关押，禁闭；使卧床
+*   **例句**：Please **confine** your remarks to the topic at hand. (请将你的发言**限定在**手头的主题上。)
+*   **记忆技巧**：词根 **con-**（共同，加强）+ **fin**（边界，终点）。意思为“划定共同的边界”，即“限制在…之内”。同根词：**define**（v. 下定义，界定），**final**（adj. 最终的）。
 
-### 5. elaborate
-*   **音标**：/ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
+### 7. consensus
+*   **音标**：/kənˈsensəs/
+*   **词性**：n.
+*   **释义**：共识，一致意见
+*   **例句**：The committee finally reached a **consensus** on the budget. (委员会在预算上终于达成了**共识**。)
+*   **记忆技巧**：词根 **con-**（共同）+ **sens-**（感觉，感知）+ **-us**（拉丁语名词后缀）。原意是“共同的感觉”，即“一致的意见”。
+
+### 8. contradict
+*   **音标**：/ˌkɑːntrəˈdɪkt/
+*   **词性**：v.
+*   **释义**：反驳，驳斥；与…矛盾
+*   **例句**：The witness’s testimony **contradicted** that of the previous one. (这位证人的证词与前一位的**相矛盾**。)
+*   **记忆技巧**：词根 **contra-**（反，对立）+ **dict**（说）。即“说反话”，表示“反驳、矛盾”。同根词：**predict**（v. 预言，提前说），**dictionary**（n. 字典，记录言辞的书）。
+
+### 9. controversy
+*   **音标**：/ˈkɑːntrəvɜːrsi/
+*   **词性**：n.
+*   **释义**：争论，争议
+*   **例句**：The decision sparked a major **controversy** among the public. (这个决定在公众中引发了巨大的**争议**。)
+*   **记忆技巧**：词根 **contra-**（反）+ **vers-**（转）+ **-y**（名词后缀）。原意是“相反地转动”，引申为“意见对立的争论”。形容词形式为 **controversial**（adj. 有争议的）。
+
+### 10. deteriorate
+*   **音标**：/dɪˈtɪriəreɪt/
+*   **词性**：v.
+*   **释义**：恶化，变坏；退化
+*   **例句**：His health continued to **deteriorate** despite the treatment. (尽管接受了治疗，他的健康状况仍在持续**恶化**。)
+*   **记忆技巧**：词根 **de-**（向下）+ **terior**（更坏的）+ **-ate**（动词后缀）。即“变得更坏”，表示“恶化”。联想：**deteriorate** 发音似“地退而离特”，地面退化，离开特别好的状态。
+
+### 11. discriminate
+*   **音标**：/dɪˈskrɪmɪneɪt/
+*   **词性**：v.
+*   **释义**：歧视；区分，辨别
+*   **例句**：The law **discriminates** against older workers in hiring practices. (法律在招聘中**歧视**年长的工人。)
+*   **记忆技巧**：词根 **dis-**（分开）+ **crim**（判断，犯罪）+ **-inate**（动词后缀）。即“做出有区别的判断”，可引申为“歧视”（做出不公正的区分）或“辨别”（做出正确的区分）。名词形式：**discrimination**（n. 歧视；辨别力）。
+
+### 12. elaborate
+*   **音标**：/ɪˈlæbərət/ (adj.); /ɪˈlæbəreɪt/ (v.)
 *   **词性**：adj. / v.
-*   **中文释义**：**adj.** 精心制作的；详尽的 **v.** 详细阐述；精心制作
-*   **例句**：
-    *   **英文**：Could you **elaborate** a bit more on your proposal?
-    *   **中文**：你能再详细阐述一下你的提议吗？
-*   **记忆技巧**：
-    *   **词根**：e-（出）+ labor（劳动）+ -ate。通过“劳动”做出来的东西，自然是“精心制作的”，需要“详细阐述”。
+*   **释义**：adj. 精心制作的，复杂的 v. 详细说明，阐述
+*   **例句**：Could you **elaborate** on your proposal? (你能**详细说明**一下你的提案吗？)
+*   **记忆技巧**：词根 **e-**（出，向外）+ **labor**（劳动，工作）+ **-ate**。即“通过劳动做出来”，引申为“精心制作的”（形容词）或“详细阐述”（动词）。记住核心：花了“很多劳动”。
 
 ---
-
-### 6. contemporary
-*   **音标**：/kənˈtempəreri/
-*   **词性**：adj. / n.
-*   **中文释义**：**adj.** 当代的；同时代的 **n.** 同时代的人；当代人
-*   **例句**：
-    *   **英文**：Her design style is very **contemporary**, appealing to young people.
-    *   **中文**：她的设计风格非常现代，深受年轻人喜爱。
-*   **记忆技巧**：
-    *   **词根**：con-（共同）+ tempor（时间）+ -ary（形容词后缀）。“共同时间的”即“当代的、同时代的”。
-
----
-
-### 7. deterioration
-*   **音标**：/dɪˌtɪriəˈreɪʃn/
-*   **词性**：n.
-*   **中文释义**：恶化；变坏；退化
-*   **例句**：
-    *   **英文**：The rapid **deterioration** of air quality is a serious public health concern.
-    *   **中文**：空气质量的迅速恶化是一个严重的公共卫生问题。
-*   **记忆技巧**：
-    *   **词根**：来自动词 **deteriorate**（恶化）。可以联想 **deteriorate** → **deterioration**（名词）。
-
----
-
-### 8. inherently
-*   **音标**：/ɪnˈhɪrəntli/
-*   **词性**：adv.
-*   **中文释义**：内在地；固有地；天性地
-*   **例句**：
-    *   **英文**：The system is **inherently** unfair to those without resources.
-    *   **中文**：这个体系对没有资源的人来说是固有地不公。
-*   **记忆技巧**：
-    *   **词根**：来自形容词 **inherent**（固有的）。in-（在内）+ her（粘附）+ -ent。粘附在内部的，即“固有的”。加上 **-ly** 变为副词。
-
----
-
-### 9. detrimental
-*   **音标**：/ˌdetrɪˈmentl/
-*   **词性**：adj.
-*   **中文释义**：有害的；不利的
-*   **例句**：
-    *   **英文**：Excessive screen time can be **detrimental** to children's eyesight.
-    *   **中文**：过度使用屏幕对孩子的视力可能有害。
-*   **记忆技巧**：
-    *   **词根**：来自名词 **detriment**（损害）。de-（向下）+ trim（削减）。不断“削减”即造成“损害”，是 **detrimental**（有害的）的来源。
-
----
-
-### 10. consequently
-*   **音标**：/ˈkɑːnsɪkwentli/
-*   **词性**：adv.
-*   **中文释义**：因此；所以；结果
-*   **例句**：
-    *   **英文**：He was late for the interview, and **consequently**, he didn't get the job.
-    *   **中文**：他面试迟到了，因此没有得到那份工作。
-*   **记忆技巧**：
-    *   **词根**：来自名词 **consequence**（结果）。con-（共同）+ sequ（跟随）。事情“跟随”发生，即“结果”。**consequently** 表示“随之而来地，因此”。
-
----
-
-### 11. impairment
-*   **音标**：/ɪmˈpermənt/
-*   **词性**：n.
-*   **中文释义**：损伤；损害；障碍
-*   **例句**：
-    *   **英文**：The drug may cause **impairment** of liver function.
-    *   **中文**：这种药物可能会损害肝功能。
-*   **记忆技巧**：
-    *   **词根**：来自动词 **impair**（损害）。im-（不）+ pair（平等，对等）。使不再“平等”，即“损害”。加 **-ment** 构成名词。
-
----
-
-### 12. robust
-*   **音标**：/roʊˈbʌst/
-*   **词性**：adj.
-*   **中文释义**：强健的；坚固的；稳健的
-*   **例句**：
-    *   **英文**：We need a **robust** debate to solve this complex issue.
-    *   **中文**：我们需要一场有力的辩论来解决这个复杂问题。
-*   **记忆技巧**：
-    *   **联想**：发音类似“若不死的”。身体“若不死”，就是“强健的”。也可直接联想 **robot**（机器人），机器人通常是“坚固的”。
-
----
-> 💡 **学习建议**：今日词汇侧重于**观点表达**和**状态描述**，在议论文和说明文中非常实用。建议结合例句体会单词的使用语境，并尝试用自己的话造句，这能大大加深记忆。祝学习顺利！
+**学习建议**：可以尝试使用今天学到的词汇各造一个句子，或者将它们放入一段话中进行写作练习，以加深理解和记忆。
