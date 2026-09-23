@@ -1,112 +1,130 @@
-# 六级高频词汇学习 - 第115天
-
-## 今日词汇列表
-
-### 1. **profound**
-*   **音标**：[prəˈfaʊnd]
-*   **词性**：形容词
-*   **中文释义**：深刻的；意义深远的；渊博的
-*   **例句**：
-    *   The book has had a **profound** impact on my understanding of philosophy. (这本书对我理解哲学产生了**深远的**影响。)
-*   **记忆技巧**：词根 `found` (底部，基础) + 前缀 `pro-` (向前)。可联想为“触及到事物的底层”，从而引申出“深刻的、渊博的”含义。
-
-### 2. **aggregate**
-*   **音标**：[ˈæɡrɪɡət]
-*   **词性**：n. 总数；合计 / v. 聚集；总计
-*   **中文释义**：n. 总量，合计 / v. (使)聚集，总计达
-*   **例句**：
-    *   The **aggregate** cost of the project exceeded our budget. (项目的**总成本**超出了我们的预算。)
-    *   We need to **aggregate** all the data before drawing a conclusion. (在得出结论之前，我们需要**汇总**所有数据。)
-*   **记忆技巧**：词根 `greg-` (聚集，群)。可以联想 `gregarious` (群居的，爱社交的) 来记忆，表示把东西聚在一起。
-
-### 3. **elaborate**
-*   **音标**：[ɪˈlæbəreɪt]
-*   **词性**：v. 详细阐述；精心制作 / adj. 复杂的；精心制作的
-*   **中文释义**：v. 详细说明；精心制作 / adj. 精心制作的；结构复杂的
-*   **例句**：
-    *   Could you **elaborate** on your proposal? (你能**详细阐述**一下你的提议吗？)
-    *   She wore an **elaborate** dress covered with sequins. (她穿了一件布满亮片的**精致**连衣裙。)
-*   **记忆技巧**：前缀 `e-` (出) + 词根 `labor` (工作) + `ate`。字面意思是“通过辛勤工作做出来”，因此引申为“精心制作的、详尽的”。
-
-### 4. **deteriorate**
-*   **音标**：[dɪˈtɪriəreɪt]
-*   **词性**：动词
-*   **中文释义**：恶化；变坏；退化
-*   **例句**：
-    *   His health continued to **deteriorate** despite the treatment. (尽管接受了治疗，他的健康状况还是继续**恶化**。)
-*   **记忆技巧**：词根 `terior` (更坏的)，比较级形式。可以联想 `inferior` (较差的)、`superior` (较好的) 中的 `ior` 比较级后缀。
-
-### 5. **prerequisite**
-*   **音标**：[priːˈrekwɪzɪt]
-*   **词性**：名词
-*   **中文释义**：先决条件；前提
-*   **例句**：
-    *   A good resume is a **prerequisite** for getting an interview. (一份好的简历是获得面试的**先决条件**。)
-*   **记忆技巧**：前缀 `pre-` (预先) + `requisite` (必需品)。就是“预先需要的东西”，即前提。
-
-### 6. **vulnerable**
-*   **音标**：[ˈvʌlnərəbl]
-*   **词性**：形容词
-*   **中文释义**：脆弱的；易受伤的；易受攻击的
-*   **例句**：
-    *   Children are particularly **vulnerable** to the effects of pollution. (儿童尤其容易受到污染**影响**。)
-*   **记忆技巧**：词根 `vuln-` (伤)，与 `wound` (伤口) 同源。`-able` 表示“能够...的”，所以是“能被伤害的”。
-
-### 7. **incentive**
-*   **音标**：[ɪnˈsentɪv]
-*   **词性**：名词
-*   **中文释义**：激励；刺激；动机
-*   **例句**：
-    *   The company offers bonuses as an **incentive** for higher performance. (公司提供奖金作为提升业绩的**激励**。)
-*   **记忆技巧**：前缀 `in-` (向内) + 词根 `cent-` (唱，叫，引申为“唤起”)。可以联想为“从内心唤起（做事）的东西”，即动机。
-
-### 8. **reconcile**
-*   **音标**：[ˈrekənsaɪl]
-*   **词性**：动词
-*   **中文释义**：使和解；调和；使一致；核对
-*   **例句**：
-    *   It's difficult to **reconcile** the conflicting reports. (很难**调和**这些相互矛盾的报告。)
-    *   He struggled to **reconcile** his desire for freedom with his family responsibilities. (他努力**调和**自己对自由的渴望与家庭责任。)
-*   **记忆技巧**：前缀 `re-` (再，回) + 词根 `concile` (召集，和睦)。可以联想为“再次召集（双方）使恢复和睦”。
-
-### 9. **paradox**
-*   **音标**：[ˈpærədɑːks]
-*   **词性**：名词
-*   **中文释义**：悖论；矛盾的人或事物；反论
-*   **例句**：
-    *   It's a **paradox** that a country so rich in oil should have such high unemployment. (一个石油如此丰富的国家却有这么高的失业率，真是个**悖论**。)
-*   **记忆技巧**：词根 `para-` (超越，对立) + `dox` (观点)。可以理解为“与普遍观点对立”，即悖论。同根词：`orthodox` (正统的)。
-
-### 10. **contempt**
-*   **音标**：[kənˈtempt]
-*   **词性**：名词
-*   **中文释义**：蔑视；轻视；藐视
-*   **例句**：
-    *   He showed **contempt** for rules he considered unfair. (他对他认为不公平的规则表示**蔑视**。)
-*   **记忆技巧**：词根 `tempt-` (看，注视)。可以联想为“用轻蔑的眼神看人”。
-
-### 11. **resilient**
-*   **音标**：[rɪˈzɪliənt]
-*   **词性**：形容词
-*   **中文释义**：有弹性的；能迅速恢复的；适应力强的
-*   **例句**：
-    *   Children are often more **resilient** than adults in coping with trauma. (在应对创伤时，孩子们往往比成年人更具**适应力**。)
-*   **记忆技巧**：词根 `resil-` (跳回) + `ient`。就像橡皮筋被拉伸后能“跳回”原状，形容有恢复力、有弹性。
-
-### 12. **coherent**
-*   **音标**：[koʊˈhɪrənt]
-*   **词性**：形容词
-*   **中文释义**：有条理的；连贯的；一致的
-*   **例句**：
-    *   She struggled to present a **coherent** argument in her essay. (她努力在论文中提出一个**连贯**的论点。)
-*   **记忆技巧**：前缀 `co-` (共同) + 词根 `her-` (粘连) + `ent`。意思是“粘在一起的”，引申为逻辑连贯、条理清晰。同根词：`adhere` (粘附)。
+# 📚 六级词汇每日学习 | 第116天
 
 ---
 
-**今日复习建议**：
-1.  **大声朗读**：熟悉每个单词的发音和例句语感。
-2.  **重点记忆**：特别关注 **aggregrate** (词性转换)、**elaborate** (一词多义) 和 **reconcile** (抽象概念) 的用法。
-3.  **造句练习**：尝试用今天学习的2-3个单词自己造句，以加深理解和记忆。
-4.  **词根串联**：将今天带有相同词根（如 `greg-`， `para-`）的单词放在一起回顾。
+## 1. scrutinize
+**音标**：/ˈskruːtənaɪz/  
+**词性**：v.  
+**中文释义**：仔细检查；详细审查  
+**例句**：The government is scrutinizing the new policy's potential impact.  
+**翻译**：政府正在仔细审查新政策的潜在影响。  
+**记忆技巧**：词根 `scrutin-`（检查）+ `-ize`（动词后缀），联想“用放大镜（scope-like）仔细看”。
 
-祝你学习顺利，坚持就是胜利！
+---
+
+## 2. ubiquitous
+**音标**：/juːˈbɪkwɪtəs/  
+**词性**：adj.  
+**中文释义**：无处不在的；普遍存在的  
+**例句**：Smartphones have become ubiquitous in modern society.  
+**翻译**：智能手机在现代社会中已变得无处不在。  
+**记忆技巧**：谐音“优比魁特斯”→ 联想“优等生比谁都特别（Ubiquitous）→ 无处不在”。
+
+---
+
+## 3. paradigm
+**音标**：/ˈpærədaɪm/  
+**词性**：n.  
+**中文释义**：范式；典范；模式  
+**例句**：AI is creating a new paradigm in scientific research.  
+**翻译**：人工智能正在科学研究中创造一种新范式。  
+**记忆技巧**：`para-`（旁边）+ `digm`（显示）→ 联想“旁边显示出来的参考模式”。
+
+---
+
+## 4. pragmatic
+**音标**：/præɡˈmætɪk/  
+**词性**：adj.  
+**中文释义**：务实的；实用主义的  
+**例句**：She took a pragmatic approach to solving the problem.  
+**翻译**：她采用务实的方法解决了这个问题。  
+**记忆技巧**：谐音“怕个马克替”→ 联想“怕个马克替（做实事的人）→ 务实的”。
+
+---
+
+## 5. deteriorate
+**音标**：/dɪˈtɪriəreɪt/  
+**词性**：v.  
+**中文释义**：恶化；变坏；退化  
+**例句**：Air quality continues to deteriorate in major cities.  
+**翻译**：大城市的空气质量持续恶化。  
+**记忆技巧**：词根 `de-`（向下）+ `terior`（比较级，更差）+ `-ate` → 联想“越来越差”。
+
+---
+
+## 6. unprecedented
+**音标**：/ʌnˈpresɪdentɪd/  
+**词性**：adj.  
+**中文释义**：史无前例的；前所未有的  
+**例句**：The pandemic brought unprecedented challenges to healthcare systems.  
+**翻译**：疫情给医疗系统带来了前所未有的挑战。  
+**记忆技巧**：`un-`（不）+ `precedent`（先例）+ `-ed` → 联想“没有先例的”。
+
+---
+
+## 7. mitigate
+**音标**：/ˈmɪtɪɡeɪt/  
+**词性**：v.  
+**中文释义**：减轻；缓和；缓解  
+**例句**：Measures are being taken to mitigate the effects of climate change.  
+**翻译**：正在采取措施减轻气候变化的影响。  
+**记忆技巧**：词根 `mitig-`（柔软）→ 联想“使强硬的事物变柔软 → 缓解”。
+
+---
+
+## 8. resilient
+**音标**：/rɪˈzɪliənt/  
+**词性**：adj.  
+**中文释义**：有韧性的；能恢复的；适应力强的  
+**例句**：Children are often more resilient than adults in recovering from trauma.  
+**翻译**：孩子们在从创伤中恢复时往往比成年人更有韧性。  
+**记忆技巧**：词根 `resil-`（跳回）+ `-ient` → 联想“能弹回来的 → 有韧性的”。
+
+---
+
+## 9. consensus
+**音标**：/kənˈsensəs/  
+**词性**：n.  
+**中文释义**：共识；一致意见  
+**例句**：After hours of debate, the committee finally reached a consensus.  
+**翻译**：经过数小时的辩论，委员会终于达成了共识。  
+**记忆技巧**：`con-`（共同）+ `sens`（感觉）+ `-us` → 联想“共同的感觉 → 共识”。
+
+---
+
+## 10. eloquent
+**音标**：/ˈeləkwənt/  
+**词性**：adj.  
+**中文释义**：雄辩的；有说服力的；意味深长的  
+**例句**：Her eloquent speech moved the entire audience.  
+**翻译**：她雄辩的演讲感动了所有观众。  
+**记忆技巧**：词根 `eloqu-`（说话）+ `-ent` → 联想“很会说话的 → 雄辩的”。
+
+---
+
+## 11. substantiate
+**音标**：/səbˈstænʃieɪt/  
+**词性**：v.  
+**中文释义**：证实；证明；使具体化  
+**例句**：Can you substantiate your claims with evidence?  
+**翻译**：你能用证据证实你的说法吗？  
+**记忆技巧**：`substance`（实质）+ `-ate` → 联想“给出实质内容 → 证实”。
+
+---
+
+## 12. peripheral
+**音标**：/pəˈrɪfərəl/  
+**词性**：adj./n.  
+**中文释义**：外围的；次要的；（计算机）外围设备  
+**例句**：Focus on the core issues rather than peripheral details.  
+**翻译**：专注于核心问题，而不是次要细节。  
+**记忆技巧**：`peri-`（周围）+ `pher`（携带）+ `-al` → 联想“周围携带的 → 外围的”。
+
+---
+
+**今日学习建议**：  
+1. 尝试用每个单词造一个与自己生活相关的小句子。  
+2. 重点记忆 `scrutinize`、`ubiquitous` 和 `mitigate` 这三个高频动词/形容词。  
+3. 可结合闪卡APP进行间隔重复记忆。  
+
+坚持就是胜利！明天见！ 📖✨
