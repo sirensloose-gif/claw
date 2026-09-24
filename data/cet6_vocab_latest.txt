@@ -1,130 +1,118 @@
-# 📚 六级词汇每日学习 | 第116天
+# 🌟 MiMo的六级词汇打卡：第117天
+
+你好！坚持学习第117天，真的很棒！今天为你精选了12个六级高频词汇，涵盖不同词性，希望能帮你高效备考。记得在语境中理解它们，记忆会更牢固哦！
 
 ---
 
-## 1. scrutinize
-**音标**：/ˈskruːtənaɪz/  
-**词性**：v.  
-**中文释义**：仔细检查；详细审查  
-**例句**：The government is scrutinizing the new policy's potential impact.  
-**翻译**：政府正在仔细审查新政策的潜在影响。  
-**记忆技巧**：词根 `scrutin-`（检查）+ `-ize`（动词后缀），联想“用放大镜（scope-like）仔细看”。
+### 1. **alleviate**
+*   **音标 (美式)**： /əˈliːvieɪt/
+*   **词性**： vt.
+*   **中文释义**： 缓和，减轻（痛苦等）
+*   **例句**：
+    *   *The medicine helped to alleviate her headache.* (这种药帮助减轻了她的头痛。)
+*   **记忆技巧**：
+    *   **词根词缀**： 前缀 `al-` (向，到) + 词根 `levi` (轻) + 动词后缀 `-ate`。使某事变“轻”，即“减轻”。
+
+### 2. **contempt**
+*   **音标 (美式)**： /kənˈtempt/
+*   **词性**： n.
+*   **中文释义**： 轻视，蔑视；不顾，藐视（法庭等）
+*   **例句**：
+    *   *He showed utter contempt for her opinions.* (他对她的意见表现出完全的蔑视。)
+*   **记忆技巧**：
+    *   **词根词缀**： `con-` (一起) + `tempt` (尝试，尝试去触碰)。一起尝试去“触碰”但不屑于碰，引申为“轻视”。
+
+### 3. **daunting**
+*   **音标 (美式)**： /ˈdɔːntɪŋ/
+*   **词性**： adj.
+*   **中文释义**： 令人畏惧的；令人气馁的
+*   **例句**：
+    *   *Learning a new language can be a daunting task.* (学习一门新语言可能是一项令人望而生畏的任务。)
+*   **记忆技巧**：
+    *   **词源联想**： 来自单词 `daunt` (使气馁，使胆怯)。把 `daunt` 想象成“倒”，面对一座高山，让人“倒”吸一口凉气，感到“令人气馁”。
+
+### 4. **elaborate**
+*   **音标 (美式)**： /ɪˈlæbərət/
+*   **词性**： adj. / v.
+*   **中文释义**： (adj.) 精心制作的，详尽的；(v.) 详尽阐述
+*   **例句**：
+    *   *The plan was too elaborate to be carried out easily.* (这个计划过于复杂，不容易执行。)
+    *   *Could you elaborate on your proposal?* (你能详细阐述一下你的提议吗？)
+*   **记忆技巧**：
+    *   **词根词缀**： `e-` (出) + `labor` (劳动) + `-ate`。通过大量“劳动”加工出来的，即“精心制作的”。
+
+### 5. **foster**
+*   **音标 (美式)**： /ˈfɑːstər/
+*   **词性**： vt.
+*   **中文释义**： 培养，促进；收养，养育
+*   **例句**：
+    *   *The teacher tried to foster a love of reading in her students.* (老师努力培养学生对阅读的热爱。)
+*   **记忆技巧**：
+    *   **谐音联想**： “否死她”（开玩笑）→ 不，应该这样想：为了培养孩子，父母有时需要“否”定一些溺爱，但“死”磕到底也要“她/他”成长。所以是“培养”。
+
+### 6. **genuine**
+*   **音标 (美式)**： /ˈdʒenjuɪn/
+*   **词性**： adj.
+*   **中文释义**： 真正的，真品的；真诚的
+*   **例句**：
+    *   *Is this a genuine signature or a forged one?* (这是真实的签名还是伪造的？)
+*   **记忆技巧**：
+    *   **词源联想**： 来自拉丁语 `genuinus` (天生的)，与 `genus` (出生，种族) 相关。“天生的”东西就是“真正的”。
+
+### 7. **hierarchy**
+*   **音标 (美式)**： /ˈhaɪərɑːrki/
+*   **词性**： n.
+*   **中文释义**： 等级制度；层次体系
+*   **例句**：
+    *   *In the corporate hierarchy, he holds a senior position.* (在公司等级体系中，他身居要职。)
+*   **记忆技巧**：
+    *   **词根词缀**： `hier-` (神圣的) + `archy` (统治)。最初指“神职人员的统治”，引申为森严的“等级制度”。
+
+### 8. **integrity**
+*   **音标 (美式)**： /ɪnˈteɡrəti/
+*   **词性**： n.
+*   **中文释义**： 正直，诚实；完整，完善
+*   **例句**：
+    *   *She is a woman of great integrity and everyone trusts her.* (她是一个非常正直的人，大家都信任她。)
+*   **记忆技巧**：
+    *   **词根词缀**： `in-` (不) + `tegr` (触摸) + `-ity`。没有被“触摸”过、保持完整的状态，引申为“完整”和道德上的“完整无缺”，即“正直”。
+
+### 9. **negligible**
+*   **音标 (美式)**： /ˈneɡlɪdʒəbl/
+*   **词性**： adj.
+*   **中文释义**： 可忽略不计的，微不足道的
+*   **例句**：
+    *   *The risk to public health is considered negligible.* (对公共健康的风险被认为是微乎其微的。)
+*   **记忆技巧**：
+    *   **词根词缀**： `neg-` (不) + `lig-` (选择，收集) + `-ible`。不值得去“收集”和“注意”的，即“可忽略的”。
+
+### 10. **obsolete**
+*   **音标 (美式)**： /ˌɑːbsəˈliːt/
+*   **词性**： adj.
+*   **中文释义**： 过时的，淘汰的；废弃的
+*   **例句**：
+    *   *Floppy disks have become almost obsolete.* (软盘几乎已经过时了。)
+*   **记忆技巧**：
+    *   **词根词缀**： `ob-` (对面，对着) + `sol-` (习惯) + `-ete`。与旧习惯“对着干”或已经过了“习惯”的时间，即“过时的”。
+
+### 11. **profound**
+*   **音标 (美式)**： /prəˈfaʊnd/
+*   **词性**： adj.
+*   **中文释义**： 深刻的，深远的；渊博的；完全的
+*   **例句**：
+    *   *The book had a profound effect on my worldview.* (这本书对我的世界观产生了深远的影响。)
+*   **记忆技巧**：
+    *   **词根词缀**： `pro-` (向前) + `found` (基础)。有很深“基础”的，即“深刻的”。
+
+### 12. **unprecedented**
+*   **音标 (美式)**： /ʌnˈpresɪdentɪd/
+*   **词性**： adj.
+*   **中文释义**： 前所未有的，空前的
+*   **例句**：
+    *   *The city faced unprecedented flooding after the storm.* (风暴过后，这座城市遭遇了前所未有的洪水。)
+*   **记忆技巧**：
+    *   **词根词缀**： `un-` (不) + `precedent` (先例) + `-ed`。没有“先例”的，即“前所未有的”。
 
 ---
 
-## 2. ubiquitous
-**音标**：/juːˈbɪkwɪtəs/  
-**词性**：adj.  
-**中文释义**：无处不在的；普遍存在的  
-**例句**：Smartphones have become ubiquitous in modern society.  
-**翻译**：智能手机在现代社会中已变得无处不在。  
-**记忆技巧**：谐音“优比魁特斯”→ 联想“优等生比谁都特别（Ubiquitous）→ 无处不在”。
-
----
-
-## 3. paradigm
-**音标**：/ˈpærədaɪm/  
-**词性**：n.  
-**中文释义**：范式；典范；模式  
-**例句**：AI is creating a new paradigm in scientific research.  
-**翻译**：人工智能正在科学研究中创造一种新范式。  
-**记忆技巧**：`para-`（旁边）+ `digm`（显示）→ 联想“旁边显示出来的参考模式”。
-
----
-
-## 4. pragmatic
-**音标**：/præɡˈmætɪk/  
-**词性**：adj.  
-**中文释义**：务实的；实用主义的  
-**例句**：She took a pragmatic approach to solving the problem.  
-**翻译**：她采用务实的方法解决了这个问题。  
-**记忆技巧**：谐音“怕个马克替”→ 联想“怕个马克替（做实事的人）→ 务实的”。
-
----
-
-## 5. deteriorate
-**音标**：/dɪˈtɪriəreɪt/  
-**词性**：v.  
-**中文释义**：恶化；变坏；退化  
-**例句**：Air quality continues to deteriorate in major cities.  
-**翻译**：大城市的空气质量持续恶化。  
-**记忆技巧**：词根 `de-`（向下）+ `terior`（比较级，更差）+ `-ate` → 联想“越来越差”。
-
----
-
-## 6. unprecedented
-**音标**：/ʌnˈpresɪdentɪd/  
-**词性**：adj.  
-**中文释义**：史无前例的；前所未有的  
-**例句**：The pandemic brought unprecedented challenges to healthcare systems.  
-**翻译**：疫情给医疗系统带来了前所未有的挑战。  
-**记忆技巧**：`un-`（不）+ `precedent`（先例）+ `-ed` → 联想“没有先例的”。
-
----
-
-## 7. mitigate
-**音标**：/ˈmɪtɪɡeɪt/  
-**词性**：v.  
-**中文释义**：减轻；缓和；缓解  
-**例句**：Measures are being taken to mitigate the effects of climate change.  
-**翻译**：正在采取措施减轻气候变化的影响。  
-**记忆技巧**：词根 `mitig-`（柔软）→ 联想“使强硬的事物变柔软 → 缓解”。
-
----
-
-## 8. resilient
-**音标**：/rɪˈzɪliənt/  
-**词性**：adj.  
-**中文释义**：有韧性的；能恢复的；适应力强的  
-**例句**：Children are often more resilient than adults in recovering from trauma.  
-**翻译**：孩子们在从创伤中恢复时往往比成年人更有韧性。  
-**记忆技巧**：词根 `resil-`（跳回）+ `-ient` → 联想“能弹回来的 → 有韧性的”。
-
----
-
-## 9. consensus
-**音标**：/kənˈsensəs/  
-**词性**：n.  
-**中文释义**：共识；一致意见  
-**例句**：After hours of debate, the committee finally reached a consensus.  
-**翻译**：经过数小时的辩论，委员会终于达成了共识。  
-**记忆技巧**：`con-`（共同）+ `sens`（感觉）+ `-us` → 联想“共同的感觉 → 共识”。
-
----
-
-## 10. eloquent
-**音标**：/ˈeləkwənt/  
-**词性**：adj.  
-**中文释义**：雄辩的；有说服力的；意味深长的  
-**例句**：Her eloquent speech moved the entire audience.  
-**翻译**：她雄辩的演讲感动了所有观众。  
-**记忆技巧**：词根 `eloqu-`（说话）+ `-ent` → 联想“很会说话的 → 雄辩的”。
-
----
-
-## 11. substantiate
-**音标**：/səbˈstænʃieɪt/  
-**词性**：v.  
-**中文释义**：证实；证明；使具体化  
-**例句**：Can you substantiate your claims with evidence?  
-**翻译**：你能用证据证实你的说法吗？  
-**记忆技巧**：`substance`（实质）+ `-ate` → 联想“给出实质内容 → 证实”。
-
----
-
-## 12. peripheral
-**音标**：/pəˈrɪfərəl/  
-**词性**：adj./n.  
-**中文释义**：外围的；次要的；（计算机）外围设备  
-**例句**：Focus on the core issues rather than peripheral details.  
-**翻译**：专注于核心问题，而不是次要细节。  
-**记忆技巧**：`peri-`（周围）+ `pher`（携带）+ `-al` → 联想“周围携带的 → 外围的”。
-
----
-
-**今日学习建议**：  
-1. 尝试用每个单词造一个与自己生活相关的小句子。  
-2. 重点记忆 `scrutinize`、`ubiquitous` 和 `mitigate` 这三个高频动词/形容词。  
-3. 可结合闪卡APP进行间隔重复记忆。  
-
-坚持就是胜利！明天见！ 📖✨
+希望今天的词汇对你有帮助！学习是一个积累的过程，每天进步一点点，考试时就能游刃有余。明天见，加油！💪
