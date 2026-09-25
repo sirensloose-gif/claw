@@ -1,118 +1,184 @@
-# 🌟 MiMo的六级词汇打卡：第117天
-
-你好！坚持学习第117天，真的很棒！今天为你精选了12个六级高频词汇，涵盖不同词性，希望能帮你高效备考。记得在语境中理解它们，记忆会更牢固哦！
+# 六级高频词汇学习（第118天）
 
 ---
 
-### 1. **alleviate**
-*   **音标 (美式)**： /əˈliːvieɪt/
-*   **词性**： vt.
-*   **中文释义**： 缓和，减轻（痛苦等）
-*   **例句**：
-    *   *The medicine helped to alleviate her headache.* (这种药帮助减轻了她的头痛。)
-*   **记忆技巧**：
-    *   **词根词缀**： 前缀 `al-` (向，到) + 词根 `levi` (轻) + 动词后缀 `-ate`。使某事变“轻”，即“减轻”。
-
-### 2. **contempt**
-*   **音标 (美式)**： /kənˈtempt/
-*   **词性**： n.
-*   **中文释义**： 轻视，蔑视；不顾，藐视（法庭等）
-*   **例句**：
-    *   *He showed utter contempt for her opinions.* (他对她的意见表现出完全的蔑视。)
-*   **记忆技巧**：
-    *   **词根词缀**： `con-` (一起) + `tempt` (尝试，尝试去触碰)。一起尝试去“触碰”但不屑于碰，引申为“轻视”。
-
-### 3. **daunting**
-*   **音标 (美式)**： /ˈdɔːntɪŋ/
-*   **词性**： adj.
-*   **中文释义**： 令人畏惧的；令人气馁的
-*   **例句**：
-    *   *Learning a new language can be a daunting task.* (学习一门新语言可能是一项令人望而生畏的任务。)
-*   **记忆技巧**：
-    *   **词源联想**： 来自单词 `daunt` (使气馁，使胆怯)。把 `daunt` 想象成“倒”，面对一座高山，让人“倒”吸一口凉气，感到“令人气馁”。
-
-### 4. **elaborate**
-*   **音标 (美式)**： /ɪˈlæbərət/
-*   **词性**： adj. / v.
-*   **中文释义**： (adj.) 精心制作的，详尽的；(v.) 详尽阐述
-*   **例句**：
-    *   *The plan was too elaborate to be carried out easily.* (这个计划过于复杂，不容易执行。)
-    *   *Could you elaborate on your proposal?* (你能详细阐述一下你的提议吗？)
-*   **记忆技巧**：
-    *   **词根词缀**： `e-` (出) + `labor` (劳动) + `-ate`。通过大量“劳动”加工出来的，即“精心制作的”。
-
-### 5. **foster**
-*   **音标 (美式)**： /ˈfɑːstər/
-*   **词性**： vt.
-*   **中文释义**： 培养，促进；收养，养育
-*   **例句**：
-    *   *The teacher tried to foster a love of reading in her students.* (老师努力培养学生对阅读的热爱。)
-*   **记忆技巧**：
-    *   **谐音联想**： “否死她”（开玩笑）→ 不，应该这样想：为了培养孩子，父母有时需要“否”定一些溺爱，但“死”磕到底也要“她/他”成长。所以是“培养”。
-
-### 6. **genuine**
-*   **音标 (美式)**： /ˈdʒenjuɪn/
-*   **词性**： adj.
-*   **中文释义**： 真正的，真品的；真诚的
-*   **例句**：
-    *   *Is this a genuine signature or a forged one?* (这是真实的签名还是伪造的？)
-*   **记忆技巧**：
-    *   **词源联想**： 来自拉丁语 `genuinus` (天生的)，与 `genus` (出生，种族) 相关。“天生的”东西就是“真正的”。
-
-### 7. **hierarchy**
-*   **音标 (美式)**： /ˈhaɪərɑːrki/
-*   **词性**： n.
-*   **中文释义**： 等级制度；层次体系
-*   **例句**：
-    *   *In the corporate hierarchy, he holds a senior position.* (在公司等级体系中，他身居要职。)
-*   **记忆技巧**：
-    *   **词根词缀**： `hier-` (神圣的) + `archy` (统治)。最初指“神职人员的统治”，引申为森严的“等级制度”。
-
-### 8. **integrity**
-*   **音标 (美式)**： /ɪnˈteɡrəti/
-*   **词性**： n.
-*   **中文释义**： 正直，诚实；完整，完善
-*   **例句**：
-    *   *She is a woman of great integrity and everyone trusts her.* (她是一个非常正直的人，大家都信任她。)
-*   **记忆技巧**：
-    *   **词根词缀**： `in-` (不) + `tegr` (触摸) + `-ity`。没有被“触摸”过、保持完整的状态，引申为“完整”和道德上的“完整无缺”，即“正直”。
-
-### 9. **negligible**
-*   **音标 (美式)**： /ˈneɡlɪdʒəbl/
-*   **词性**： adj.
-*   **中文释义**： 可忽略不计的，微不足道的
-*   **例句**：
-    *   *The risk to public health is considered negligible.* (对公共健康的风险被认为是微乎其微的。)
-*   **记忆技巧**：
-    *   **词根词缀**： `neg-` (不) + `lig-` (选择，收集) + `-ible`。不值得去“收集”和“注意”的，即“可忽略的”。
-
-### 10. **obsolete**
-*   **音标 (美式)**： /ˌɑːbsəˈliːt/
-*   **词性**： adj.
-*   **中文释义**： 过时的，淘汰的；废弃的
-*   **例句**：
-    *   *Floppy disks have become almost obsolete.* (软盘几乎已经过时了。)
-*   **记忆技巧**：
-    *   **词根词缀**： `ob-` (对面，对着) + `sol-` (习惯) + `-ete`。与旧习惯“对着干”或已经过了“习惯”的时间，即“过时的”。
-
-### 11. **profound**
-*   **音标 (美式)**： /prəˈfaʊnd/
-*   **词性**： adj.
-*   **中文释义**： 深刻的，深远的；渊博的；完全的
-*   **例句**：
-    *   *The book had a profound effect on my worldview.* (这本书对我的世界观产生了深远的影响。)
-*   **记忆技巧**：
-    *   **词根词缀**： `pro-` (向前) + `found` (基础)。有很深“基础”的，即“深刻的”。
-
-### 12. **unprecedented**
-*   **音标 (美式)**： /ʌnˈpresɪdentɪd/
-*   **词性**： adj.
-*   **中文释义**： 前所未有的，空前的
-*   **例句**：
-    *   *The city faced unprecedented flooding after the storm.* (风暴过后，这座城市遭遇了前所未有的洪水。)
-*   **记忆技巧**：
-    *   **词根词缀**： `un-` (不) + `precedent` (先例) + `-ed`。没有“先例”的，即“前所未有的”。
+## 1. phenomenon
+- **音标**：/fəˈnɑːmɪnən/
+- **词性**：名词 (n.)
+- **释义**：现象；非凡的人或事物
+- **例句**：
+  - *The northern lights are a natural **phenomenon** that occurs in the polar regions.*
+    （北极光是一种发生在极地地区的自然**现象**。）
+  - *Social media addiction has become a common **phenomenon** among teenagers.*
+    （社交媒体成瘾已成为青少年中的一种普遍**现象**。）
+- **记忆技巧**：
+  - 词根词缀：`pheno-`（出现）+ `menon`（名词后缀）→ “显现出来的事物” → 现象。
+  - 联想记忆：发音类似“非闹弥闹”，想象一个不闹腾的奇怪**现象**。
 
 ---
 
-希望今天的词汇对你有帮助！学习是一个积累的过程，每天进步一点点，考试时就能游刃有余。明天见，加油！💪
+## 2. stimulate
+- **音标**：/ˈstɪmjəleɪt/
+- **词性**：动词 (v.)
+- **释义**：刺激；激发；促进
+- **例句**：
+  - *The government aims to **stimulate** economic growth through investment.*
+    （政府旨在通过投资**刺激**经济增长。）
+  - *Good music can **stimulate** our imagination.*
+    （好的音乐能**激发**我们的想象力。）
+- **记忆技巧**：
+  - 词根词缀：`stimul-`（刺激，如 stimulus 刺激物）+ `-ate`（动词后缀）→ “施加刺激”。
+  - 联想记忆：`stimu` 像“死丢么”，`late` 是“晚”→ 老板骂你“死丢么晚？”，**刺激**你快点工作。
+
+---
+
+## 3. controversial
+- **音标**：/ˌkɑːntrəˈvɜːrʃl/
+- **词性**：形容词 (adj.)
+- **释义**：有争议的；引发争论的
+- **例句**：
+  - *The use of animals in scientific experiments remains a **controversial** issue.*
+    （在科学实验中使用动物仍然是一个**有争议的**问题。）
+  - *He made a **controversial** statement that sparked public debate.*
+    （他发表了一个**引发争议的**声明，激起了公众辩论。）
+- **记忆技巧**：
+  - 词根词缀：`contra-`（反对）+ `vers`（转）+ `-ial`（形容词后缀）→ “观点相左、来回转” → 有争议的。
+  - 联想记忆：`contra`（反）+ `v`（想成“vs”）→ 有正反两方在“**VS**”→ 有争议的。
+
+---
+
+## 4. sustain
+- **音标**：/səˈsteɪn/
+- **词性**：动词 (v.)
+- **释义**：维持；遭受；支撑
+- **例句**：
+  - *We must **sustain** our efforts to achieve the goal.*
+    （我们必须**持续**努力以实现目标。）
+  - *The bridge could not **sustain** the weight of the heavy truck.*
+    （这座桥无法**承受**重型卡车的重量。）
+- **记忆技巧**：
+  - 词根词缀：`sus-`（从下往上）+ `tain`（保持，如 contain 包含）→ “从下面托住并保持” → 维持、支撑。
+  - 联想记忆：`sus`（像“沙沙”声）+ `tain`（像“疼”）→ 沙沙的风声都疼了，需要人**支撑**。
+
+---
+
+## 5. bias
+- **音标**：/ˈbaɪəs/
+- **词性**：名词 (n.) / 动词 (v.)
+- **释义**：(n.) 偏见，偏差；(v.) 使有偏见
+- **例句**：
+  - *The report was criticized for its gender **bias**.*
+    （这份报告因带有性别**偏见**而受到批评。）
+  - *Personal experiences can **bias** our judgment.*
+    （个人经历可能会使我们的判断产生**偏差**。）
+- **记忆技巧**：
+  - 联想记忆：发音“百啊死” → 因为有**偏见**，把对方看“百种缺点”，气死（s）自己。
+
+---
+
+## 6. pragmatic
+- **音标**：/præɡˈmætɪk/
+- **词性**：形容词 (adj.)
+- **释义**：务实的；实用主义的
+- **例句**：
+  - *She took a **pragmatic** approach to solving the problem.*
+    （她采取了一种**务实的**方法来解决问题。）
+  - *We need a more **pragmatic** plan, not just an idealistic one.*
+    （我们需要一个更**务实的**计划，而不仅仅是一个理想化的计划。）
+- **记忆技巧**：
+  - 词根词缀：`pragmat-`（行动，实践）+ `-ic`（形容词后缀）→ “注重行动和实践的” → 务实的。
+  - 联想记忆：`prag`（像“拍个”）+ `matic`（像“马蹄克”）→ “拍个马蹄克”是**实用的**做法（因为马蹄铁实用）。
+
+---
+
+## 7. manipulate
+- **音标**：/məˈnɪpjəleɪt/
+- **词性**：动词 (v.)
+- **释义**：操纵；操控；篡改
+- **例句**：
+  - *Politicians sometimes try to **manipulate** public opinion.*
+    （政治家有时试图**操纵**舆论。）
+  - *She learned to **manipulate** the machine with great skill.*
+    （她学会了非常熟练地**操控**这台机器。）
+- **记忆技巧**：
+  - 词根词缀：`mani-`（手）+ `pul-`（充满，引申为“填充”）+ `-ate` → “用手填满/摆布” → 操纵。
+  - 联想记忆：`mani`（你妈）+ `pu`（扑）+ `late`（晚）→ 你妈**扑**你晚归，**操纵**你早点回家。
+
+---
+
+## 8. ambiguous
+- **音标**：/æmˈbɪɡjuəs/
+- **词性**：形容词 (adj.)
+- **释义**：模棱两可的；含糊不清的
+- **例句**：
+  - *The instructions were so **ambiguous** that nobody understood them.*
+    （说明书太**含糊不清**，以至于没人看得懂。）
+  - *His answer was **ambiguous**, leaving us unsure of his true intention.*
+    （他的回答**模棱两可**，让我们不确定他的真实意图。）
+- **记忆技巧**：
+  - 词根词缀：`ambi-`（两边）+ `gu`（想成“go”）+ `-ous`（形容词后缀）→ “两边都可以走” → 模棱两可的。
+  - 联想记忆：`am`（是）+ `big`（大）+ `uous`（想成“屋子”）→ 在大屋子里是分不清的 → **含糊不清的**。
+
+---
+
+## 9. profound
+- **音标**：/prəˈfaʊnd/
+- **词性**：形容词 (adj.)
+- **释义**：深刻的；意义深远的；（学识）渊博的
+- **例句**：
+  - *The book had a **profound** influence on my worldview.*
+    （这本书对我的世界观产生了**深远的**影响。）
+  - *She is a scholar with **profound** knowledge of ancient history.*
+    （她是一位对古代历史有**渊博**知识的学者。）
+- **记忆技巧**：
+  - 词根词缀：`pro-`（向前，深入）+ `found`（基础）→ “深入基础” → 深刻的。
+  - 联想记忆：`pro`（赞成）+ `found`（发现）→ 赞成这个**深刻的**发现。
+
+---
+
+## 10. subsidy
+- **音标**：/ˈsʌbsədi/
+- **词性**：名词 (n.)
+- **释义**：补贴；津贴；补助金
+- **例句**：
+  - *The government provides **subsidies** to support renewable energy development.*
+    （政府提供**补贴**以支持可再生能源的发展。）
+  - *Farmers rely on agricultural **subsidies** to cope with market fluctuations.*
+    （农民依赖农业**津贴**来应对市场波动。）
+- **记忆技巧**：
+  - 词根词缀：`sub-`（在下面）+ `sid`（坐，如 sit）+ `-y`（名词后缀）→ “坐在下面（支持你）” → 补贴。
+  - 联想记忆：`sub`（海底）+ `sidy`（谁的）→ 海底下的资源是谁的？国家给**补贴**。
+
+---
+
+## 11. elaborate
+- **音标**：/ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
+- **词性**：形容词 (adj.) / 动词 (v.)
+- **释义**：(adj.) 精心制作的；详尽的；(v.) 详细阐述
+- **例句**：
+  - *She presented an **elaborate** plan for the project.*
+    （她为这个项目提出了一个**精心策划的**方案。）
+  - *Could you **elaborate** on your proposal?*
+    （你能**详细阐述**一下你的提议吗？）
+- **记忆技巧**：
+  - 词根词缀：`e-`（出）+ `labor`（劳动）+ `-ate` → “通过劳动做出来” → 精心制作的；引申为“详细阐述”。
+  - 联想记忆：`e`（一）+ `lab`（实验室）+ `or`（或者）+ `ate`（吃）→ 在实验室里**精心制作**或者直接吃（外卖）。
+
+---
+
+## 12. significant
+- **音标**：/sɪɡˈnɪfɪkənt/
+- **词性**：形容词 (adj.)
+- **释义**：有意义的；重要的；显著的
+- **例句**：
+  - *This discovery is of **significant** importance to medical science.*
+    （这一发现对医学科学具有**重要的**意义。）
+  - *There has been a **significant** increase in online shopping.*
+    （网上购物有了**显著的**增长。）
+- **记忆技巧**：
+  - 词根词缀：`sign-`（标记）+ `ific`（做）+ `-ant`（形容词后缀）→ “做标记的” → 有意义的、重要的。
+  - 联想记忆：`sign`（签名）+ `if`（如果）+ `can`（能）+ `t`（他）→ 如果他能签名，这件事就**重要了**。
+
+---
+
+> **学习提示**：建议结合例句理解词义，并尝试用新学的词汇造句。利用词根词缀记忆可以举一反三，提高效率。每天坚持，积累会有质的飞跃！ 💪
