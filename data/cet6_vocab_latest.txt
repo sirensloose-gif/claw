@@ -1,143 +1,116 @@
-# 六级词汇学习（第119天）
+# 📚 六级高频词汇学习（第120天）
 
-今天为你准备了15个六级高频词汇，覆盖动词、名词、形容词和副词，并附带记忆技巧帮助你高效掌握。坚持就是胜利！
-
----
-
-### 1. ambiguous
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：adj.
-- **中文释义**：模棱两可的；含糊不清的
-- **例句**：
-    - The instructions were so **ambiguous** that nobody understood them. (指示太**含糊不清**了，没人看懂。)
-    - His **ambiguous** reply left me guessing his true intentions. (他**模棱两可**的答复让我猜测他的真实意图。)
-- **记忆技巧**：词根记忆。前缀 **ambi-** 意为“两边”，**-ous** 为形容词后缀。可以理解为“两边都说得通”，引申为“模棱两可”。
-
-### 2. scrutiny
-- **音标**：/ˈskruːtəni/
-- **词性**：n.
-- **中文释义**：仔细检查；详细审查
-- **例句**：
-    - The report is now under close **scrutiny** by the board. (这份报告正受到董事会的严格**审查**。)
-    - His actions came under public **scrutiny** after the incident. (事件发生后，他的行为受到了公众的**审视**。)
-- **记忆技巧**：联想记忆。**screw** (螺丝) 需要仔细**拧紧**，**-tiny** (微小的)，可以联想为“连螺丝的细节都要仔细检查”。
-
-### 3. enhance
-- **音标**：/ɪnˈhæns/
-- **词性**：v.
-- **中文释义**：提高；增强；增进
-- **例句**：
-    - The new software will significantly **enhance** our productivity. (新软件将显著**提高**我们的生产力。)
-    - Wearing glasses can **enhance** one's appearance. (戴眼镜可以**提升**一个人的外表。)
-- **记忆技巧**：词源联想。来自拉丁语 **inalescere**（增加），可以联想 **en-**（使）+ **hance**（高度），即“使更高”，引申为“增强”。
-
-### 4. elaborate
-- **音标**：/ɪˈlæbərət/ (adj.), /ɪˈlæbəreɪt/ (v.)
-- **词性**：adj./v.
-- **中文释义**：adj. 精心制作的；详尽的；v. 详细阐述
-- **例句**：
-    - She had prepared an **elaborate** meal for the guests. (她为客人准备了一顿**精心烹制**的饭菜。)
-    - Could you **elaborate** on your proposal? (你能**详细阐述**一下你的提议吗？)
-- **记忆技巧**：词根记忆。**e-**（出）+ **labor**（工作）+ **-ate**，即“花功夫做出来”，引申为“精心制作、详细说明”。
-
-### 5. inevitable
-- **音标**：/ɪnˈevɪtəbl/
-- **词性**：adj.
-- **中文释义**：不可避免的；必然的
-- **例句**：
-    - Change is **inevitable** in today's fast-paced world. (在当今快节奏的世界里，变化是**不可避免**的。)
-    - After days of negotiation, a compromise seemed **inevitable**. (经过数天的谈判，妥协似乎**势在必行**。)
-- **记忆技巧**：词根记忆。**in-**（不）+ **evitable**（可避免的），来自拉丁语 **evitare**（避免）。
-
-### 6. spontaneous
-- **音标**：/spɑːnˈteɪniəs/
-- **词性**：adj.
-- **中文释义**：自发的；自然的；未经事先考虑的
-- **例句**：
-    - The audience broke into **spontaneous** applause. (观众爆发出**自发**的掌声。)
-    - It was a **spontaneous** decision to go on a road trip. (决定去公路旅行是一个**未经计划**的即兴之举。)
-- **记忆技巧**：联想记忆。**spon**（谐音“送跑”）+ **taneous**（时间的），可以想象“不计时间地跑出来”，即“自发的”。
-
-### 7. persistent
-- **音标**：/pərˈsɪstənt/
-- **词性**：adj.
-- **中文释义**：坚持的；持续的；顽固的
-- **例句**：
-    - Her **persistent** efforts finally led to success. (她**坚持不懈**的努力最终获得了成功。)
-    - He suffered from a **persistent** headache for days. (他持续几天头痛。)
-- **记忆技巧**：词根记忆。来自 **persist**（坚持）。**per-**（贯穿）+ **sist**（站立），即“一直站着”，引申为“坚持”。
-
-### 8. comprehensive
-- **音标**：ˌkɑːmprɪˈhensɪv/
-- **词性**：adj.
-- **中文释义**：综合的；全面的；广泛的
-- **例句**：
-    - We need a **comprehensive** review of the situation. (我们需要对情况进行一次**全面**的审查。)
-    - The book provides a **comprehensive** guide to modern art. (这本书提供了一份关于现代艺术的**全面**指南。)
-- **记忆技巧**：词根记忆。**com-**（共同）+ **prehens**（抓住）+ **-ive**，即“全部抓住”，引申为“全面的”。
-
-### 9. phenomenon
-- **音标**：/fəˈnɑːmɪnən/
-- **词性**：n.
-- **中文释义**；现象；杰出的人/事物
-- **例句**：
-    - Climate change is a global **phenomenon**. (气候变化是一个全球性的**现象**。)
-    - The Northern Lights is a fascinating natural **phenomenon**. (北极光是一种迷人的自然**现象**。)
-- **记忆技巧**：希腊语词源。**pheno-**（显现）+ **menon**（存在），即“显现出来的东西”，指“现象”。复数形式为 **phenomena**。
-
-### 10. subordinate
-- **音标**：/səˈbɔːrdɪnət/
-- **词性**：adj./n.
-- **中文释义**：adj. 次要的；从属的；n. 下属
-- **例句**：
-    - He treats his **subordinates** with respect. (他尊重地对待他的**下属**。)
-    - Personal feelings must be **subordinate** to the company's interests. (个人情感必须**服从于**公司的利益。)
-- **记忆技巧**：词根记忆。**sub-**（在下面）+ **ordin**（顺序）+ **-ate**，即“顺序在下面的”，引申为“从属的、下属”。
-
-### 11. tentative
-- **音标**：/ˈtentətɪv/
-- **词性**：adj.
-- **中文释义**：试探性的；暂定的；犹豫的
-- **例句**：
-    - We have made a **tentative** plan for the weekend. (我们为周末制定了一个**暂定**计划。)
-    - She gave a **tentative** smile. (她露出一个**迟疑**的微笑。)
-- **记忆技巧**：词根记忆。来自拉丁语 **tentare**（试探）。可以联想 **tent**（帐篷），露营时先“试探性”地搭个帐篷看看。
-
-### 12. deteriorate
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：v.
-- **中文释义**：恶化；变坏；退化
-- - **例句**：
-    - His health began to **deteriorate** rapidly. (他的健康状况开始迅速**恶化**。)
-    - The weather **deteriorated** into a violent storm. (天气**转坏**成了猛烈的暴风雨。)
-- **记忆技巧**：词根记忆。**de-**（向下）+ **terior**（更坏的，比较级后缀）+ **-ate**，即“变得更坏”。
-
-### 13. unanimous
-- **音标**：/juːˈnænɪməs/
-- **词性**：adj.
-- **中文释义**：一致的；一致同意的
-- **例句**：
-    - The decision was **unanimous**. (这项决定获得了**一致**通过。)
-    - The proposal received **unanimous** support from the committee. (该提议获得了委员会的**一致**支持。)
-- **记忆技巧**：词根记忆。**uni-**（一）+ **anim**（心，思想）+ **-ous**，即“一心的”，引申为“一致的”。
-
-### 14. compatible
-- **音标**：/kəmˈpætəbl/
-- **词性**：adj.
-- **中文释义**：兼容的；可共存的；合得来的
-- **例句**：
-    - Make sure the new software is **compatible** with your operating system. (确保新软件与你的操作系统**兼容**。)
-    - They are a very **compatible** couple. (他们是一对非常**合得来**的夫妻。)
-- **记忆技巧**：词根记忆。**com-**（共同）+ **pat**（感受）+ **-ible**，即“能共同感受的”，引申为“合得来、兼容”。
-
-### 15. consolidate
-- **音标**：/kənˈsɑːlɪdeɪt/
-- **词性**：v.
-- **中文释义**：巩固；加强；合并
-- **例句**：
-    - After the merger, the company worked to **consolidate** its market position. (合并后，公司致力于**巩固**其市场地位。)
-    - It's time to **consolidate** what you've learned before the exam. (考试前，是时候**巩固**你所学的知识了。)
-- **记忆技巧**：词根记忆。**con-**（共同）+ **solid**（固体的）+ **-ate**，即“使变成固体”，引申为“巩固”。
+今天为你精心挑选了12个六级考试高频词汇，涵盖了不同的词性和用法。坚持就是胜利，你已经走了很远！
 
 ---
-**今日学习小贴士**：可以将这15个词按照词性分类记忆，并尝试用它们各造一个句子。坚持每天积累，六级词汇量定能稳步提升！加油！
+
+### 1. scrutinize
+- **单词**: scrutinize
+- **音标**: /ˈskruːtənaɪz/
+- **词性**: v.
+- **中文释义**: 仔细检查，详审
+- **例句**: The detective scrutinized the crime scene for any clues.
+- 侦探仔细检查了犯罪现场，寻找任何线索。
+- **记忆技巧**: 词根 `scru` (检查) + 后缀 `-t-` + `-inize` (使…化)，表示“使其被仔细检查”。
+
+### 2. ambiguous
+- **单词**: ambiguous
+- **音标**: /æmˈbɪɡjuəs/
+- **词性**: adj.
+- **中文释义**: 模棱两可的，有歧义的
+- **例句**: His ambiguous reply left us wondering what he really meant.
+- 他模棱两可的答复让我们疑惑他到底是什么意思。
+- **记忆技巧**: 前缀 `ambi-` (两个，如 *ambidextrous* 左右手都灵巧的) + `guous` (来自 *agere* 做)，意为“有两种做法”，引申为“不明确的”。
+
+### 3. indispensable
+- **单词**: indispensable
+- **音标**: /ˌɪndɪˈspensəbl/
+- **词性**: adj.
+- **中文释义**: 不可缺少的，必需的
+- **例句**: Water is indispensable to all forms of life.
+- 水对所有生命形式都是不可或缺的。
+- **记忆技巧**: 前缀 `in-` (不) + `dis-` (分开，去除) + `pensable` (可付出的)，字面意思为“无法付出/摆脱的”，即“必需的”。
+
+### 4. exacerbate
+- **单词**: exacerbate
+- **音标**: /ɪɡˈzæsərbeɪt/
+- **词性**: v.
+- **中文释义**: 使加剧，使恶化
+- **例句**: Heavy rain may exacerbate the flooding in low-lying areas.
+- 大雨可能会加剧低洼地区的洪水。
+- **记忆技巧**: 前缀 `ex-` (出) + `acerbate` (使尖锐，来自 `acerbic` 尖酸的)，意为“使情况变得更尖锐/严重”。
+
+### 5. paradox
+- **单词**: paradox
+- **音标**: /ˈpærədɑːks/
+- **词性**: n.
+- **中文释义**: 悖论，矛盾的事物
+- **例句**: It’s a paradox that a country rich in natural resources can have so many poor people.
+- 一个自然资源丰富的国家却有如此多的贫困人口，这是一个悖论。
+- **记忆技巧**: 前缀 `para-` (超越，对立) + `dox` (观点，来自希腊语 *doxa*)，意为“与普遍观点相对立的论点”。
+
+### 6. compatible
+- **单词**: compatible
+- **音标**: /kəmˈpætəbl/
+- **词性**: adj.
+- **中文释义**: 可共存的，兼容的
+- **例句**: We hope to create a team where all members are compatible and cooperative.
+- 我们希望创建一个所有成员都能和谐共处、合作无间的团队。
+- **记忆技巧**: 前缀 `com-` (共同) + `pat` (感受，来自 *passion*) + `-ible` (能…的)，意为“能共同感受的”，引申为“合得来的”。
+
+### 7. lucrative
+- **单词**: lucrative
+- **音标**: /ˈluːkrətɪv/
+- **词性**: adj.
+- **中文释义**: 获利多的，赚钱的
+- **例句**: He left his job to start a more lucrative business.
+- 他辞掉工作，开始了一项更赚钱的生意。
+- **记忆技巧**: 词根 `lucr-` (利润，来自拉丁语 *lucrum*) + `-ative` (有…性质的)，直接联想“利润”(*profit*)。
+
+### 8. meticulous
+- **单词**: meticulous
+- **音标**: /məˈtɪkjələs/
+- **词性**: adj.
+- **中文释义**: 一丝不苟的，非常仔细的
+- **例句**: The artist was meticulous in her work, paying attention to every tiny detail.
+- 这位艺术家对待工作一丝不苟，关注每一个微小的细节。
+- **记忆技巧**: 源自拉丁语 *metus* (恐惧)，后演变为“过分小心”，现在多为褒义。
+
+### 9. plausible
+- **单词**: plausible
+- **音标**: /ˈplɔːzəbl/
+- **词性**: adj.
+- **中文释义**: 貌似合理的，可信的
+- **例句**: The detective came up with a plausible explanation for the theft.
+- 侦探为这起盗窃案提出了一个看似合理的解释。
+- **记忆技巧**: 词根 `plaus-` (鼓掌，赞同) + `-ible` (能…的)，意为“能让人鼓掌/赞同的”，即“可信的”。
+
+### 10. deteriorate
+- **单词**: deteriorate
+- **音标**: /dɪˈtɪriəreɪt/
+- **词性**: v.
+- **中文释义**: 恶化，变坏
+- **例句**: His health began to deteriorate rapidly after the diagnosis.
+- 确诊后，他的健康状况开始迅速恶化。
+- **记忆技巧**: 词根 `deterior-` (更坏的，来自拉丁语 *deterior*) + `-ate` (动词后缀)。可联想 `deterior` 和 “tear” (撕裂)，情况“被撕裂”即变坏。
+
+### 11. resilient
+- **单词**: resilient
+- **音标**: /rɪˈzɪliənt/
+- **词性**: adj.
+- **中文释义**: 有弹性的，能恢复的，适应力强的
+- **例句**: Despite many setbacks, she remained resilient and optimistic.
+- 尽管屡遭挫折，她依然坚韧乐观。
+- **记忆技巧**: 前缀 `re-` (回) + `sili` (跳) + `-ent` (形容词后缀)，字面意思是“能跳回来的”，引申为“有恢复力的”。
+
+### 12. consensus
+- **单词**: consensus
+- **音标**: /kənˈsensəs/
+- **词性**: n.
+- **中文释义**: 共识，一致意见
+- **例句**: After a long discussion, they finally reached a consensus on the new policy.
+- 经过长时间的讨论，他们终于就新政策达成了一致。
+- **记忆技巧**: 前缀 `con-` (共同) + `sens` (感觉，来自 *sense*) + `-us`，意为“共同的感觉”，即“共识”。
+
+---
+**今日小贴士**：记忆单词时，尝试用新词造一个与自己生活相关的句子，效果会更好！继续加油！🚀
