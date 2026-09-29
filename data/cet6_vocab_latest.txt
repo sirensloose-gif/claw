@@ -1,149 +1,170 @@
-# 六级高频词汇学习（第121天）
+# 📚 六级高频词汇学习 Day 122
+
+今天为大家精选12个高频核心词汇，涵盖动词、名词、形容词和副词，帮助你高效积累！
 
 ---
 
-### 1. **contemplate**
-- **音标**：/ˈkɑːntəmpleɪt/
-- **词性**：v.
-- **释义**：沉思；考虑；注视
-- **例句**：
-  - She sat by the window, **contemplating** her future career.
-  - 她坐在窗边，**沉思**着自己未来的职业。
-- **记忆技巧**：词根 `con-`（一起） + `templ`（寺庙） → 在寺庙中一起“凝视、思考”。
+## 1. profound
+**音标**: /prəˈfaʊnd/  
+**词性**: adj.  
+**释义**: ① 深刻的；深切的 ② 深奥的 ③ (感受) 强烈的  
+**例句**: The book had a profound influence on his thinking.  
+这本书对他的思想产生了深刻的影响。  
+**记忆技巧**:  
+- 词根: `pro-`（向前）+ `found`（底部）→ 向深处发展 → **深刻的**  
+- 联想: 钻得越“深”(profound)，理解越“透彻”
 
 ---
 
-### 2. **ambiguous**
-- **音标**：/æmˈbɪɡjuəs/
-- **词性**：adj.
-- **释义**：模棱两可的；含糊不清的
-- **例句**：
-  - The politician’s statement was deliberately **ambiguous**.
-  - 那位政治家的声明故意说得**模棱两可**。
-- **记忆技巧**：前缀 `ambi-`（两边） + `guous` → 两边都可解释，因此“模糊”。
+## 2. elaborate
+**音标**: /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)  
+**词性**: adj./v.  
+**释义**:  
+- adj. 精心制作的；详尽的  
+- v. 详细阐述；精心制作  
+**例句**:  
+- Could you elaborate on your proposal?  
+  你能详细阐述一下你的提议吗？  
+- She wore an elaborate hairstyle to the party.  
+她为派对精心设计了发型。  
+**记忆技巧**:  
+- 词根: `e-`（出）+ `labor`（劳动）+ `-ate` → 投入劳动做出来 → **精心制作的**
 
 ---
 
-### 3. **resilient**
-- **音标**：/rɪˈzɪliənt/
-- **词性**：adj.
-- **释义**：有弹性的；适应力强的
-- **例句**：
-  - Children are often more emotionally **resilient** than adults.
-  - 孩子在情感上往往比成年人更具**韧性**。
-- **记忆技巧**：源自 `re-`（回） + `sili`（跳） → 能跳回来，引申为“恢复力”。
+## 3. comprehensive
+**音标**: /ˌkɑːmprɪˈhensɪv/  
+**词性**: adj.  
+**释义**: 全面的；综合的；理解的  
+**例句**: We need a comprehensive review of the data.  
+我们需要对数据进行全面审查。  
+**记忆技巧**:  
+- 词根: `com-`（一起）+ `prehend`（抓住）+ `-ive` → 把所有部分抓住 → **全面的**  
+- 联想: 综合考试(comprehensive exam)就是把所有知识“抓在一起”
 
 ---
 
-### 4. **scrutiny**
-- **音标**：/ˈskruːtəni/
-- **词性**：n.
-- **释义**：仔细检查；详细审查
-- **例句**：
-  - The report was subjected to intense public **scrutiny**.
-  - 该报告受到了公众的严格**审查**。
-- **记忆技巧**：联想 `screen`（筛选） + `-iny` → 仔细筛选检查。
+## 4. deteriorate
+**音标**: /dɪˈtɪriəreɪt/  
+**词性**: v.  
+**释义**: 恶化；变坏；退化  
+**例句**: His health began to deteriorate rapidly.  
+他的健康状况开始迅速恶化。  
+**记忆技巧**:  
+- 词根: `de-`（向下）+ `terior`（比较级后缀，更坏的） → 向更坏的方向 → **恶化**  
+- 联想: 天气“变坏”(deteriorate) = 地面(terra)越来越差
 
 ---
 
-### 5. **precarious**
-- **音标**：/prɪˈkeriəs/
-- **词性**：adj.
-- **释义**：不稳定的；危险的
-- **例句**：
-  - He balanced the plates in a **precarious** stack.
-  - 他把盘子叠得**摇摇欲坠**。
-- **记忆技巧**：词根 `precar-`（依赖的） → 依赖不确定因素，因此“危险”。
+## 5. resilient
+**音标**: /rɪˈzɪliənt/  
+**词性**: adj.  
+**释义**: 有弹性的；适应力强的；恢复迅速的  
+**例句**: Children are often more resilient than adults in facing setbacks.  
+孩子们在面对挫折时往往比成年人更有韧性。  
+**记忆技巧**:  
+- 词根: `re-`（回）+ `sili`（跳）+ `-ent` → 能跳回来 → **有恢复力的**  
+- 联想: 像弹簧一样能“弹回原状”
 
 ---
 
-### 6. **elaborate**
-- **音标**：/ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)
-- **词性**：adj. / v.
-- **释义**：精心制作的；详细阐述
-- **例句**：
-  - She gave an **elaborate** description of the project.
-  - 她对项目做了**详细**描述。
-- **记忆技巧**：`e-`（出） + `labor`（劳动） → 花费大量劳动 → “精心制作”。
+## 6. skeptical
+**音标**: /ˈskeptɪkl/  
+**词性**: adj.  
+**释义**: 持怀疑态度的；怀疑的  
+**例句**: Many scientists remain skeptical about the theory.  
+许多科学家对这个理论仍持怀疑态度。  
+**记忆技巧**:  
+- 音译联想: **“思考的”** (skeptical)人通常会“怀疑”  
+- 联想: 谐音“是开普勒”→ 科学家开普勒对事物保持**怀疑**
 
 ---
 
-### 7. **deteriorate**
-- **音标**：/dɪˈtɪriəreɪt/
-- **词性**：v.
-- **释义**：恶化；变质
-- - **例句**：
-  - Without regular maintenance, the building will **deteriorate**.
-  - 没有定期维护，建筑物会逐渐**恶化**。
-- **记忆技巧**：`de-`（向下） + `terior`（更坏） → 变得更坏。
+## 7. plausible
+**音标**: /ˈplɔːzəbl/  
+**词性**: adj.  
+**释义**: 貌似有理的；花言巧语的；可信的  
+**例句**: His explanation sounds plausible, but I doubt its accuracy.  
+他的解释听起来似乎有理，但我怀疑其准确性。  
+**记忆技巧**:  
+- 词根: `plaus-`（鼓掌）+ `-ible` → 值得鼓掌 → **可信的**  
+- 联想: “拍手(plausible)”表示认同这个说法“似乎可信”
 
 ---
 
-### 8. **subtle**
-- **音标**：/ˈsʌtl/
-- **词性**：adj.
-- **释义**：微妙的；细微的
-- **例句**：
-  - There was a **subtle** difference in their tones.
-  - 他们的语气有**微妙**的区别。
-- **记忆技巧**：注意发音不读“sub-tle”，联想“sub”（下面） → 隐藏在下面的“细微之处”。
+## 8. unprecedented
+**音标**: /ʌnˈpresɪdentɪd/  
+**词性**: adj.  
+**释义**: 史无前例的；空前的  
+**例句**: The pandemic has caused unprecedented economic damage.  
+这场疫情造成了空前的经济损失。  
+**记忆技巧**:  
+- 词缀: `un-`（不）+ `precedent`（先例）+ `-ed` → 没有先例的 → **史无前例的**  
+- 联想: 谐音“按普瑞森提的”→ 按照常规提不出的 → **空前的**
 
 ---
 
-### 9. **mitigate**
-- **音标**：/ˈmɪtɪɡeɪt/
-- **词性**：v.
-- **释义**：减轻；缓和
-- **例句**：
-  - Measures were taken to **mitigate** the effects of the drought.
-  - 采取了措施来**减轻**干旱的影响。
-- **记忆技巧**：`mit`（温和） + `igate` → 使变温和 → “减轻”。
+## 9. ubiquitous
+**音标**: /juːˈbɪkwɪtəs/  
+**词性**: adj.  
+**释义**: 无所不在的；普遍存在的  
+**例句**: Smartphones have become ubiquitous in modern society.  
+智能手机在现代社会已变得无处不在。  
+**记忆技巧**:  
+- 词根: `ubi-`（哪里）+ `-quit-`（来自拉丁语，意为“在”）+ `-ous` → 在哪里都有 → **无处不在的**  
+- 联想: 谐音“优必去它死”→ 优等生必须去的地方到处都是 → **遍布的**
 
 ---
 
-### 10. **ubiquitous**
-- **音标**：/juːˈbɪkwɪtəs/
-- **词性**：adj.
-- **释义**：无处不在的
-- **例句**：
-  - Smartphones have become **ubiquitous** in modern life.
-  - 智能手机在现代生活中已**无处不在**。
-- **记忆技巧**：联想 `Uber`（超级） + `quit`（离开） → 连“离开”的机会都没有 → 到处都是。
+## 10. substantiate
+**音标**: /səbˈstænʃieɪt/  
+**词性**: v.  
+**释义**: 证实；证明...有根据  
+**例句**: The research findings substantiate the theory.  
+研究结果证实了这一理论。  
+**记忆技巧**:  
+- 词根: `sub-`（在下面）+ `stant`（站立）+ `-iate` → 站在下面做支撑 → **证实**  
+- 联想: “实质性的(substantial)”证据才能“证实(substantiate)”观点
 
 ---
 
-### 11. **profound**
-- **音标**：/prəˈfaʊnd/
-- **词性**：adj.
-- **释义**：深刻的；意义深远的
-- **例句**：
-  - The book had a **profound** impact on her worldview.
-  - 这本书对她的世界观产生了**深远**影响。
-- **记忆技巧**：`pro-`（向前） + `found`（基础） → 向前深入基础 → “深刻”。
+## 11. meticulous
+**音标**: /məˈtɪkjələs/  
+**词性**: adj.  
+**释义**: 一丝不苟的；细心的；挑剔的  
+**例句**: She is meticulous about keeping her workspace clean.  
+她对保持工作空间整洁一丝不苟。  
+**记忆技巧**:  
+- 词根: `met-`（可能来自拉丁语“恐惧”）+ `-iculous` → 因恐惧而谨慎 → **一丝不苟的**  
+- 联想: 谐音“每提克就乐死”→ 每提一个细节就高兴死 → **注重细节**
 
 ---
 
-### 12. **plausible**
-- **音标**：/ˈplɔːzəbl/
-- **词性**：adj.
-- **释义**：似乎合理的；貌似可信的
-- **例句**：
-  - His excuse sounded **plausible**, but it wasn’t true.
-  - 他的借口听起来**有道理**，但不是真的。
-- **记忆技巧**：词根 `plaus-`（鼓掌） → 让人鼓掌的“似是而非”的论点。
+## 12. exacerbate
+**音标**: /ɪɡˈzæsərbeɪt/  
+**词性**: v.  
+**释义**: 使加剧；使恶化  
+**例句**: The new policy only exacerbated the problem.  
+新政策只是加剧了这个问题。  
+**记忆技巧**:  
+- 词根: `ex-`（出）+ `acerb`（苦涩的，尖锐的）+ `-ate` → 使变得苦涩/尖锐 → **使恶化**  
+- 联想: 谐音“一个热死伯特”→ 天气热+压力大 → **使情况恶化**
 
 ---
 
-### 13. **volatile**
-- **音标**：/ˈvɑːlətl/
-- **词性**：adj.
-- **释义**：不稳定的；易变的
-- **例句**：
-  - The stock market has been highly **volatile** recently.
-  - 最近股市一直**剧烈波动**。
-- **记忆技巧**：联想 `vol`（飞） + `atile` → 像飞一样“变化不定”。
-
----
+## 📝 今日小结
+| 词性分布 | 词汇 |
+|:-------:|:----:|
+| **动词** | elaborate, deteriorate, substantiate, exacerbate |
+| **形容词** | profound, comprehensive, resilient, skeptical, plausible, unprecedented, ubiquitous, meticulous |
 
 **学习建议**：  
-建议结合例句理解词义，并尝试用每个词汇造句。词根词缀能帮助系统性地扩展词汇量，联想记忆则能加深印象。每天坚持复习，效果更佳！
+1. 每个词大声朗读3遍，注意发音  
+2. 用每个词造一个与自己生活相关的句子  
+3. 睡前回顾今天学习的词汇  
+4. 第二天学习前先复习今天的词汇
+
+坚持就是胜利！你已经连续学习122天了，太棒了！💪
+
+---
+*数据更新至2023年12月，词汇筛选自六级真题高频词库*
