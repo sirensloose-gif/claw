@@ -1,170 +1,194 @@
-# 📚 六级高频词汇学习 Day 122
+# 六级高频词汇 · 第123天
 
-今天为大家精选12个高频核心词汇，涵盖动词、名词、形容词和副词，帮助你高效积累！
-
----
-
-## 1. profound
-**音标**: /prəˈfaʊnd/  
-**词性**: adj.  
-**释义**: ① 深刻的；深切的 ② 深奥的 ③ (感受) 强烈的  
-**例句**: The book had a profound influence on his thinking.  
-这本书对他的思想产生了深刻的影响。  
-**记忆技巧**:  
-- 词根: `pro-`（向前）+ `found`（底部）→ 向深处发展 → **深刻的**  
-- 联想: 钻得越“深”(profound)，理解越“透彻”
+> 今日主题：社会、科技与思维
+> 词汇来源：近年六级真题及核心词汇书
+> 学习建议：结合例句朗读，尝试用每个词造句
 
 ---
 
-## 2. elaborate
-**音标**: /ɪˈlæbərət/ (adj.) / ɪˈlæbəreɪt/ (v.)  
-**词性**: adj./v.  
-**释义**:  
-- adj. 精心制作的；详尽的  
-- v. 详细阐述；精心制作  
-**例句**:  
-- Could you elaborate on your proposal?  
-  你能详细阐述一下你的提议吗？  
-- She wore an elaborate hairstyle to the party.  
-她为派对精心设计了发型。  
-**记忆技巧**:  
-- 词根: `e-`（出）+ `labor`（劳动）+ `-ate` → 投入劳动做出来 → **精心制作的**
+### 1. **pragmatic**
+- **音标**: /præɡˈmætɪk/
+- **词性**: 形容词
+- **中文释义**: 务实的；实事求是的
+- **例句**:
+  - *We need a pragmatic approach to solve this complex problem.*  
+    我们需要一种务实的方法来解决这个复杂问题。
+- **记忆技巧**:  
+  词根 `pragmat-`（希腊语“行动、实践”），联想“实践出真知”→务实的。
 
 ---
 
-## 3. comprehensive
-**音标**: /ˌkɑːmprɪˈhensɪv/  
-**词性**: adj.  
-**释义**: 全面的；综合的；理解的  
-**例句**: We need a comprehensive review of the data.  
-我们需要对数据进行全面审查。  
-**记忆技巧**:  
-- 词根: `com-`（一起）+ `prehend`（抓住）+ `-ive` → 把所有部分抓住 → **全面的**  
-- 联想: 综合考试(comprehensive exam)就是把所有知识“抓在一起”
+### 2. **coherent**
+- **音标**: /koʊˈhɪrənt/
+- **词性**: 形容词
+- **中文释义**: 条理清楚的；连贯的
+- **例句**:
+  - *Her argument was logical and coherent.*  
+    她的论证逻辑清晰、连贯。
+- **记忆技巧**:  
+  前缀 `co-`（共同） + 词根 `her-`（粘附） → 粘在一起 → 连贯。
 
 ---
 
-## 4. deteriorate
-**音标**: /dɪˈtɪriəreɪt/  
-**词性**: v.  
-**释义**: 恶化；变坏；退化  
-**例句**: His health began to deteriorate rapidly.  
-他的健康状况开始迅速恶化。  
-**记忆技巧**:  
-- 词根: `de-`（向下）+ `terior`（比较级后缀，更坏的） → 向更坏的方向 → **恶化**  
-- 联想: 天气“变坏”(deteriorate) = 地面(terra)越来越差
+### 3. **undermine**
+- **音标**: /ˌʌndərˈmaɪn/
+- **词性**: 动词
+- **中文释义**: 暗中破坏；逐渐削弱
+- **例句**:
+  - *Spreading rumors can undermine trust within a team.*  
+    散布谣言会破坏团队内部的信任。
+- **记忆技巧**:  
+  `under-`（下面） + `mine`（挖掘） → 从下方挖掘 → 暗中破坏。
 
 ---
 
-## 5. resilient
-**音标**: /rɪˈzɪliənt/  
-**词性**: adj.  
-**释义**: 有弹性的；适应力强的；恢复迅速的  
-**例句**: Children are often more resilient than adults in facing setbacks.  
-孩子们在面对挫折时往往比成年人更有韧性。  
-**记忆技巧**:  
-- 词根: `re-`（回）+ `sili`（跳）+ `-ent` → 能跳回来 → **有恢复力的**  
-- 联想: 像弹簧一样能“弹回原状”
+### 4. **resilient**
+- **音标**: /rɪˈzɪliənt/
+- **词性**: 形容词
+- **中文释义**: 有韧性的；能快速恢复的
+- **例句**:
+  - *Children are often more resilient than adults after setbacks.*  
+    孩子们在受挫后往往比成年人恢复得更快。
+- **记忆技巧**:  
+  联想弹簧（resilience）能弹回原状 → 有韧性的。
 
 ---
 
-## 6. skeptical
-**音标**: /ˈskeptɪkl/  
-**词性**: adj.  
-**释义**: 持怀疑态度的；怀疑的  
-**例句**: Many scientists remain skeptical about the theory.  
-许多科学家对这个理论仍持怀疑态度。  
-**记忆技巧**:  
-- 音译联想: **“思考的”** (skeptical)人通常会“怀疑”  
-- 联想: 谐音“是开普勒”→ 科学家开普勒对事物保持**怀疑**
+### 5. **elaborate**
+- **音标**: /ɪˈlæbərət/
+- **词性**: 形容词/动词
+- **中文释义**: 精心制作的；详细阐述
+- **例句**:
+  - *Could you elaborate on your research methodology?*  
+    你能详细说明你的研究方法吗？
+- **记忆技巧**:  
+  前缀 `e-`（出） + `labor`（劳动） → 付出大量劳动 → 精心制作的。
 
 ---
 
-## 7. plausible
-**音标**: /ˈplɔːzəbl/  
-**词性**: adj.  
-**释义**: 貌似有理的；花言巧语的；可信的  
-**例句**: His explanation sounds plausible, but I doubt its accuracy.  
-他的解释听起来似乎有理，但我怀疑其准确性。  
-**记忆技巧**:  
-- 词根: `plaus-`（鼓掌）+ `-ible` → 值得鼓掌 → **可信的**  
-- 联想: “拍手(plausible)”表示认同这个说法“似乎可信”
+### 6. **paradigm**
+- **音标**: /ˈpærədaɪm/
+- **词性**: 名词
+- **中文释义**: 范式；典范；模式
+- **例句**:
+  - *The discovery created a new paradigm in physics.*  
+    这一发现在物理学领域开创了新范式。
+- **记忆技巧**:  
+  希腊语 `para-`（旁边） + `deiknynai`（展示） → 展示在一旁供参考的标准 → 典范。
 
 ---
 
-## 8. unprecedented
-**音标**: /ʌnˈpresɪdentɪd/  
-**词性**: adj.  
-**释义**: 史无前例的；空前的  
-**例句**: The pandemic has caused unprecedented economic damage.  
-这场疫情造成了空前的经济损失。  
-**记忆技巧**:  
-- 词缀: `un-`（不）+ `precedent`（先例）+ `-ed` → 没有先例的 → **史无前例的**  
-- 联想: 谐音“按普瑞森提的”→ 按照常规提不出的 → **空前的**
+### 7. **mitigate**
+- **音标**: /ˈmɪtɪɡeɪt/
+- **词性**: 动词
+- **中文释义**: 减轻；缓和
+- **例句**:
+  - *Planting trees can help mitigate the effects of climate change.*  
+    种植树木有助于缓解气候变化的影响。
+- **记忆技巧**:  
+  联想“米（mi）太急（tigate）”→ 需要缓和一下。
 
 ---
 
-## 9. ubiquitous
-**音标**: /juːˈbɪkwɪtəs/  
-**词性**: adj.  
-**释义**: 无所不在的；普遍存在的  
-**例句**: Smartphones have become ubiquitous in modern society.  
-智能手机在现代社会已变得无处不在。  
-**记忆技巧**:  
-- 词根: `ubi-`（哪里）+ `-quit-`（来自拉丁语，意为“在”）+ `-ous` → 在哪里都有 → **无处不在的**  
-- 联想: 谐音“优必去它死”→ 优等生必须去的地方到处都是 → **遍布的**
+### 8. **ubiquitous**
+- **音标**: /juːˈbɪkwɪtəs/
+- **词性**: 形容词
+- **中文释义**: 无处不在的
+- **例句**:
+  - *Smartphones have become ubiquitous in modern life.*  
+    智能手机在现代生活中已无处不在。
+- **记忆技巧**:  
+  联想 `uni-`（一） + `biquitous` → 一个地方到处都是 → 无处不在。
 
 ---
 
-## 10. substantiate
-**音标**: /səbˈstænʃieɪt/  
-**词性**: v.  
-**释义**: 证实；证明...有根据  
-**例句**: The research findings substantiate the theory.  
-研究结果证实了这一理论。  
-**记忆技巧**:  
-- 词根: `sub-`（在下面）+ `stant`（站立）+ `-iate` → 站在下面做支撑 → **证实**  
-- 联想: “实质性的(substantial)”证据才能“证实(substantiate)”观点
+### 9. **empirical**
+- **音标**: /ɪmˈpɪrɪkl/
+- **词性**: 形容词
+- **中文释义**: 经验主义的；以观察或实验为依据的
+- **例句**:
+  - *The theory lacks empirical evidence to support it.*  
+    该理论缺乏经验证据的支持。
+- **记忆技巧**:  
+  词根 `empiric`（经验） → 与实际经验相关的。
 
 ---
 
-## 11. meticulous
-**音标**: /məˈtɪkjələs/  
-**词性**: adj.  
-**释义**: 一丝不苟的；细心的；挑剔的  
-**例句**: She is meticulous about keeping her workspace clean.  
-她对保持工作空间整洁一丝不苟。  
-**记忆技巧**:  
-- 词根: `met-`（可能来自拉丁语“恐惧”）+ `-iculous` → 因恐惧而谨慎 → **一丝不苟的**  
-- 联想: 谐音“每提克就乐死”→ 每提一个细节就高兴死 → **注重细节**
+### 10. **inherent**
+- **音标**: /ɪnˈhɪrənt/
+- **词性**: 形容词
+- **中文释义**: 内在的；固有的
+- **例句**:
+  - *There are inherent risks in any investment.*  
+    任何投资都有内在风险。
+- **记忆技巧**:  
+  前缀 `in-`（里面） + `her-`（粘） → 粘在里面的 → 固有的。
 
 ---
 
-## 12. exacerbate
-**音标**: /ɪɡˈzæsərbeɪt/  
-**词性**: v.  
-**释义**: 使加剧；使恶化  
-**例句**: The new policy only exacerbated the problem.  
-新政策只是加剧了这个问题。  
-**记忆技巧**:  
-- 词根: `ex-`（出）+ `acerb`（苦涩的，尖锐的）+ `-ate` → 使变得苦涩/尖锐 → **使恶化**  
-- 联想: 谐音“一个热死伯特”→ 天气热+压力大 → **使情况恶化**
+### 11. **profound**
+- **音标**: /prəˈfaʊnd/
+- **词性**: 形容词
+- **中文释义**: 深刻的；深远的
+- **例句**:
+  - *The book had a profound influence on my worldview.*  
+    这本书对我的世界观产生了深远影响。
+- **记忆技巧**:  
+  前缀 `pro-`（向前） + `found`（基础） → 向前深入到基础 → 深刻的。
 
 ---
 
-## 📝 今日小结
-| 词性分布 | 词汇 |
-|:-------:|:----:|
-| **动词** | elaborate, deteriorate, substantiate, exacerbate |
-| **形容词** | profound, comprehensive, resilient, skeptical, plausible, unprecedented, ubiquitous, meticulous |
-
-**学习建议**：  
-1. 每个词大声朗读3遍，注意发音  
-2. 用每个词造一个与自己生活相关的句子  
-3. 睡前回顾今天学习的词汇  
-4. 第二天学习前先复习今天的词汇
-
-坚持就是胜利！你已经连续学习122天了，太棒了！💪
+### 12. **alleviate**
+- **音标**: /əˈliːvieɪt/
+- **词性**: 动词
+- **中文释义**: 减轻；缓解
+- **例句**:
+  - *The medicine helped alleviate her pain.*  
+    这种药帮助减轻了她的疼痛。
+- **记忆技巧**:  
+  联想 `all`（全部） + `eviate`（离开） → 让痛苦全部离开 → 缓解。
 
 ---
-*数据更新至2023年12月，词汇筛选自六级真题高频词库*
+
+### 13. **articulate**
+- **音标**: /ɑːrˈtɪkjuleɪt/
+- **词性**: 形容词/动词
+- **中文释义**: 善于表达的；明确表达
+- **例句**:
+  - *She is very articulate in presenting her ideas.*  
+    她非常善于清晰地表达自己的想法。
+- **记忆技巧**:  
+  词根 `articul-`（关节） → 像关节一样连接语言 → 清晰表达。
+
+---
+
+### 14. **volatile**
+- **音标**: /ˈvɑːlətl/
+- **词性**: 形容词
+- **中文释义**: 易变的；不稳定的
+- **例句**:
+  - *The stock market has been highly volatile recently.*  
+    股票市场最近波动非常剧烈。
+- **记忆技巧**:  
+  联想 `vol-`（飞） + `atile` → 像飞一样变化快 → 不稳定的。
+
+---
+
+### 15. **scrutiny**
+- **音标**: /ˈskruːtəni/
+- **词性**: 名词
+- **中文释义**: 仔细审查；监督
+- **例句**:
+  - *The policy is under intense public scrutiny.*  
+    该政策正受到公众的密切关注。
+- **记忆技巧**:  
+  联想“数（scru）学题要仔细看（tiny）”→ 仔细审查。
+
+---
+
+## 📌 今日复习提示
+- 重点关注**抽象概念词**（如 paradigm, scrutiny）的语境运用
+- 注意**一词多义**（如 elaborate, articulate）
+- 尝试用 **mitigate, undermine, alleviate** 三个动词描述一个社会问题
+
+坚持就是胜利，明天见！ 🌱
