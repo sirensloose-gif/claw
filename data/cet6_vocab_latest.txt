@@ -1,194 +1,255 @@
-# 六级高频词汇 · 第123天
+# 📚 六级词汇学习 · 第124天
 
-> 今日主题：社会、科技与思维
-> 词汇来源：近年六级真题及核心词汇书
-> 学习建议：结合例句朗读，尝试用每个词造句
+> 本日主题：**学术与社会高频词** | 共15个词汇
 
 ---
 
-### 1. **pragmatic**
-- **音标**: /præɡˈmætɪk/
-- **词性**: 形容词
-- **中文释义**: 务实的；实事求是的
-- **例句**:
-  - *We need a pragmatic approach to solve this complex problem.*  
-    我们需要一种务实的方法来解决这个复杂问题。
-- **记忆技巧**:  
-  词根 `pragmat-`（希腊语“行动、实践”），联想“实践出真知”→务实的。
+## 1. implement
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˈɪmplɪment/ |
+| **词性** | v. 实施，执行；n. 工具，器具 |
+
+**释义：** 实施；执行；使生效
+
+**例句：**
+> The government has decided to **implement** a new policy to reduce carbon emissions. / 政府已决定实施一项新政策以减少碳排放。
+
+**记忆技巧：** im（向内）+ ple（填满）+ ment → 向内填满行动计划 → **实施**。联想：**implement** a plan（实施计划）→ 实施工具和方法。
 
 ---
 
-### 2. **coherent**
-- **音标**: /koʊˈhɪrənt/
-- **词性**: 形容词
-- **中文释义**: 条理清楚的；连贯的
-- **例句**:
-  - *Her argument was logical and coherent.*  
-    她的论证逻辑清晰、连贯。
-- **记忆技巧**:  
-  前缀 `co-`（共同） + 词根 `her-`（粘附） → 粘在一起 → 连贯。
+## 2. notorious
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /nəˈtɔːriəs/ |
+| **词性** | adj. 臭名昭著的，声名狼藉的 |
+
+**释义：** 出名的（通常指坏名声）
+
+**例句：**
+> The city is **notorious** for its heavy traffic congestion. / 这座城市以严重的交通拥堵而臭名昭著。
+
+**记忆技巧：** not（not）+ torious（与 glory 相关）→ 与"notable"同源，但特指**负面**的名声。反义词：**renowned**（著名的，正面）。
 
 ---
 
-### 3. **undermine**
-- **音标**: /ˌʌndərˈmaɪn/
-- **词性**: 动词
-- **中文释义**: 暗中破坏；逐渐削弱
-- **例句**:
-  - *Spreading rumors can undermine trust within a team.*  
-    散布谣言会破坏团队内部的信任。
-- **记忆技巧**:  
-  `under-`（下面） + `mine`（挖掘） → 从下方挖掘 → 暗中破坏。
+## 3. exaggerate
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ɪɡˈzædʒəreɪt/ |
+| **词性** | v. 夸大，夸张 |
+
+**释义：** 把事情说得比实际更大或更严重
+
+**例句：**
+> Don't **exaggerate** the severity of the problem — it's not as bad as you think. / 别夸大问题的严重程度——没有你想的那么糟。
+
+**记忆技巧：** ex（向外）+ agger（堆积，如 aggregate）+ ate → 向外堆积 → **夸大**。词根 **ag-** 表示"堆积"。
 
 ---
 
-### 4. **resilient**
-- **音标**: /rɪˈzɪliənt/
-- **词性**: 形容词
-- **中文释义**: 有韧性的；能快速恢复的
-- **例句**:
-  - *Children are often more resilient than adults after setbacks.*  
-    孩子们在受挫后往往比成年人恢复得更快。
-- **记忆技巧**:  
-  联想弹簧（resilience）能弹回原状 → 有韧性的。
+## 4. criterion
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /kraɪˈtɪriən/ |
+| **词性** | n.（复数 criteria）标准，准则 |
+
+**释义：** 用于判断或评价某事的标准
+
+**例句：**
+> The **criterion** for admission to this program is both academic excellence and leadership ability. / 该项目的录取标准是学术卓越与领导力兼具。
+
+**记忆技巧：** 来自希腊语 **krinein**（判断）。注意：复数为 **criteria**（非 *criterions*），这是六级常考易错点！记忆：**criteria** 里有多个 "a"，代表多种标准。
 
 ---
 
-### 5. **elaborate**
-- **音标**: /ɪˈlæbərət/
-- **词性**: 形容词/动词
-- **中文释义**: 精心制作的；详细阐述
-- **例句**:
-  - *Could you elaborate on your research methodology?*  
-    你能详细说明你的研究方法吗？
-- **记忆技巧**:  
-  前缀 `e-`（出） + `labor`（劳动） → 付出大量劳动 → 精心制作的。
+## 5. vulnerable
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˈvʌlnərəbl/ |
+| **词性** | adj. 易受伤害的，脆弱的；易受攻击的 |
+
+**释义：** 容易受到伤害或攻击的
+
+**例句：**
+> The elderly are particularly **vulnerable** to heat waves during summer. / 老年人在夏季尤其容易受到热浪的伤害。
+
+**记忆技巧：** vuln（伤口，源自拉丁语 vulnus）+ able（能…的）→ 能受伤的 → **脆弱的**。常见搭配：be **vulnerable** to（易受…影响）。
 
 ---
 
-### 6. **paradigm**
-- **音标**: /ˈpærədaɪm/
-- **词性**: 名词
-- **中文释义**: 范式；典范；模式
-- **例句**:
-  - *The discovery created a new paradigm in physics.*  
-    这一发现在物理学领域开创了新范式。
-- **记忆技巧**:  
-  希腊语 `para-`（旁边） + `deiknynai`（展示） → 展示在一旁供参考的标准 → 典范。
+## 6. controversial
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˌkɒntrəˈvɜːʃl/ |
+| **词性** | adj. 有争议的，引起争论的 |
+
+**释义：** 引起不同意见和争论的
+
+**例句：**
+> The **controversial** proposal to build a highway through the park has sparked heated debate. / 在公园里修建高速公路的有争议提案引发了激烈辩论。
+
+**记忆技巧：** con（共同）+ tro（turn，旋转）+ versial → 多方观点反复旋转 → **有争议的**。注意与 **control**（控制）区分：controversy 中的 "tro" 是 turn，不是"控制"。
 
 ---
 
-### 7. **mitigate**
-- **音标**: /ˈmɪtɪɡeɪt/
-- **词性**: 动词
-- **中文释义**: 减轻；缓和
-- **例句**:
-  - *Planting trees can help mitigate the effects of climate change.*  
-    种植树木有助于缓解气候变化的影响。
-- **记忆技巧**:  
-  联想“米（mi）太急（tigate）”→ 需要缓和一下。
+## 7. prevail
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /prɪˈveɪl/ |
+| **词性** | v. 盛行；获胜；普遍存在 |
+
+**释义：** 盛行，普遍存在；占优势，获胜
+
+**例句：**
+> In the end, common sense and justice **prevailed** over prejudice and ignorance. / 最终，常识和正义战胜了偏见与无知。
+
+**记忆技巧：** pre（提前）+ vail（值，源自拉丁语 valere = to be strong）→ 提前占据优势 → **获胜**。相关词：**prevailing**（流行的；占优势的）。
 
 ---
 
-### 8. **ubiquitous**
-- **音标**: /juːˈbɪkwɪtəs/
-- **词性**: 形容词
-- **中文释义**: 无处不在的
-- **例句**:
-  - *Smartphones have become ubiquitous in modern life.*  
-    智能手机在现代生活中已无处不在。
-- **记忆技巧**:  
-  联想 `uni-`（一） + `biquitous` → 一个地方到处都是 → 无处不在。
+## 8. sophisticated
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /səˈfɪstɪkeɪtɪd/ |
+| **词性** | adj. 复杂精密的；老练的；世故的 |
+
+**释义：** 精密复杂的；见多识广、老练的
+
+**例句：**
+> The factory uses **sophisticated** equipment to ensure product quality. / 该工厂使用精密的设备来确保产品质量。
+
+**记忆技巧：** sophist（诡辩家，古希腊哲学家）+ icate + ed → 古希腊诡辩家 → 见多识广、**老练的**。注意：**sophisticated** 也可指"复杂精密的"，具体含义看语境。
 
 ---
 
-### 9. **empirical**
-- **音标**: /ɪmˈpɪrɪkl/
-- **词性**: 形容词
-- **中文释义**: 经验主义的；以观察或实验为依据的
-- **例句**:
-  - *The theory lacks empirical evidence to support it.*  
-    该理论缺乏经验证据的支持。
-- **记忆技巧**:  
-  词根 `empiric`（经验） → 与实际经验相关的。
+## 9. explicit
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ɪkˈsplɪsɪt/ |
+| **词性** | adj. 清晰明确的；直言不讳的 |
+
+**释义：** 清楚明白的，毫不含糊的
+
+**例句：**
+> The contract must contain **explicit** terms regarding the duration and scope of the project. / 合同必须明确包含关于项目持续时间和范围的条款。
+
+**记忆技巧：** ex（向外）+ plic（折叠，如 imply = in-folded）+ it → 向外展开折叠的内容 → **清楚的**。反义词：**implicit**（隐含的，内含的）。
 
 ---
 
-### 10. **inherent**
-- **音标**: /ɪnˈhɪrənt/
-- **词性**: 形容词
-- **中文释义**: 内在的；固有的
-- **例句**:
-  - *There are inherent risks in any investment.*  
-    任何投资都有内在风险。
-- **记忆技巧**:  
-  前缀 `in-`（里面） + `her-`（粘） → 粘在里面的 → 固有的。
+## 10. coincide
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˌkəʊɪnˈsaɪd/ |
+| **词性** | v. 同时发生；巧合；意见一致 |
+
+**释义：** 同时发生；巧合；与…一致
+
+**例句：**
+> Their vacation dates **coincide** with the national holiday week. / 他们的假期与国定假日周恰好重合。
+
+**记忆技巧：** co（共同）+ incide（落下，如 incident）→ 共同落下 → 同时发生。固定搭配：**coincide** with（与…一致/同时发生）。
 
 ---
 
-### 11. **profound**
-- **音标**: /prəˈfaʊnd/
-- **词性**: 形容词
-- **中文释义**: 深刻的；深远的
-- **例句**:
-  - *The book had a profound influence on my worldview.*  
-    这本书对我的世界观产生了深远影响。
-- **记忆技巧**:  
-  前缀 `pro-`（向前） + `found`（基础） → 向前深入到基础 → 深刻的。
+## 11. reluctant
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /rɪˈlʌktənt/ |
+| **词性** | adj. 不情愿的，勉强的 |
+
+**释义：** 不情愿做某事的，犹豫不决的
+
+**例句：**
+> She was **reluctant** to leave her hometown for the job opportunity in Beijing. / 她不情愿离开家乡去北京工作。
+
+**记忆技巧：** re（向后）+ luct（挣扎，如 luctant）+ ant → 向后挣扎 → **不情愿的**。记忆联想：**re-luctant** → 向后拉扯（re-luct）→ 不想动。
 
 ---
 
-### 12. **alleviate**
-- **音标**: /əˈliːvieɪt/
-- **词性**: 动词
-- **中文释义**: 减轻；缓解
-- **例句**:
-  - *The medicine helped alleviate her pain.*  
-    这种药帮助减轻了她的疼痛。
-- **记忆技巧**:  
-  联想 `all`（全部） + `eviate`（离开） → 让痛苦全部离开 → 缓解。
+## 12. undermine
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˌʌndəˈmaɪn/ |
+| **词性** | v. 削弱，破坏；暗中破坏 |
+
+**释义：** 悄悄地削弱或损害某事物的力量、有效性或地位
+
+**例句：**
+> Spreading false information can **undermine** public trust in the government. / 散布虚假信息会削弱公众对政府的信任。
+
+**记忆技巧：** under（在…下面）+ mine（挖掘）→ 在下面挖掘 → 暗中挖墙脚 → **削弱**。想象在地基下面挖洞，房子就会倒塌。
 
 ---
 
-### 13. **articulate**
-- **音标**: /ɑːrˈtɪkjuleɪt/
-- **词性**: 形容词/动词
-- **中文释义**: 善于表达的；明确表达
-- **例句**:
-  - *She is very articulate in presenting her ideas.*  
-    她非常善于清晰地表达自己的想法。
-- **记忆技巧**:  
-  词根 `articul-`（关节） → 像关节一样连接语言 → 清晰表达。
+## 13. accommodate
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /əˈkɒmədeɪt/ |
+| **词性** | v. 容纳；为…提供住宿；使适应，使配合 |
+
+**释义：** 提供住宿或空间；适应，迁就；考虑并满足
+
+**例句：**
+> The hotel can **accommodate** up to 300 guests at a time. / 这家酒店一次最多可容纳300名客人。
+
+**记忆技巧：** ac（向）+ commod（方便，如 commodity）+ ate → 使变得方便 → 容纳/适应。联想：**accommodate** 一词中包含了 **commode**（马桶/衣柜）→ 容纳物品的地方。
 
 ---
 
-### 14. **volatile**
-- **音标**: /ˈvɑːlətl/
-- **词性**: 形容词
-- **中文释义**: 易变的；不稳定的
-- **例句**:
-  - *The stock market has been highly volatile recently.*  
-    股票市场最近波动非常剧烈。
-- **记忆技巧**:  
-  联想 `vol-`（飞） + `atile` → 像飞一样变化快 → 不稳定的。
+## 14. feasible
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˈfiːzəbl/ |
+| **词性** | adj. 可行的，办得到的 |
+
+**释义：** 有可能实现的，切实可行的
+
+**例句：**
+> The engineers concluded that the plan was technically **feasible** but economically too expensive. / 工程师们认为该方案在技术上可行，但经济上成本过高。
+
+**记忆技巧：** feas（做，源自拉丁语 facere = to do）+ ible（能…的）→ 能做的 → **可行的**。相关词：**feasibility**（可行性，常在议论文中出现）。
 
 ---
 
-### 15. **scrutiny**
-- **音标**: /ˈskruːtəni/
-- **词性**: 名词
-- **中文释义**: 仔细审查；监督
-- **例句**:
-  - *The policy is under intense public scrutiny.*  
-    该政策正受到公众的密切关注。
-- **记忆技巧**:  
-  联想“数（scru）学题要仔细看（tiny）”→ 仔细审查。
+## 15. compensate
+
+| 项目 | 内容 |
+|------|------|
+| **音标** | /ˈkɒmpenseɪt/ |
+| **词性** | v. 补偿，赔偿；弥补 |
+
+**释义：** 补偿某人的损失或付出；抵消（负面效果）
+
+**例句：**
+> Nothing can fully **compensate** for the loss of a loved one. / 任何事物都无法完全弥补失去挚爱之人的痛苦。
+
+**记忆技巧：** com（一起）+ pens（称量，如 pendant 悬挂物）+ ate → 一起称量价值 → **补偿**。常见搭配：**compensate** for（补偿…）；**compensate** sb. for sth.（因某事赔偿某人）。
 
 ---
 
-## 📌 今日复习提示
-- 重点关注**抽象概念词**（如 paradigm, scrutiny）的语境运用
-- 注意**一词多义**（如 elaborate, articulate）
-- 尝试用 **mitigate, undermine, alleviate** 三个动词描述一个社会问题
+## 📖 今日词汇速览表
 
-坚持就是胜利，明天见！ 🌱
+| # | 单词 | 词性 | 核心释义 |
+|---|------|------|----------|
+| 1 | implement | v./n. | 实施；工具 |
+| 2 | notorious | adj. | 臭名昭著的 |
+| 3 | exaggerate | v. | 夸大 |
+| 4 | criterion | n. | 标准，准则 |
+| 5 | vulnerable | adj. | 脆弱的；易
