@@ -1,255 +1,197 @@
-# 📚 六级词汇学习 · 第124天
+# 📚 六级词汇学习 · 第125天
 
-> 本日主题：**学术与社会高频词** | 共15个词汇
-
----
-
-## 1. implement
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈɪmplɪment/ |
-| **词性** | v. 实施，执行；n. 工具，器具 |
-
-**释义：** 实施；执行；使生效
-
-**例句：**
-> The government has decided to **implement** a new policy to reduce carbon emissions. / 政府已决定实施一项新政策以减少碳排放。
-
-**记忆技巧：** im（向内）+ ple（填满）+ ment → 向内填满行动计划 → **实施**。联想：**implement** a plan（实施计划）→ 实施工具和方法。
+> **主题：抽象概念与学术高频词**
 
 ---
 
-## 2. notorious
+## 1. ambiguity /æmˈbɪɡjuəti/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /nəˈtɔːriəs/ |
+| **词性** | n. 含糊，模棱两可 |
+| **中文释义** | 不明确，暧昧；含糊不清的话 |
+| **例句** | The ambiguity of the contract's terms led to a long dispute between the two companies. （合同条款的含糊不清导致两家公司之间长期的争执。） |
+| **记忆技巧** | 词根 **ambi-**（两边）+ **-bigu-**（驱动）+ **-ity**（名词后缀）→ "往两边开"→ 含糊；联想：ambition（抱负）也有ambi-词根，两边都想拿→含糊 |
+
+---
+
+## 2. accommodate /əˈkɒmədeɪt/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | vt. 提供住宿；容纳；使适应；迁就 |
+| **中文释义** | 给……提供方便；顺应，适应 |
+| **例句** | The new library was designed to accommodate more than 500 students at the same time. （新图书馆的设计能够同时容纳500多名学生。） |
+| **记忆技巧** | 词根 **com-**（共同）+ **-mod-**（方式）+ **-ate**（动词后缀）→ 用相同方式安排好 → 容纳；联想：mode（方式）、model（模型）共享mod-词根 |
+
+---
+
+## 3. advocate /ˈædvəkeɪt/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | vt. 提倡，主张；n. 拥护者，倡导者 |
+| **中文释义** | 倡导；为……辩护 |
+| **例句** | Many scientists advocate the use of renewable energy to reduce carbon emissions. （许多科学家提倡使用可再生能源来减少碳排放。） |
+| **记忆技巧** | 词根 **ad-**（向）+ **-voc-**（声音，喊）+ **-ate** → 向声呼吁 → 倡导；联想：vocal（声音的）、vocabulary（词汇）、vocation（天职）都含voc- |
+
+---
+
+## 4. deteriorate /dɪˈtɪəriəreɪt/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | v. 变坏，恶化，退化 |
+| **中文释义** | 变差，使恶化 |
+| **例句** | The patient's condition continued to deteriorate despite intensive medical treatment. （尽管进行了强化医疗，病人的状况仍在持续恶化。） |
+| **记忆技巧** | 词根 **de-**（向下）+ **-terior-**（更糟的，拉丁语比较级）+ **-ate** → 越来越糟 → 恶化；联想：interior（内部的）、exterior（外部的）共享-terior-词根 |
+
+---
+
+## 5. encompass /ɪnˈkʌmpəs/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | vt. 包含，包括；环绕 |
+| **中文释义** | 涵盖；围绕，包围 |
+| **例句** | The research project encompasses a wide range of topics, from linguistics to computer science. （这个研究项目涵盖了从语言学到计算机科学的广泛主题。） |
+| **记忆技巧** | 词根 **en-**（使进入）+ **compass**（罗盘/指南针）→ 用罗盘圈住所有范围 → 包含；联想：compass的本意就是罗盘，范围 |
+
+---
+
+## 6. facilitate /fəˈsɪlɪteɪt/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | vt. 使便利，促进，使容易 |
+| **中文释义** | 促进，使变得容易 |
+| **例句** | Technology has dramatically facilitated the way people communicate across borders. （科技极大地促进了跨国交流的方式。） |
+| **记忆技巧** | 词根 **fac-**（做，制作）+ **-il-**（形容词后缀：容易的）+ **-it-** + **-ate** → 使变得容易做 → 促进；联想：fact（事实）、factory（工厂）、feasible（可行的）都含fac-/fis-词根 |
+
+---
+
+## 7. fragile /ˈfrædʒaɪl/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | adj. 易碎的，脆弱的；不稳定的 |
+| **中文释义** | 易碎的，虚弱的；不牢固的 |
+| **例句** | The relationship between the two nations remains fragile and easily disturbed by political tensions. （两国之间的关系仍然脆弱，容易受到政治紧张局势的干扰。） |
+| **记忆技巧** | 词根 **frag-**（打破）+ **-ile**（形容词后缀：容易……的）→ 容易打破的 → 易碎的；联想：fragment（碎片）、break（打破） |
+
+---
+
+## 8. inevitable /ɪnˈevɪtəbl/
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | adj. 不可避免的，必然的 |
+| **中文释义** | 必然发生的，不可逃避的 |
+| **例句** | It is inevitable that some jobs will be replaced by artificial intelligence in the coming decades. （一些工作在未来几十年被人工智能取代是不可避免的。） |
+| **记忆技巧** | 词根 **in-**（否定）+ **-evit-**（避开）+ **-able**（形容词后缀：能够……的）→ 不能避开的 → 不可避免的；联想：evade（逃避）、evitable（可避免的） |
+
+---
+
+## 9. notorious /nəʊˈtɔːriəs/
+
+| 项目 | 内容 |
+|------|------|
 | **词性** | adj. 臭名昭著的，声名狼藉的 |
-
-**释义：** 出名的（通常指坏名声）
-
-**例句：**
-> The city is **notorious** for its heavy traffic congestion. / 这座城市以严重的交通拥堵而臭名昭著。
-
-**记忆技巧：** not（not）+ torious（与 glory 相关）→ 与"notable"同源，但特指**负面**的名声。反义词：**renowned**（著名的，正面）。
+| **中文释义** | 众所周知的（多指坏名声） |
+| **例句** | The city is notorious for its heavy traffic jams during the rush hours. （这座城市因高峰时段严重的交通堵塞而臭名昭著。） |
+| **记忆技巧** | 词根 **not-**（知道）+ **-ori-** + **-ous**（形容词后缀：多……的）→ 大家都知道的（负面含义）→ 臭名昭著；联想：note（笔记）、notice（注意）、notation（符号） |
 
 ---
 
-## 3. exaggerate
+## 10. perspective /pəˈspektɪv/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ɪɡˈzædʒəreɪt/ |
-| **词性** | v. 夸大，夸张 |
-
-**释义：** 把事情说得比实际更大或更严重
-
-**例句：**
-> Don't **exaggerate** the severity of the problem — it's not as bad as you think. / 别夸大问题的严重程度——没有你想的那么糟。
-
-**记忆技巧：** ex（向外）+ agger（堆积，如 aggregate）+ ate → 向外堆积 → **夸大**。词根 **ag-** 表示"堆积"。
+| **词性** | n. 观点，视角；远景，透视法 |
+| **中文释义** | 角度，看法；远景 |
+| **例句** | From a historical perspective, the reform was a necessary step toward modernization. （从历史的角度来看，改革是迈向现代化的必要步骤。） |
+| **记忆技巧** | 词根 **per-**（完全）+ **-spect-**（看）+ **-ive**（名词后缀）→ 从远处看全局 → 视角/观点；联想：inspect（检查）、prospect（前景）、expect（期待）都含spect-词根 |
 
 ---
 
-## 4. criterion
+## 11. subtle /ˈsʌtl/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /kraɪˈtɪriən/ |
-| **词性** | n.（复数 criteria）标准，准则 |
-
-**释义：** 用于判断或评价某事的标准
-
-**例句：**
-> The **criterion** for admission to this program is both academic excellence and leadership ability. / 该项目的录取标准是学术卓越与领导力兼具。
-
-**记忆技巧：** 来自希腊语 **krinein**（判断）。注意：复数为 **criteria**（非 *criterions*），这是六级常考易错点！记忆：**criteria** 里有多个 "a"，代表多种标准。
+| **词性** | adj. 微妙的，细微的；精巧的；敏锐的 |
+| **中文释义** | 细微的，微妙的；巧妙的 |
+| **例句** | There is a subtle difference between "affect" and "effect" that many students overlook. （"affect"和"effect"之间有一个细微的差别，许多学生忽略了它。） |
+| **记忆技巧** | 联想记忆：sub-（在下面）+ tle → 在下面（深处）→ 不容易察觉 → 微妙的；注意**b不发音**，读作 /ˈsʌtl/ |
 
 ---
 
-## 5. vulnerable
+## 12. undertake /ˌʌndəˈteɪk/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈvʌlnərəbl/ |
-| **词性** | adj. 易受伤害的，脆弱的；易受攻击的 |
-
-**释义：** 容易受到伤害或攻击的
-
-**例句：**
-> The elderly are particularly **vulnerable** to heat waves during summer. / 老年人在夏季尤其容易受到热浪的伤害。
-
-**记忆技巧：** vuln（伤口，源自拉丁语 vulnus）+ able（能…的）→ 能受伤的 → **脆弱的**。常见搭配：be **vulnerable** to（易受…影响）。
+| **词性** | vt. 着手做，承担，从事 |
+| **中文释义** | 承担，着手，试图 |
+| **例句** | The company has undertaken to build a new factory in the southern region of the country. （该公司已着手在该国南部地区建设一座新工厂。） |
+| **记忆技巧** | 词根 **under-**（在下面）+ **take**（拿取）→ 在下面拿起来扛在身上 → 承担；联想：与"take on"意思相近 |
 
 ---
 
-## 6. controversial
+## 13. vulnerable /ˈvʌlnərəbl/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˌkɒntrəˈvɜːʃl/ |
-| **词性** | adj. 有争议的，引起争论的 |
-
-**释义：** 引起不同意见和争论的
-
-**例句：**
-> The **controversial** proposal to build a highway through the park has sparked heated debate. / 在公园里修建高速公路的有争议提案引发了激烈辩论。
-
-**记忆技巧：** con（共同）+ tro（turn，旋转）+ versial → 多方观点反复旋转 → **有争议的**。注意与 **control**（控制）区分：controversy 中的 "tro" 是 turn，不是"控制"。
+| **词性** | adj. 易受伤害的，脆弱的，易受攻击的 |
+| **中文释义** | 易受攻击的，脆弱的 |
+| **例句** | Children and elderly people are particularly vulnerable to severe diseases in winter. （儿童和老人在冬天尤其容易患上严重疾病。） |
+| **记忆技巧** | 词根 **vulner-**（伤，伤口）+ **-able**（形容词后缀）→ 能够受伤的 → 易受攻击的；联想：wound（伤口）与vulner-发音相近 |
 
 ---
 
-## 7. prevail
+## 14. notorious → 替换词：inevitable 已有，改用 —— **ambiguous /æmˈbɪɡjuəs/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /prɪˈveɪl/ |
-| **词性** | v. 盛行；获胜；普遍存在 |
-
-**释义：** 盛行，普遍存在；占优势，获胜
-
-**例句：**
-> In the end, common sense and justice **prevailed** over prejudice and ignorance. / 最终，常识和正义战胜了偏见与无知。
-
-**记忆技巧：** pre（提前）+ vail（值，源自拉丁语 valere = to be strong）→ 提前占据优势 → **获胜**。相关词：**prevailing**（流行的；占优势的）。
+| **词性** | adj. 模棱两可的，含糊不清的 |
+| **中文释义** | 含糊的，不明确的，引起歧义的 |
+| **例句** | The politician gave an ambiguous answer that satisfied neither side of the debate. （这位政治家给出了一个模棱两可的回答，辩论双方都不满意。） |
+| **记忆技巧** | 与第1个词 **ambiguity** 同源：ambi-（两边）+ -bigu-（驱动）→ 两边都能理解 → 含糊的；掌握词性变化：-ity → -ous |
 
 ---
 
-## 8. sophisticated
+## 15. scrutinize /ˈskruːtənaɪz/
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /səˈfɪstɪkeɪtɪd/ |
-| **词性** | adj. 复杂精密的；老练的；世故的 |
-
-**释义：** 精密复杂的；见多识广、老练的
-
-**例句：**
-> The factory uses **sophisticated** equipment to ensure product quality. / 该工厂使用精密的设备来确保产品质量。
-
-**记忆技巧：** sophist（诡辩家，古希腊哲学家）+ icate + ed → 古希腊诡辩家 → 见多识广、**老练的**。注意：**sophisticated** 也可指"复杂精密的"，具体含义看语境。
+| **词性** | vt. 仔细检查，审查 |
+| **中文释义** | 仔细检查，审查 |
+| **例句** | Financial experts scrutinized the company's books and discovered several accounting irregularities. （金融专家仔细审查了公司的账簿，发现了一些会计违规行为。） |
+| **记忆技巧** | 词根 **scrut-**（搜索，审查）+ **-inize**（动词后缀）→ 仔细审查；联想：scrutiny（仔细审查n.）是其名词形式，scrutinize是动词形式 |
 
 ---
 
-## 9. explicit
+# 📝 今日总结速记表
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪkˈsplɪsɪt/ |
-| **词性** | adj. 清晰明确的；直言不讳的 |
-
-**释义：** 清楚明白的，毫不含糊的
-
-**例句：**
-> The contract must contain **explicit** terms regarding the duration and scope of the project. / 合同必须明确包含关于项目持续时间和范围的条款。
-
-**记忆技巧：** ex（向外）+ plic（折叠，如 imply = in-folded）+ it → 向外展开折叠的内容 → **清楚的**。反义词：**implicit**（隐含的，内含的）。
-
----
-
-## 10. coincide
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌkəʊɪnˈsaɪd/ |
-| **词性** | v. 同时发生；巧合；意见一致 |
-
-**释义：** 同时发生；巧合；与…一致
-
-**例句：**
-> Their vacation dates **coincide** with the national holiday week. / 他们的假期与国定假日周恰好重合。
-
-**记忆技巧：** co（共同）+ incide（落下，如 incident）→ 共同落下 → 同时发生。固定搭配：**coincide** with（与…一致/同时发生）。
+| # | 单词 | 词性 | 核心释义 | 关键词根 |
+|---|------|------|----------|----------|
+| 1 | ambiguity | n. | 含糊 | ambi-（两边） |
+| 2 | accommodate | vt. | 容纳，提供住宿 | com-+mod- |
+| 3 | advocate | vt./n. | 倡导 | -voc-（声音） |
+| 4 | deteriorate | v. | 恶化 | de-（向下） |
+| 5 | encompass | vt. | 包含，涵盖 | en-+compass |
+| 6 | facilitate | vt. | 促进，使便利 | fac-（做） |
+| 7 | fragile | adj. | 易碎的，脆弱的 | frag-（打破） |
+| 8 | inevitable | adj. | 不可避免的 | in-（否定） |
+| 9 | notorious | adj. | 臭名昭著的 | not-（知道） |
+| 10 | perspective | n. | 观点，视角 | per-+spect-（看） |
+| 11 | subtle | adj. | 微妙的 | sub-（在下） |
+| 12 | undertake | vt. | 承担，着手 | under-（在下） |
+| 13 | vulnerable | adj. | 易受攻击的 | vulner-（伤） |
+| 14 | ambiguous | adj. | 模棱两可的 | ambi-（两边） |
+| 15 | scrutinize | vt. | 仔细审查 | scrut-（审查） |
 
 ---
 
-## 11. reluctant
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /rɪˈlʌktənt/ |
-| **词性** | adj. 不情愿的，勉强的 |
-
-**释义：** 不情愿做某事的，犹豫不决的
-
-**例句：**
-> She was **reluctant** to leave her hometown for the job opportunity in Beijing. / 她不情愿离开家乡去北京工作。
-
-**记忆技巧：** re（向后）+ luct（挣扎，如 luctant）+ ant → 向后挣扎 → **不情愿的**。记忆联想：**re-luctant** → 向后拉扯（re-luct）→ 不想动。
-
----
-
-## 12. undermine
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌʌndəˈmaɪn/ |
-| **词性** | v. 削弱，破坏；暗中破坏 |
-
-**释义：** 悄悄地削弱或损害某事物的力量、有效性或地位
-
-**例句：**
-> Spreading false information can **undermine** public trust in the government. / 散布虚假信息会削弱公众对政府的信任。
-
-**记忆技巧：** under（在…下面）+ mine（挖掘）→ 在下面挖掘 → 暗中挖墙脚 → **削弱**。想象在地基下面挖洞，房子就会倒塌。
-
----
-
-## 13. accommodate
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /əˈkɒmədeɪt/ |
-| **词性** | v. 容纳；为…提供住宿；使适应，使配合 |
-
-**释义：** 提供住宿或空间；适应，迁就；考虑并满足
-
-**例句：**
-> The hotel can **accommodate** up to 300 guests at a time. / 这家酒店一次最多可容纳300名客人。
-
-**记忆技巧：** ac（向）+ commod（方便，如 commodity）+ ate → 使变得方便 → 容纳/适应。联想：**accommodate** 一词中包含了 **commode**（马桶/衣柜）→ 容纳物品的地方。
-
----
-
-## 14. feasible
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈfiːzəbl/ |
-| **词性** | adj. 可行的，办得到的 |
-
-**释义：** 有可能实现的，切实可行的
-
-**例句：**
-> The engineers concluded that the plan was technically **feasible** but economically too expensive. / 工程师们认为该方案在技术上可行，但经济上成本过高。
-
-**记忆技巧：** feas（做，源自拉丁语 facere = to do）+ ible（能…的）→ 能做的 → **可行的**。相关词：**feasibility**（可行性，常在议论文中出现）。
-
----
-
-## 15. compensate
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈkɒmpenseɪt/ |
-| **词性** | v. 补偿，赔偿；弥补 |
-
-**释义：** 补偿某人的损失或付出；抵消（负面效果）
-
-**例句：**
-> Nothing can fully **compensate** for the loss of a loved one. / 任何事物都无法完全弥补失去挚爱之人的痛苦。
-
-**记忆技巧：** com（一起）+ pens（称量，如 pendant 悬挂物）+ ate → 一起称量价值 → **补偿**。常见搭配：**compensate** for（补偿…）；**compensate** sb. for sth.（因某事赔偿某人）。
-
----
-
-## 📖 今日词汇速览表
-
-| # | 单词 | 词性 | 核心释义 |
-|---|------|------|----------|
-| 1 | implement | v./n. | 实施；工具 |
-| 2 | notorious | adj. | 臭名昭著的 |
-| 3 | exaggerate | v. | 夸大 |
-| 4 | criterion | n. | 标准，准则 |
-| 5 | vulnerable | adj. | 脆弱的；易
+> 💡 **今日学习建议：**
+> 1. 重点掌握词根 **-voc-**（声音）、**-spect-**（看）、**-fac-**（做）的记忆规律
+> 2. 注意 **subtle** 的发音中 b 不发音
+> 3. �
