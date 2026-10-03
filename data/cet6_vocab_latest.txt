@@ -1,197 +1,276 @@
-# 📚 六级词汇学习 · 第125天
+# 📚 六级词汇每日学习 · 第126天
 
-> **主题：抽象概念与学术高频词**
+> **目标：** 15个高频词汇 | **难度：** ★★★☆☆ | **预计用时：** 30分钟
 
 ---
 
-## 1. ambiguity /æmˈbɪɡjuəti/
+## 1. 🟢 **elaborate** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | n. 含糊，模棱两可 |
-| **中文释义** | 不明确，暧昧；含糊不清的话 |
-| **例句** | The ambiguity of the contract's terms led to a long dispute between the two companies. （合同条款的含糊不清导致两家公司之间长期的争执。） |
-| **记忆技巧** | 词根 **ambi-**（两边）+ **-bigu-**（驱动）+ **-ity**（名词后缀）→ "往两边开"→ 含糊；联想：ambition（抱负）也有ambi-词根，两边都想拿→含糊 |
+| 音标 | /ɪˈlæbəreɪt/ |
+| 词性 | v. 精心制作；详述 / adj. 精心制作的；复杂的 |
+| 释义 | 精心制作的；详尽阐述 |
+
+**例句：**
+> **v.** Could you **elaborate** on your research methodology?
+> 能请你详细阐述一下你的研究方法吗？
+
+> **adj.** She wore an **elaborate** gown adorned with precious stones.
+> 她穿着一件镶满宝石的精致礼服。
+
+**记忆技巧：** 前缀 e-（出）+ labor（劳动）+ -ate → 把劳动"做出来" → 精心制作 → 详细阐述。类比 **labor** 劳动，付出劳动越多越精细。
 
 ---
 
-## 2. accommodate /əˈkɒmədeɪt/
+## 2. 🔵 **anticipate** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 提供住宿；容纳；使适应；迁就 |
-| **中文释义** | 给……提供方便；顺应，适应 |
-| **例句** | The new library was designed to accommodate more than 500 students at the same time. （新图书馆的设计能够同时容纳500多名学生。） |
-| **记忆技巧** | 词根 **com-**（共同）+ **-mod-**（方式）+ **-ate**（动词后缀）→ 用相同方式安排好 → 容纳；联想：mode（方式）、model（模型）共享mod-词根 |
+| 音标 | /ænˈtɪsɪpeɪt/ |
+| 词性 | v. 预料，期望 |
+| 释义 | 预料；期望；提前使用 |
+
+**例句：**
+> We **anticipated** a significant drop in sales after the new policy took effect.
+> 我们预料到新政策生效后销量会大幅下降。
+
+**记忆技巧：** 词根 anti-（前面）+ cip（拿，take）+ -ate → 提前"拿到"消息 → 预料。同族词：**perception**（感知，per- + cip + tion）。
 
 ---
 
-## 3. advocate /ˈædvəkeɪt/
+## 3. 🟣 **deteriorate** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 提倡，主张；n. 拥护者，倡导者 |
-| **中文释义** | 倡导；为……辩护 |
-| **例句** | Many scientists advocate the use of renewable energy to reduce carbon emissions. （许多科学家提倡使用可再生能源来减少碳排放。） |
-| **记忆技巧** | 词根 **ad-**（向）+ **-voc-**（声音，喊）+ **-ate** → 向声呼吁 → 倡导；联想：vocal（声音的）、vocabulary（词汇）、vocation（天职）都含voc- |
+| 音标 | /dɪˈtɪriəreɪt/ |
+| 词性 | v. 恶化，变坏 |
+| 释义 | （使）恶化；退化 |
+
+**例句：**
+> If untreated, the patient's condition will **deteriorate** rapidly.
+> 如果不治疗，病人的病情会迅速恶化。
+
+**记忆技巧：** 联想记忆：**deteriorate**（de + terior + ate）→ 与 **terrible**（可怕的）联想到"越来越terrible" → 恶化。注意首字母 d + 坏事发生。
 
 ---
 
-## 4. deteriorate /dɪˈtɪəriəreɪt/
+## 4. 🔴 **substantial** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 变坏，恶化，退化 |
-| **中文释义** | 变差，使恶化 |
-| **例句** | The patient's condition continued to deteriorate despite intensive medical treatment. （尽管进行了强化医疗，病人的状况仍在持续恶化。） |
-| **记忆技巧** | 词根 **de-**（向下）+ **-terior-**（更糟的，拉丁语比较级）+ **-ate** → 越来越糟 → 恶化；联想：interior（内部的）、exterior（外部的）共享-terior-词根 |
+| 音标 | /səbˈstænʃl/ |
+| 词性 | adj. 大量的；实质的；坚固的 |
+| 释义 | 大量的；实质性的；牢固的 |
+
+**例句：**
+> The company has made **substantial** progress in expanding its international market.
+> 该公司在拓展国际市场方面取得了实质性进展。
+
+**记忆技巧：** 前缀 sub-（在下面）+ stant（站立，stand）+ -ial → 能"站住脚"的 → 实质的、大量的。同族词：**substance**（物质）。
 
 ---
 
-## 5. encompass /ɪnˈkʌmpəs/
+## 5. 🟢 **comprehensive** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 包含，包括；环绕 |
-| **中文释义** | 涵盖；围绕，包围 |
-| **例句** | The research project encompasses a wide range of topics, from linguistics to computer science. （这个研究项目涵盖了从语言学到计算机科学的广泛主题。） |
-| **记忆技巧** | 词根 **en-**（使进入）+ **compass**（罗盘/指南针）→ 用罗盘圈住所有范围 → 包含；联想：compass的本意就是罗盘，范围 |
+| 音标 | /ˌkɑːmprɪˈhensɪv/ |
+| 词性 | adj. 综合的；全面的 |
+| 释义 | 全面的；综合的 |
+
+**例句：**
+> The government released a **comprehensive** report on climate change impacts.
+> 政府发布了一份关于气候变化影响的全面报告。
+
+**记忆技巧：** 前缀 com-（共同）+ prehens（抓，理解， grasp）+ -ive → 把所有东西"抓"在一起 → 综合的、全面的。同族词：**comprehension**（理解力）。
 
 ---
 
-## 6. facilitate /fəˈsɪlɪteɪt/
+## 6. 🔵 **inevitable** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 使便利，促进，使容易 |
-| **中文释义** | 促进，使变得容易 |
-| **例句** | Technology has dramatically facilitated the way people communicate across borders. （科技极大地促进了跨国交流的方式。） |
-| **记忆技巧** | 词根 **fac-**（做，制作）+ **-il-**（形容词后缀：容易的）+ **-it-** + **-ate** → 使变得容易做 → 促进；联想：fact（事实）、factory（工厂）、feasible（可行的）都含fac-/fis-词根 |
+| 音标 | /ɪnˈevɪtəbl/ |
+| 词性 | adj. 不可避免的；必然发生的 |
+| 释义 | 不可避免的；必然的 |
+
+**例句：**
+> As technology advances, some traditional jobs become **inevitable** casualties.
+> 随着技术进步，一些传统岗位成为不可避免的牺牲品。
+
+**记忆技巧：** 前缀 in-（不）+ evit（躲避，avoid，来自拉丁语 evitare）+ -able → 无法躲避的 → 不可避免的。
 
 ---
 
-## 7. fragile /ˈfrædʒaɪl/
+## 7. 🟣 **implication** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 易碎的，脆弱的；不稳定的 |
-| **中文释义** | 易碎的，虚弱的；不牢固的 |
-| **例句** | The relationship between the two nations remains fragile and easily disturbed by political tensions. （两国之间的关系仍然脆弱，容易受到政治紧张局势的干扰。） |
-| **记忆技巧** | 词根 **frag-**（打破）+ **-ile**（形容词后缀：容易……的）→ 容易打破的 → 易碎的；联想：fragment（碎片）、break（打破） |
+| 音标 | /ˌɪmplɪˈkeɪʃn/ |
+| 词性 | n. 含义；暗示；牵连 |
+| 释义 | 含义；暗示；影响（常为负面） |
+
+**例句：**
+> The **implications** of this decision will affect millions of citizens.
+> 这项决定的影响将波及数百万公民。
+
+**记忆技巧：** 前缀 im-（进入）+ plic（折叠，fold）+ -ation → 折叠进去 → 暗含的意思。同族词：**complicate**（使复杂化）、**explicit**（明确的）。
 
 ---
 
-## 8. inevitable /ɪnˈevɪtəbl/
+## 8. 🔴 **revenue** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 不可避免的，必然的 |
-| **中文释义** | 必然发生的，不可逃避的 |
-| **例句** | It is inevitable that some jobs will be replaced by artificial intelligence in the coming decades. （一些工作在未来几十年被人工智能取代是不可避免的。） |
-| **记忆技巧** | 词根 **in-**（否定）+ **-evit-**（避开）+ **-able**（形容词后缀：能够……的）→ 不能避开的 → 不可避免的；联想：evade（逃避）、evitable（可避免的） |
+| 音标 | /ˈrevənuː/ |
+| 词性 | n. 收入；收益；税收 |
+| 释义 | 收入；（尤指政府）税收 |
+
+**例句：**
+> The company's annual **revenue** increased by 15% compared to last year.
+> 公司的年收入比去年增长了15%。
+
+**记忆技巧：** 词根 re-（回来）+ ven（来，come）+ -ue → 钱"回来"了 → 收入。同族词：**convene**（召集，con + ven + e）→ 大家"来到"一起。
 
 ---
 
-## 9. notorious /nəʊˈtɔːriəs/
+## 9. 🟢 **preliminary** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 臭名昭著的，声名狼藉的 |
-| **中文释义** | 众所周知的（多指坏名声） |
-| **例句** | The city is notorious for its heavy traffic jams during the rush hours. （这座城市因高峰时段严重的交通堵塞而臭名昭著。） |
-| **记忆技巧** | 词根 **not-**（知道）+ **-ori-** + **-ous**（形容词后缀：多……的）→ 大家都知道的（负面含义）→ 臭名昭著；联想：note（笔记）、notice（注意）、notation（符号） |
+| 音标 | /prɪˈlɪməneri/ |
+| 词性 | adj. 初步的；预备的 / n. 初步行动；预赛 |
+| 释义 | 初步的；预备的 |
+
+**例句：**
+> According to **preliminary** results, the reform has been well received.
+> 根据初步结果，这项改革广受好评。
+
+**记忆技巧：** 前缀 pre-（之前）+ limin（门槛，来自拉丁语 limen）+ -ary → 在门槛之前 → 初步的、预备的。
 
 ---
 
-## 10. perspective /pəˈspektɪv/
+## 10. 🔵 **scrutinize** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | n. 观点，视角；远景，透视法 |
-| **中文释义** | 角度，看法；远景 |
-| **例句** | From a historical perspective, the reform was a necessary step toward modernization. （从历史的角度来看，改革是迈向现代化的必要步骤。） |
-| **记忆技巧** | 词根 **per-**（完全）+ **-spect-**（看）+ **-ive**（名词后缀）→ 从远处看全局 → 视角/观点；联想：inspect（检查）、prospect（前景）、expect（期待）都含spect-词根 |
+| 音标 | /ˈskruːtənaɪz/ |
+| 词性 | v. 仔细检查；审查 |
+| 释义 | 仔细检查；仔细审查 |
+
+**例句：**
+> Auditors will **scrutinize** every financial transaction to ensure accuracy.
+> 审计人员将仔细审查每一笔财务交易以确保准确性。
+
+**记忆技巧：** 联想记忆：scrutiny（仔细检查）的动词形式。想象放大镜🔍 "scr" 发出嘶嘶声 → 仔细看。名词：**scrutiny**。
 
 ---
 
-## 11. subtle /ˈsʌtl/
+## 11. 🟣 **sustain** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 微妙的，细微的；精巧的；敏锐的 |
-| **中文释义** | 细微的，微妙的；巧妙的 |
-| **例句** | There is a subtle difference between "affect" and "effect" that many students overlook. （"affect"和"effect"之间有一个细微的差别，许多学生忽略了它。） |
-| **记忆技巧** | 联想记忆：sub-（在下面）+ tle → 在下面（深处）→ 不容易察觉 → 微妙的；注意**b不发音**，读作 /ˈsʌtl/ |
+| 音标 | /səˈsteɪn/ |
+| 词性 | v. 维持；承受；遭受 |
+| 释义 | 维持；承受；遭受（损失等） |
+
+**例句：**
+> It is difficult to **sustain** such rapid economic growth without proper planning.
+> 缺乏合理规划，难以维持如此快速的经济增长。
+
+**记忆技巧：** 前缀 sus-（= sub-，下面）+ tain（握住，hold）→ 在下面握住 → 维持。同族词：**retain**（保留）、**obtain**（获得）。
 
 ---
 
-## 12. undertake /ˌʌndəˈteɪk/
+## 12. 🔴 **fluctuate** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 着手做，承担，从事 |
-| **中文释义** | 承担，着手，试图 |
-| **例句** | The company has undertaken to build a new factory in the southern region of the country. （该公司已着手在该国南部地区建设一座新工厂。） |
-| **记忆技巧** | 词根 **under-**（在下面）+ **take**（拿取）→ 在下面拿起来扛在身上 → 承担；联想：与"take on"意思相近 |
+| 音标 | /ˈflʌktʃueɪt/ |
+| 词性 | v. 波动；起伏 |
+| 释义 | （价格等）波动；起伏 |
+
+**例句：**
+> Oil prices **fluctuated** significantly throughout the year due to geopolitical tensions.
+> 由于地缘政治紧张局势，油价全年大幅波动。
+
+**记忆技巧：** 词根 fluct（流动，来自拉丁语 fluctus = wave）+ -uate → 流动不定 → 波动。同族词：**fluent**（流利的）→ 流动的。
 
 ---
 
-## 13. vulnerable /ˈvʌlnərəbl/
+## 13. 🟢 **acknowledge** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 易受伤害的，脆弱的，易受攻击的 |
-| **中文释义** | 易受攻击的，脆弱的 |
-| **例句** | Children and elderly people are particularly vulnerable to severe diseases in winter. （儿童和老人在冬天尤其容易患上严重疾病。） |
-| **记忆技巧** | 词根 **vulner-**（伤，伤口）+ **-able**（形容词后缀）→ 能够受伤的 → 易受攻击的；联想：wound（伤口）与vulner-发音相近 |
+| 音标 | /əkˈnɑːlɪdʒ/ |
+| 词性 | v. 承认；确认收到 |
+| 释义 | 承认；确认；对…表示感谢 |
+
+**例句：**
+> She **acknowledged** that the project had encountered unexpected challenges.
+> 她承认该项目遇到了意外挑战。
+
+> Could you please **acknowledge** receipt of this email?
+> 请确认收到此邮件，谢谢。
+
+**记忆技巧：** ac-（强调）+ know（知道）+ -ledge → 表示"知道并承认"。"acknowledge the problem" = 承认问题存在。
 
 ---
 
-## 14. notorious → 替换词：inevitable 已有，改用 —— **ambiguous /æmˈbɪɡjuəs/**
+## 14. 🔵 **adversity** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 模棱两可的，含糊不清的 |
-| **中文释义** | 含糊的，不明确的，引起歧义的 |
-| **例句** | The politician gave an ambiguous answer that satisfied neither side of the debate. （这位政治家给出了一个模棱两可的回答，辩论双方都不满意。） |
-| **记忆技巧** | 与第1个词 **ambiguity** 同源：ambi-（两边）+ -bigu-（驱动）→ 两边都能理解 → 含糊的；掌握词性变化：-ity → -ous |
+| 音标 | /ædˈvɜːrsəti/ |
+| 词性 | n. 逆境；不幸 |
+| 释义 | 逆境；不幸；灾难 |
+
+**例句：**
+> Many successful people have overcome great **adversities** in their early lives.
+> 许多成功人士在早年都克服了巨大的逆境。
+
+**记忆技巧：** 前缀 ad-（朝向）+ vers（转，turn）+ -ity → 朝相反方向转 → 逆境。同族词：**adverse**（不利的）、**reverse**（反转）。
 
 ---
 
-## 15. scrutinize /ˈskruːtənaɪz/
+## 15. 🟣 **profound** 
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | vt. 仔细检查，审查 |
-| **中文释义** | 仔细检查，审查 |
-| **例句** | Financial experts scrutinized the company's books and discovered several accounting irregularities. （金融专家仔细审查了公司的账簿，发现了一些会计违规行为。） |
-| **记忆技巧** | 词根 **scrut-**（搜索，审查）+ **-inize**（动词后缀）→ 仔细审查；联想：scrutiny（仔细审查n.）是其名词形式，scrutinize是动词形式 |
+| 音标 | /prəˈfaʊnd/ |
+| 词性 | adj. 深刻的；意义深远的 |
+| 释义 | 深刻的；深远的；意义重大的 |
+
+**例句：**
+> The new policy will have a **profound** impact on the country's development.
+> 新政策将对该国的发展产生深远影响。
+
+**记忆技巧：** 前缀 pro-（向前）+ found（底部，bottom，源自 found = 底）→ 向前到最底部 → 深刻的。同族词：**foundation**（基础）。
 
 ---
 
-# 📝 今日总结速记表
+## 📝 今日总结
 
-| # | 单词 | 词性 | 核心释义 | 关键词根 |
-|---|------|------|----------|----------|
-| 1 | ambiguity | n. | 含糊 | ambi-（两边） |
-| 2 | accommodate | vt. | 容纳，提供住宿 | com-+mod- |
-| 3 | advocate | vt./n. | 倡导 | -voc-（声音） |
-| 4 | deteriorate | v. | 恶化 | de-（向下） |
-| 5 | encompass | vt. | 包含，涵盖 | en-+compass |
-| 6 | facilitate | vt. | 促进，使便利 | fac-（做） |
-| 7 | fragile | adj. | 易碎的，脆弱的 | frag-（打破） |
-| 8 | inevitable | adj. | 不可避免的 | in-（否定） |
-| 9 | notorious | adj. | 臭名昭著的 | not-（知道） |
-| 10 | perspective | n. | 观点，视角 | per-+spect-（看） |
-| 11 | subtle | adj. | 微妙的 | sub-（在下） |
-| 12 | undertake | vt. | 承担，着手 | under-（在下） |
-| 13 | vulnerable | adj. | 易受攻击的 | vulner-（伤） |
-| 14 | ambiguous | adj. | 模棱两可的 | ambi-（两边） |
-| 15 | scrutinize | vt. | 仔细审查 | scrut-（审查） |
+| 词性 | 单词数量 | 单词列表 |
+|------|---------|---------|
+| **名词** | 4个 | implication, revenue, adversity, preliminary(n.) |
+| **动词** | 5个 | elaborate, deteriorate, fluctuate, sustain, scrutinize |
+| **形容词** | 6个 | comprehensive, inevitable, substantial, preliminary(adj.), profound, elaborate(adj.) |
+| **副词/其他** | — | — |
+
+### 🔁 高频搭配回顾
+
+| 搭配 | 释义 |
+|------|------|
+| make **substantial** progress | 取得实质性进展 |
+| **sustain** economic growth | 维持经济增长 |
+| **acknowledge** receipt | 确认收到 |
+| **profound** impact | 深远影响 |
+| **revenue** stream | 收入来源 |
+| **preliminary** results | 初步结果 |
+| **anticipate** challenges | 预料到挑战 |
 
 ---
 
-> 💡 **今日学习建议：**
-> 1. 重点掌握词根 **-voc-**（声音）、**-spect-**（看）、**-fac-**（做）的记忆规律
-> 2. 注意 **subtle** 的发音中 b 不发音
-> 3. �
+> 💡 **学习建议：** 建议将今天词汇制作成单词卡片（Anki/Quizlet），明天复习时先遮住释义尝试回忆，加深记忆效果。坚持就是胜利！🎯
