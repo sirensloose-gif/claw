@@ -1,217 +1,260 @@
-# 📚 六级词汇学习 · 第127天
+# 📚 六级词汇学习 · 第128天
 
-> **今日主题**：学术与论证类高频词汇
-> **词汇数量**：12个
-
----
-
-## 1. elaborate
-
-**音标**：[ɪˈlæbəreɪt]（动词） / [ɪˈlæbərət]（形容词）
-
-**词性**：v. 详细阐述；adj. 精心制作的；详尽的
-
-**释义**：
-- v. 详尽说明，详细阐述
-- adj. 精心制作的，复杂精细的
-
-**例句**：
-> The professor asked the students to **elaborate** on their research methodology.（教授要求学生详细阐述他们的研究方法。）
-
-**记忆技巧**：词根联想——"labor"（劳动）+ "ate"（动词后缀）→ 花大量精力去做的 → 详细阐述、精心制作
+> **今日主题：学术与社会话题高频词汇**
+> 坚持学习，距离通过六级又近一步！💪
 
 ---
 
-## 2. undermine
+## 1. Ambiguous /æmˈbɪɡjuəs/
 
-**音标**：[ˌʌndərˈmaɪn]
+**词性：** 形容词（adj.）
 
-**词性**：v. 逐渐削弱；暗中破坏
+**释义：** 模棱两可的；含糊不清的
 
-**释义**：
-- v. 暗中破坏，逐渐削弱
+**例句：**
+> The minister's statement was deliberately **ambiguous**, leaving room for different interpretations.
+> 部长的声明故意模棱两可，留下了不同的解读空间。
 
-**例句**：
-> Constant criticism can seriously **undermine** a person's self-confidence.（持续的批评会严重削弱一个人的自信心。）
-
-**记忆技巧**：under（在下面）+ mine（挖）→ 在下面挖坑 → 暗中破坏、削弱基础
-
----
-
-## 3. advocate
-
-**音标**：[ˈædvəkeɪt]（v.） / [ˈædvəkət]（n.）
-
-**词性**：n. 提倡者，拥护者；v. 提倡，主张
-
-**释义**：
-- n. 提倡者，辩护人
-- v. 提倡，拥护，主张
-
-**例句**：
-> Many educators **advocate** a more balanced approach to assessment.（许多教育工作者主张采用更加平衡的评估方法。）
-
-**记忆技巧**：词根联想——"ad-"（加强）+ "voc"（喊，说）+ "ate" → 大声喊出来支持 → 提倡、拥护
+**记忆技巧：**
+> 🧠 **词根联想：** *ambi*（两边）+ *ag*（做）+ *-ous* → "往两边做"→ 两边都说→ 模棱两可。同根词：*ambiguous*、*ambiguity*（名词）。
 
 ---
 
-## 4. controversy
+## 2. Comprehend /ˌkɑːmprɪˈhend/
 
-**音标**：[ˈkɑːntrəvɜːrsi]
+**词性：** 动词（v.）
 
-**词性**：n. 争论，论战，争议
+**释义：** 理解，领会；包含
 
-**释义**：
-- n. 公开的辩论，论战，争议
+**例句：**
+> Students often struggle to **comprehend** the abstract concepts discussed in advanced physics courses.
+> 学生们常常难以理解高级物理课程中讨论的抽象概念。
 
-**例句**：
-> The decision to build a new highway has sparked a lot of **controversy** in the local community.（修建新公路的决定在当地社区引起了很大的争议。）
-
-**记忆技巧**：词根联想——"contro-"（相反）+ "vers"（转）+ "y"（名词后缀）→ 意见向相反方向转 → 争论、争议
-
----
-
-## 5. inevitable
-
-**音标**：[ɪnˈevɪtəbl]
-
-**词性**：adj. 不可避免的，必然发生的
-
-**释义**：
-- adj. 不可避免的，必然的
-
-**例句**：
-> With technological advancement, change is **inevitable** in every industry.（随着技术进步，每个行业的变革都是不可避免的。）
-
-**记忆技巧**：词根联想——"in-"（否定）+ "evit"（避开，来自拉丁语 evitare）+ "able"（能……的）→ 不能避开的 → 不可避免的
+**记忆技巧：**
+> 🧠 **词根拆分：** *com*（一起）+ *prehend*（抓住）→ 一起抓住→ 理解。同根词：*comprehension*（理解力）、*comprehensive*（全面的）。
 
 ---
 
-## 6. comprehensive
+## 3. Diminish /dɪˈmɪnɪʃ/
 
-**音标**：[ˌkɑːmprɪˈhensɪv]
+**词性：** 动词（v.）
 
-**词性**：adj. 综合的；全面的
+**释义：** 减少，缩减；贬低，轻视
 
-**释义**：
-- adj. 综合性的，全面的，详尽的
+**例句：**
+> The government took steps to **diminish** the growing gap between the rich and the poor.
+> 政府采取措施来缩小日益扩大的贫富差距。
 
-**例句**：
-> The university offers a **comprehensive** review of its graduate programs this semester.（该大学本学期对其研究生项目进行了全面审查。）
-
-**记忆技巧**：词根联想——"com-"（一起）+ "prehend"（抓住）+ "ive"（形容词后缀）→ 全部抓住 → 全面的、综合的
-
----
-
-## 7. implement
-
-**音标**：[ˈɪmplɪment]（v.） / [ˈɪmplɪmənt]（n.）
-
-**词性**：n. 工具，器具；v. 实施，执行，落实
-
-**释义**：
-- n. 工具，器具，手段
-- v. 实施，执行，落实（政策、计划等）
-
-**例句**：
-> The government plans to **implement** new regulations to protect consumer rights.（政府计划实施新法规以保护消费者权益。）
-
-**记忆技巧**：词根联想——"im-"（使……进入）+ "ple"（填充，fill）+ "ment"（名词/动词后缀）→ 填充进去使之起效 → 实施、执行
+**记忆技巧：**
+> 🧠 **词根联想：** *di*（加强）+ *min*（小）+ *-ish*（动词后缀）→ 使变小→ 减少。同根词：*diminutive*（微小的）、*dimension*（维度）。
 
 ---
 
-## 8. prevail
+## 4. Elaborate /ɪˈlæbərət/
 
-**音标**：[prɪˈveɪl]
+**词性：** 形容词（adj.）/ 动词（v.）
 
-**词性**：v. 盛行，普遍存在；获胜，占优势
+**释义：** adj. 精心制作的，详尽的；v. 详细阐述
 
-**释义**：
-- v. 盛行，普遍存在于；获胜，占上风
+**例句：**
+> Could you please **elaborate** on your proposal so that the committee can better understand your plan?
+> 你能详细阐述一下你的提案吗，这样委员会就能更好地理解你的计划了。
 
-**例句**：
-> In the end, reason and logic **prevail** over emotion and passion.（最终，理智和逻辑胜过情感和激情。）
-
-**记忆技巧**：词根联想——"pre-"（在前面）+ "vail"（力量，来自拉丁语 valere）→ 在前面展现力量 → 占优势、盛行
-
----
-
-## 9. diminish
-
-**音标**：[dɪˈmɪnɪʃ]
-
-**词性**：v. 减少，缩小，降低
-
-**释义**：
-- v. 减少，缩小，减弱，降低
-
-**例句**：
-> The quality of the product **diminished** over the years due to cost-cutting measures.（由于削减成本，产品的质量多年来不断下降。）
-
-**记忆技巧**：词根联想——"di-"（向下）+ "min"（小）+ "ish"（动词后缀）→ 变小 → 减少、缩小
+**记忆技巧：**
+> 🧠 **词根拆分：** *e*（出）+ *labor*（劳动）+ *-ate* → 出了力→ 精心制作/详细阐述。同根词：*elaboration*（详述）、*laboratory*（实验室）。
 
 ---
 
-## 10. subsequent
+## 5. Inevitable /ɪnˈevɪtəbl/
 
-**音标**：[ˈsʌbsɪkwənt]
+**词性：** 形容词（adj.）
 
-**词性**：adj. 随后的，接着的
+**释义：** 不可避免的；必然发生的
 
-**释义**：
-- adj. 随后的，接续的，接着发生的
+**例句：**
+> With the rapid development of AI, some job displacement seems **inevitable**, but new opportunities will also emerge.
+> 随着人工智能的快速发展，一些岗位被替代似乎不可避免，但新的机会也会出现。
 
-**例句**：
-> The company's **subsequent** financial reports showed a significant improvement.（该公司随后的财务报告显示出显著的改善。）
-
-**记忆技巧**：词根联想——"sub-"（在后面）+ "sequ"（跟随）+ "ent"（形容词后缀）→ 跟在后面的 → 随后的
-
----
-
-## 11. facilitate
-
-**音标**：[fəˈsɪlɪteɪt]
-
-**词性**：v. 促进，使便利，帮助
-
-**释义**：
-- v. 使变得容易，促进，帮助（实现）
-
-**例句**：
-> Technology can **facilitate** communication between people across the globe.（科技可以促进全球各地人们之间的交流。）
-
-**记忆技巧**：词根联想——"facil"（容易，来自拉丁语 facilis）+ "it" + "ate"（动词后缀）→ 使之变得容易 → 促进、使便利
+**记忆技巧：**
+> 🧠 **词根拆分：** *in*（不）+ *evit*（避开）+ *-able*（能够）→ 不可避开的→ 不可避免的。同根词：*inevitability*（必然性）、*evade*（逃避）。
 
 ---
 
-## 12. exaggerate
+## 6. Profound /prəˈfaʊnd/
 
-**音标**：[ɪɡˈzædʒəreɪt]
+**词性：** 形容词（adj.）
 
-**词性**：v. 夸大，夸张
+**释义：** 深刻的；意义深远的；精通的
 
-**释义**：
-- v. 夸大，夸张，言过其实
+**例句：**
+> The professor's **profound** insight into cultural differences enriched our understanding of global communication.
+> 教授对文化差异的深刻见解丰富了我们对全球传播的理解。
 
-**例句**：
-> It would be **exaggerated** to say that the new policy has completely transformed the education system.（说新政策完全改变了教育系统是言过其实的。）
-
-**记忆技巧**：词根联想——"ex-"（向外）+ "agger"（堆积）+ "ate"（动词后缀）→ 往外堆积 → 夸大、夸张
+**记忆技巧：**
+> 🧠 **词根拆分：** *pro*（向前/深处）+ *found*（底部）→ 从底部向前→ 深处的→ 深刻的。注意与 *found*（发现）、*foundation*（基础）区分。
 
 ---
 
-## 📝 今日学习小贴士
+## 7. Reluctant /rɪˈlʌktənt/
 
-| 词汇类型 | 单词 |
-|---------|------|
-| 🔹 动词类 | elaborate, undermine, advocate, implement, prevail, diminish, facilitate, exaggerate |
-| 🔸 名词类 | controversy, advocate |
-| 🔹 形容词类 | elaborate, inevitable, comprehensive, subsequent |
+**词性：** 形容词（adj.）
 
-### 💡 复习建议：
-1. **今日**：精读每个词汇的例句，朗读3遍
-2. **明天**：遮住中文释义，尝试回忆词义
-3. **三天后**：用本组词汇写一段200字的英文短文
-4. **周末**：回顾本周（第123-127天）所有词汇，查漏补缺
+**释义：** 不情愿的，勉强的
 
-> 📖 **每日坚持，积少成多！距离考试还有 XX 天，今天你已累计学习词汇：3,425 个！**
+**例句：**
+> He was **reluctant** to share his personal experiences with strangers during the interview.
+> 他不太愿意在采访中与陌生人分享自己的个人经历。
+
+**记忆技巧：**
+> 🧠 **词根联想：** *re*（反）+ *luct*（挣扎）+ *-ant*（形容词后缀）→ 反向挣扎→ 不情愿的。同根词：*reluctance*（不情愿）、*reluctantly*（不情愿地）。
+
+---
+
+## 8. Exaggerate /ɪɡˈzædʒəreɪt/
+
+**词性：** 动词（v.）
+
+**释义：** 夸大，夸张
+
+**例句：**
+> Media reports sometimes **exaggerate** the severity of natural disasters to attract more viewers.
+> 媒体报道有时会夸大自然灾害的严重程度，以吸引更多观众。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *ex*（出/超出）+ *agger*（堆）+ *-ate*（动词后缀）→ 堆到超出→ 夸大。同根词：*exaggeration*（夸张）。
+
+---
+
+## 9. Contribute /kənˈtrɪbjuːt/
+
+**词性：** 动词（v.）
+
+**释义：** 贡献，捐助；促成，是…的原因之一
+
+**例句：**
+> Regular exercise and a balanced diet **contribute** significantly to maintaining good physical health.
+> 经常锻炼和均衡饮食对维持良好的身体健康有显著的贡献。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *con*（共同）+ *tribute*（给予）→ 共同给予→ 贡献。同根词：*contribution*（贡献）、*tributary*（支流）、*distribute*（分配）。
+
+---
+
+## 10. Conspicuous /kənˈspɪkjuəs/
+
+**词性：** 形容词（adj.）
+
+**释义：** 显眼的，引人注目的
+
+**例句：**
+> The **conspicuous** absence of several key members raised questions about the organization's internal affairs.
+> 多位关键成员的明显缺席引发了人们对该组织内部事务的质疑。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *con*（一起）+ *spic*（看）+ *-uous*（形容词后缀）→ 一起看→ 都看得见的→ 显眼的。同根词：*perspective*（视角）、*spectacle*（壮观）。
+
+---
+
+## 11. Substantial /səbˈstænʃl/
+
+**词性：** 形容词（adj.）
+
+**释义：** 大量的；实质的；坚固的
+
+**例句：**
+> The company has made **substantial** progress in developing green energy technologies over the past decade.
+> 过去十年里，该公司在开发绿色能源技术方面取得了实质性进展。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *sub*（在下面）+ *stant*（站立）+ *-ial*（形容词后缀）→ 站在下面的→ 物质基础→ 实质的/大量的。同根词：*substance*（物质）、*instant*（立刻）。
+
+---
+
+## 12. Incentive /ɪnˈsentɪv/
+
+**词性：** 名词（n.）
+
+**释义：** 刺激，激励；动机，诱因
+
+**例句：**
+> Tax breaks are often used as financial **incentives** to encourage companies to invest in renewable energy.
+> 税收减免常被用作经济激励措施，以鼓励公司投资可再生能源。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *in*（进入）+ *cent*（唱/呼吁）+ *-ive*（名词后缀）→ 唤起内心→ 刺激/激励。同根词：*incite*（煽动）、*recite*（背诵）。
+
+---
+
+## 13. Peculiar /pɪˈkjuːliər/
+
+**词性：** 形容词（adj.）
+
+**释义：** 独特的；奇怪的；特有的
+
+**例句：**
+> There's something **peculiar** about the way this algorithm processes language data, which makes it unique among similar models.
+> 这个算法处理语言数据的方式有些独特之处，这使其在同类模型中脱颖而出。
+
+**记忆技巧：**
+> 🧠 **谐音联想：** "拍客刘耳朵"→ 有一个拍客耳朵与众不同→ 独特的/奇怪的。同根词：*peculiarity*（特性）。
+
+---
+
+## 14. Endure /ɪnˈdʊr/
+
+**词性：** 动词（v.）
+
+**释义：** 忍受，忍耐；持续，持久
+
+**例句：**
+> The local community had to **endure** years of hardship caused by the industrial pollution before effective cleanup measures were implemented.
+> 在有效的清理措施实施之前，当地社区不得不忍受多年的工业污染带来的困苦。
+
+**记忆技巧：**
+> 🧠 **词根联想：** *en*（使）+ *dure*（持久）→ 使持久→ 忍受→ 持续。同根词：*endurance*（耐力）、*durable*（耐用的）、*duration*（持续时间）。
+
+---
+
+## 15. Deliberate /dɪˈlɪbərət/
+
+**词性：** 形容词（adj.）/ 动词（v.）
+
+**释义：** adj. 故意的，蓄意的；深思熟虑的；v. 仔细考虑
+
+**例句：**
+> The **deliberate** decision to postpone the exam was made after careful consideration of all students' feedback.
+> 推迟考试这个经过深思熟虑的决定是在认真考虑了所有学生的反馈之后做出的。
+
+**记忆技巧：**
+> 🧠 **词根拆分：** *de*（加强）+ *liber*（自由）+ *-ate* → 自由思考→ 仔细权衡→ 深思熟虑/故意的。同根词：*deliberately*（故意地）、*deliberation*（深思）。
+
+---
+
+## 📝 今日学习总结
+
+| 序号 | 单词 | 词性 | 核心释义 |
+|:---:|:---|:---:|:---|
+| 1 | ambiguous | adj. | 模棱两可的 |
+| 2 | comprehend | v. | 理解，领会 |
+| 3 | diminish | v. | 减少，缩减 |
+| 4 | elaborate | adj./v. | 精心的；详细阐述 |
+| 5 | inevitable | adj. | 不可避免的 |
+| 6 | profound | adj. | 深刻的 |
+| 7 | reluctant | adj. | 不情愿的 |
+| 8 | exaggerate | v. | 夸大，夸张 |
+| 9 | contribute | v. | 贡献；促成 |
+| 10 | conspicuous | adj. | 显眼的 |
+| 11 | substantial | adj. | 大量的；实质的 |
+| 12 | incentive | n. | 激励，诱因 |
+| 13 | peculiar | adj. | 独特的；奇怪的 |
+| 14 | endure | v. | 忍受；持续 |
+| 15 | deliberate | adj./v. | 故意的；仔细考虑 |
+
+---
+
+> 💡 **学习建议：**
+> - 🔹 每个单词至少重复阅读 **3遍**，朗读例句加深记忆
+> - 🔹 建议用自己的话造 **1个新句**，巩固用法
+> - 🔹 明天回顾本页，检验记忆效果
+>
+> 🌟 **学习是一个积累的过程，第128天，继续加油！**
