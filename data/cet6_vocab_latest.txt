@@ -1,236 +1,270 @@
-# 📚 CET-6 词汇学习 | 第 130 天
+# 📚 六级词汇学习 — 第131天
 
-> 今日目标：12 个高频词汇 | 预计用时：40 分钟
+> 🎯 今日主题：**高频核心词汇 · 第131天**
+> 让词汇积累成为习惯，每天进步一点点！
 
 ---
 
-## 1. Elaborate
+## 1️⃣ phenomenon
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ɪˈlæbərət/ |
-| **词性** | adj. 精心制作的；详尽的 / v. 详细阐述 |
-| **释义** | 复杂且精心设计的；详细说明 |
+| **单词** | phenomenon |
+| **音标** | /fəˈnɑːmənən/ |
+| **词性** | n.（名词） |
+| **中文释义** | 现象；非凡的人（复数：phenomena） |
 
 **例句：**
-- ✏️ *The researcher **elaborated** on the findings in a detailed report.*
-  > 研究者在一份详细的报告中**阐述**了研究发现。
+> The **phenomenon** of social media has completely changed the way people communicate.
+> 社交媒体**现象**已经彻底改变了人们沟通的方式。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`e-`（向外）+ `labor`（劳动）+ `-ate`（动词后缀）→ 精心花费劳动做出来的 → 精心的、详尽的
+词根 **phan**（希腊语：显示、出现）+ **enon**（名词后缀）→ "显示出来的东西" → **现象**。
+联想记忆："**范**诺门**恩**"，"范"想到"看"，看得见的东西就是**现象**。
 
 ---
 
-## 2. Exaggerate
+## 2️⃣ preliminary
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ɪɡˈzædʒəreɪt/ |
-| **词性** | v. 夸大，夸张 |
-| **释义** | 有意夸大事物的程度或重要性 |
+| **单词** | preliminary |
+| **音标** | /prɪˈlɪmɪneri/ |
+| **词性** | adj.（形容词） |
+| **中文释义** | 初步的；预备的 |
 
 **例句：**
-- ✏️ *You shouldn't **exaggerate** the severity of the problem.*
-  > 你不应该**夸大**问题的严重程度。
+> The **preliminary** results of the experiment showed promising signs.
+> 实验的**初步**结果展现出令人期待的迹象。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`ex-`（向外）+ `agger`（堆积，如 `aggregate` 聚合）+ `-ate` → 堆到外面去了 → 夸大
+前缀 **pre-**（在…之前）+ **limin**（门槛，词根 limin = threshold）+ **ary**（形容词后缀）→ "在门槛之前的" → **初步的**。
+联想记忆："**pre**（前）**limin**（林荫道）**ary**（有）→ 还没走进林荫道，只是走在路边" → **初步的**。
 
 ---
 
-## 3. Fluctuate
+## 3️⃣ implement
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈflʌktʃueɪt/ |
-| **词性** | v. 波动，起伏 |
-| **释义** | 上下变动，尤指不规则地变化 |
+| **单词** | implement |
+| **音标** | /ˈɪmplɪment/ |
+| **词性** | vt.（动词） |
+| **中文释义** | 实施；执行；贯彻 |
 
 **例句：**
-- ✏️ *Oil prices **fluctuate** depending on global supply and demand.*
-  > 油价根据全球供需情况而**波动**。
+> The government decided to **implement** new policies to reduce air pollution.
+> 政府决定**实施**新的政策来减少空气污染。
 
 **记忆技巧：**
-> 🧠 **谐音联想**：`flu`（流感）+ `ctuate` → 像流感一样忽高忽低 → 波动；也可联想 **flow**（流动）→ 不稳定的流动 → 波动
+前缀 **im-**（进入）+ **ple**（填满，词根 plere = to fill）+ **ment** → "把计划填进现实" → **实施**。
+联想记忆："**imp**（恶霸）**lem**（来）**ent**（恩）→ 恶霸来施恩" → 但实际是"**执行**"命令。
 
 ---
 
-## 4. Inevitable
+## 4️⃣ inevitable
 
 | 项目 | 内容 |
 |------|------|
+| **单词** | inevitable |
 | **音标** | /ɪnˈevɪtəbl/ |
-| **词性** | adj. 不可避免的，必然发生的 |
-| **释义** | 无法阻止或避免的 |
+| **词性** | adj.（形容词） |
+| **中文释义** | 不可避免的；必然发生的 |
 
 **例句：**
-- ✏️ *Change is **inevitable** in a rapidly developing society.*
-  > 在快速发展的社会中，变化是**不可避免**的。
+> It is **inevitable** that some traditional industries will be replaced by technology.
+> 一些传统行业被科技所取代是**不可避免的**。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`in-`（否定）+ `evit`（= avoid 躲避，如 `evade` 逃避）+ `-able`（可以……的）→ 不可以躲避的 → 不可避免的
+前缀 **in-**（不）+ **evit**（避开，词根 evitare = to avoid）+ **able**（能够）→ "不能避开的" → **不可避免的**。
+联想记忆："**in**（不）**evi**（EVI）**table**（桌）→ 放在桌子上的EV车，你躲不开 → **不可避免的**"。
 
 ---
 
-## 5. Mechanism
+## 5️⃣ sustain
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈmekənɪzəm/ |
-| **词性** | n. 机制，原理；机械装置 |
-| **释义** | 完成某事的方法或系统；运作原理 |
+| **单词** | sustain |
+| **音标** | /səˈsteɪn/ |
+| **词性** | vt.（动词） |
+| **中文释义** | 维持；支撑；承受；遭受 |
 
 **例句：**
-- ✏️ *The **mechanism** by which the drug works is still not fully understood.*
-  > 该药物的作用**机制**尚未被完全理解。
+> The company struggles to **sustain** its competitive advantage in a fast-changing market.
+> 在瞬息万变的市场中，该公司难以**维持**其竞争优势。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：来自希腊语 `mēkhanē`（机器）→ 机器运作的原理 → 机制。联想 **machine**（机器）记忆
+前缀 **sus-**（在…下面）+ **tain**（持有，词根 tenere = to hold）→ "从下面托住" → **支撑**、**维持**。
+联想记忆："**sus**（sus）**tain**（藤）→ 恰似藤萝支撑着" → **维持**。
 
 ---
 
-## 6. Notorious
+## 6️⃣ considerable
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /noʊˈtɔːriəs/ |
-| **词性** | adj. 臭名昭著的 |
-| **释义** | 因负面原因而广为人知的 |
+| **单词** | considerable |
+| **音标** | /kənˈsɪdərəbl/ |
+| **词性** | adj.（形容词） |
+| **中文释义** | 相当大的；重要的；值得考虑的 |
 
 **例句：**
-- ✏️ *This region is **notorious** for its extreme weather conditions.*
-  > 这个地区因极端天气条件而**臭名昭著**。
+> The team made **considerable** progress in developing the new software.
+> 团队在开发新软件方面取得了**相当大**的进步。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`not`（= know 知道，如 `notice` 注意）+ `-orious`（形容词后缀，表"关于"）→ 广为人知的（多为负面）→ 臭名昭著的。对比 **famous**（有名的，正面）记忆
+词根 **consider**（考虑）+ **able**（能够…的）→ "值得认真考虑的" → **重要的**、**相当大的**。
+联想记忆："**con**（一起）**sid**（坐）**er**（二）**able**（能够）→ 一起坐在椅子上思考，值得考虑" → **重要的**。
 
 ---
 
-## 7. Overwhelm
+## 7️⃣ enhance
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˌoʊvərˈwelm/ |
-| **词性** | v. 压倒，使不知所措 |
-| **释义** | 使承受不住、淹没；（感情上）压倒某人 |
+| **单词** | enhance |
+| **音标** | /ɪnˈhæns/ |
+| **词性** | vt.（动词） |
+| **中文释义** | 提高；增强；提升 |
 
 **例句：**
-- ✏️ *The student felt **overwhelmed** by the amount of work assigned.*
-  > 这名学生被分配的大量工作**压得喘不过气来**。
+> Regular exercise can **enhance** both physical health and mental well-being.
+> 经常锻炼可以**提升**身体健康和心理健康。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`over-`（过度地）+ `whelm`（淹没，古英语）→ 过度淹没 → 压倒、不知所措
+前缀 **en-**（使…）+ **hance**（高，词根 hance 与 high 相关）→ "使变高" → **提升**。
+联想记忆："**en**（使）**han**（汉）**ce**（策）→ 使汉武大帝的策略**增强**了国力"。
 
 ---
 
-## 8. Persistent
+## 8️⃣ fluctuate
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /pərˈsɪstənt/ |
-| **词性** | adj. 坚持不懈的；持续的 |
-| **释义** | 不轻易放弃的；不断发生的 |
+| **单词** | fluctuate |
+| **音标** | /ˈflʌktʃueɪt/ |
+| **词性** | vi.（动词） |
+| **中文释义** | 波动；变动；起伏 |
 
 **例句：**
-- ✏️ *His **persistent** efforts finally led to a breakthrough in the research.*
-  > 他**坚持不懈**的努力最终在研究中取得了突破。
+> The price of oil has continued to **fluctuate** throughout the year.
+> 油价在这一年中持续**波动**。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`per-`（完全地）+ `sist`（= stand 站立，如 `resist` 抵抗）+ `-ent`（形容词后缀）→ 完全站住不动 → 坚持的、持续的
+词根 **fluct**（流动，源自拉丁语 fluctus = wave/wave movement）+ **uate**（动词后缀）→ "像波浪一样流动" → **波动**。
+联想记忆："**fluct**（浮克）**uate**（屋）→ 浮动的克里屋" → 东西在**波动**。
 
 ---
 
-## 9. Profound
+## 9️⃣ ambiguous
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /prəˈfaʊnd/ |
-| **词性** | adj. 深刻的；深奥的 |
-| **释义** | 在思想、感情等方面有深远影响的；难以理解的 |
+| **单词** | ambiguous |
+| **音标** | /æmˈbɪɡjuəs/ |
+| **词性** | adj.（形容词） |
+| **中文释义** | 模棱两可的；含糊不清的；有歧义的 |
 
 **例句：**
-- ✏️ *The experience had a **profound** impact on his worldview.*
-  > 这段经历对他的世界观产生了**深远**的影响。
+> The **ambiguous** wording of the contract led to a long legal dispute.
+> 合同中**含糊不清**的措辞引发了长期的法律纠纷。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`pro-`（向前）+ `found`（= fathom 深测，海底深度单位"英寻"）→ 向前深测到极深处 → 深刻的、深奥的
+前缀 **ambi-**（两，两边）+ **ag**（驱动）+ **uous**（形容词后缀）→ "向两边驱动" → **模棱两可的**。
+联想记忆："**am**（我）**big**（大）**uous**（无）→ 我既大又无边" → 说不出具体大小 → **含糊不清的**。
 
 ---
 
-## 10. Reinforce
+## 🔟 arbitrary
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˌriːɪnˈfɔːrs/ |
-| **词性** | v. 加强，强化；增援 |
-| **释义** | 使某事物更有力、更坚固 |
+| **单词** | arbitrary |
+| **音标** | /ˈɑːrbɪtreri/ |
+| **词性** | adj.（形容词） |
+| **中文释义** | 任意的；武断的；专横的 |
 
 **例句：**
-- ✏️ *The government implemented new measures to **reinforce** national security.*
-  > 政府实施了新措施来**加强**国家安全。
+> The judge made an **arbitrary** decision that surprised everyone in the courtroom.
+> 法官做出了一个**武断的**决定，让法庭上的所有人都感到意外。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`re-`（再次）+ `in-`（向内）+ `force`（力量）→ 再次注入力量 → 加强、强化
+词根 **arbitr**（判断、裁决，词根 arbiter = judge）+ **ary**（形容词后缀）→ "随意判断的" → **任意的**、**武断的**。
+联想记忆："**ar**（阿）**bit**（比特）**rary**（睿）→ 阿比特睿（人名）说了算 → **专横的**"。
 
 ---
 
-## 11. Substantial
+## 1️⃣1️⃣ sophisticated
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /səbˈstænʃl/ |
-| **词性** | adj. 大量的；实质性的；坚固的 |
-| **释义** | 数量大或程度重要的；真实存在的 |
+| **单词** | sophisticated |
+| **音标** | /səˈfɪstɪkeɪtɪd/ |
+| **词性** | adj.（形容词） |
+| **中文释义** | 复杂精密的；老练的；圆滑的；见多识广的 |
 
 **例句：**
-- ✏️ *The company achieved a **substantial** increase in profits last quarter.*
-  > 公司上季度实现了利润的**大幅**增长。
+> The smartphone uses **sophisticated** algorithms to improve user experience.
+> 这款智能手机使用**精密的**算法来改善用户体验。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`sub-`（在……之下）+ `stant`（= stand 站立，同 `constant` 持续的）+ `-ial`（形容词后缀）→ 站立在底下的 → 实质的、大量的。联想 **substance**（实质、物质）
+词根 **sophist**（智者、专家，源自希腊语 sophia = wisdom）+ **icate**（动词化）+ **ed**（形容词）→ "变得很懂行的" → **老练的**、**精密的**。
+联想记忆："**so**（所以）**phist**（费斯特）**icated**（以得）→ 所以费斯特以得很高深的学问" → **见多识广的**。
 
 ---
 
-## 12. Controversy
+## 1️⃣2️⃣ accumulate
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈkɑːntrəvɜːrsi/ |
-| **词性** | n. 争论，争议 |
-| **释义** | 公开且激烈的争论 |
+| **单词** | accumulate |
+| **音标** | /əˈkjuːmjəleɪt/ |
+| **词性** | vt./vi.（动词） |
+| **中文释义** | 积累；积聚；堆积 |
 
 **例句：**
-- ✏️ *The new policy has sparked considerable **controversy** among the public.*
-  > 新政策在公众中引发了相当大的**争议**。
+> Over time, she **accumulated** a vast amount of knowledge about classical music.
+> 随着时间推移，她**积累了**大量关于古典音乐的知识。
 
 **记忆技巧：**
-> 🧠 **词根词缀法**：`contro-`（= contra 相反）+ `vers`（= turn 转，如 `reverse` 反转）+ `-y`（名词后缀）→ 相反方向转动 → 意见相左 → 争论
+前缀 **ac-**（加强）+ **cumul**（堆积，词根 cumulare = to pile up）+ **ate**（动词后缀）→ "不断堆起来" → **积累**。
+联想记忆："**ac**（啊）**cu**（哭）**mu**（木）**late**（拉特）→ 啊，哭着把木头拉特拉到一起" → **积聚**。
 
 ---
 
-## 📋 今日词汇总结
+## 1️⃣3️⃣ diminish
 
-| 序号 | 单词 | 词性 | 核心释义 |
-|:----:|------|:----:|----------|
-| 1 | **elaborate** | adj./v. | 精心的；详细阐述 |
-| 2 | **exaggerate** | v. | 夸大 |
-| 3 | **fluctuate** | v. | 波动 |
-| 4 | **inevitable** | adj. | 不可避免的 |
-| 5 | **mechanism** | n. | 机制 |
-| 6 | **notorious** | adj. | 臭名昭著的 |
-| 7 | **overwhelm** | v. | 压倒 |
-| 8 | **persistent** | adj. | 坚持不懈的 |
-| 9 | **profound** | adj. | 深刻的 |
-| 10 | **reinforce** | v. | 加强 |
-| 11 | **substantial** | adj. | 大量的；实质性的 |
-| 12 | **controversy** | n. | 争议 |
+| 项目 | 内容 |
+|------|------|
+| **单词** | diminish |
+| **音标** | /dɪˈmɪnɪʃ/ |
+| **词性** | vt./vi.（动词） |
+| **中文释义** | 减少；缩小；降低；贬低 |
+
+**例句：**
+> The influence of traditional media has **diminished** significantly in recent years.
+> 近年来，传统媒体的影响力已经**显著下降**。
+
+**记忆技巧：**
+前缀 **di-**（使…变成）+ **min**（小，词根 minor = smaller）+ **ish**（动词后缀）→ "使变小" → **减少**、**缩小**。
+联想记忆："**di**（底）**min**（民）**ish**（一市）→ 底层民众缩小了城市" → **降低**。
 
 ---
 
-> 💡 **学习建议**：
-> 1. 🗣️ 先跟读每个单词的例句 2-3 遍，训练发音
-> 2. ✍️ 遮住中文释义，尝试回忆每个词的意思
-> 3. 🔗 注意词根词缀的举一反三（如 `sist` → resist, insist, persist）
-> 4. 📅 睡前快速回顾一遍，利用艾宾浩斯遗忘曲线巩固记忆
+## 1️⃣4️⃣ predominantly
 
-**🎯 明天见！坚持就是胜利！**
+| 项目 | 内容 |
+|------|------|
+| **单词** | predominantly |
+| **音标** | /prɪˈdɑːmɪnəntli/ |
+| **词性** | adv.（副词） |
+| **中文释义** | 主要地；显著地；突出地 |
+
+**例句：**
+> The region is **predominantly** agricultural, with farming being the main source of income.
+> 该地区**主要**以农业为主，农业是主要收入来源。
+
+**记忆技巧：**
+前缀 **pre-**（在…之前）+ **domin**（统治，词根 dominus = master）+ **ant**（形容词后缀）+ **ly**（副词后缀）→ "在前面起统治作用的" → **主要地**。
+联想记忆："**pre**（前）**dom**（多米诺）**inant**（赢了）**ly**（了）→ 前面
