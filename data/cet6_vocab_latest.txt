@@ -1,270 +1,282 @@
-# 📚 六级词汇学习 — 第131天
+# 📚 六级词汇每日学习 · 第132天
 
-> 🎯 今日主题：**高频核心词汇 · 第131天**
-> 让词汇积累成为习惯，每天进步一点点！
-
----
-
-## 1️⃣ phenomenon
-
-| 项目 | 内容 |
-|------|------|
-| **单词** | phenomenon |
-| **音标** | /fəˈnɑːmənən/ |
-| **词性** | n.（名词） |
-| **中文释义** | 现象；非凡的人（复数：phenomena） |
-
-**例句：**
-> The **phenomenon** of social media has completely changed the way people communicate.
-> 社交媒体**现象**已经彻底改变了人们沟通的方式。
-
-**记忆技巧：**
-词根 **phan**（希腊语：显示、出现）+ **enon**（名词后缀）→ "显示出来的东西" → **现象**。
-联想记忆："**范**诺门**恩**"，"范"想到"看"，看得见的东西就是**现象**。
+> 坚持就是胜利！今天也一起加油吧！💪
 
 ---
 
-## 2️⃣ preliminary
+## 1. elaborate
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | preliminary |
-| **音标** | /prɪˈlɪmɪneri/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 初步的；预备的 |
+**音标**：/ɪˈlæbəreɪt/（动词），/ɪˈlæbərət/（形容词）
 
-**例句：**
-> The **preliminary** results of the experiment showed promising signs.
-> 实验的**初步**结果展现出令人期待的迹象。
+**词性**：v. 详细阐述；adj. 精心制作的；详尽的
 
-**记忆技巧：**
-前缀 **pre-**（在…之前）+ **limin**（门槛，词根 limin = threshold）+ **ary**（形容词后缀）→ "在门槛之前的" → **初步的**。
-联想记忆："**pre**（前）**limin**（林荫道）**ary**（有）→ 还没走进林荫道，只是走在路边" → **初步的**。
+**释义**：
+- 动词：详细地说明或解释某事
+- 形容词：复杂而精致的；包含许多细节的
 
----
+**例句**：
+> Could you elaborate on your proposal? We need more details.
+> 你能详细说明一下你的提案吗？我们需要更多细节。
 
-## 3️⃣ implement
-
-| 项目 | 内容 |
-|------|------|
-| **单词** | implement |
-| **音标** | /ˈɪmplɪment/ |
-| **词性** | vt.（动词） |
-| **中文释义** | 实施；执行；贯彻 |
-
-**例句：**
-> The government decided to **implement** new policies to reduce air pollution.
-> 政府决定**实施**新的政策来减少空气污染。
-
-**记忆技巧：**
-前缀 **im-**（进入）+ **ple**（填满，词根 plere = to fill）+ **ment** → "把计划填进现实" → **实施**。
-联想记忆："**imp**（恶霸）**lem**（来）**ent**（恩）→ 恶霸来施恩" → 但实际是"**执行**"命令。
+**记忆技巧**：
+> **e-（出）+ labor（劳动）+ -ate → 花大量劳动做出来的 → 精心制作的**。想想制作一件精雕细琢的手工艺品需要花费大量"劳动"。
 
 ---
 
-## 4️⃣ inevitable
+## 2. susceptible
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | inevitable |
-| **音标** | /ɪnˈevɪtəbl/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 不可避免的；必然发生的 |
+**音标**：/səˈseptəbl/
 
-**例句：**
-> It is **inevitable** that some traditional industries will be replaced by technology.
-> 一些传统行业被科技所取代是**不可避免的**。
+**词性**：adj. 易受影响的；易感动的；容许……的
 
-**记忆技巧：**
-前缀 **in-**（不）+ **evit**（避开，词根 evitare = to avoid）+ **able**（能够）→ "不能避开的" → **不可避免的**。
-联想记忆："**in**（不）**evi**（EVI）**table**（桌）→ 放在桌子上的EV车，你躲不开 → **不可避免的**"。
+**释义**：容易受到（不好的事物）影响；对……敏感的
+
+**例句**：
+> Children are particularly susceptible to advertising aimed at them.
+> 儿童特别容易受到针对他们的广告影响。
+
+**记忆技巧**：
+> **sus-（下面）+ cept（抓取）+ -ible → 从下面被抓住的 → 易受影响的**。联想：容易被人"抓住"弱点的人就是 susceptible 的。
 
 ---
 
-## 5️⃣ sustain
+## 3. deteriorate
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | sustain |
-| **音标** | /səˈsteɪn/ |
-| **词性** | vt.（动词） |
-| **中文释义** | 维持；支撑；承受；遭受 |
+**音标**：/dɪˈtɪriəreɪt/
 
-**例句：**
-> The company struggles to **sustain** its competitive advantage in a fast-changing market.
-> 在瞬息万变的市场中，该公司难以**维持**其竞争优势。
+**词性**：v. 恶化，变坏
 
-**记忆技巧：**
-前缀 **sus-**（在…下面）+ **tain**（持有，词根 tenere = to hold）→ "从下面托住" → **支撑**、**维持**。
-联想记忆："**sus**（sus）**tain**（藤）→ 恰似藤萝支撑着" → **维持**。
+**释义**：（状况、质量等）逐渐变坏，退化
+
+**例句**：
+> Her health has deteriorated rapidly since she started working overtime.
+> 自从她开始加班以来，她的健康状况急剧恶化。
+
+**记忆技巧**：
+> **de-（向下）+ teri（= terrain 地面）+ -orate → 往下走 → 恶化**。联想：就像一块好地不断向下滑坡，状况越来越差。
 
 ---
 
-## 6️⃣ considerable
+## 4. legitimate
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | considerable |
-| **音标** | /kənˈsɪdərəbl/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 相当大的；重要的；值得考虑的 |
+**音标**：/lɪˈdʒɪtɪmət/
 
-**例句：**
-> The team made **considerable** progress in developing the new software.
-> 团队在开发新软件方面取得了**相当大**的进步。
+**词性**：adj. 合法的；合理的；正当的
 
-**记忆技巧：**
-词根 **consider**（考虑）+ **able**（能够…的）→ "值得认真考虑的" → **重要的**、**相当大的**。
-联想记忆："**con**（一起）**sid**（坐）**er**（二）**able**（能够）→ 一起坐在椅子上思考，值得考虑" → **重要的**。
+**释义**：符合法律的；合乎逻辑的；有道理的
+
+**例句**：
+> It is a legitimate concern that AI might replace certain jobs.
+> 人工智能可能会取代某些工作岗位，这是一个合理的担忧。
+
+**记忆技巧**：
+> **leg（法律）+ -itimate → 与法律相关的 → 合法的**。同根词：legal（法律的）、legislation（立法）。
 
 ---
 
-## 7️⃣ enhance
+## 5. alleviate
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | enhance |
-| **音标** | /ɪnˈhæns/ |
-| **词性** | vt.（动词） |
-| **中文释义** | 提高；增强；提升 |
+**音标**：/əˈliːvieɪt/
 
-**例句：**
-> Regular exercise can **enhance** both physical health and mental well-being.
-> 经常锻炼可以**提升**身体健康和心理健康。
+**词性**：v. 减轻，缓解（痛苦、问题等）
 
-**记忆技巧：**
-前缀 **en-**（使…）+ **hance**（高，词根 hance 与 high 相关）→ "使变高" → **提升**。
-联想记忆："**en**（使）**han**（汉）**ce**（策）→ 使汉武大帝的策略**增强**了国力"。
+**释义**：使（痛苦、问题等）变得没那么严重
+
+**例句**：
+> The government has introduced new measures to alleviate poverty in rural areas.
+> 政府出台了新措施来缓解农村地区的贫困问题。
+
+**记忆技巧**：
+> **al-（加强）+ levi（轻）+ -ate → 使变轻 → 减轻**。同根词：levity（轻浮）、lever（杠杆，使东西变"轻"的工具）。
 
 ---
 
-## 8️⃣ fluctuate
+## 6. comprehensive
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | fluctuate |
-| **音标** | /ˈflʌktʃueɪt/ |
-| **词性** | vi.（动词） |
-| **中文释义** | 波动；变动；起伏 |
+**音标**：/ˌkɑːmprɪˈhensɪv/
 
-**例句：**
-> The price of oil has continued to **fluctuate** throughout the year.
-> 油价在这一年中持续**波动**。
+**词性**：adj. 综合的；全面的；有理解力的
 
-**记忆技巧：**
-词根 **fluct**（流动，源自拉丁语 fluctus = wave/wave movement）+ **uate**（动词后缀）→ "像波浪一样流动" → **波动**。
-联想记忆："**fluct**（浮克）**uate**（屋）→ 浮动的克里屋" → 东西在**波动**。
+**释义**：包含大量信息或涵盖所有方面的
+
+**例句**：
+> The university offers a comprehensive range of courses for international students.
+> 这所大学为国际学生提供全面的课程选择。
+
+**记忆技巧**：
+> **com-（一起）+ prehens（抓取）+ -ive → 全部抓住的 → 全面的**。联想：把所有东西都"抓住"了，自然就是全面的。同根词：comprehend（理解）。
 
 ---
 
-## 9️⃣ ambiguous
+## 7. encompass
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | ambiguous |
-| **音标** | /æmˈbɪɡjuəs/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 模棱两可的；含糊不清的；有歧义的 |
+**音标**：/ɪnˈkʌmpəs/
 
-**例句：**
-> The **ambiguous** wording of the contract led to a long legal dispute.
-> 合同中**含糊不清**的措辞引发了长期的法律纠纷。
+**词性**：v. 包含，包括；围绕，包围
 
-**记忆技巧：**
-前缀 **ambi-**（两，两边）+ **ag**（驱动）+ **uous**（形容词后缀）→ "向两边驱动" → **模棱两可的**。
-联想记忆："**am**（我）**big**（大）**uous**（无）→ 我既大又无边" → 说不出具体大小 → **含糊不清的**。
+**释义**：包含某范围内的所有事物；覆盖，环绕
+
+**例句**：
+> The research encompasses a wide variety of topics, from economics to psychology.
+> 这项研究涵盖从经济学到心理学等广泛的主题。
+
+**记忆技巧**：
+> **en-（使……）+ compass（罗盘、范围）→ 使在范围内 → 包含**。联想：像罗盘一样把所有方向都"包含"进来。
 
 ---
 
-## 🔟 arbitrary
+## 8. intrinsic
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | arbitrary |
-| **音标** | /ˈɑːrbɪtreri/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 任意的；武断的；专横的 |
+**音标**：/ɪnˈtrɪnzɪk/
 
-**例句：**
-> The judge made an **arbitrary** decision that surprised everyone in the courtroom.
-> 法官做出了一个**武断的**决定，让法庭上的所有人都感到意外。
+**词性**：adj. 固有的；内在的；本质的
 
-**记忆技巧：**
-词根 **arbitr**（判断、裁决，词根 arbiter = judge）+ **ary**（形容词后缀）→ "随意判断的" → **任意的**、**武断的**。
-联想记忆："**ar**（阿）**bit**（比特）**rary**（睿）→ 阿比特睿（人名）说了算 → **专横的**"。
+**释义**：某事物本身所固有的，不是外加的
+
+**例句**：
+> There is intrinsic value in protecting endangered species, regardless of their usefulness to humans.
+> 保护濒危物种本身就有内在价值，不管它们对人类是否有用。
+
+**记忆技巧**：
+> **in-（内）+ trin（= trine 三）+ -sic → 内在三位一体的 → 本质的**。联想：内含于事物本质之中的。反义词：extrinsic（外在的）。
 
 ---
 
-## 1️⃣1️⃣ sophisticated
+## 9. meticulous
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | sophisticated |
-| **音标** | /səˈfɪstɪkeɪtɪd/ |
-| **词性** | adj.（形容词） |
-| **中文释义** | 复杂精密的；老练的；圆滑的；见多识广的 |
+**音标**：/məˈtɪkjələs/
 
-**例句：**
-> The smartphone uses **sophisticated** algorithms to improve user experience.
-> 这款智能手机使用**精密的**算法来改善用户体验。
+**词性**：adj. 一丝不苟的；极其仔细的
 
-**记忆技巧：**
-词根 **sophist**（智者、专家，源自希腊语 sophia = wisdom）+ **icate**（动词化）+ **ed**（形容词）→ "变得很懂行的" → **老练的**、**精密的**。
-联想记忆："**so**（所以）**phist**（费斯特）**icated**（以得）→ 所以费斯特以得很高深的学问" → **见多识广的**。
+**释义**：对细节非常关注的，极其注重精确性的
+
+**例句**：
+> She is meticulous in her work, double-checking every figure before submitting the report.
+> 她工作一丝不苟，提交报告前会反复核对每一个数据。
+
+**记忆技巧**：
+> 联想 **measure（测量）** → 像用尺子一丝一毫地"测量"每一个细节 → meticulous（一丝不苟的）。也可以联想：**meticulous 的人用显微镜看世界**。
 
 ---
 
-## 1️⃣2️⃣ accumulate
+## 10. paramount
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | accumulate |
-| **音标** | /əˈkjuːmjəleɪt/ |
-| **词性** | vt./vi.（动词） |
-| **中文释义** | 积累；积聚；堆积 |
+**音标**：/ˈpærəmaʊnt/
 
-**例句：**
-> Over time, she **accumulated** a vast amount of knowledge about classical music.
-> 随着时间推移，她**积累了**大量关于古典音乐的知识。
+**词性**：adj. 最重要的；至上的
 
-**记忆技巧：**
-前缀 **ac-**（加强）+ **cumul**（堆积，词根 cumulare = to pile up）+ **ate**（动词后缀）→ "不断堆起来" → **积累**。
-联想记忆："**ac**（啊）**cu**（哭）**mu**（木）**late**（拉特）→ 啊，哭着把木头拉特拉到一起" → **积聚**。
+**释义**：最重要的，最高的，处于最高地位的
+
+**例句**：
+> The safety of passengers is of paramount importance in the airline industry.
+> 在航空业中，乘客的安全是最重要的。
+
+**记忆技巧**：
+> **para-（超过）+ mount（山）→ 超过山峰的 → 至高的 → 最重要的**。联想：比山峰还要高的，自然是"最重要的"。
 
 ---
 
-## 1️⃣3️⃣ diminish
+## 11. scrutinize
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | diminish |
-| **音标** | /dɪˈmɪnɪʃ/ |
-| **词性** | vt./vi.（动词） |
-| **中文释义** | 减少；缩小；降低；贬低 |
+**音标**：/ˈskruːtənaɪz/
 
-**例句：**
-> The influence of traditional media has **diminished** significantly in recent years.
-> 近年来，传统媒体的影响力已经**显著下降**。
+**词性**：v. 仔细审查，认真检查
 
-**记忆技巧：**
-前缀 **di-**（使…变成）+ **min**（小，词根 minor = smaller）+ **ish**（动词后缀）→ "使变小" → **减少**、**缩小**。
-联想记忆："**di**（底）**min**（民）**ish**（一市）→ 底层民众缩小了城市" → **降低**。
+**释义**：非常仔细地检查某事物，以发现错误或不足
+
+**例句**：
+> The committee will scrutinize the budget proposal line by line.
+> 委员会将逐行仔细审查这份预算提案。
+
+**记忆技巧**：
+> **scrut（检查）+ -inize**。联想：像在一堆"碎屑"（scraps）中仔细寻找线索一样仔细检查。同根词：scrutiny（n. 仔细审查）。
 
 ---
 
-## 1️⃣4️⃣ predominantly
+## 12. tangible
 
-| 项目 | 内容 |
-|------|------|
-| **单词** | predominantly |
-| **音标** | /prɪˈdɑːmɪnəntli/ |
-| **词性** | adv.（副词） |
-| **中文释义** | 主要地；显著地；突出地 |
+**音标**：/ˈtændʒəbl/
 
-**例句：**
-> The region is **predominantly** agricultural, with farming being the main source of income.
-> 该地区**主要**以农业为主，农业是主要收入来源。
+**词性**：adj. 有形的；切实的；可触摸的
 
-**记忆技巧：**
-前缀 **pre-**（在…之前）+ **domin**（统治，词根 dominus = master）+ **ant**（形容词后缀）+ **ly**（副词后缀）→ "在前面起统治作用的" → **主要地**。
-联想记忆："**pre**（前）**dom**（多米诺）**inant**（赢了）**ly**（了）→ 前面
+**释义**：可以触摸到的；明确的，确实的
+
+**例句**：
+> The new policy has produced tangible benefits for small businesses.
+> 新政策已为小企业带来了切实的效益。
+
+**记忆技巧**：
+> **tang（触摸）+ -ible → 可以触摸的 → 有形的**。同根词：tactile（触觉的）、contact（接触）。反义词：intangible（无形的）。
+
+---
+
+## 13. ambiguous
+
+**音标**：/æmˈbɪɡjuəs/
+
+**词性**：adj. 模棱两可的；含糊不清的
+
+**释义**：可以有多种理解的，意思不明确的
+
+**例句**：
+> The wording of the contract is ambiguous and could lead to misunderstandings.
+> 合同的措辞含糊不清，可能导致误解。
+
+**记忆技巧**：
+> **ambi-（两边）+ ag（驱动）+ -uous → 往两边走 → 模棱两可的**。联想：一句话可以往两个方向理解，就是 ambiguous。同根词：ambiguous → ambiguity（n. 歧义）。
+
+---
+
+## 14. prevalent
+
+**音标**：/ˈprevələnt/
+
+**词性**：adj. 普遍的；盛行的；流行的
+
+**释义**：普遍存在的，广泛存在的
+
+**例句**：
+> Social media addiction is increasingly prevalent among young people.
+> 社交媒体成瘾在年轻人中越来越普遍。
+
+**记忆技巧**：
+> **pre-（前）+ val（力量）+ -ent → 力量在前的 → 盛行的**。联想：力量强大到排在前面的，自然是"普遍流行的"。同根词：prevail（v. 盛行）、prevalence（n. 流行）。
+
+---
+
+## 15. incentive
+
+**音标**：/ɪnˈsentɪv/
+
+**词性**：n. 激励；刺激；动机；奖励
+
+**释义**：促使人们做某事的动力或奖励
+
+**例句**：
+> Tax incentives are offered to companies that invest in renewable energy.
+> 对投资可再生能源的公司提供税收优惠激励。
+
+**记忆技巧**：
+> **in-（进入）+ cent（唱歌）+ -ive → 让人"唱着歌前进"的东西 → 激励**。联想：像音乐一样让人充满动力的事物就是 incentive。
+
+---
+
+## 📝 今日复习小贴士
+
+| 复习方法 | 建议 |
+|---------|------|
+| **晨读** | 大声朗读每个例句2遍 |
+| **造句** | 挑选5个单词，各造一个自己的句子 |
+| **回顾** | 睡前用中文回忆今天的单词 |
+| **联想** | 将新词与已学词汇进行关联对比 |
+
+> 🎯 **今日核心词汇搭配**：
+> - **alleviate** poverty（缓解贫困）
+> - **tangible** benefits（切实的效益）
+> - **comprehensive** range（全面的范围）
+> - **of paramount** importance（至关重要）
+> - **scrutinize** the details（仔细审查细节）
+
+---
+
+*坚持到第132天，你已经超越了90%的备考者！继续加油！* 🌟
