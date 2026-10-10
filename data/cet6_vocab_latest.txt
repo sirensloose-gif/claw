@@ -1,282 +1,333 @@
-# 📚 六级词汇每日学习 · 第132天
-
-> 坚持就是胜利！今天也一起加油吧！💪
+# 📚 六级词汇每日学习 — 第133天
 
 ---
 
 ## 1. elaborate
 
-**音标**：/ɪˈlæbəreɪt/（动词），/ɪˈlæbərət/（形容词）
+**音标：** /ɪˈlæbəreɪt/（动词） / /ɪˈlæbərət/（形容词）
 
-**词性**：v. 详细阐述；adj. 精心制作的；详尽的
+**词性：** v. / adj.
 
-**释义**：
-- 动词：详细地说明或解释某事
-- 形容词：复杂而精致的；包含许多细节的
+**中文释义：**
+- v. 详细阐述，详尽说明
+- adj. 精心制作的，详尽的
 
-**例句**：
-> Could you elaborate on your proposal? We need more details.
-> 你能详细说明一下你的提案吗？我们需要更多细节。
+**例句：**
+> She was asked to **elaborate** on her proposal during the meeting.
+> 她被要求在会议上详细阐述她的提案。
 
-**记忆技巧**：
-> **e-（出）+ labor（劳动）+ -ate → 花大量劳动做出来的 → 精心制作的**。想想制作一件精雕细琢的手工艺品需要花费大量"劳动"。
+> The dress was an **elaborate** masterpiece with intricate embroidery.
+> 这件连衣裙是一件带有精致刺绣的精心之作。
 
----
-
-## 2. susceptible
-
-**音标**：/səˈseptəbl/
-
-**词性**：adj. 易受影响的；易感动的；容许……的
-
-**释义**：容易受到（不好的事物）影响；对……敏感的
-
-**例句**：
-> Children are particularly susceptible to advertising aimed at them.
-> 儿童特别容易受到针对他们的广告影响。
-
-**记忆技巧**：
-> **sus-（下面）+ cept（抓取）+ -ible → 从下面被抓住的 → 易受影响的**。联想：容易被人"抓住"弱点的人就是 susceptible 的。
+**记忆技巧：**
+> **e-（向外）+ labor（劳动）+ -ate** → 花费大量劳动向外表达 → 详细阐述
 
 ---
 
-## 3. deteriorate
+## 2. articulate
 
-**音标**：/dɪˈtɪriəreɪt/
+**音标：** /ɑːrˈtɪkjuleɪt/
 
-**词性**：v. 恶化，变坏
+**词性：** v. / adj.
 
-**释义**：（状况、质量等）逐渐变坏，退化
+**中文释义：**
+- v. 清楚地表达，明确说明
+- adj. 善于表达的，口齿清晰的
 
-**例句**：
-> Her health has deteriorated rapidly since she started working overtime.
-> 自从她开始加班以来，她的健康状况急剧恶化。
+**例句：**
+> The spokesperson **articulated** the government's position clearly.
+> 发言人清楚地阐述了政府的立场。
 
-**记忆技巧**：
-> **de-（向下）+ teri（= terrain 地面）+ -orate → 往下走 → 恶化**。联想：就像一块好地不断向下滑坡，状况越来越差。
+> She is an **articulate** speaker who always captures the audience's attention.
+> 她是一位善于表达的演讲者，总能吸引听众的注意力。
 
----
-
-## 4. legitimate
-
-**音标**：/lɪˈdʒɪtɪmət/
-
-**词性**：adj. 合法的；合理的；正当的
-
-**释义**：符合法律的；合乎逻辑的；有道理的
-
-**例句**：
-> It is a legitimate concern that AI might replace certain jobs.
-> 人工智能可能会取代某些工作岗位，这是一个合理的担忧。
-
-**记忆技巧**：
-> **leg（法律）+ -itimate → 与法律相关的 → 合法的**。同根词：legal（法律的）、legislation（立法）。
+**记忆技巧：**
+> **artic-（关节，连接）+ -ulate** → 像关节一样把话语连接起来 → 清楚地表达
 
 ---
 
-## 5. alleviate
+## 3. comprehensive
 
-**音标**：/əˈliːvieɪt/
+**音标：** /ˌkɑːmprɪˈhensɪv/
 
-**词性**：v. 减轻，缓解（痛苦、问题等）
+**词性：** adj.
 
-**释义**：使（痛苦、问题等）变得没那么严重
+**中文释义：** 综合的，全面的，广泛的
 
-**例句**：
-> The government has introduced new measures to alleviate poverty in rural areas.
-> 政府出台了新措施来缓解农村地区的贫困问题。
+**例句：**
+> The university offers a **comprehensive** review of the material before the exam.
+> 大学在考试前提供了全面的材料复习。
 
-**记忆技巧**：
-> **al-（加强）+ levi（轻）+ -ate → 使变轻 → 减轻**。同根词：levity（轻浮）、lever（杠杆，使东西变"轻"的工具）。
+> We need a **comprehensive** plan to address climate change.
+> 我们需要一个全面的计划来应对气候变化。
 
----
-
-## 6. comprehensive
-
-**音标**：/ˌkɑːmprɪˈhensɪv/
-
-**词性**：adj. 综合的；全面的；有理解力的
-
-**释义**：包含大量信息或涵盖所有方面的
-
-**例句**：
-> The university offers a comprehensive range of courses for international students.
-> 这所大学为国际学生提供全面的课程选择。
-
-**记忆技巧**：
-> **com-（一起）+ prehens（抓取）+ -ive → 全部抓住的 → 全面的**。联想：把所有东西都"抓住"了，自然就是全面的。同根词：comprehend（理解）。
+**记忆技巧：**
+> **com-（全部）+ prehens（抓，握）+ -ive** → 把所有内容都抓住 → 全面的
 
 ---
 
-## 7. encompass
+## 4. inevitable
 
-**音标**：/ɪnˈkʌmpəs/
+**音标：** /ɪnˈevɪtəbl/
 
-**词性**：v. 包含，包括；围绕，包围
+**词性：** adj.
 
-**释义**：包含某范围内的所有事物；覆盖，环绕
+**中文释义：** 不可避免的，必然发生的
 
-**例句**：
-> The research encompasses a wide variety of topics, from economics to psychology.
-> 这项研究涵盖从经济学到心理学等广泛的主题。
+**例句：**
+> With global warming, rising sea levels seem **inevitable**.
+> 随着全球变暖，海平面上升似乎是不可避免的。
 
-**记忆技巧**：
-> **en-（使……）+ compass（罗盘、范围）→ 使在范围内 → 包含**。联想：像罗盘一样把所有方向都"包含"进来。
+> Mistakes are **inevitable** when learning a new language.
+> 学习新语言时犯错是不可避免的。
 
----
-
-## 8. intrinsic
-
-**音标**：/ɪnˈtrɪnzɪk/
-
-**词性**：adj. 固有的；内在的；本质的
-
-**释义**：某事物本身所固有的，不是外加的
-
-**例句**：
-> There is intrinsic value in protecting endangered species, regardless of their usefulness to humans.
-> 保护濒危物种本身就有内在价值，不管它们对人类是否有用。
-
-**记忆技巧**：
-> **in-（内）+ trin（= trine 三）+ -sic → 内在三位一体的 → 本质的**。联想：内含于事物本质之中的。反义词：extrinsic（外在的）。
+**记忆技巧：**
+> **in-（不）+ evit（避开）+ -able（能…的）** → 不能避开的 → 不可避免的
 
 ---
 
-## 9. meticulous
+## 5. deliberate
 
-**音标**：/məˈtɪkjələs/
+**音标：** /dɪˈlɪbərət/
 
-**词性**：adj. 一丝不苟的；极其仔细的
+**词性：** adj. / v.
 
-**释义**：对细节非常关注的，极其注重精确性的
+**中文释义：**
+- adj. 故意的，蓄意的；深思熟虑的
+- v. 仔细考虑，商议
 
-**例句**：
-> She is meticulous in her work, double-checking every figure before submitting the report.
-> 她工作一丝不苟，提交报告前会反复核对每一个数据。
+**例句：**
+> The delay was not an accident — it was a **deliberate** attempt to frustrate us.
+> 这次延误不是意外——这是故意试图让我们沮丧的行为。
 
-**记忆技巧**：
-> 联想 **measure（测量）** → 像用尺子一丝一毫地"测量"每一个细节 → meticulous（一丝不苟的）。也可以联想：**meticulous 的人用显微镜看世界**。
+> The jury **deliberated** for three hours before reaching a verdict.
+> 陪审团在做出裁决前商议了三个小时。
 
----
-
-## 10. paramount
-
-**音标**：/ˈpærəmaʊnt/
-
-**词性**：adj. 最重要的；至上的
-
-**释义**：最重要的，最高的，处于最高地位的
-
-**例句**：
-> The safety of passengers is of paramount importance in the airline industry.
-> 在航空业中，乘客的安全是最重要的。
-
-**记忆技巧**：
-> **para-（超过）+ mount（山）→ 超过山峰的 → 至高的 → 最重要的**。联想：比山峰还要高的，自然是"最重要的"。
+**记忆技巧：**
+> **de-（完全）+ liber（秤，衡量）+ -ate** → 完全衡量后再行动 → 深思熟虑的
 
 ---
 
-## 11. scrutinize
+## 6. fluctuate
 
-**音标**：/ˈskruːtənaɪz/
+**音标：** /ˈflʌktʃueɪt/
 
-**词性**：v. 仔细审查，认真检查
+**词性：** v.
 
-**释义**：非常仔细地检查某事物，以发现错误或不足
+**中文释义：** 波动，起伏，动摇
 
-**例句**：
-> The committee will scrutinize the budget proposal line by line.
-> 委员会将逐行仔细审查这份预算提案。
+**例句：**
+> Oil prices **fluctuated** wildly throughout the year.
+> 全年石油价格剧烈波动。
 
-**记忆技巧**：
-> **scrut（检查）+ -inize**。联想：像在一堆"碎屑"（scraps）中仔细寻找线索一样仔细检查。同根词：scrutiny（n. 仔细审查）。
+> His mood tends to **fluctuate** depending on the weather.
+> 他的情绪会随天气变化而波动。
 
----
-
-## 12. tangible
-
-**音标**：/ˈtændʒəbl/
-
-**词性**：adj. 有形的；切实的；可触摸的
-
-**释义**：可以触摸到的；明确的，确实的
-
-**例句**：
-> The new policy has produced tangible benefits for small businesses.
-> 新政策已为小企业带来了切实的效益。
-
-**记忆技巧**：
-> **tang（触摸）+ -ible → 可以触摸的 → 有形的**。同根词：tactile（触觉的）、contact（接触）。反义词：intangible（无形的）。
+**记忆技巧：**
+> **fluct-（流动）+ -uate** → 像水一样流动 → 波动。联想：float（浮动）
 
 ---
 
-## 13. ambiguous
+## 7. diminish
 
-**音标**：/æmˈbɪɡjuəs/
+**音标：** /dɪˈmɪnɪʃ/
 
-**词性**：adj. 模棱两可的；含糊不清的
+**词性：** v.
 
-**释义**：可以有多种理解的，意思不明确的
+**中文释义：** 减少，缩小，降低
 
-**例句**：
-> The wording of the contract is ambiguous and could lead to misunderstandings.
-> 合同的措辞含糊不清，可能导致误解。
+**例句：**
+> Nothing can **diminish** the significance of her achievement.
+> 什么也无法降低她成就的重要性。
 
-**记忆技巧**：
-> **ambi-（两边）+ ag（驱动）+ -uous → 往两边走 → 模棱两可的**。联想：一句话可以往两个方向理解，就是 ambiguous。同根词：ambiguous → ambiguity（n. 歧义）。
+> The threat of pollution has **diminished** since the new regulations were introduced.
+> 自从新规实施以来，污染的威胁已经减少了。
 
----
-
-## 14. prevalent
-
-**音标**：/ˈprevələnt/
-
-**词性**：adj. 普遍的；盛行的；流行的
-
-**释义**：普遍存在的，广泛存在的
-
-**例句**：
-> Social media addiction is increasingly prevalent among young people.
-> 社交媒体成瘾在年轻人中越来越普遍。
-
-**记忆技巧**：
-> **pre-（前）+ val（力量）+ -ent → 力量在前的 → 盛行的**。联想：力量强大到排在前面的，自然是"普遍流行的"。同根词：prevail（v. 盛行）、prevalence（n. 流行）。
+**记忆技巧：**
+> **di-（分开）+ mini（小）+ -ish** → 使变小 → 减少
 
 ---
 
-## 15. incentive
+## 8. vulnerable
 
-**音标**：/ɪnˈsentɪv/
+**音标：** /ˈvʌlnərəbl/
 
-**词性**：n. 激励；刺激；动机；奖励
+**词性：** adj.
 
-**释义**：促使人们做某事的动力或奖励
+**中文释义：** 脆弱的，易受伤害的，易受影响的
 
-**例句**：
-> Tax incentives are offered to companies that invest in renewable energy.
-> 对投资可再生能源的公司提供税收优惠激励。
+**例句：**
+> Children and the elderly are especially **vulnerable** during heat waves.
+> 在热浪期间，儿童和老年人尤其脆弱。
 
-**记忆技巧**：
-> **in-（进入）+ cent（唱歌）+ -ive → 让人"唱着歌前进"的东西 → 激励**。联想：像音乐一样让人充满动力的事物就是 incentive。
+> The region is **vulnerable** to natural disasters such as earthquakes and floods.
+> 该地区易受地震和洪水等自然灾害的影响。
 
----
-
-## 📝 今日复习小贴士
-
-| 复习方法 | 建议 |
-|---------|------|
-| **晨读** | 大声朗读每个例句2遍 |
-| **造句** | 挑选5个单词，各造一个自己的句子 |
-| **回顾** | 睡前用中文回忆今天的单词 |
-| **联想** | 将新词与已学词汇进行关联对比 |
-
-> 🎯 **今日核心词汇搭配**：
-> - **alleviate** poverty（缓解贫困）
-> - **tangible** benefits（切实的效益）
-> - **comprehensive** range（全面的范围）
-> - **of paramount** importance（至关重要）
-> - **scrutinize** the details（仔细审查细节）
+**记忆技巧：**
+> **vulner-（伤口）+ -able** → 有伤口的 → 易受伤害的
 
 ---
 
-*坚持到第132天，你已经超越了90%的备考者！继续加油！* 🌟
+## 9. scrutiny
+
+**音标：** /ˈskruːtəni/
+
+**词性：** n.
+
+**中文释义：** 仔细审查，仔细检查，审视
+
+**例句：**
+> The politician's financial records came under close **scrutiny** from the media.
+> 这位政治家的财务记录受到了媒体的严格审查。
+
+> Every detail of the plan will be subject to **scrutiny**.
+> 计划的每一个细节都将受到审查。
+
+**记忆技巧：**
+> 联想 screen（筛查）→ scrutiny 是名词形式 → 仔细筛查 → 审查
+
+---
+
+## 10. consensus
+
+**音标：** /kənˈsensəs/
+
+**词性：** n.
+
+**中文释义：** 一致意见，共识
+
+**例句：**
+> After hours of discussion, the committee finally reached a **consensus**.
+> 经过数小时的讨论，委员会最终达成了一致意见。
+
+> There is a growing **consensus** among scientists about the urgency of climate action.
+> 科学家们在气候行动的紧迫性方面正达成越来越多的共识。
+
+**记忆技巧：**
+> **con-（共同）+ sens（感觉）+ -us** → 共同的感觉 → 一致意见
+
+---
+
+## 11. unprecedented
+
+**音标：** /ʌnˈpresɪdentɪd/
+
+**词性：** adj.
+
+**中文释义：** 史无前例的，前所未有的
+
+**例句：**
+> The pandemic brought **unprecedented** challenges to the global healthcare system.
+> 这场大流行给全球医疗系统带来了前所未有的挑战。
+
+> The company achieved **unprecedented** growth in just two years.
+> 这家公司仅用两年就实现了前所未有的增长。
+
+**记忆技巧：**
+> **un-（不）+ preced（先，前）+ -ent（名词后缀）+ -ed** → 没有先例的 → 史无前例的
+
+---
+
+## 12. alleviate
+
+**音标：** /əˈliːvieɪt/
+
+**词性：** v.
+
+**中文释义：** 减轻，缓解，缓和
+
+**例句：**
+> The government took measures to **alleviate** poverty in rural areas.
+> 政府采取措施减轻农村地区的贫困。
+
+> Taking a short walk can help **alleviate** stress and anxiety.
+> 短暂散步有助于缓解压力和焦虑。
+
+**记忆技巧：**
+> **al-（加强）+ levi（轻）+ -ate** → 使变轻 → 减轻
+
+---
+
+## 13. meticulous
+
+**音标：** /məˈtɪkjələs/
+
+**词性：** adj.
+
+**中文释义：** 一丝不苟的，非常仔细的，注重细节的
+
+**例句：**
+> The scientist was **meticulous** in recording every observation.
+> 这位科学家一丝不苟地记录每一个观察结果。
+
+> She is **meticulous** about keeping her workspace clean and organized.
+> 她非常注重保持工作空间的整洁有序。
+
+**记忆技巧：**
+> 来自拉丁语 *metus*（恐惧）→ 因害怕出错而特别小心 → 一丝不苟的
+
+---
+
+## 14. discrepancy
+
+**音标：** /dɪˈskrepənsi/
+
+**词性：** n.
+
+**中文释义：** 差异，不符，不一致
+
+**例句：**
+> There is a significant **discrepancy** between the two financial reports.
+> 两份财务报告之间存在显著差异。
+
+> The **discrepancy** in the data raised questions about the reliability of the study.
+> 数据中的差异引发了对该研究可靠性的质疑。
+
+**记忆技巧：**
+> **dis-（不）+ crep（响，声）+ -ancy** → 声音不一致 → 差异
+
+---
+
+## 15. deteriorate
+
+**音标：** /dɪˈtɪriəreɪt/
+
+**词性：** v.
+
+**中文释义：** 恶化，变坏，退化
+
+**例句：**
+> His health condition continued to **deteriorate** despite the treatment.
+> 尽管接受了治疗，他的健康状况仍在持续恶化。
+
+> Air quality in the city has **deteriorated** significantly over the past decade.
+> 过去十年里，该城市的空气质量显著恶化。
+
+**记忆技巧：**
+> **deterior-（更差）+ -ate** → 变得更差 → 恶化。联想：worse → worse → 恶化
+
+---
+
+## 📝 今日总结
+
+| 序号 | 单词 | 词性 | 核心含义 |
+|:---:|------|:---:|---------|
+| 1 | elaborate | v./adj. | 详细阐述 / 精心制作的 |
+| 2 | articulate | v./adj. | 清楚表达 / 善于表达的 |
+| 3 | comprehensive | adj. | 全面的，综合的 |
+| 4 | inevitable | adj. | 不可避免的 |
+| 5 | deliberate | adj./v. | 故意的 / 仔细考虑 |
+| 6 | fluctuate | v. | 波动 |
+| 7 | diminish | v. | 减少 |
+| 8 | vulnerable | adj. | 脆弱的，易受影响的 |
+| 9 | scrutiny | n. | 仔细审查 |
+| 10 | consensus | n. | 共识 |
+| 11 | unprecedented | adj. | 史无前例的 |
+| 12 | alleviate | v. | 减轻，缓解 |
+| 13 | meticulous | adj. | 一丝不苟的 |
+| 14 | discrepancy | n. | 差异，不一致 |
+| 15 | deteriorate | v. | 恶化 |
+
+---
+
+> 💡 **学习建议：** 建议每天花 **20-30分钟** 复习当日词汇，第二天再回顾前天的内容，利用艾宾浩斯遗忘曲线巩固记忆。坚持就是胜利！🎯
