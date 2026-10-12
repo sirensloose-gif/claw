@@ -1,293 +1,267 @@
-# 📚 六级词汇学习 · 第134天
-
-> **今日主题：社会与文化类高频词汇**
-> 坚持学习第134天，胜利就在前方！💪
+# 📘 CET-6 高频词汇学习 —— 第 135 天
 
 ---
 
-## 1. prejudice /ˈpredʒudɪs/
+## 1. comprehensive
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | n. 偏见，成见 |
-| **释义** | an unfair and unreasonable opinion or feeling, especially one formed without enough thought or knowledge |
+| **音标** | /ˌkɑːmprɪˈhensɪv/ |
+| **词性** | adj. |
+| **释义** | 综合的；全面的；有理解力的 |
 
 **例句：**
-> We should eliminate **prejudice** against people from different backgrounds.
-> 我们应该消除对不同背景人群的**偏见**。
+> The government has launched a **comprehensive** reform plan to improve the education system.
+> 政府已启动了一项全面的改革计划来改善教育体系。
 
-**记忆技巧：**
-> 词根拆解：pre-（提前）+ judice（判断，来自 judex = judge）→ 提前做出的判断 → **偏见**
-> 联想：pre + judge → 没了解就"提前judge" → 偏见
+**记忆技巧：** com-（共同）+ prehend（抓住）+ -sive（形容词后缀）→ 全部抓住的 → **综合的、全面的**。词根 prehend 来自拉丁语 prehendere（抓），同根词：comprehend（理解）、apprehend（领会）。
 
 ---
 
-## 2. advocate /ˈædvəkeɪt/
+## 2. endeavor
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 提倡，主张；n. 拥护者 |
-| **释义** | to publicly support or suggest an idea or way of doing something |
+| **音标** | /ɪnˈdevər/ |
+| **词性** | n. / v. |
+| **释义** | n. 努力，尝试；事业 v. 尽力，努力 |
 
 **例句：**
-> Many scientists **advocate** stricter regulations on carbon emissions.
-> 许多科学家**提倡**对碳排放实施更严格的法规。
+> We should **endeavor** to reduce the gap between the rich and the poor.
+> 我们应该努力缩小贫富差距。
 
-**记忆技巧：**
-> 词根拆解：ad-（朝向）+ voc（喊，来自 vox = voice）→ 朝着喊 → **提倡、拥护**
-> 同根词：vocation（职业召唤）、vocal（声音的）
+**记忆技巧：** en-（使…）+ deavor（来自 devoir，意为"义务"）→ 使自己履行义务 → **尽力、努力**。可联想 "endeavor to do something = try hard to do something"。
 
 ---
 
-## 3. inevitable /ɪnˈevɪtəbl/
+## 3. controversial
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 不可避免的，必然的 |
-| **释义** | certain to happen; impossible to avoid or prevent |
+| **音标** | /ˌkɑːntrəˈvɜːrʃl/ |
+| **词性** | adj. |
+| **释义** | 有争议的；引起争论的 |
 
 **例句：**
-> Change is **inevitable** in today's rapidly developing society.
-> 在当今快速发展的社会中，变化是**不可避免的**。
+> The **controversial** policy has sparked intense debate among economists worldwide.
+> 这项有争议的政策在全世界经济学家中引发了激烈辩论。
 
-**记忆技巧：**
-> 词根拆解：in-（不）+ evitable（可避免的，来自 evitare = avoid）→ 不可避免的
-> 派生词：inevitably（副词）
+**记忆技巧：** contro-（相反）+ vers（转）+ -ial（形容词后缀）→ 转向相反方向的 → **有争议的**。同根词：reverse（反转）、diverse（不同的）、versatile（多才多艺的）。
 
 ---
 
-## 4. deliberate /dɪˈlɪbərət/
+## 4. deteriorate
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 故意的，蓄意的；v. 仔细考虑 |
-| **释义** | done consciously and on purpose; done slowly and carefully |
+| **音标** | /dɪˈtɪriəreɪt/ |
+| **词性** | v. |
+| **释义** | 恶化；变坏；退化 |
 
 **例句：**
-> The police found that the fire was a **deliberate** act of arson.
-> 警方发现那场火灾是**蓄意**纵火行为。
+> Without proper maintenance, the old bridge will continue to **deteriorate** and eventually become unsafe.
+> 如果没有适当的维护，这座旧桥将继续恶化，最终变得不安全。
 
-**记忆技巧：**
-> 词根拆解：de-（加强）+ liber（天平/秤，来自 libra = balance）→ 在秤上衡量 → **仔细考虑** → 引申为"蓄意的"
-> 联想：每一步都"deliberately weigh" → 蓄意的
+**记忆技巧：** 来自拉丁语 deteriorare（使变坏），词根 deterior（更差的）比较级形式，与 worse 同源。联想："deteriorate" 中的 "deterior" ≈ "deterior = worse"，即**变差、恶化**。
 
 ---
 
-## 5. comprehensive /ˌkɑːmprɪˈhensɪv/
+## 5. inherent
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 全面的，综合的 |
-| **释义** | including all or nearly all elements or aspects of something |
+| **音标** | /ɪnˈhɪrənt/ |
+| **词性** | adj. |
+| **释义** | 内在的；固有的；与生俱来的 |
 
 **例句：**
-> The university offers a **comprehensive** review program for CET-6 preparation.
-> 该校为六级备考提供了一套**全面的**复习课程。
+> There are **inherent** risks in any investment, no matter how safe it may appear.
+> 任何投资都存在内在风险，无论它看起来多么安全。
 
-**记忆技巧：**
-> 词根拆解：com-（全部）+ prehens（抓，来自 prehendere = to grasp）+ -ive → 全部抓住 → **全面的**
-> 同根词：comprehension（理解力）、comprehensible（可理解的）
+**记忆技巧：** in-（在…里）+ her（粘住）+ -ent（形容词后缀）→ 粘在内部的 → **内在的、固有的**。同根词：adhere（粘附）、cohere（连贯）、heritage（遗产）。
 
 ---
 
-## 6. deteriorate /dɪˈtɪriəreɪt/
+## 6. scrutinize
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 恶化，变坏 |
-| **释义** | to become worse in quality, condition, or value |
+| **音标** | /ˈskruːtənaɪz/ |
+| **词性** | v. |
+| **释义** | 仔细审查；细阅；详查 |
 
 **例句：**
-> The patient's condition continued to **deteriorate** despite the treatment.
-> 尽管接受了治疗，病人的状况仍在持续**恶化**。
+> Every detail of the financial report was **scrutinized** by the auditing team.
+> 审计团队对财务报告的每一个细节都进行了仔细审查。
 
-**记忆技巧：**
-> 词根拆解：deterior（更差的）+ -ate（动词后缀）→ 变得更差 → **恶化**
-> 联想：de + ter（土/terrible）→ 越来越"terrible" → 恶化
-> 同根词：deterioration（恶化名词）
+**记忆技巧：** 来自拉丁语 scrutari（仔细检查）。联想记忆："scrut" 发音类似"scrut（scrutiny）"，名词形式为 scrutiny（审查）。可以想象侦探用放大镜（scrutiny）仔细检查（scrutinize）每一条线索。
 
 ---
 
-## 7. consensus /kənˈsensəs/
+## 7. redundant
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | n. 共识，一致意见 |
-| **释义** | general agreement among a group of people about an idea or opinion |
+| **音标** | /rɪˈdʌndənt/ |
+| **词性** | adj. |
+| **释义** | 多余的；被裁减的；冗余的 |
 
 **例句：**
-> After hours of debate, the committee finally reached a **consensus** on the new policy.
-> 经过数小时的辩论，委员会最终就新政策达成了**共识**。
+> In his essay, several paragraphs were **redundant** and added nothing to the argument.
+> 在他的论文中，有几段内容是多余的，对论证没有任何帮助。
 
-**记忆技巧：**
-> 词根拆解：con-（共同）+ sensus（感觉，来自 sentire = to feel）→ 共同的感觉 → **共识**
-> 同根词：sensible（明智的）、sensitive（敏感的）
+**记忆技巧：** re-（再次）+ und（波动，同 undulate）+ -ant（形容词后缀）→ 再次涌动的 → **多余的**。联想：und = wave（波浪），波浪再次涌来就是**多余的**。
 
 ---
 
-## 8. manipulate /məˈnɪpjuleɪt/
+## 8. alleviate
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 操纵，控制 |
-| **释义** | to control or influence someone or something cleverly, unfairly, or dishonestly |
+| **音标** | /əˈliːvieɪt/ |
+| **词性** | v. |
+| **释义** | 减轻；缓和；缓解 |
 
 **例句：**
-> The media should not **manipulate** public opinion for commercial purposes.
-> 媒体不应该为商业目的而**操纵**公众舆论。
+> The government introduced new measures to **alleviate** poverty in rural areas.
+> 政府出台了新措施来减轻农村地区的贫困。
 
-**记忆技巧：**
-> 词根拆解：mani-（手，来自 manus = hand）+ pul（拉，来自 pulsare）+ -ate → 用手拉扯 → **操纵**
-> 同根词：manual（手册/手工的）、manuscript（手稿）
+**记忆技巧：** al-（加强）+ levi（轻，同 gravity 的反义词 levity 轻浮）+ -ate（动词后缀）→ 使变轻 → **减轻、缓解**。同根词：levitate（使悬浮）、leverage（杠杆/利用）。
 
 ---
 
-## 9. profound /prəˈfaʊnd/
+## 9. sophisticated
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 深刻的，深远的；（声音）低沉的 |
-| **释义** | very great or intense; showing great knowledge or insight |
+| **音标** | /səˈfɪstɪkeɪtɪd/ |
+| **词性** | adj. |
+| **释义** | 复杂精密的；老练的；见多识广的 |
 
 **例句：**
-> The technological revolution has had a **profound** impact on the way people communicate.
-> 科技革命对人们的交流方式产生了**深远的**影响。
+> Modern warfare requires **sophisticated** technology and highly trained personnel.
+> 现代战争需要精密的技术和训练有素的人员。
 
-**记忆技巧：**
-> 词根拆解：pro-（向前/深入）+ found（底部，来自 fundus = bottom）→ 深入到底 → **深刻的**
-> 联想：find深入到底 → profound
+**记忆技巧：** 来自 sophist（智者/诡辩家），希腊语 sophia（智慧）→ 变得有智慧 → **老练的、复杂的**。联想：手机越"smart"越"sophisticated"（精密的），老手（sophisticated）不会被 sophistry（诡辩术）骗到。
 
 ---
 
-## 10. notorious /noʊˈtɔːriəs/
+## 10. preliminary
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 臭名昭著的，声名狼藉的 |
-| **释义** | famous or well-known for something bad |
+| **音标** | /prɪˈlɪmɪneri/ |
+| **词性** | adj. / n. |
+| **释义** | adj. 初步的；预备的 n. 初步行动；预备工作 |
 
 **例句：**
-> This intersection is **notorious** for traffic accidents during rush hour.
-> 这个十字路口在高峰时段以交通事故**频发/臭名昭著**。
+> The **preliminary** results indicate that the new drug may be effective against the virus.
+> 初步结果表明，这种新药可能对病毒有效。
 
-**记忆技巧：**
-> 词根拆解：not-（知道，来自 notare = to mark）+ -orious（形容词后缀）→ 被大家知道的（坏事）→ **臭名昭著的**
-> 对比记忆：notable（值得注意的，褒义）vs notorious（臭名昭著的，贬义）
+**记忆技巧：** pre-（预先）+ limin（门槛，同 eliminate 中的 limin）+ -ary（形容词后缀）→ 在门槛之前的 → **初步的、预备的**。联想：站在门槛（limen）前面（pre-）= 还没进门 = **初步的**。
 
 ---
 
-## 11. facilitate /fəˈsɪlɪteɪt/
+## 11. notorious
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 促进，使便利 |
-| **释义** | to make something easier or more likely to happen |
+| **音标** | /noʊˈtɔːriəs/ |
+| **词性** | adj. |
+| **释义** | 臭名昭著的；声名狼藉的 |
 
 **例句：**
-> The new software is designed to **facilitate** communication between team members.
-> 这款新软件旨在**促进**团队成员之间的沟通。
+> The area is **notorious** for its high crime rate and poor living conditions.
+> 该地区因高犯罪率和恶劣的生活条件而臭名昭著。
 
-**记忆技巧：**
-> 词根拆解：fac-（做，来自 facere = to do/make）+ -ilitate（使能够）→ 使更容易做 → **促进，便利**
-> 同根词：facility（设施）、faculty（才能/院系）、feasible（可行的）
+**记忆技巧：** not（知道，同 note）+ -orious（形容词后缀，同 glorious）→ 众所周知的（贬义）→ **臭名昭著的**。对比记忆：famous（著名的，褒义） vs. **notorious**（出名的，贬义）。同根词：notable（值得注意的）。
 
 ---
 
-## 12. unprecedented /ʌnˈpresɪdentɪd/
+## 12. encompass
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 史无前例的，前所未有的 |
-| **释义** | never having happened or existed in the past |
+| **音标** | /ɪnˈkʌmpəs/ |
+| **词性** | v. |
+| **释义** | 包含；包括；围绕 |
 
 **例句：**
-> The pandemic brought **unprecedented** challenges to the global economy.
-> 这场疫情给全球经济带来了**前所未有的**挑战。
+> The research project **encompasses** a wide range of topics, from climate change to renewable energy.
+> 这个研究项目涵盖了从气候变化到可再生能源等广泛的主题。
 
-**记忆技巧：**
-> 词根拆解：un-（不）+ preced（先前，来自 praecedere）+ -ent + -ed → 没有先例的 → **史无前例的**
-> 同根词：precedent（先例）、preceding（在前的）
+**记忆技巧：** en-（使…）+ compass（罗盘/范围）→ 使进入范围之内 → **包含、包括**。联想：罗盘（compass）画出一个圆圈把所有东西都圈在里面 = **包含**。
 
 ---
 
-## 13. ambiguous /æmˈbɪɡjuəs/
+## 13. intricate
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | adj. 模棱两可的，含糊不清的 |
-| **释义** | having more than one possible meaning; not clear |
+| **音标** | /ˈɪntrɪkət/ |
+| **词性** | adj. |
+| **释义** | 复杂精细的；错综复杂的 |
 
 **例句：**
-> The wording of the contract is too **ambiguous** and needs to be revised.
-> 合同的措辞太**模棱两可**了，需要修改。
+> The watchmaker spent months assembling the **intricate** mechanism of the antique clock.
+> 钟表匠花了数月时间组装这座古董钟错综复杂的机械装置。
 
-**记忆技巧：**
-> 词根拆解：ambi-（两边）+ ag-（驱动/走）+ -ous → 往两边走 → 意思摇摆不定 → **模棱两可的**
-> 联想：ambiguous ≈ a big mess（一大团乱麻）→ 含糊不清
+**记忆技巧：** in-（进入）+ tric（同 trick，把戏/纠缠）+ -ate（形容词后缀）→ 陷入纠缠之中 → **错综复杂的**。联想：陷阱（trick）一个套一个 = 非常**复杂**。
 
 ---
 
-## 14. encompass /ɪnˈkʌmpəs/
+## 14. relentless
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | v. 包含，涵盖；围绕 |
-| **释义** | to include a large number or range of things |
+| **音标** | /rɪˈlentləs/ |
+| **词性** | adj. |
+| **释义** | 不屈不挠的；持续不断的；无情的 |
 
 **例句：**
-> The research **encompasses** multiple disciplines including psychology, sociology, and economics.
-> 该研究**涵盖**了心理学、社会学和经济学等多个学科。
+> Despite the **relentless** rain, the rescue team continued their search for survivors.
+> 尽管雨下个不停，救援队仍在继续搜寻幸存者。
 
-**记忆技巧：**
-> 词根拆解：en-（使…）+ compass（罗盘/范围）→ 使在范围内 → **包含，涵盖**
-> 联想：comp-compass指南针 → 指南针画一个圈 → 把所有东西都包含在圈里
+**记忆技巧：** re-（不）+ lent（放松/变软，同 lenient 宽大的）+ -less（无…的）→ 不放松的 → **不屈不挠的**。对比：lenient（宽容的）→ 反义 → **relentless（无情的）**。
 
 ---
 
-## 15. solidarity /ˌsɑːlɪˈdærəti/
+## 15. advocate
 
 | 项目 | 内容 |
 |------|------|
-| **词性** | n. 团结，一致 |
-| **释义** | unity or agreement of feeling or action, especially among individuals with a common interest |
+| **音标** | /ˈædvəkeɪt/ |
+| **词性** | v. / n. |
+| **释义** | v. 提倡，主张 n. 倡导者，拥护者 |
 
 **例句：**
-> The workers showed **solidarity** by going on strike together.
-> 工人们通过共同罢工展现了**团结**。
+> Many scientists **advocate** a shift to clean energy to combat global climate change.
+> 许多科学家提倡转向清洁能源以应对全球气候变化。
 
-**记忆技巧：**
-> 词根拆解：solid-（坚固的）+ -arity（名词后缀）→ 固如磐石 → **团结**
-> 同根词：solid（固体的/坚固的）、consolidate（巩固）
+**记忆技巧：** ad-（朝向）+ voc（说话/声音，同 vocal 发声的）+ -ate（动词后缀）→ 朝向某个声音说话 → **提倡、主张**。同根词：vocal（声音的）、vocation（职业/使命）、evoke（唤起）。
 
 ---
 
-## 📝 今日词汇速览表
+## 📝 今日词汇汇总表
 
-| 序号 | 单词 | 词性 | 核心释义 |
-|:----:|------|:----:|---------|
-| 1 | prejudice | n. | 偏见 |
-| 2 | advocate | v./n. | 提倡 / 拥护者 |
-| 3 | inevitable | adj. | 不可避免的 |
-| 4 | deliberate | adj./v. | 故意的 / 仔细考虑 |
-| 5 | comprehensive | adj. | 全面的 |
-| 6 | deteriorate | v. | 恶化 |
-| 7 | consensus | n. | 共识 |
-| 8 | manipulate | v. | 操纵 |
-| 9 | profound | adj. | 深刻的 |
-| 10 | notorious | adj. | 臭名昭著的 |
-| 11 | facilitate | v. | 促进 |
-| 12 | unprecedented | adj. | 史无前例的 |
-| 13 | ambiguous | adj. | 模棱两可的 |
-| 14 | encompass | v. | 涵盖 |
-| 15 | solidarity | n. | 团结 |
+| # | 单词 | 词性 | 核心释义 |
+|---|------|------|----------|
+| 1 | comprehensive | adj. | 综合的；全面的 |
+| 2 | endeavor | n./v. | 努力；尽力 |
+| 3 | controversial | adj. | 有争议的 |
+| 4 | deteriorate | v. | 恶化；变坏 |
+| 5 | inherent | adj. | 内在的；固有的 |
+| 6 | scrutinize | v. | 仔细审查 |
+| 7 | redundant | adj. | 多余的；冗余的 |
+| 8 | alleviate | v. | 减轻；缓解 |
+| 9 | sophisticated | adj. | 精密的；老练的 |
+| 10 | preliminary | adj./n. | 初步的；预备的 |
+| 11 | notorious | adj. | 臭名昭著的 |
+| 12 | encompass | v. | 包含；包括 |
+| 13 | intricate | adj. | 复杂精细的 |
+| 14 | relentless | adj. | 不屈不挠的；无情的 |
+| 15 | advocate | v./n. | 提倡；倡导者 |
 
 ---
 
-## 💡 学习建议
-
-> 1. **第一遍**：浏览全部15个词汇，标记不认识的
-> 2. **第二遍**：重点学习标记词汇，朗读例句3遍
-> 3. **第三遍**：脱离释义，看例句回忆词义
-> 4. **晚间回顾**：合上笔记，默写今天所有单词及其核心释义
-
-> 🎯 **Day 134 · 已
+> 💡 **学习建议**：建议将每个例句抄写一遍，尝试用自己的话再造一个新句。
