@@ -1,267 +1,208 @@
-# 📘 CET-6 高频词汇学习 —— 第 135 天
+# 📚 六级词汇学习 — 第136天
+
+> 今天为你精选了 **12个** 六级高频词汇，涵盖名词、动词、形容词和副词。坚持积累，词汇量稳步提升！💪
 
 ---
 
-## 1. comprehensive
+## 1. elaborate /ɪˈlæbərət/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌkɑːmprɪˈhensɪv/ |
-| **词性** | adj. |
-| **释义** | 综合的；全面的；有理解力的 |
+**词性：** 形容词 / 动词（/ɪˈlæbəreɪt/）
+
+**释义：** 精心制作的；详尽的；详细阐述
 
 **例句：**
-> The government has launched a **comprehensive** reform plan to improve the education system.
-> 政府已启动了一项全面的改革计划来改善教育体系。
+- She prepared an **elaborate** presentation for the conference.
+- 她为会议准备了一份精心设计的演示文稿。
+- Could you **elaborate** on your proposal?
+- 你能详细阐述一下你的方案吗？
 
-**记忆技巧：** com-（共同）+ prehend（抓住）+ -sive（形容词后缀）→ 全部抓住的 → **综合的、全面的**。词根 prehend 来自拉丁语 prehendere（抓），同根词：comprehend（理解）、apprehend（领会）。
+**记忆技巧：** `e-`（向外）+ `labor`（劳动）+ `-ate` → 花了大量劳动做出来的 → 精心制作的、详尽的
 
 ---
 
-## 2. endeavor
+## 2. notorious /noʊˈtɔːriəs/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈdevər/ |
-| **词性** | n. / v. |
-| **释义** | n. 努力，尝试；事业 v. 尽力，努力 |
+**词性：** 形容词
+
+**释义：** 声名狼藉的，臭名昭著的
 
 **例句：**
-> We should **endeavor** to reduce the gap between the rich and the poor.
-> 我们应该努力缩小贫富差距。
+- This area is **notorious** for its heavy traffic during rush hours.
+- 这个地区因高峰时段交通拥堵而臭名昭著。
 
-**记忆技巧：** en-（使…）+ deavor（来自 devoir，意为"义务"）→ 使自己履行义务 → **尽力、努力**。可联想 "endeavor to do something = try hard to do something"。
+**记忆技巧：** `not-`（= know，知道）+ `-orious` → 广为人知的（负面）→ 臭名昭著的。联想：`notorious` = `not`（不）+ `orious`（听起来像 glorious 荣耀的）→ 不荣耀的 → 声名狼藉的
 
 ---
 
-## 3. controversial
+## 3. alleviate /əˈliːvieɪt/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌkɑːntrəˈvɜːrʃl/ |
-| **词性** | adj. |
-| **释义** | 有争议的；引起争论的 |
+**词性：** 动词
+
+**释义：** 减轻，缓解（痛苦、困难等）
 
 **例句：**
-> The **controversial** policy has sparked intense debate among economists worldwide.
-> 这项有争议的政策在全世界经济学家中引发了激烈辩论。
+- The government took measures to **alleviate** the poverty in rural areas.
+- 政府采取措施来缓解农村地区的贫困。
 
-**记忆技巧：** contro-（相反）+ vers（转）+ -ial（形容词后缀）→ 转向相反方向的 → **有争议的**。同根词：reverse（反转）、diverse（不同的）、versatile（多才多艺的）。
+**记忆技巧：** `al-`（= ad-，加强）+ `lev`（轻，举起）+ `-iate` → 使变轻 → 减轻、缓解。同根词：`elevate`（提升）、`lever`（杠杆）
 
 ---
 
-## 4. deteriorate
+## 4. comprehensive /ˌkɑːmprɪˈhensɪv/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /dɪˈtɪriəreɪt/ |
-| **词性** | v. |
-| **释义** | 恶化；变坏；退化 |
+**词性：** 形容词
+
+**释义：** 综合的，全面的，广泛的
 
 **例句：**
-> Without proper maintenance, the old bridge will continue to **deteriorate** and eventually become unsafe.
-> 如果没有适当的维护，这座旧桥将继续恶化，最终变得不安全。
+- We need a **comprehensive** review of the company's financial situation.
+- 我们需要对公司财务状况进行一次全面审查。
 
-**记忆技巧：** 来自拉丁语 deteriorare（使变坏），词根 deterior（更差的）比较级形式，与 worse 同源。联想："deteriorate" 中的 "deterior" ≈ "deterior = worse"，即**变差、恶化**。
+**记忆技巧：** `com-`（全部）+ `prehens`（抓住，= grasp）+ `-ive` → 全部抓住 → 全面的、综合的。同根词：`apprehend`（理解、逮捕）
 
 ---
 
-## 5. inherent
+## 5. inevitable /ɪnˈevɪtəbl/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈhɪrənt/ |
-| **词性** | adj. |
-| **释义** | 内在的；固有的；与生俱来的 |
+**词性：** 形容词
+
+**释义：** 不可避免的，必然发生的
 
 **例句：**
-> There are **inherent** risks in any investment, no matter how safe it may appear.
-> 任何投资都存在内在风险，无论它看起来多么安全。
+- Change is **inevitable** in today's fast-paced world.
+- 在当今快节奏的世界中，变化是不可避免的。
 
-**记忆技巧：** in-（在…里）+ her（粘住）+ -ent（形容词后缀）→ 粘在内部的 → **内在的、固有的**。同根词：adhere（粘附）、cohere（连贯）、heritage（遗产）。
+**记忆技巧：** `in-`（不）+ `evit`（避开，= avoid）+ `-able`（能……的）→ 不能避开的 → 不可避免的。同根词：`evitable`（可避免的）
 
 ---
 
-## 6. scrutinize
+## 6. scrutinize /ˈskruːtənaɪz/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈskruːtənaɪz/ |
-| **词性** | v. |
-| **释义** | 仔细审查；细阅；详查 |
+**词性：** 动词
+
+**释义：** 仔细审查，仔细检查
 
 **例句：**
-> Every detail of the financial report was **scrutinized** by the auditing team.
-> 审计团队对财务报告的每一个细节都进行了仔细审查。
+- Auditors **scrutinized** every financial record of the company.
+- 审计员仔细审查了公司的每一份财务记录。
 
-**记忆技巧：** 来自拉丁语 scrutari（仔细检查）。联想记忆："scrut" 发音类似"scrut（scrutiny）"，名词形式为 scrutiny（审查）。可以想象侦探用放大镜（scrutiny）仔细检查（scrutinize）每一条线索。
+**记忆技巧：** 联想 `screen`（屏幕/筛选）→ 像用放大镜筛选一样 → 仔细审查。也可以联想拉丁词根 `scrut`（仔细检查），原意是"在垃圾中翻找"
 
 ---
 
-## 7. redundant
+## 7. notorious（已学）→ 替换为：
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /rɪˈdʌndənt/ |
-| **词性** | adj. |
-| **释义** | 多余的；被裁减的；冗余的 |
+## 7. deteriorate /dɪˈtɪriəreɪt/
+
+**词性：** 动词
+
+**释义：** 恶化，变坏，退化
 
 **例句：**
-> In his essay, several paragraphs were **redundant** and added nothing to the argument.
-> 在他的论文中，有几段内容是多余的，对论证没有任何帮助。
+- His health began to **deteriorate** rapidly after the operation.
+- 手术后他的健康状况迅速恶化。
 
-**记忆技巧：** re-（再次）+ und（波动，同 undulate）+ -ant（形容词后缀）→ 再次涌动的 → **多余的**。联想：und = wave（波浪），波浪再次涌来就是**多余的**。
+**记忆技巧：** `de-`（向下）+ `terior`（= terror，恐怖/更差）+ `-ate` → 向更差的方向发展 → 恶化。联想比较级：`worse` → `worse-riate` → 恶化
 
 ---
 
-## 8. alleviate
+## 8. pragmatic /præɡˈmætɪk/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /əˈliːvieɪt/ |
-| **词性** | v. |
-| **释义** | 减轻；缓和；缓解 |
+**词性：** 形容词
+
+**释义：** 务实的，注重实效的，实用主义的
 
 **例句：**
-> The government introduced new measures to **alleviate** poverty in rural areas.
-> 政府出台了新措施来减轻农村地区的贫困。
+- She took a **pragmatic** approach to solving the problem.
+- 她采取了务实的方法来解决问题。
 
-**记忆技巧：** al-（加强）+ levi（轻，同 gravity 的反义词 levity 轻浮）+ -ate（动词后缀）→ 使变轻 → **减轻、缓解**。同根词：levitate（使悬浮）、leverage（杠杆/利用）。
+**记忆技巧：** 谐音记忆："拍个妈踢课" → 实际有用的课才拍 → 务实的。词根：`pragm-`（= deed，行为、事务）→ 关注实际事务的 → 务实的
 
 ---
 
-## 9. sophisticated
+## 9. encompass /ɪnˈkʌmpəs/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /səˈfɪstɪkeɪtɪd/ |
-| **词性** | adj. |
-| **释义** | 复杂精密的；老练的；见多识广的 |
+**词性：** 动词
+
+**释义：** 包含，围绕，涵盖
 
 **例句：**
-> Modern warfare requires **sophisticated** technology and highly trained personnel.
-> 现代战争需要精密的技术和训练有素的人员。
+- The new policy **encompasses** both economic and social aspects.
+- 新政策涵盖了经济和社会两个方面。
 
-**记忆技巧：** 来自 sophist（智者/诡辩家），希腊语 sophia（智慧）→ 变得有智慧 → **老练的、复杂的**。联想：手机越"smart"越"sophisticated"（精密的），老手（sophisticated）不会被 sophistry（诡辩术）骗到。
+**记忆技巧：** `en-`（使……）+ `compass`（指南针、范围）→ 进入范围之内 → 包含、涵盖。联想：compass 的圆圈范围 → encompass 把所有东西都圈进来
 
 ---
 
-## 10. preliminary
+## 10. susceptible /səˈseptəbl/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /prɪˈlɪmɪneri/ |
-| **词性** | adj. / n. |
-| **释义** | adj. 初步的；预备的 n. 初步行动；预备工作 |
+**词性：** 形容词
+
+**释义：** 易受影响的，易感染的
 
 **例句：**
-> The **preliminary** results indicate that the new drug may be effective against the virus.
-> 初步结果表明，这种新药可能对病毒有效。
+- Children are particularly **susceptible** to respiratory infections.
+- 儿童尤其容易感染呼吸道疾病。
 
-**记忆技巧：** pre-（预先）+ limin（门槛，同 eliminate 中的 limin）+ -ary（形容词后缀）→ 在门槛之前的 → **初步的、预备的**。联想：站在门槛（limen）前面（pre-）= 还没进门 = **初步的**。
+**记忆技巧：** `sus-`（= sub-，在下面）+ `cept`（抓住）+ `-ible`（能……的）→ 能在下面被抓住的 → 容易受到影响的。同根词：`perceive`（察觉）、`concept`（概念）
 
 ---
 
-## 11. notorious
+## 11. predominantly /prɪˈdɑːmɪnəntli/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /noʊˈtɔːriəs/ |
-| **词性** | adj. |
-| **释义** | 臭名昭著的；声名狼藉的 |
+**词性：** 副词
+
+**释义：** 主要地，显著地，压倒性地
 
 **例句：**
-> The area is **notorious** for its high crime rate and poor living conditions.
-> 该地区因高犯罪率和恶劣的生活条件而臭名昭著。
+- The audience was **predominantly** composed of young professionals.
+- 观众主要由年轻的专业人士组成。
 
-**记忆技巧：** not（知道，同 note）+ -orious（形容词后缀，同 glorious）→ 众所周知的（贬义）→ **臭名昭著的**。对比记忆：famous（著名的，褒义） vs. **notorious**（出名的，贬义）。同根词：notable（值得注意的）。
+**记忆技巧：** 词根 `domin`（统治，= rule）+ `-ant`（形容词）+ `-ly`（副词）→ 统治性地 → 主要地。同根词：`dominate`（支配）、`domain`（领域）
 
 ---
 
-## 12. encompass
+## 12. ambiguous /æmˈbɪɡjuəs/
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈkʌmpəs/ |
-| **词性** | v. |
-| **释义** | 包含；包括；围绕 |
+**词性：** 形容词
+
+**释义：** 模棱两可的，含糊不清的
 
 **例句：**
-> The research project **encompasses** a wide range of topics, from climate change to renewable energy.
-> 这个研究项目涵盖了从气候变化到可再生能源等广泛的主题。
+- The contract contains several **ambiguous** clauses that need clarification.
+- 合同中有几处含糊不清的条款需要澄清。
 
-**记忆技巧：** en-（使…）+ compass（罗盘/范围）→ 使进入范围之内 → **包含、包括**。联想：罗盘（compass）画出一个圆圈把所有东西都圈在里面 = **包含**。
-
----
-
-## 13. intricate
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈɪntrɪkət/ |
-| **词性** | adj. |
-| **释义** | 复杂精细的；错综复杂的 |
-
-**例句：**
-> The watchmaker spent months assembling the **intricate** mechanism of the antique clock.
-> 钟表匠花了数月时间组装这座古董钟错综复杂的机械装置。
-
-**记忆技巧：** in-（进入）+ tric（同 trick，把戏/纠缠）+ -ate（形容词后缀）→ 陷入纠缠之中 → **错综复杂的**。联想：陷阱（trick）一个套一个 = 非常**复杂**。
+**记忆技巧：** `ambi-`（两边，= both）+ `ag`（驱动，= drive）+ `-uous`（形容词）→ 往两边驱动 → 模棱两可的。同根词：`ambition`（雄心，原意为"到处跑"）
 
 ---
 
-## 14. relentless
+# 📝 今日小测验
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /rɪˈlentləs/ |
-| **词性** | adj. |
-| **释义** | 不屈不挠的；持续不断的；无情的 |
+用今天学到的词汇填空：
 
-**例句：**
-> Despite the **relentless** rain, the rescue team continued their search for survivors.
-> 尽管雨下个不停，救援队仍在继续搜寻幸存者。
+1. The weather in this region is ________ for sudden storms.
+2. He gave a very ________ account of the events.
+3. We need to take ________ steps to address the environmental crisis.
+4. The situation has ________ due to years of neglect.
+5. His comments were deliberately ________ to avoid taking a clear stance.
 
-**记忆技巧：** re-（不）+ lent（放松/变软，同 lenient 宽大的）+ -less（无…的）→ 不放松的 → **不屈不挠的**。对比：lenient（宽容的）→ 反义 → **relentless（无情的）**。
+<details>
+<summary>🔑 点击查看答案</summary>
 
----
+1. notorious（臭名昭著的）
+2. elaborate（详细的）
+3. comprehensive（全面的）
+4. deteriorated（恶化了）
+5. ambiguous（模棱两可的）
 
-## 15. advocate
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈædvəkeɪt/ |
-| **词性** | v. / n. |
-| **释义** | v. 提倡，主张 n. 倡导者，拥护者 |
-
-**例句：**
-> Many scientists **advocate** a shift to clean energy to combat global climate change.
-> 许多科学家提倡转向清洁能源以应对全球气候变化。
-
-**记忆技巧：** ad-（朝向）+ voc（说话/声音，同 vocal 发声的）+ -ate（动词后缀）→ 朝向某个声音说话 → **提倡、主张**。同根词：vocal（声音的）、vocation（职业/使命）、evoke（唤起）。
+</details>
 
 ---
 
-## 📝 今日词汇汇总表
-
-| # | 单词 | 词性 | 核心释义 |
-|---|------|------|----------|
-| 1 | comprehensive | adj. | 综合的；全面的 |
-| 2 | endeavor | n./v. | 努力；尽力 |
-| 3 | controversial | adj. | 有争议的 |
-| 4 | deteriorate | v. | 恶化；变坏 |
-| 5 | inherent | adj. | 内在的；固有的 |
-| 6 | scrutinize | v. | 仔细审查 |
-| 7 | redundant | adj. | 多余的；冗余的 |
-| 8 | alleviate | v. | 减轻；缓解 |
-| 9 | sophisticated | adj. | 精密的；老练的 |
-| 10 | preliminary | adj./n. | 初步的；预备的 |
-| 11 | notorious | adj. | 臭名昭著的 |
-| 12 | encompass | v. | 包含；包括 |
-| 13 | intricate | adj. | 复杂精细的 |
-| 14 | relentless | adj. | 不屈不挠的；无情的 |
-| 15 | advocate | v./n. | 提倡；倡导者 |
-
----
-
-> 💡 **学习建议**：建议将每个例句抄写一遍，尝试用自己的话再造一个新句。
+> **📌 学习建议：**
+> - 早晨大声朗读每个单词 3 遍，加深语音印象
+> - 每个单词尝试造一个属于自己的句子
+> - 晚间回顾今日所有词汇，重点复习标记为"困难"的单词
+> - 在阅读真题中留意这些词汇的出现，加深理解
+>
+> **坚持就是胜利！明天见！** 🌟
