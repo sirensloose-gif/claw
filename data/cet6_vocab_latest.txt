@@ -1,282 +1,265 @@
-# 📚 六级词汇每日学习 — 第138天
-
-> 🔥 坚持就是胜利！今天也是收获满满的一天！
+# 📚 六级词汇每日学习（第139天）
 
 ---
 
-## 1. **Elaborate**
+## 1. ambiguous
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪˈlæbərət/ (adj.) /ɪˈlæbəreɪt/ (v.) |
-| **词性** | adj. 精心制作的；详细的 / v. 详细阐述 |
-| **释义** | 精心制作的；复杂的；详细说明 |
+**音标：** /æmˈbɪɡjuəs/
+
+**词性：** adj.
+
+**中文释义：** 模棱两可的；含糊不清的
 
 **例句：**
-> She made an **elaborate** plan for the surprise party, ensuring every detail was perfect.
-> 她为惊喜派对制定了一个**精心设计的**计划，确保每个细节都完美无缺。
+> The wording of the agreement is ambiguous and open to interpretation.
+> 协议的措辞含糊不清，可以有多种解读。
 
-> Could you **elaborate** on your research findings?
-> 你能**详细阐述**一下你的研究发现吗？
-
-**💡 记忆技巧：**
-> e(向外) + labor(劳动) + -ate → 投入大量劳动向外呈现 → 精心制作的、详细的。联想到"劳动人民精心打造"。
+**记忆技巧：** `ambi-`（两边）+ `ag`（驱动）→ 往两边驱动 → 含糊不清。联想："两边都不靠"就是模棱两可。
 
 ---
 
-## 2. **Conspicuous**
+## 2. deteriorate
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /kənˈspɪkjuəs/ |
-| **词性** | adj. 显眼的，引人注目的 |
-| **释义** | 明显的，容易被注意到的 |
+**音标：** /dɪˈtɪriəreɪt/
+
+**词性：** v.
+
+**中文释义：** 恶化；变坏；退化
 
 **例句：**
-> The bright red car parked in front of the gray buildings was quite **conspicuous**.
-> 停在灰色建筑前面的亮红色汽车非常**显眼**。
+> The patient's condition deteriorated rapidly after the surgery.
+> 手术后病人的状况迅速恶化。
 
-**💡 记忆技巧：**
-> con(一起) + spic(看，如 inspect) + -uous → 大家一起都能看到 → 显眼的。同词根词：**suspend**(看)、**spectacle**(景象)。
+**记忆技巧：** 来自拉丁语 `deterior`（更差的），词根 `-terior`（更），联想：向下（de）变得更差（terior）→ 恶化。
 
 ---
 
-## 3. **Undermine**
+## 3. substantial
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌʌndərˈmaɪn/ |
-| **词性** | v. 逐渐削弱；暗中破坏 |
-| **释义** | 暗中损害；侵蚀…的基础 |
+**音标：** /səbˈstænʃl/
+
+**词性：** adj.
+
+**中文释义：** 大量的；实质的；坚固的
 
 **例句：**
-> Spreading false information can seriously **undermine** public trust in the government.
-> 传播虚假信息会严重**损害**公众对政府的信任。
+> The company has made substantial progress in developing new technologies.
+> 该公司在开发新技术方面取得了实质性进展。
 
-**💡 记忆技巧：**
-> under(下面) + mine(挖矿) → 在下面挖 → 暗中削弱基础。画面感：在墙脚下偷偷挖洞，使墙倒塌。
+**记忆技巧：** `sub-`（在…下）+ `stant`（站立）→ 站得住脚的 → 实质的；坚固的。名词形式为 `substance`（物质）。
 
 ---
 
-## 4. **Pragmatic**
+## 4. contemplate
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /præɡˈmætɪk/ |
-| **词性** | adj. 务实的；实用主义的 |
-| **释义** | 讲究实际的，注重实效的 |
+**音标：** /ˈkɑːntəmpleɪt/
+
+**词性：** v.
+
+**中文释义：** 沉思；考虑；凝视
 
 **例句：**
-> We need a **pragmatic** approach to solving the housing crisis rather than idealistic promises.
-> 戥们需要一种**务实的**方法来解决住房危机，而不是理想化的承诺。
+> She sat by the window, contemplating the meaning of life.
+> 她坐在窗边，沉思着生命的意义。
 
-**💡 记忆技巧：**
-> 来自希腊语 *pragma*（事情、行动）→ 做实事的 → 务实的。同词根：**pragmatism**(实用主义)。联想：**practice**（实践）。
+**记忆技巧：** `con-`（一起）+ `templ`（寺庙，时间）→ 古人在寺庙中一起凝神思考 → 沉思。注意区别 `temple`（寺庙）。
 
 ---
 
-## 5. **Inevitable**
+## 5. versatile
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈevɪtəbl/ |
-| **词性** | adj. 不可避免的，必然的 |
-| **释义** | 无法阻止的，必然会发生的 |
+**音标：** /ˈvɜːrsətaɪl/
+
+**词性：** adj.
+
+**中文释义：** 多才多艺的；多用途的
 
 **例句：**
-> Change is an **inevitable** part of life, and we must learn to adapt to it.
-> 变化是生活中**不可避免的**一部分，我们必须学会适应。
+> He is a versatile actor who can play comedy as well as tragedy.
+> 他是一位多才多艺的演员，喜剧悲剧都能演。
 
-**💡 记忆技巧：**
-> in(不) + evit(避开，如 evade) + -able(能…的) → 不能避开的 → 不可避免的。反义词：**avoidable**（可避免的）。
+**记忆技巧：** `vers`（转动）+ `atile`（能够）→ 能转到各个方向 → 多才多艺的。同根词：`reverse`（反转）、`convert`（转变）。
 
 ---
 
-## 6. **Articulate**
+## 6. advocate
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɑːrˈtɪkjuleɪt/ (v.) /ɑːrˈtɪkjələt/ (adj.) |
-| **词性** | v. 清楚表达；adj. 善于表达的 |
-| **释义** | 明确有力地表达；口齿清晰的 |
+**音标：** /ˈædvəkeɪt/
+
+**词性：** v./n.
+
+**中文释义：** v. 提倡，拥护；n. 倡导者，拥护者
 
 **例句：**
-> She is an **articulate** speaker who can clearly **articulate** complex ideas.
-> 她是一位**善于表达的**演讲者，能够清晰地**阐述**复杂的观点。
+> Many environmentalists advocate the use of renewable energy sources.
+> 许多环保主义者提倡使用可再生能源。
 
-**💡 记忆技巧：**
-> art(技巧) + icul + -ate → 有技巧地表达 → 善于表达的。词根 **artic** 意为"关节/连接"（如 article），引申为将语言清晰地连接表达出来。
+**记忆技巧：** `ad-`（向）+ `voc`（声音，呼喊）→ 为某事呼喊 → 提倡、拥护。同根词：`vocal`（发声的）、`voice`（声音）。
 
 ---
 
-## 7. **Scrutiny**
+## 7. inevitable
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈskruːtəni/ |
-| **词性** | n. 仔细审查；仔细检查 |
-| **释义** | 认真仔细的审查或检查 |
+**音标：** /ɪnˈevɪtəbl/
+
+**词性：** adj.
+
+**中文释义：** 不可避免的；必然发生的
 
 **例句：**
-> The report came under close **scrutiny** from government officials and the media alike.
-> 这份报告受到了政府官员和媒体双方的密切关注**审查**。
+> Change is inevitable in today's fast-paced society.
+> 在当今快节奏的社会中，变化是不可避免的。
 
-**💡 记忆技巧：**
-> 联想 **scrute** 与 **microscope** 中的"观察"含义相关。同义词：**examination**、**inspection**。形容词：**scrutinize**（v. 仔细审查）。
+**记忆技巧：** `in-`（不）+ `evit`（避免，来自拉丁语 `evitare`）+ `able`（能够）→ 不能避免的 → 不可避免的。
 
 ---
 
-## 8. **Infringe**
+## 8. meticulous
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈfrɪndʒ/ |
-| **词性** | v. 侵犯；违反 |
-| **释义** | 侵犯权利；违反法律、规定 |
+**音标：** /məˈtɪkjələs/
+
+**词性：** adj.
+
+**中文释义：** 一丝不苟的；非常仔细的
 
 **例句：**
-> Unauthorized use of copyrighted material may **infringe** upon the creator's intellectual property rights.
-> 未经授权使用受版权保护的材料可能会**侵犯**创作者的知识产权。
+> The researcher was meticulous in documenting every detail of the experiment.
+> 这位研究人员一丝不苟地记录实验的每一个细节。
 
-**💡 记忆技巧：**
-> in(进入) + fringe(边缘) → 进入他人权利的边缘地带 → 侵犯。搭配：**infringe on/upon**（侵犯…）；**infringe copyright**（侵犯版权）。
+**记忆技巧：** 拉丁语 `metus`（害怕）→ 因害怕出错而极度仔细 → 一丝不苟的。联想：对"细节"感到"怕"（meticulous）的人就会很仔细。
 
 ---
 
-## 9. **Aesthetic**
+## 9. scrutinize
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /esˈθetɪk/ |
-| **词性** | adj. 审美的；n. 美学 |
-| **释义** | 关于美的；审美学的 |
+**音标：** /ˈskruːtənaɪz/
+
+**词性：** v.
+
+**中文释义：** 仔细检查；认真审查
 
 **例句：**
-> The building's modern **aesthetic** design has won several international architectural awards.
-> 这座建筑的现代**审美**设计赢得了多项国际建筑奖项。
+> The auditors will scrutinize the financial records of the company.
+> 审计员将仔细审查该公司的财务记录。
 
-**💡 记忆技巧：**
-> 来自希腊语 *aisthesis*（感觉、感知）。名词形式：**aesthetics**（美学）。联想：**anesthesia**（麻醉，与"感觉"同源）。
+**记忆技巧：** 联想 `screen`（筛查，仔细查看）来记忆。也可想：scrutiny（审查）→ 审查每一个字母（scrutinize）。
 
 ---
 
-## 10. **Sporadic**
+## 10. fluctuate
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /spəˈrædɪk/ |
-| **词性** | adj. 零星的；偶尔发生的 |
-| **释义** | 不定期的，零散发生的 |
+**音标：** /ˈflʌktʃueɪt/
+
+**词性：** v.
+
+**中文释义：** 波动；起伏；动摇
 
 **例句：**
-> **Sporadic** rain showers continued throughout the afternoon, making outdoor activities difficult.
-> 下午断断续续的**零星阵雨**使得户外活动变得困难。
+> Oil prices fluctuate depending on global supply and demand.
+> 石油价格根据全球供需情况而波动。
 
-**💡 记忆技巧：**
-> 联想"分散的"（sporadic ~ scatter分散）。同义词：**intermittent**（间歇的）、**occasional**（偶尔的）。
+**记忆技巧：** `fluct`（流动，来自拉丁语 `fluctus` 波浪）+ `uate` → 像波浪一样流动 → 波动。同根词：`influence`（流入 → 影响）。
 
 ---
 
-## 11. **Compensate**
+## 11. conspicuous
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈkɑːmpenseɪt/ |
-| **词性** | v. 补偿；赔偿 |
-| **释义** | 给予补偿；弥补不足 |
+**音标：** /kənˈspɪkjuəs/
+
+**词性：** adj.
+
+**中文释义：** 显而易见的；引人注目的
 
 **例句：**
-> Nothing can **compensate** for the loss of a loved one, but time can help ease the pain.
-> 没有什么能**弥补**失去亲人的痛苦，但时间可以帮助减轻伤痛。
+> The bright red sign was conspicuous against the gray building.
+> 那块鲜红的招牌在灰色建筑的映衬下格外显眼。
 
-**💡 记忆技巧：**
-> com(一起) + pens(称重，如 pension 养老金) + -ate → 一起称量后给予相等分量 → 补偿。名词：**compensation**（补偿金）。
+**记忆技巧：** `con-`（完全）+ `spic`（看）+ `uous`（形容词）→ 完全能被看到的 → 显而易见的。同根词：`inspect`（检查）、`suspicious`（怀疑的）、`perspective`（视角）。
 
 ---
 
-## 12. **Benevolent**
+## 12. undermine
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /bəˈnevələnt/ |
-| **词性** | adj. 仁慈的；善意的 |
-| **释义** | 好心的，慈善的 |
+**音标：** /ˌʌndərˈmaɪn/
+
+**词性：** v.
+
+**中文释义：** 暗中破坏；削弱；损害
 
 **例句：**
-> Thanks to the **benevolent** donors, the orphanage was able to build a new library for the children.
-> 多亏了**仁慈的**捐助者，孤儿院为孩子们建了一座新图书馆。
+> Constant criticism can undermine a child's self-confidence.
+> 不断的批评会削弱孩子的自信心。
 
-**💡 记忆技巧：**
-> bene(好的，如 benefit) + vol(意愿，如 volunteer) + -ent → 有善意的 → 仁慈的。反义词：**malevolent**（恶毒的）。联想：**benefit**（好处）。
+**记忆技巧：** `under-`（在…下面）+ `mine`（挖掘）→ 从下面挖掘 → 暗中破坏根基。联想：从地基下面挖洞 → 崩塌。
 
 ---
 
-## 13. **Perpetuate**
+## 13. prudent
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /pərˈpetʃueɪt/ |
-| **词性** | v. 使永久化；使持续 |
-| **释义** | 使长期存在，使延续下去 |
+**音标：** /ˈpruːdnt/
+
+**词性：** adj.
+
+**中文释义：** 审慎的；谨慎的；精明的
 
 **例句：**
-> The media should not **perpetuate** stereotypes and prejudices against certain groups.
-> 媒体不应该**助长**对某些群体的刻板印象和偏见。
+> It is prudent to save some money for unexpected emergencies.
+> 为意外紧急情况存一些钱是明智的。
 
-**💡 记忆技巧：**
-> per(始终) + pet(追求，如 petition) + -uate → 始终追求下去 → 使永久化。名词：**perpetual**（永久的）；**perpetuity**（永恒）。
+**记忆技巧：** 联想 `prune`（修剪）→ 修剪得当 → 审慎的。也可联想："普鲁登"→ 普通人要"笃定"（审慎）行事。
 
 ---
 
-## 14. **Discern**
+## 14. exacerbate
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /dɪˈsɜːrn/ |
-| **词性** | v. 辨别；识别 |
-| **释义** | 分辨出，看清楚，察觉到 |
+**音标：** /ɪɡˈzæsərbeɪt/
+
+**词性：** v.
+
+**中文释义：** 使恶化；使加剧
 
 **例句：**
-> It is often difficult to **discern** the truth from the misinformation circulating online.
-> 从网上流传的虚假信息中**辨别**真相往往很困难。
+> The drought has exacerbated the food crisis in the region.
+> 干旱加剧了该地区的粮食危机。
 
-**💡 记忆技巧：**
-> dis(分开) + cern(区分，如 concern 关注、certain 确定的) → 分开来区分 → 辨别。形容词：**discernible**（可辨别的）、**discerning**（有洞察力的）。
+**记忆技巧：** `ex-`（加强）+ `acerb`（苦涩的，尖锐的）+ `ate` → 变得更尖锐更苦 → 恶化。同根词：`acerbic`（尖酸的）、`acrid`（辛辣的）。
 
 ---
 
-## 15. **Vulnerable**
+## 15. perseverance
 
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈvʌlnərəbl/ |
-| **词性** | adj. 易受伤害的；脆弱的 |
-| **释义** | 容易受到伤害或攻击的 |
+**音标：** /ˌpɜːrsɪˈvɪrəns/
+
+**词性：** n.
+
+**中文释义：** 坚持不懈；毅力
 
 **例句：**
-> The elderly and children are particularly **vulnerable** to air pollution during heavy smog days.
-> 在严重雾霾天，老年人和儿童尤其**容易受到**空气污染的**影响**。
+> Success in any field requires not only talent but also perseverance.
+> 在任何领域取得成功不仅需要天赋，还需要毅力。
 
-**💡 记忆技巧：**
-> 来自拉丁语 *vulnerare*（伤害）。名词：**vulnerability**（脆弱性）。反义词：**invulnerable**（刀枪不入的）。
-
----
-
-## 📝 今日重点搭配总结
-
-| 词汇 | 核心搭配 |
-|------|----------|
-| **Elaborate** | elaborate on/upon (详细阐述) |
-| **Undermine** | undermine confidence/trust (削弱信心/信任) |
-| **Inevitable** | an inevitable consequence (不可避免的后果) |
-| **Scrutiny** | under close scrutiny (受到严格审查) |
-| **Infringe** | infringe on rights (侵犯权利) |
-| **Compensate** | compensate for losses (弥补损失) |
-| **Perpetuate** | perpetuate myths (使神话/谣言持续) |
-| **Vulnerable** | vulnerable to (易受…影响) |
+**记忆技巧：** `per-`（始终）+ `sever`（严格的）+ `ance`（名词）→ 始终严格要求自己 → 坚持不懈。动词形式：`persevere`。
 
 ---
 
-> ✅ **今日学习建议：** 先通读一遍所有词汇，再重点记忆搭配部分。睡前回顾一遍，效果更佳！
->
-> 📅 明天见！Day 139 精彩继续！💪
+## 📝 今日总结
+
+| 序号 | 单词 | 词性 | 核心释义 |
+|:---:|------|:---:|---------|
+| 1 | ambiguous | adj. | 模棱两可的 |
+| 2 | deteriorate | v. | 恶化 |
+| 3 | substantial | adj. | 大量的；实质的 |
+| 4 | contemplate | v. | 沉思；考虑 |
+| 5 | versatile | adj. | 多才多艺的 |
+| 6 | advocate | v./n. | 提倡；倡导者 |
+| 7 | inevitable | adj. | 不可避免的 |
+| 8 | meticulous | adj. | 一丝不苟的 |
+| 9 | scrutinize | v. | 仔细检查 |
+| 10 | fluctuate | v. | 波动 |
+| 11 | conspicuous | adj. | 显而易见的 |
+| 12 | undermine | v. | 暗中破坏 |
+| 13 | prudent | adj. | 审慎的 |
+| 14 | exacerbate | v. | 使恶化 |
+| 15 | perseverance | n. | 坚持不懈 |
+
+> 💡 **学习建议：** 建议结合词根词缀记忆法重点掌握同根词的延伸，每天复习前一天的内容，保持学习节奏。加油！🎓
