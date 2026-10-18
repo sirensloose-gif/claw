@@ -1,230 +1,214 @@
-# 📚 六级词汇每日学习 — Day 140
+# 📘 六级词汇每日学习计划
 
-> 🔥 每天坚持，稳步提升！今天学习 12 个六级高频词汇。
+## 第141天 | 15个高频词汇精讲
 
 ---
 
-## 1. accumulate
+### 1. elaborate
+
+> **/ɪˈlæbərət/**（形容词）
+> **/ɪˈlæbəreɪt/**（动词）
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /əˈkjuːmjəleɪt/ |
+| **词性** | adj. / v. |
+| **释义** | adj. 精心制作的；详细阐述的 / v. 详细说明，详尽阐述 |
+| **例句** | *Could you **elaborate** on your proposal? We need more details.* 你能详细说明一下你的方案吗？我们需要更多细节。 |
+| **记忆技巧** | **词根**：e-（出）+ labor（劳动）+ -ate → 花费大量劳动做出来的 → 精心的、详细的 |
+
+---
+
+### 2. diminish
+
+> **/dɪˈmɪnɪʃ/**
+
+| 项目 | 内容 |
+|------|------|
 | **词性** | v. |
-| **释义** | 积累，积聚 |
-
-**例句：**
-> Over the years, she **accumulated** a wealth of experience in the field of linguistics.
-> 多年来，她在语言学领域积累了丰富的经验。
-
-**记忆技巧：**
-词根 **ac-**（加强）+ **cumul**（堆积，如 cumulus 云）+ **-ate**（动词后缀）→ 不断堆积 → 积累。联想：**cumulate**（累积）是核心词根含义。
+| **释义** | 减少，减小；削弱，贬低 |
+| **例句** | *The pain gradually **diminished** after taking the medication.* 服药后，疼痛逐渐减轻了。 |
+| **记忆技巧** | **词根**：di-（分开）+ mini（小）+ -ish → 变小 → 减少。联想"mini"本身就含有"小"的含义 |
 
 ---
 
-## 2. comprehensive
+### 3. inevitable
+
+> **/ɪnˈevɪtəbl/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˌkɑːmprɪˈhensɪv/ |
 | **词性** | adj. |
-| **释义** | 综合的；全面的 |
-
-**例句：**
-> The government has launched a **comprehensive** plan to address environmental pollution.
-> 政府已启动一项全面计划来应对环境污染。
-
-**记忆技巧：**
-**com-**（全部）+ **prehens**（抓，如prehend 抓住）+ **-ive**（形容词后缀）→ 全部抓住 → 包罗万象的 → 综合的。
+| **释义** | 不可避免的，必然发生的 |
+| **例句** | *Change is an **inevitable** part of life; we must learn to embrace it.* 变化是生活中不可避免的一部分，我们必须学会接受它。 |
+| **记忆技巧** | **词根**：in-（不）+ evit（回避，同 avoid）+ -able → 不可回避的 → 不可避免的。反义词：**evitable**（可避免的） |
 
 ---
 
-## 3. jeopardize
+### 4. comprehensive
+
+> **/ˌkɑːmprɪˈhensɪv/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈdʒepərdaɪz/ |
-| **词性** | v. |
-| **释义** | 危害，危及 |
-
-**例句：**
-> Reckless driving **jeopardizes** not only your own life but also the lives of others.
-> 鲁莽驾驶不仅危及你自己的生命，也危及他人的生命。
-
-**记忆技巧：**
-联想：**jeopardy**（危险）是名词形式，加上 **-ize** 变为动词"使处于危险中"。谐音记忆："皆破的"——皆已破损 → 危害。
-
----
-
-## 4. prevalent
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˈprevələnt/ |
 | **词性** | adj. |
-| **释义** | 普遍的，流行的 |
-
-**例句：**
-> This disease is more **prevalent** in developing countries than in developed ones.
-> 这种疾病在发展中国家比在发达国家更为普遍。
-
-**记忆技巧：**
-词根 **pre-**（在前）+ **val**（力量，如 valid 有效的）+ **-ent**（形容词后缀）→ 力量占优势的 → 流行的。派生词：**prevalence**（流行，普遍）。
+| **释义** | 综合的，全面的；理解的 |
+| **例句** | *The university offers a **comprehensive** range of courses in business and economics.* 该大学提供全面的商科和经济学课程。 |
+| **记忆技巧** | **词根**：com-（完全）+ prehend（抓住）+ -sive → 完全抓住的 → 综合全面的。同根词：**comprehension**（理解力） |
 
 ---
 
-## 5. scrutinize
+### 5. controversial
+
+> **/ˌkɑːntrəˈvɜːrʃl/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˈskruːtənaɪz/ |
-| **词性** | v. |
-| **释义** | 仔细审查，详细检查 |
-
-**例句：**
-> The committee will **scrutinize** every detail of the proposal before making a decision.
-> 委员会在做出决定前将仔细审查提案的每一个细节。
-
-**记忆技巧：**
-词根来自拉丁语 **scrutari**（搜寻），与 **scrutiny**（n. 细致审查）同源。联想：**scrutiny**（名词）→ **scrutinize**（动词）。
-
----
-
-## 6. inevitable
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ɪnˈevɪtəbl/ |
-| **词性** | adj. |
-| **释义** | 不可避免的，必然的 |
-
-**例句：**
-> With the rapid development of technology, some traditional jobs are becoming **inevitable** to disappear.
-> 随着科技的快速发展，一些传统工作的消失是不可避免的。
-
-**记忆技巧：**
-**in-**（不）+ **evit**（避免，来自拉丁语 evitare）+ **-able**（可…的）→ 不可避免的。对比：**avoid**（避免）含有相同的词根 **evit**。
-
----
-
-## 7. diminish
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /dɪˈmɪnɪʃ/ |
-| **词性** | v. |
-| **释义** | 减少，缩小；降低（重要性） |
-
-**例句：**
-> Nothing could **diminish** her enthusiasm for helping those in need.
-> 没有什么能降低她帮助那些有需要的人的热情。
-
-**记忆技巧：**
-词根 **di-**（分开）+ **min**（小，如 minor 较小的）+ **-ish**（动词后缀）→ 变得更小 → 减少。近义词：**decrease, reduce**；反义词：**increase, amplify**。
-
----
-
-## 8. controversial
-
-| 项目 | 内容 |
-|------|------|
-| **音标** | /ˌkɑːntrəˈvɜːrʃl/ |
 | **词性** | adj. |
 | **释义** | 有争议的，引起争论的 |
-
-**例句：**
-> The new policy has sparked a **controversial** debate among scholars and politicians.
-> 新政策在学者和政客之间引发了有争议的辩论。
-
-**记忆技巧：**
-**contro-**（相反，如 counter 对抗）+ **vers**（转，如 reverse 反转）+ **-ial**（形容词后缀）→ 意见向相反方向转 → 有争议的。派生：**controversy**（n. 争议）。
+| **例句** | *The **controversial** decision sparked widespread debate among the public.* 这项有争议的决定在公众中引发了广泛的辩论。 |
+| **记忆技巧** | **词根**：contro-（相反）+ vers（转）+ -ial → 向相反方向转 → 有争议的。同根词：**verse**（诗）、**diverse**（多样的） |
 
 ---
 
-## 9. sustain
+### 6. phenomenon
+
+> **/fəˈnɑːmɪnən/**（复数：**phenomena** /fəˈnɑːmɪnə/）
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /səˈsteɪn/ |
+| **词性** | n. |
+| **释义** | 现象；非凡的人（或事物） |
+| **例句** | *The Northern Lights are one of nature's most breathtaking **phenomena**.* 北极光是自然界最令人叹为观止的现象之一。 |
+| **记忆技巧** | **词根**：phen（显现）+ -omenon → 显现出来的东西 → 现象。注意复数形式为 **phenomena**（不规则变化） |
+
+---
+
+### 7. accumulate
+
+> **/əˈkjuːmjəleɪt/**
+
+| 项目 | 内容 |
+|------|------|
 | **词性** | v. |
-| **释义** | 维持，保持；承受，遭受 |
-
-**例句：**
-> It is difficult to **sustain** economic growth without protecting the environment.
-> 不保护环境，维持经济增长是困难的。
-
-**记忆技巧：**
-**sus-**（= sub- 在下）+ **tain**（握住，如 retain 保留）→ 从下面撑住 → 维持。同词根词：**retain, maintain, obtain, detain**。
+| **释义** | 累积，积聚，堆积 |
+| **例句** | *Over the years, he **accumulated** a vast collection of rare books.* 多年来，他积累了大量的珍本书籍收藏。 |
+| **记忆技巧** | **词根**：ac-（加强）+ cumul（堆积，同 cumulus云）+ -ate → 不断堆积 → 累积。同根词：**cumulative**（累积的） |
 
 ---
 
-## 10. notorious
+### 8. subtle
+
+> **/ˈsʌtl/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /noʊˈtɔːriəs/ |
 | **词性** | adj. |
-| **释义** | 臭名昭著的，声名狼藉的 |
-
-**例句：**
-> This area is **notorious** for its high crime rate and poor living conditions.
-> 这个地区因高犯罪率和恶劣的生活条件而臭名昭著。
-
-**记忆技巧：**
-词根 **not-**（知道，如 note 笔记）+ **-orious**（形容词后缀）→ 众所周知的（贬义）→ 臭名昭著的。对比：**notable**（adj. 值得注意的，褒义）。
+| **释义** | 微妙的；细微的；巧妙的；不明显的 |
+| **例句** | *There is a **subtle** difference between confidence and arrogance.* 自信和傲慢之间有着微妙的区别。 |
+| **记忆技巧** | 联想：注意 **b 不发音**（/ˈsʌtl/），可记忆为 "subtle的b被藏起来了"——正如它的词义"微妙、不明显" |
 
 ---
 
-## 11. articulate
+### 9. exaggerate
+
+> **/ɪɡˈzædʒəreɪt/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ɑːrˈtɪkjəleɪt/ |
-| **词性** | v. / adj. |
-| **释义** | v. 清晰表达，明确说明；adj. 善于表达的，口齿清楚的 |
-
-**例句：**
-> The spokesperson was very **articulate** and managed to explain the complex policy in simple terms.
-> 发言人口齿清晰，成功地用简单的语言解释了这项复杂的政策。
-
-**记忆技巧：**
-词根 **artic-**（关节，如 article 文章/关节）+ **-ulate**（动词后缀）→ 像关节一样把话连接起来 → 清晰地表达。联想：文章（article）写得清晰就是 **articulate**。
+| **词性** | v. |
+| **释义** | 夸大，夸张，言过其实 |
+| **例句** | *Don't **exaggerate** the severity of the situation; it's not that bad.* 不要夸大情况的严重性，没那么糟糕。 |
+| **记忆技巧** | **联想**：ex-（出）+ agger（堆，土堆）+ -ate → 堆得比实际更高 → 夸大。名词形式：**exaggeration**（夸张） |
 
 ---
 
-## 12. simultaneously
+### 10. preliminary
+
+> **/prɪˈlɪmɪneri/**
 
 | 项目 | 内容 |
 |------|------|
-| **音标** | /ˌsaɪmlˈteɪniəsli/ |
-| **词性** | adv. |
-| **释义** | 同时地 |
-
-**例句：**
-> The app allows users to edit photos and share them on social media **simultaneously**.
-> 该应用允许用户同时编辑照片并将其分享到社交媒体上。
-
-**记忆技巧：**
-**simul-**（相同，如 similar 相似的）+ **-taneous**（形容词后缀，表时间）+ **-ly**（副词后缀）→ 同一时间的 → 同时地。派生：**simultaneous**（adj. 同时发生的）。
+| **词性** | adj. / n. |
+| **释义** | adj. 初步的，预备的 / n. 初步行动（或做法），预赛 |
+| **例句** | *The **preliminary** results suggest that the new drug is effective.* 初步结果表明该新药有效。 |
+| **记忆技巧** | **词根**：pre-（前）+ limin（门槛，同 liminal）+ -ary → 在门槛之前的 → 初步的、预备的。同根词：**eliminate**（淘汰） |
 
 ---
 
-## 📝 今日词汇总结表
+### 11. manipulate
 
-| # | 单词 | 词性 | 核心释义 |
-|---|------|------|----------|
-| 1 | accumulate | v. | 积累，积聚 |
-| 2 | comprehensive | adj. | 综合的，全面的 |
-| 3 | jeopardize | v. | 危害，危及 |
-| 4 | prevalent | adj. | 普遍的，流行的 |
-| 5 | scrutinize | v. | 仔细审查 |
-| 6 | inevitable | adj. | 不可避免的 |
-| 7 | diminish | v. | 减少，缩小 |
-| 8 | controversial | adj. | 有争议的 |
-| 9 | sustain | v. | 维持，保持 |
-| 10 | notorious | adj. | 臭名昭著的 |
-| 11 | articulate | v./adj. | 清晰表达/善于表达的 |
-| 12 | simultaneously | adv. | 同时地 |
+> **/məˈnɪpjuleɪt/**
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | v. |
+| **释义** | 操纵，控制；（熟练地）操作；篡改 |
+| **例句** | *The media should not **manipulate** public opinion for political purposes.* 媒体不应为了政治目的操纵公众舆论。 |
+| **记忆技巧** | **词根**：mani（手，同 manual）+ pul（填充/推动）+ -ate → 用手推动和控制 → 操纵。名词：**manipulation**（操纵） |
 
 ---
 
-> 💡 **学习建议：** 建议将每个例句朗读三遍，并尝试用自己的话改写句子，加深记忆。明日继续加油！🎯
+### 12. dilemma
+
+> **/dɪˈlemə/**
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | n. |
+| **释义** | （进退两难的）困境，窘境 |
+| **例句** | *She faced a **dilemma**: to pursue her career abroad or to stay with her family.* 她面临一个两难选择：出国追求事业还是留在家人身边。 |
+| **记忆技巧** | **词源**：来自希腊语 di-（二）+ lemma（前提）→ 两个前提之间 → 进退两难。经典短语：**be in a dilemma**（处于两难境地） |
+
+---
+
+### 13. deteriorate
+
+> **/dɪˈtɪriəreɪt/**
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | v. |
+| **释义** | 恶化，变坏，退化 |
+| **例句** | *His health has **deteriorated** rapidly since he started working overtime.* 自从他开始加班以来，健康状况急剧恶化。 |
+| **记忆技巧** | **词根**：de-（向下）+ teri（地，土地）+ -orate → 向下走 → 恶化。同义词：**worsen**、**degrade** |
+
+---
+
+### 14. persistent
+
+> **/pərˈsɪstənt/**
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | adj. |
+| **释义** | 坚持不懈的；持续存在的；反复出现的 |
+| **例句** | *Her **persistent** efforts finally paid off when she was promoted to manager.* 她坚持不懈的努力最终得到了回报——她被提升为经理。 |
+| **记忆技巧** | **词根**：per-（始终）+ sist（站立，同 assist）+ -ent → 始终站着 → 坚持不懈的。同根词：**persist**（v.坚持）、**persistence**（n.坚持） |
+
+---
+
+### 15. reluctant
+
+> **/rɪˈlʌktənt/**
+
+| 项目 | 内容 |
+|------|------|
+| **词性** | adj. |
+| **释义** | 不情愿的，勉强的 |
+| **例句** | *He was **reluctant** to admit his mistake in front of the whole team.* 他不愿意在全队面前承认自己的错误。 |
+| **记忆技巧** | **词根**：re-（反）+ luct（挣扎，同 struggle）+ -ant → 反着挣扎 → 不情愿的。短语：**be reluctant to do sth.**（不情愿做某事） |
+
+---
+
+## 📝 今日复习小贴士
+
+| 记忆策略 | 说明 |
+|----------|------|
+| 🔁 **词根串联** | 将含相同词根的词汇一起记忆，如 *comprehend → comprehension → comprehensive* |
+| 🗣️ **大声朗读** | 每个词至少朗读3遍，注意音标中的重音标记 |
+| ✍️ **造句练习** | 尝试用今天学的单词各造一个与自己生活相关的句子 |
+| 📖 **间隔复习** | 今天学完后，在 **第3天、第7天、第14天** 各复习一次 |
+
+> 💡 **Day 141 关键词回顾**：elaborate · diminish · inevitable · comprehensive · controversial · phenomenon · accumulate · subtle · exaggerate · preliminary · manipulate · dilemma · deteriorate · persistent · reluctant
+
+祝学习顺利！🎯 **坚持就是胜利，距离六级越来越近了！**
