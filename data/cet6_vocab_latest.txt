@@ -1,214 +1,259 @@
-# 📘 六级词汇每日学习计划
+# 📚 六级词汇每日学习 · 第142天
 
-## 第141天 | 15个高频词汇精讲
-
----
-
-### 1. elaborate
-
-> **/ɪˈlæbərət/**（形容词）
-> **/ɪˈlæbəreɪt/**（动词）
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. / v. |
-| **释义** | adj. 精心制作的；详细阐述的 / v. 详细说明，详尽阐述 |
-| **例句** | *Could you **elaborate** on your proposal? We need more details.* 你能详细说明一下你的方案吗？我们需要更多细节。 |
-| **记忆技巧** | **词根**：e-（出）+ labor（劳动）+ -ate → 花费大量劳动做出来的 → 精心的、详细的 |
+> **今日主题：社会热点与学术高频词**
 
 ---
 
-### 2. diminish
+## 1. elaborate
 
-> **/dɪˈmɪnɪʃ/**
+**音标**：/ɪˈlæbərət/（形容词） ；/ɪˈlæbəreɪt/（动词）
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | v. |
-| **释义** | 减少，减小；削弱，贬低 |
-| **例句** | *The pain gradually **diminished** after taking the medication.* 服药后，疼痛逐渐减轻了。 |
-| **记忆技巧** | **词根**：di-（分开）+ mini（小）+ -ish → 变小 → 减少。联想"mini"本身就含有"小"的含义 |
+**词性**：adj. 精细的；精心制作的　｜　v. 详细阐述；精心制作
 
----
+**释义**：详尽而复杂的；详细说明
 
-### 3. inevitable
+**例句**：
+- *She made an elaborate plan to surprise her husband with a birthday party.*
+  （她精心策划了一个计划，用生日派对给她丈夫一个惊喜。）
+- *Could you elaborate on your proposal so we can better understand it?*
+  （你能详细阐述一下你的提案吗？这样我们能更好地理解。）
 
-> **/ɪnˈevɪtəbl/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 不可避免的，必然发生的 |
-| **例句** | *Change is an **inevitable** part of life; we must learn to embrace it.* 变化是生活中不可避免的一部分，我们必须学会接受它。 |
-| **记忆技巧** | **词根**：in-（不）+ evit（回避，同 avoid）+ -able → 不可回避的 → 不可避免的。反义词：**evitable**（可避免的） |
+**记忆技巧**：
+词根 **"labor"（劳动）** + **"e-"（使…）** + **"ate"（动词/形容词后缀）** → 需要花费大量劳动去做的 → 精心制作的、详尽的
 
 ---
 
-### 4. comprehensive
+## 2. implement
 
-> **/ˌkɑːmprɪˈhensɪv/**
+**音标**：/ˈɪmplɪment/（动词） ；/ˈɪmplɪmənt/（名词）
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 综合的，全面的；理解的 |
-| **例句** | *The university offers a **comprehensive** range of courses in business and economics.* 该大学提供全面的商科和经济学课程。 |
-| **记忆技巧** | **词根**：com-（完全）+ prehend（抓住）+ -sive → 完全抓住的 → 综合全面的。同根词：**comprehension**（理解力） |
+**词性**：v. 实施；执行　｜　n. 工具；器具
 
----
+**释义**：使生效；贯彻执行
 
-### 5. controversial
+**例句**：
+- *The government has decided to implement new policies to reduce pollution.*
+  （政府已决定实施新的政策来减少污染。）
+- *The success of the project depends on how well we implement the plan.*
+  （项目的成功取决于我们如何有效地执行计划。）
 
-> **/ˌkɑːntrəˈvɜːrʃl/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 有争议的，引起争论的 |
-| **例句** | *The **controversial** decision sparked widespread debate among the public.* 这项有争议的决定在公众中引发了广泛的辩论。 |
-| **记忆技巧** | **词根**：contro-（相反）+ vers（转）+ -ial → 向相反方向转 → 有争议的。同根词：**verse**（诗）、**diverse**（多样的） |
+**记忆技巧**：
+词根 **"imp-"（= in，进入）** + **"ple"（= plen，充满/填充）** + **"ment"（名词后缀）** → 填充进去使之完整 → 实施、执行。联想：**implement = 实施（make something complete）**
 
 ---
 
-### 6. phenomenon
+## 3. profound
 
-> **/fəˈnɑːmɪnən/**（复数：**phenomena** /fəˈnɑːmɪnə/）
+**音标**：/prəˈfaʊnd/
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | n. |
-| **释义** | 现象；非凡的人（或事物） |
-| **例句** | *The Northern Lights are one of nature's most breathtaking **phenomena**.* 北极光是自然界最令人叹为观止的现象之一。 |
-| **记忆技巧** | **词根**：phen（显现）+ -omenon → 显现出来的东西 → 现象。注意复数形式为 **phenomena**（不规则变化） |
+**词性**：adj. 深刻的；深远的；深奥的
 
----
+**释义**：影响深远的；深邃的
 
-### 7. accumulate
+**例句**：
+- *The discovery of penicillin had a profound impact on modern medicine.*
+  （青霉素的发现对现代医学产生了深远的影响。）
+- *He has a profound understanding of Chinese philosophy.*
+  （他对中国哲学有着深刻的理解。）
 
-> **/əˈkjuːmjəleɪt/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | v. |
-| **释义** | 累积，积聚，堆积 |
-| **例句** | *Over the years, he **accumulated** a vast collection of rare books.* 多年来，他积累了大量的珍本书籍收藏。 |
-| **记忆技巧** | **词根**：ac-（加强）+ cumul（堆积，同 cumulus云）+ -ate → 不断堆积 → 累积。同根词：**cumulative**（累积的） |
+**记忆技巧**：
+词根 **"pro-"（向前/深）** + **"found"（= fund，底部）** → 深入到底部的 → 深刻的、深远的
 
 ---
 
-### 8. subtle
+## 4. advocate
 
-> **/ˈsʌtl/**
+**音标**：/ˈædvəkeɪt/（动词） ；/ˈædvəkət/（名词）
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 微妙的；细微的；巧妙的；不明显的 |
-| **例句** | *There is a **subtle** difference between confidence and arrogance.* 自信和傲慢之间有着微妙的区别。 |
-| **记忆技巧** | 联想：注意 **b 不发音**（/ˈsʌtl/），可记忆为 "subtle的b被藏起来了"——正如它的词义"微妙、不明显" |
+**词性**：v. 提倡；拥护　｜　n. 倡导者；拥护者
 
----
+**释义**：提倡，主张；拥护者
 
-### 9. exaggerate
+**例句**：
+- *Many scientists advocate the use of renewable energy to combat climate change.*
+  （许多科学家提倡使用可再生能源来应对气候变化。）
+- *She is a strong advocate for equal education rights.*
+  （她是平等教育权的坚定倡导者。）
 
-> **/ɪɡˈzædʒəreɪt/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | v. |
-| **释义** | 夸大，夸张，言过其实 |
-| **例句** | *Don't **exaggerate** the severity of the situation; it's not that bad.* 不要夸大情况的严重性，没那么糟糕。 |
-| **记忆技巧** | **联想**：ex-（出）+ agger（堆，土堆）+ -ate → 堆得比实际更高 → 夸大。名词形式：**exaggeration**（夸张） |
+**记忆技巧**：
+词根 **"ad-"（向）** + **"voc"（喊叫，词源同"vocal"）** + **"ate"** → 为某事喊叫 → 提倡、拥护
 
 ---
 
-### 10. preliminary
+## 5. diminish
 
-> **/prɪˈlɪmɪneri/**
+**音标**：/dɪˈmɪnɪʃ/
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. / n. |
-| **释义** | adj. 初步的，预备的 / n. 初步行动（或做法），预赛 |
-| **例句** | *The **preliminary** results suggest that the new drug is effective.* 初步结果表明该新药有效。 |
-| **记忆技巧** | **词根**：pre-（前）+ limin（门槛，同 liminal）+ -ary → 在门槛之前的 → 初步的、预备的。同根词：**eliminate**（淘汰） |
+**词性**：v. 减少；缩小；降低
 
----
+**释义**：使变小；减弱，降低
 
-### 11. manipulate
+**例句**：
+- *The pain gradually diminished after taking the medication.*
+  （服药后，疼痛逐渐减轻了。）
+- *Nothing can diminish the mother's love for her children.*
+  （没有什么能削弱母亲对孩子们的爱。）
 
-> **/məˈnɪpjuleɪt/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | v. |
-| **释义** | 操纵，控制；（熟练地）操作；篡改 |
-| **例句** | *The media should not **manipulate** public opinion for political purposes.* 媒体不应为了政治目的操纵公众舆论。 |
-| **记忆技巧** | **词根**：mani（手，同 manual）+ pul（填充/推动）+ -ate → 用手推动和控制 → 操纵。名词：**manipulation**（操纵） |
+**记忆技巧**：
+词根 **"di-"（分开/减）** + **"min"（小，词根同"mini"）** + **"ish"（动词后缀）** → 使变小 → 减少、缩小
 
 ---
 
-### 12. dilemma
+## 6. sophisticated
 
-> **/dɪˈlemə/**
+**音标**：/səˈfɪstɪkeɪtɪd/
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | n. |
-| **释义** | （进退两难的）困境，窘境 |
-| **例句** | *She faced a **dilemma**: to pursue her career abroad or to stay with her family.* 她面临一个两难选择：出国追求事业还是留在家人身边。 |
-| **记忆技巧** | **词源**：来自希腊语 di-（二）+ lemma（前提）→ 两个前提之间 → 进退两难。经典短语：**be in a dilemma**（处于两难境地） |
+**词性**：adj. 精密的；复杂的；老练的；世故的
 
----
+**释义**：复杂而先进的；老于世故的
 
-### 13. deteriorate
+**例句**：
+- *The hospital is equipped with the most sophisticated medical technology.*
+  （这家医院配备了最先进的医疗技术。）
+- *She is too sophisticated to be fooled by such a simple trick.*
+  （她太老练了，不会被这种简单的把戏愚弄。）
 
-> **/dɪˈtɪriəreɪt/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | v. |
-| **释义** | 恶化，变坏，退化 |
-| **例句** | *His health has **deteriorated** rapidly since he started working overtime.* 自从他开始加班以来，健康状况急剧恶化。 |
-| **记忆技巧** | **词根**：de-（向下）+ teri（地，土地）+ -orate → 向下走 → 恶化。同义词：**worsen**、**degrade** |
+**记忆技巧**：
+源自词根 **"soph"（智慧）** + **"istic"（形容词后缀）** + **"ated" → 使有智慧的 → 精致的、复杂的。联想：**sophomore（大二学生）** 同根词
 
 ---
 
-### 14. persistent
+## 7. incentive
 
-> **/pərˈsɪstənt/**
+**音标**：/ɪnˈsentɪv/
 
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 坚持不懈的；持续存在的；反复出现的 |
-| **例句** | *Her **persistent** efforts finally paid off when she was promoted to manager.* 她坚持不懈的努力最终得到了回报——她被提升为经理。 |
-| **记忆技巧** | **词根**：per-（始终）+ sist（站立，同 assist）+ -ent → 始终站着 → 坚持不懈的。同根词：**persist**（v.坚持）、**persistence**（n.坚持） |
+**词性**：n. 激励；动机；刺激因素
 
----
+**释义**：激励物；奖励措施
 
-### 15. reluctant
+**例句**：
+- *The company offers financial incentives to encourage employees to work harder.*
+  （公司提供经济激励来鼓励员工更加努力工作。）
+- *There is little incentive for people to save money when prices keep rising.*
+  （当物价持续上涨时，人们几乎没有存钱的动机。）
 
-> **/rɪˈlʌktənt/**
-
-| 项目 | 内容 |
-|------|------|
-| **词性** | adj. |
-| **释义** | 不情愿的，勉强的 |
-| **例句** | *He was **reluctant** to admit his mistake in front of the whole team.* 他不愿意在全队面前承认自己的错误。 |
-| **记忆技巧** | **词根**：re-（反）+ luct（挣扎，同 struggle）+ -ant → 反着挣扎 → 不情愿的。短语：**be reluctant to do sth.**（不情愿做某事） |
+**记忆技巧**：
+词根 **"in-"（使）** + **"cent"（唱/引，词源同"sing"）** + **"ive"（名词/形容词后缀）** → 引发歌唱/热情的东西 → 激励、动机
 
 ---
 
-## 📝 今日复习小贴士
+## 8. vulnerable
 
-| 记忆策略 | 说明 |
-|----------|------|
-| 🔁 **词根串联** | 将含相同词根的词汇一起记忆，如 *comprehend → comprehension → comprehensive* |
-| 🗣️ **大声朗读** | 每个词至少朗读3遍，注意音标中的重音标记 |
-| ✍️ **造句练习** | 尝试用今天学的单词各造一个与自己生活相关的句子 |
-| 📖 **间隔复习** | 今天学完后，在 **第3天、第7天、第14天** 各复习一次 |
+**音标**：/ˈvʌlnərəbl/
 
-> 💡 **Day 141 关键词回顾**：elaborate · diminish · inevitable · comprehensive · controversial · phenomenon · accumulate · subtle · exaggerate · preliminary · manipulate · dilemma · deteriorate · persistent · reluctant
+**词性**：adj. 易受伤害的；脆弱的；易受攻击的
 
-祝学习顺利！🎯 **坚持就是胜利，距离六级越来越近了！**
+**释义**：易受伤的；易受攻击的
+
+**例句**：
+- *Children are particularly vulnerable to the effects of air pollution.*
+  （儿童特别容易受到空气污染的影响。）
+- *The elderly are more vulnerable during extreme weather conditions.*
+  （在极端天气条件下，老年人更加脆弱。）
+
+**记忆技巧**：
+词根 **"vulner"（伤口，拉丁语 vulnus）** + **"able"（能…的）** → 能被伤害的 → 脆弱的、易受伤害的
+
+---
+
+## 9. encompass
+
+**音标**：/ɪnˈkʌmpəs/
+
+**词性**：v. 包含；包括；围绕
+
+**释义**：包含，涵盖；围绕
+
+**例句**：
+- *The research encompasses a wide range of topics from psychology to economics.*
+  （这项研究涵盖了从心理学到经济学的广泛主题。）
+- *The festival encompasses music, art, food, and cultural performances.*
+  （这个节日包括音乐、艺术、美食和文化表演。）
+
+**记忆技巧**：
+词根 **"en-"（使…在内）** + **"compass"（罗盘/范围）** → 使在范围之内 → 包含、涵盖
+
+---
+
+## 10. deteriorate
+
+**音标**：/dɪˈtɪriəreɪt/
+
+**词性**：v. 恶化；变坏；退化
+
+**释义**：使恶化；退化，变质
+
+**例句**：
+- *His health has deteriorated rapidly since he was diagnosed with cancer.*
+  （自从被诊断出癌症以来，他的健康状况迅速恶化。）
+- *Air quality in some cities has deteriorated over the past decade.*
+  （过去十年间，一些城市的空气质量已经恶化了。）
+
+**记忆技巧**：
+词根 **"de-"（向下）** + **"terior"（= worse，更差）** + **"ate"** → 变得更差 → 恶化。同根词：**exterior（外部）**、**interior（内部）**
+
+---
+
+## 11. scrutiny
+
+**音标**：/ˈskruːtəni/
+
+**词性**：n. 仔细审查；详细检查
+
+**释义**：仔细研究；审视
+
+**例句**：
+- *The report has come under close scrutiny from government officials.*
+  （这份报告受到了政府官员的严格审查。）
+- *Every detail of the financial plan was subjected to intense scrutiny.*
+  （财务计划的每一个细节都受到了严格的审查。）
+
+**记忆技巧**：
+词根 **"scrut"（检查）** + **"iny"（名词后缀）** → 审查。联想：**scrutinize（v. 仔细审查）** 为其动词形式
+
+---
+
+## 12. predominantly
+
+**音标**：/prɪˈdɑːmɪnəntli/
+
+**词性**：adv. 主要地；显著地
+
+**释义**：占优势地；主要地
+
+**例句**：
+- *The audience was predominantly young people in their twenties.*
+  （观众主要是二十多岁的年轻人。）
+- *The region is predominantly agricultural, with farming as the main livelihood.*
+  （该地区以农业为主，耕种是主要生计。）
+
+**记忆技巧**：
+词根 **"pre-"（在前）** + **"domin"（统治，词根同"dominate"）** + **"ant"（形容词后缀）** + **"ly"（副词后缀）** → 占统治地位地 → 主要地
+
+---
+
+## 🔖 今日词汇总览表
+
+| 序号 | 单词 | 词性 | 核心释义 |
+|:---:|:---:|:---:|:---|
+| 1 | elaborate | adj./v. | 精细的；详细阐述 |
+| 2 | implement | v./n. | 实施；工具 |
+| 3 | profound | adj. | 深刻的；深远的 |
+| 4 | advocate | v./n. | 提倡；倡导者 |
+| 5 | diminish | v. | 减少；缩小 |
+| 6 | sophisticated | adj. | 精密的；老练的 |
+| 7 | incentive | n. | 激励；动机 |
+| 8 | vulnerable | adj. | 脆弱的；易受伤害的 |
+| 9 | encompass | v. | 包含；涵盖 |
+| 10 | deteriorate | v. | 恶化；退化 |
+| 11 | scrutiny | n. | 仔细审查 |
+| 12 | predominantly | adv. | 主要地；显著地 |
+
+---
+
+> 💡 **学习建议**：
+> - 🔁 **复习节奏**：今天学习 → 明天复习 → 第3天再次复习 → 第7天巩固
+> - ✍️ **练习方法**：每学完5个词，尝试用它们写一段100词左右的短文
+> - 🎧 **听说结合**：跟读例句，注意重音和语调
+>
+> 📅 **已学习词汇累计**：Day 1 × 12 = **第142天，坚持就是胜利！** 🎯
