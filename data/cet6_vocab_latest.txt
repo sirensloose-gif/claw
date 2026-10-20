@@ -1,259 +1,284 @@
-# 📚 六级词汇每日学习 · 第142天
+# 📚 六级词汇每日学习 — 第143天
 
-> **今日主题：社会热点与学术高频词**
-
----
-
-## 1. elaborate
-
-**音标**：/ɪˈlæbərət/（形容词） ；/ɪˈlæbəreɪt/（动词）
-
-**词性**：adj. 精细的；精心制作的　｜　v. 详细阐述；精心制作
-
-**释义**：详尽而复杂的；详细说明
-
-**例句**：
-- *She made an elaborate plan to surprise her husband with a birthday party.*
-  （她精心策划了一个计划，用生日派对给她丈夫一个惊喜。）
-- *Could you elaborate on your proposal so we can better understand it?*
-  （你能详细阐述一下你的提案吗？这样我们能更好地理解。）
-
-**记忆技巧**：
-词根 **"labor"（劳动）** + **"e-"（使…）** + **"ate"（动词/形容词后缀）** → 需要花费大量劳动去做的 → 精心制作的、详尽的
+> 💪 坚持积累，水滴石穿！今天也来攻克这些高频词汇吧！
 
 ---
 
-## 2. implement
+## 1. **controversy**
 
-**音标**：/ˈɪmplɪment/（动词） ；/ˈɪmplɪmənt/（名词）
+**音标：** /ˈkɑːntrəvɜːrsi/
 
-**词性**：v. 实施；执行　｜　n. 工具；器具
+**词性：** n.
 
-**释义**：使生效；贯彻执行
+**中文释义：** 争论，争议
 
-**例句**：
-- *The government has decided to implement new policies to reduce pollution.*
-  （政府已决定实施新的政策来减少污染。）
-- *The success of the project depends on how well we implement the plan.*
-  （项目的成功取决于我们如何有效地执行计划。）
+**例句：**
+> The new education policy has sparked considerable **controversy** among parents and teachers.
+> 新的教育政策在家长和教师之间引发了相当大的争议。
 
-**记忆技巧**：
-词根 **"imp-"（= in，进入）** + **"ple"（= plen，充满/填充）** + **"ment"（名词后缀）** → 填充进去使之完整 → 实施、执行。联想：**implement = 实施（make something complete）**
+**记忆技巧：**
+> 词根词缀法：**contro-**（相反）+ **vers**（转）+ **-y**（名词后缀）→ 转向相反方向 → 产生争议
 
 ---
 
-## 3. profound
+## 2. **advocate**
 
-**音标**：/prəˈfaʊnd/
+**音标：** /ˈædvəkeɪt/
 
-**词性**：adj. 深刻的；深远的；深奥的
+**词性：** v. / n.
 
-**释义**：影响深远的；深邃的
+**中文释义：** v. 提倡，拥护；n. 倡导者，拥护者
 
-**例句**：
-- *The discovery of penicillin had a profound impact on modern medicine.*
-  （青霉素的发现对现代医学产生了深远的影响。）
-- *He has a profound understanding of Chinese philosophy.*
-  （他对中国哲学有着深刻的理解。）
+**例句：**
+> Many scientists **advocate** stricter regulations on carbon emissions.
+> 许多科学家提倡对碳排放实施更严格的监管。
 
-**记忆技巧**：
-词根 **"pro-"（向前/深）** + **"found"（= fund，底部）** → 深入到底部的 → 深刻的、深远的
+**记忆技巧：**
+> 词根词缀法：**ad-**（向）+ **voc**（喊，叫）+ **-ate** → 向外呼吁 → 提倡、倡导
 
 ---
 
-## 4. advocate
+## 3. **sophisticated**
 
-**音标**：/ˈædvəkeɪt/（动词） ；/ˈædvəkət/（名词）
+**音标：** /səˈfɪstɪkeɪtɪd/
 
-**词性**：v. 提倡；拥护　｜　n. 倡导者；拥护者
+**词性：** adj.
 
-**释义**：提倡，主张；拥护者
+**中文释义：** 复杂精密的；老练的，世故的
 
-**例句**：
-- *Many scientists advocate the use of renewable energy to combat climate change.*
-  （许多科学家提倡使用可再生能源来应对气候变化。）
-- *She is a strong advocate for equal education rights.*
-  （她是平等教育权的坚定倡导者。）
+**例句：**
+> The laboratory is equipped with **sophisticated** instruments for conducting advanced experiments.
+> 实验室配备了精密的仪器以进行高级实验。
 
-**记忆技巧**：
-词根 **"ad-"（向）** + **"voc"（喊叫，词源同"vocal"）** + **"ate"** → 为某事喊叫 → 提倡、拥护
+**记忆技巧：**
+> 联想记忆法：**sophisticate** 来自 **Sophist**（古希腊诡辩家）→ 诡辩家很"老练世故" → sophisticated
 
 ---
 
-## 5. diminish
+## 4. **scrutiny**
 
-**音标**：/dɪˈmɪnɪʃ/
+**音标：** /ˈskruːtəni/
 
-**词性**：v. 减少；缩小；降低
+**词性：** n.
 
-**释义**：使变小；减弱，降低
+**中文释义：** 仔细审查，仔细检查
 
-**例句**：
-- *The pain gradually diminished after taking the medication.*
-  （服药后，疼痛逐渐减轻了。）
-- *Nothing can diminish the mother's love for her children.*
-  （没有什么能削弱母亲对孩子们的爱。）
+**例句：**
+> All financial reports of the company will come under close **scrutiny** by the government regulators.
+> 该公司的所有财务报告都将受到政府监管机构的严格审查。
 
-**记忆技巧**：
-词根 **"di-"（分开/减）** + **"min"（小，词根同"mini"）** + **"ish"（动词后缀）** → 使变小 → 减少、缩小
+**记忆技巧：**
+> 词根词缀法：源自拉丁语 **scrutari**（检查）→ 仔细审视 → scrutiny。同根词：**scrutinize**（v. 仔细检查）
 
 ---
 
-## 6. sophisticated
+## 5. **inherent**
 
-**音标**：/səˈfɪstɪkeɪtɪd/
+**音标：** /ɪnˈhɪrənt/
 
-**词性**：adj. 精密的；复杂的；老练的；世故的
+**词性：** adj.
 
-**释义**：复杂而先进的；老于世故的
+**中文释义：** 固有的，内在的，与生俱来的
 
-**例句**：
-- *The hospital is equipped with the most sophisticated medical technology.*
-  （这家医院配备了最先进的医疗技术。）
-- *She is too sophisticated to be fooled by such a simple trick.*
-  （她太老练了，不会被这种简单的把戏愚弄。）
+**例句：**
+> There are **inherent** risks in every investment, and no strategy can eliminate them entirely.
+> 每项投资都有固有的风险，没有任何策略能完全消除它们。
 
-**记忆技巧**：
-源自词根 **"soph"（智慧）** + **"istic"（形容词后缀）** + **"ated" → 使有智慧的 → 精致的、复杂的。联想：**sophomore（大二学生）** 同根词
+**记忆技巧：**
+> 词根词缀法：**in-**（在内）+ **her**（粘附）+ **-ent**（形容词后缀）→ 粘附在内部的 → 固有的。同根词：**coherent**, **adherent**
 
 ---
 
-## 7. incentive
+## 6. **mitigate**
 
-**音标**：/ɪnˈsentɪv/
+**音标：** /ˈmɪtɪɡeɪt/
 
-**词性**：n. 激励；动机；刺激因素
+**词性：** v.
 
-**释义**：激励物；奖励措施
+**中文释义：** 减轻，缓解（坏事的程度）
 
-**例句**：
-- *The company offers financial incentives to encourage employees to work harder.*
-  （公司提供经济激励来鼓励员工更加努力工作。）
-- *There is little incentive for people to save money when prices keep rising.*
-  （当物价持续上涨时，人们几乎没有存钱的动机。）
+**例句：**
+> The government has taken a series of measures to **mitigate** the impact of climate change.
+> 政府已采取一系列措施来缓解气候变化的影响。
 
-**记忆技巧**：
-词根 **"in-"（使）** + **"cent"（唱/引，词源同"sing"）** + **"ive"（名词/形容词后缀）** → 引发歌唱/热情的东西 → 激励、动机
+**记忆技巧：**
+> 词根词缀法：**mit**（温和）+ **ig** + **-ate** → 使变温和 → 减轻。同根词：**mild**（温和的）
 
 ---
 
-## 8. vulnerable
+## 7. **paradigm**
 
-**音标**：/ˈvʌlnərəbl/
+**音标：** /ˈpærədaɪm/
 
-**词性**：adj. 易受伤害的；脆弱的；易受攻击的
+**词性：** n.
 
-**释义**：易受伤的；易受攻击的
+**中文释义：** 范式，典范，模式
 
-**例句**：
-- *Children are particularly vulnerable to the effects of air pollution.*
-  （儿童特别容易受到空气污染的影响。）
-- *The elderly are more vulnerable during extreme weather conditions.*
-  （在极端天气条件下，老年人更加脆弱。）
+**例句：**
+> Artificial intelligence is creating a new **paradigm** for how we interact with technology.
+> 人工智能正在为我们与技术互动的方式创造一种新的范式。
 
-**记忆技巧**：
-词根 **"vulner"（伤口，拉丁语 vulnus）** + **"able"（能…的）** → 能被伤害的 → 脆弱的、易受伤害的
+**记忆技巧：**
+> 词根词缀法：源自希腊语 **para**（旁边）+ **deiknunai**（展示）→ 放在旁边展示的东西 → 范式、典范
 
 ---
 
-## 9. encompass
+## 8. **resilient**
 
-**音标**：/ɪnˈkʌmpəs/
+**音标：** /rɪˈzɪliənt/
 
-**词性**：v. 包含；包括；围绕
+**词性：** adj.
 
-**释义**：包含，涵盖；围绕
+**中文释义：** 有韧性的，能迅速恢复的；适应力强的
 
-**例句**：
-- *The research encompasses a wide range of topics from psychology to economics.*
-  （这项研究涵盖了从心理学到经济学的广泛主题。）
-- *The festival encompasses music, art, food, and cultural performances.*
-  （这个节日包括音乐、艺术、美食和文化表演。）
+**例句：**
+> Children are remarkably **resilient** and can adapt to difficult circumstances more easily than adults.
+> 孩子们具有显著的恢复力，比成年人更容易适应困难的环境。
 
-**记忆技巧**：
-词根 **"en-"（使…在内）** + **"compass"（罗盘/范围）** → 使在范围之内 → 包含、涵盖
+**记忆技巧：**
+> 词根词缀法：**re-**（回）+ **sil**（跳）+ **-ient** → 跳回来的 → 有弹性的、能恢复的。同根词：**resemble** 中的 **-sil-** 变体
 
 ---
 
-## 10. deteriorate
+## 9. **comprise**
 
-**音标**：/dɪˈtɪriəreɪt/
+**音标：** /kəmˈpraɪz/
 
-**词性**：v. 恶化；变坏；退化
+**词性：** v.
 
-**释义**：使恶化；退化，变质
+**中文释义：** 包含，由……组成
 
-**例句**：
-- *His health has deteriorated rapidly since he was diagnosed with cancer.*
-  （自从被诊断出癌症以来，他的健康状况迅速恶化。）
-- *Air quality in some cities has deteriorated over the past decade.*
-  （过去十年间，一些城市的空气质量已经恶化了。）
+**例句：**
+> The committee **comprises** representatives from twelve different countries.
+> 该委员会由来自12个不同国家的代表组成。
 
-**记忆技巧**：
-词根 **"de-"（向下）** + **"terior"（= worse，更差）** + **"ate"** → 变得更差 → 恶化。同根词：**exterior（外部）**、**interior（内部）**
+**记忆技巧：**
+> 词根词缀法：**com-**（全部）+ **prise**（抓取）→ 全部抓住 → 包含。同源词：**comprehensive**, **apprehend**
 
 ---
 
-## 11. scrutiny
+## 10. **unprecedented**
 
-**音标**：/ˈskruːtəni/
+**音标：** /ʌnˈpresɪdentɪd/
 
-**词性**：n. 仔细审查；详细检查
+**词性：** adj.
 
-**释义**：仔细研究；审视
+**中文释义：** 史无前例的，前所未有的
 
-**例句**：
-- *The report has come under close scrutiny from government officials.*
-  （这份报告受到了政府官员的严格审查。）
-- *Every detail of the financial plan was subjected to intense scrutiny.*
-  （财务计划的每一个细节都受到了严格的审查。）
+**例句：**
+> The pandemic brought **unprecedented** challenges to healthcare systems around the world.
+> 这场疫情给全球医疗系统带来了前所未有的挑战。
 
-**记忆技巧**：
-词根 **"scrut"（检查）** + **"iny"（名词后缀）** → 审查。联想：**scrutinize（v. 仔细审查）** 为其动词形式
+**记忆技巧：**
+> 词根词缀法：**un-**（不）+ **precedented**（有先例的，来自 **precedent** 先例）→ 没有先例的 → 史无前例的
 
 ---
 
-## 12. predominantly
+## 11. **endeavor**
 
-**音标**：/prɪˈdɑːmɪnəntli/
+**音标：** /ɪnˈdevər/
 
-**词性**：adv. 主要地；显著地
+**词性：** n. / v.
 
-**释义**：占优势地；主要地
+**中文释义：** n. 努力，尝试；v. 力图，努力
 
-**例句**：
-- *The audience was predominantly young people in their twenties.*
-  （观众主要是二十多岁的年轻人。）
-- *The region is predominantly agricultural, with farming as the main livelihood.*
-  （该地区以农业为主，耕种是主要生计。）
+**例句：**
+> We should **endeavor** to achieve a balance between economic growth and environmental protection.
+> 我们应当努力在经济增长和环境保护之间取得平衡。
 
-**记忆技巧**：
-词根 **"pre-"（在前）** + **"domin"（统治，词根同"dominate"）** + **"ant"（形容词后缀）** + **"ly"（副词后缀）** → 占统治地位地 → 主要地
+**记忆技巧：**
+> 词根词缀法：**en-**（使）+ **dever**（义务，职责，同 **devoir**）→ 使尽职尽责 → 努力去做
 
 ---
 
-## 🔖 今日词汇总览表
+## 12. **pragmatic**
 
-| 序号 | 单词 | 词性 | 核心释义 |
-|:---:|:---:|:---:|:---|
-| 1 | elaborate | adj./v. | 精细的；详细阐述 |
-| 2 | implement | v./n. | 实施；工具 |
-| 3 | profound | adj. | 深刻的；深远的 |
-| 4 | advocate | v./n. | 提倡；倡导者 |
-| 5 | diminish | v. | 减少；缩小 |
-| 6 | sophisticated | adj. | 精密的；老练的 |
-| 7 | incentive | n. | 激励；动机 |
-| 8 | vulnerable | adj. | 脆弱的；易受伤害的 |
-| 9 | encompass | v. | 包含；涵盖 |
-| 10 | deteriorate | v. | 恶化；退化 |
-| 11 | scrutiny | n. | 仔细审查 |
-| 12 | predominantly | adv. | 主要地；显著地 |
+**音标：** /præɡˈmætɪk/
+
+**词性：** adj.
+
+**中文释义：** 务实的，讲求实际的
+
+**例句：**
+> The manager took a **pragmatic** approach to solving the long-standing dispute.
+> 经理采取了务实的方法来解决这场长期争端。
+
+**记忆技巧：**
+> 词根词缀法：源自希腊语 **pragmat**（事情，实际事务）+ **-ic** → 与实际事务相关的 → 务实的。同根词：**practical**
 
 ---
 
-> 💡 **学习建议**：
-> - 🔁 **复习节奏**：今天学习 → 明天复习 → 第3天再次复习 → 第7天巩固
-> - ✍️ **练习方法**：每学完5个词，尝试用它们写一段100词左右的短文
-> - 🎧 **听说结合**：跟读例句，注意重音和语调
->
-> 📅 **已学习词汇累计**：Day 1 × 12 = **第142天，坚持就是胜利！** 🎯
+## 13. **strenuous**
+
+**音标：** /ˈstrenjuəs/
+
+**词性：** adj.
+
+**中文释义：** 费力的，艰辛的；精力充沛的
+
+**例句：**
+> It took three **strenuous** years of research to complete the groundbreaking project.
+> 这项突破性的研究花费了三年艰苦的努力才完成。
+
+**记忆技巧：**
+> 词根词缀法：源自拉丁语 **strenuus**（精力充沛的）→ 需要付出巨大精力的 → 费力的。同源词：**strength**（力量）
+
+---
+
+## 14. **substantial**
+
+**音标：** /səbˈstænʃl/
+
+**词性：** adj.
+
+**中文释义：** 大量的，可观的；实质性的；坚固的
+
+**例句：**
+> The research team made a **substantial** contribution to the field of genetic engineering.
+> 研究团队对基因工程领域做出了重大贡献。
+
+**记忆技巧：**
+> 词根词缀法：**sub-**（在下）+ **stant**（站立）+ **-ial** → 站在下面做支撑的 → 实质性的、大量的。同根词：**substance**
+
+---
+
+## 15. **eloquent**
+
+**音标：** /ˈeləkwənt/
+
+**词性：** adj.
+
+**中文释义：** 雄辩的，有说服力的；表达力强的
+
+**例句：**
+> The professor gave an **eloquent** speech on the importance of critical thinking in modern education.
+> 教授发表了一篇关于批判性思维在现代教育中重要性的精彩演讲。
+
+**记忆技巧：**
+> 词根词缀法：**e-**（出）+ **loqu**（说话）+ **-ent** → 说出话来的 → 雄辩的。同根词：**locution**, **circumlocution**
+
+---
+
+## 📝 今日词汇小结
+
+| 序号 | 单词 | 词性 | 核心含义 |
+|:---:|------|:---:|------|
+| 1 | controversy | n. | 争论，争议 |
+| 2 | advocate | v./n. | 提倡；倡导者 |
+| 3 | sophisticated | adj. | 精密的；老练的 |
+| 4 | scrutiny | n. | 仔细审查 |
+| 5 | inherent | adj. | 固有的，内在的 |
+| 6 | mitigate | v. | 减轻，缓解 |
+| 7 | paradigm | n. | 范式，典范 |
+| 8 | resilient | adj. | 有韧性的，适应力强的 |
+| 9 | comprise | v. | 包含，由……组成 |
+| 10 | unprecedented | adj. | 史无前例的 |
+| 11 | endeavor | n./v. | 努力，尝试 |
+| 12 | pragmatic | adj. | 务实的 |
+| 13 | strenuous | adj. | 费力的，艰辛的 |
+| 14 | substantial | adj. | 大量的，实质性的 |
+| 15 | eloquent | adj. | 雄辩的，有说服力的 |
+
+---
+
+> 🎯 **学习建议：** 建议每天复习前一天的词汇，利用艾宾浩斯遗忘曲线巩固记忆。试着用今天学的词汇造2-3个句子，加深理解和运用能力！明天见！🌟
